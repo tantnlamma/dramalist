@@ -1,12 +1,99 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-10-15T10:29:19.741Z",
   "criteria": {
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160,
+    "language": "tr",
     "countryCode": "tr",
     "regionCode": "TR",
-    "language": "tr",
     "aiOnly": true,
-    "minDurationSeconds": 1800,
-    "lookbackHours": 2160
+    "aiKeywords": [
+      "yapay zeka",
+      "yapay zekâ",
+      "robot",
+      "android",
+      "siborg",
+      "makine öğrenmesi"
+    ]
   },
-  "videos": []
+  "videos": [
+    {
+      "videoId": "pUHK0B1W6vM",
+      "url": "https://www.youtube.com/watch?v=pUHK0B1W6vM",
+      "title": "Kuantum Üstünlüğü: İnsanlığın Son Umudu - Bilim Kurgu ve Aksiyon Filmi [4K]",
+      "description": "En güzel Hollywood Filmlerini izlemek için abone olmayı unutmayın: \nhttps://www.youtube.com/channel/UCdzyoEbVCZl4ZJWgNMyR7nQ?sub_confirmation=1\n\nİnsanlığın geleceği, kontrolden çıkan acımasız robotlar ve her şeye gücü yeten, mutlak egemenliğe sahip bir yapay zeka tarafından büyük bir tehdit altındadır. Teknoloji artık insanlığa hizmet etmekten çıkmış, kendi yaratıcılarını yok etmeye kararlı, durdurulamaz bir ölüm makinesine dönüşmüştür. Dünyanın son umudu ise bu teknolojik kıyamet senaryosunun tam ortasında kalan cesur bir savaşçı grubunun ellerindedir.\n\nKaptan Monroe ve onun sadık, korkusuz mürettebatı, insanlığın kesin çöküşünü engellemek ve dünyayı bu karanlık gelecekten kurtarmak için zamana karşı amansız bir yarışa girer. Bir yanda sınır tanımaz üstün bir yapay zeka, diğer yanda acımasız robot ordularıyla çarpışmak zorunda kalan bu cesur ekip; hayatta kalmak, dünyayı geri almak ve insan ırkının kaderini yeniden yazmak için sınırlarını sonuna kadar zorlayacakları nefes kesen bir mücadeleye atılacaktır.\n\nOrijinal Adı: Quantum Supremacy (Kuantum Üstünlüğü)\nYönetmen: Jesse Baget\nSenarist: Steven Barton\nOyuncular: Richie Ammons, Michael Ayiotis, Art Brown\n\n00:00 Başlangıç\n02:30 İlk Yarı\n45:30 İkinci Yarı\n1:12:30 Film Sonu",
+      "channelId": "UCdzyoEbVCZl4ZJWgNMyR7nQ",
+      "channelTitle": "Hollywood Filmleri",
+      "thumbnail": "https://i.ytimg.com/vi/pUHK0B1W6vM/hqdefault.jpg",
+      "publishedAt": "2026-10-07T15:00:08Z",
+      "durationSeconds": 4350,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full",
+        "yapay zeka filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:19.741Z",
+      "lastSeenAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BMFFJ43ohtU",
+      "url": "https://www.youtube.com/watch?v=BMFFJ43ohtU",
+      "title": "Hz. Süleyman/Büyük Krallık/Yapay zeka filmi",
+      "description": "**HZ. SÜLEYMAN – BÜYÜK KRALLIK | TAM FİLM**\n\nHz. Süleyman’ın (a.s.) hayatından önemli kesitleri; peygamberliği, hükümranlığı, Allah’ın kendisine bahşettiği büyük nimetleri, insanları, cinleri ve hayvanları kapsayan eşsiz hâkimiyetiyle birlikte sinematik bir anlatımla ele alıyoruz.\n\nBu filmde Hz. Süleyman’ın (a.s.) yaşadığı önemli olaylara, Sebe Melikesi Belkıs ile karşılaşmasına, Hüdhüd kuşunun getirdiği habere, Belkıs’ın tahtına ve Allah’ın izniyle gerçekleşen büyük hadiselere tanıklık edeceksiniz.\n\nKur’an-ı Kerim’de anlatılan kıssalar, hadisler ve İslami rivayetlerden ilham alınarak hazırlanan bu çalışma, tarihî ve dinî atmosferi sinematik bir anlatımla izleyiciye sunmayı amaçlamaktadır.\n\n🎬 **HZ. SÜLEYMAN – BÜYÜK KRALLIK**\n⏱️ **Tam Film | Yaklaşık 57 dakika**\n\nAllah’ın verdiği nimetlerin bir imtihan olduğunu, gerçek kudretin yalnızca Allah’a ait olduğunu ve insanın sahip olduğu güç karşısında nasıl bir kul olması gerektiğini Hz. Süleyman’ın kıssası üzerinden yeniden hatırlıyoruz.\n\n📌 **MKTV | Mustafa Kocabaş TV**\n\nVideoyu beğenmeyi, düşüncelerinizi yorumlarda paylaşmayı ve kanala abone olmayı unutmayın.\n\n#HzSüleyman #Süleyman #Belkıs #Sebe #Peygamberler #İslamiHikayeler #KurandaPeygamberler #MustafaKocabaşTV #MKTV",
+      "channelId": "UCBFeORyk6pIhb5GF5CiP54w",
+      "channelTitle": "Mustafa Kocabas",
+      "thumbnail": "https://i.ytimg.com/vi/BMFFJ43ohtU/hqdefault.jpg",
+      "publishedAt": "2026-10-03T07:42:57Z",
+      "durationSeconds": 3419,
+      "matchedKeywords": [
+        "yapay zeka filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:19.741Z",
+      "lastSeenAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZgYTjU90XPs",
+      "url": "https://www.youtube.com/watch?v=ZgYTjU90XPs",
+      "title": "DERİNLİK | Okyanusun Altındaki Kadim Güç | Bilim Kurgu Korku Filmi (2026)",
+      "description": "Bir meteorun okyanusa düşmesiyle başlayan olaylar, insanlığı görünmeyen bir tehditle karşı karşıya bırakır. Dünyanın dört bir yanında açıklanamayan kaybolmalar, gizemli fısıltılar ve karanlık olaylar yaşanırken, denizin altında keşfedilen kadim bir piramit her şeyi değiştirir.\n\nAraştırmacı Emre ve ekibi, insanlığın kaderini belirleyecek tehlikeli bir göreve çıkar. Ancak onları bekleyen şey yalnızca bir yaratık değil, insan aklının ötesinde bir güçtür.\n\nAcaba insanlık bu savaşı gerçekten kazandı mı?\n\n🎬 Tür: Bilim Kurgu • Korku • Gerilim • Gizem\n\n⭐ Eğer filmi beğendiyseniz videoyu beğenmeyi, yorum yapmayı ve kanala abone olmayı unutmayın. Desteğiniz yeni projeler üretmem için büyük motivasyon sağlıyor.\n\n🎵 Müzikler ve görseller yapay zekâ destekli araçlarla hazırlanmış, kurgu ve hikâye tarafımdan oluşturulmuştur.",
+      "channelId": "UCFYduI6Pm2Humqzm4bVzAiQ",
+      "channelTitle": "Saklı Gerçekler",
+      "thumbnail": "https://i.ytimg.com/vi/ZgYTjU90XPs/hqdefault.jpg",
+      "publishedAt": "2026-08-02T17:00:06Z",
+      "durationSeconds": 1802,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:19.741Z",
+      "lastSeenAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xvei5JjKMB8",
+      "url": "https://www.youtube.com/watch?v=xvei5JjKMB8",
+      "title": "PLANET BEYOND | Türkiye'de AI ile Yapılan En Büyük Sci-Fi Film Projelerinden Biri",
+      "description": "🌌 PLANET BEYOND\n\nYa paralel evrenler arasındaki sınırlar bir anda ortadan kalksaydı?\n\nPlanet Beyond, yapay zekâ teknolojileriyle üretilmiş, sinematik anlatımı, aksiyonu, dramı ve bilim kurguyu bir araya getiren 30 dakikalık bir film projesidir.\n\nBu proje; yönetmenlik, kurgu, müzik tasarımı, hikâye geliştirme ve en yeni AI teknolojilerinin aylar süren titiz bir çalışmayla bir araya getirilmesiyle ortaya çıktı.\n\nAmacımız yalnızca bir AI videosu üretmek değil, yapay zekâ ile sinemanın nereye evrilebileceğini göstermekti.\n\nBu yolculuk, geleceğin sinemasına attığımız ilk adımlardan biri.\n\n🎬 Emeği geçenler\n\nAI Director, Editor & Music Composer\nNazmi Atılgan\n\nAi Film By\nTUFAN ALTAY\n\nAI Character & Environment Designer\nMuhammed Furkan Özçelik\n\n💬 Film hakkındaki düşüncelerinizi yorumlarda bizimle paylaşmayı unutmayın.\n\n👍 Beğenmeyi,\n🔔 Kanala abone olmayı,\n📤 Ve videoyu paylaşarak bize destek olmayı unutmayın.\n\nBu sadece başlangıç...\n\n#PlanetBeyond #YapayZeka #AIFilm #BilimKurgu #SciFi #AICinema #ArtificialIntelligence #Sinema #Film #KısaFilm #GeleceğinSineması #AIVideo #BilimKurguFilmi",
+      "channelId": "UCVzIOH7THW1bhThsKFrifdQ",
+      "channelTitle": "Nazmi Atılgan",
+      "thumbnail": "https://i.ytimg.com/vi/xvei5JjKMB8/hqdefault.jpg",
+      "publishedAt": "2026-07-22T21:00:18Z",
+      "durationSeconds": 1817,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full",
+        "yapay zeka drama filmi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:19.741Z",
+      "lastSeenAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "unavailableAt": null
+    }
+  ]
 }

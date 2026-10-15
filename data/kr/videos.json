@@ -1,12 +1,663 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-10-15T10:29:02.264Z",
   "criteria": {
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160,
+    "language": "ko",
     "countryCode": "kr",
     "regionCode": "KR",
-    "language": "ko",
     "aiOnly": true,
-    "minDurationSeconds": 1800,
-    "lookbackHours": 2160
+    "aiKeywords": [
+      "ai",
+      "인공지능",
+      "로봇",
+      "안드로이드",
+      "사이보그",
+      "머신러닝"
+    ]
   },
-  "videos": []
+  "videos": [
+    {
+      "videoId": "1BX6_gOEp5w",
+      "url": "https://www.youtube.com/watch?v=1BX6_gOEp5w",
+      "title": "[특강 풀버전] Flow AI 완전정복! AI 에이전트로 만드는 고품질 영상 콘텐츠의 모든 것(26.09.11) (ft. 유양석 감독)",
+      "description": "🎬 [VEO3 AI 영화제작 마스터 클래스 6기 수강신청 바로가기]\n👉 https://edu.global.ac.kr/lecture/view.asp?lec_num=1793&menu_num=2&step1_num=190&cate1_code=&cate2_code=\n\n\"상상하는 모든 이야기가 현실이 되는 AI 영상 제작의 신세계!\" 🎥\n\n글로벌사이버대학교 평생교육원이 준비한 9월 실전 AI 특강!\n세계 유수 AI 영화제를 휩쓴 유양석 감독과 함께한\n【Flow AI 완전정복! 에이전트와 도구 앱으로 만드는 AI 영상 콘텐츠】 녹화 풀버전입니다.\n\n차세대 영상 제작 툴 'Flow AI'와 똑똑한 'AI 에이전트'를 활용해\n나만의 캐릭터 디자인, 감정을 담은 맞춤 보이스, \n그리고 구글 지도를 결합한 생생한 글로벌 랜드마크 배경 영상까지 원스톱으로 완성!\n스케치부터 스토리보드, 최종 영상 제작까지 1인 AI 크리에이터로 도약하는 \n프로 감독의 핵심 실전 노하우를 지금 바로 확인해 보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 글로벌사이버대학교 평생교육원 AI영화제작마스터 양성 과정 강사\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Award Winner\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스 6기」\n• 개강일시 : 2026년 10월 8일(목) 개강 (실시간 ZOOM)\n• 특전 : 국내 최초 'AI영화제작전문가' 자격증 발급 연계 및 영화제 출품 코칭\n👉 정규과정 상세 안내 및 수강신청 :\nhttps://edu.global.ac.kr/lecture/view.asp?lec_num=1793&menu_num=2&step1_num=190&cate1_code=&cate2_code=\n───────────────────────────────\n\n건강하고 행복하게 선한 영향력을 키우는 평생학습의 장,\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#FlowAI #AI영상제작 #AI에이전트 #유양석감독 #글로벌사이버대학교평생교육원 #AI영화 #VEO3 #생성형AI #직장인자기계발 #크리에이터",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/1BX6_gOEp5w/hqdefault.jpg",
+      "publishedAt": "2026-10-14T09:23:51Z",
+      "durationSeconds": 7197,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9qbHeOgsS6M",
+      "url": "https://www.youtube.com/watch?v=9qbHeOgsS6M",
+      "title": "[취호권 시즌2(4~7화) 몰아보기] 취한 호랑이, 세상 밖으로! 시즌2(4~7화) 완결 #액션드라마 #AI드라마 #취권",
+      "description": "주막을 떠난 홍매의 본격적인 모험이 시작된다.\n술과 고기를 찾아 걷는 길, 낯선 만남과 뜻밖의 사건이 끊이질 않는다.\n\n길을 막아선 산적 삼인방을 만나고,\n씨름판에서는 힘깨나 쓴다는 사내와 상금을 건 한판 승부를 벌인다.\n\n하지만 호탕한 홍매에게도 잊을 수 없는 은혜가 있다.\n뱀에 물려 위기에 처한 자신에게서 독을 빼내 목숨을 구해준 옥순.\n이번에는 홍매가 곤경에 빠진 옥순을 위해 나선다.\n갚아야 할 목숨 빚 하나가 홍매를 기생집으로 이끄는데....\n\n그리고 눈을 뜬 곳은 낯선 사찰, 무심사.\n목숨을 구해준 큰스님은 어째 자비보다 뒤끝이 깊고,\n술과 고기를 찾아 나서려니 십이철권이 앞을 막는다.\n\n“어째 죄다 풀떼기냐... 고기는 다 성불했어?”\n“이것들은 중이야... 깡패야....”\n\n먹을 것 앞에서는 솔직하고, 받은 은혜는 그냥 넘기지 않는 홍매.\n웃음과 의리, 박진감 넘치는 승부가 함께하는 조선 무협 모험을 한 편으로 만나보세요.\n\n🍶 《취호권》 시즌2 — 4~7화 몰아보기\n[00:00:00] 4화 · 주막을 떠난 홍매, 산적 삼인방과의 만남\n[00:08:35] 5화 · 씨름판을 뒤집은 홍매의 한판 승부\n[00:16:52] 6화 · 옥순에게 진 목숨 빚, 은혜를 갚으러 나선 홍매\n[00:27:21] 7화 · 고기 없는 절에 갇힌 홍매, 무심사 십이철권과 철권대전\n\n홍매의 다음 이야기도 ‘본거 또 보고’에서 이어집니다.\n\n본 영상은 《취호권》 4~7화를 한 편으로 모은 시즌2 몰아보기입니다.\nAI 기술을 활용해 제작한 창작 드라마이며, 등장인물과 사건은 허구입니다.\n실제 인물·단체·사건과 관련이 없습니다.\n본 영상에 사용된 음원은 모두 직접 제작한 창작 음원입니다.\n\n시청해주셔서 감사합니다. 구독과 좋아요는 다음 이야기 제작에 큰 힘이 됩니다!\n\n#취호권 #몰아보기 #취권 #무협 #액션드라마 #AI드라마 #사극 #무협코미디",
+      "channelId": "UCFH01qwY5XnVH-gQA6UJzWQ",
+      "channelTitle": "본거 또 보고",
+      "thumbnail": "https://i.ytimg.com/vi/9qbHeOgsS6M/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:30:00Z",
+      "durationSeconds": 2265,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "e-HBI1F69mk",
+      "url": "https://www.youtube.com/watch?v=e-HBI1F69mk",
+      "title": "[Full] 괴물 대공의 신부 전편 몰아보기 | The Monster Duke’s Bride | 본편+외전 DIRECTOR’S CUT",
+      "description": "가문의 빚 때문에\n‘괴물’이라 불리는 북부대공 카시안의 신부가 된 에블린.\n\n선택할 수 없었던 결혼에서 시작해\n서로의 상처를 이해하고, 마침내 다시 서로를 선택하기까지.\n\n서로 다른 두 사람이 만나\n조금씩 서로의 구원이 되어가는 이야기.\n\nAI 시네마틱 로맨스 판타지\n〈괴물 대공의 신부〉\n🎬 EP.1–6 + 외전 / DIRECTOR’S CUT\n\n\n[TIMELINE]\n00:00 EP.1 괴물이라 불린 북부대공에게 팔려왔습니다\n04:39 [미공개 SCENE] 카시안이 에블린과의 혼인을 받아들인 진짜 이유\n05:11 EP.2 괴물이라 믿었던 남편의 진짜 모습을 봐버렸다\n09:32 [미공개 SCENE] 이미 에블린이 신경 쓰이기 시작한 카시안\n12:15 EP.3 모두를 지키는 북부대공의 곁에, 이번엔 내가 남기로 했다\n17:59 EP.4 괴물이라 불리던 남편이 작정하고 꾸미면 생기는 일\n27:25 [미공개 SCENE] 에블린 생각에 집중 못 하는 카시안\n27:40 EP.5 아내가 사라진 순간, 북부대공은 처음으로 이성을 잃었다\n33:56 [미공개 SCENE] 둘만의 대공성 귀환길\n34:29 EP.6 괴물 대공과 두 번 결혼했습니다\n42:08 외전1 겨울이 지나면\n46:53 외전2 가족이 된다는 것\n\n\n\n#괴물대공의신부 #로맨스판타지 #로판 #AI드라마 #AI영화 #북부대공 #몰아보기 #완결",
+      "channelId": "UCAPTMxe3CziAMgDhb_GfCKg",
+      "channelTitle": "에딧룸 Editroom",
+      "thumbnail": "https://i.ytimg.com/vi/e-HBI1F69mk/hqdefault.jpg",
+      "publishedAt": "2026-10-10T01:00:26Z",
+      "durationSeconds": 3135,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jg9b7whbgOs",
+      "url": "https://www.youtube.com/watch?v=jg9b7whbgOs",
+      "title": "AI드라마 - 차원을 달리는 소녀 - EP.09 역습 (프리퀄)",
+      "description": "🎬 차원을 달리는 소녀 시리즈\nEP.1 | 등교편ㅡhttps://youtu.be/roYJ3JfnUfY\nEP.2 | 심부름편 https://youtu.be/XNvR4cMivA4\nEP.3 | 중간고사편ㅡhttps://youtu.be/c_nyIPWXnVU \nEP.4 | 조선 여미새편ㅡhttps://youtu.be/1uVjLG-R3Gg?si=KgMAvtsnAqkzAA8e \nEP.5 | 다른 차원의 손님 편 - https://youtu.be/PKZrHg0NDTA?si=EWmXbYUVhVaXEoGb\nEP.6 | 협동 공격 편ㅡ https://youtu.be/q2WGRLfuoB8?si=_rlO3BzU0A5czG7B\nEP.7 | 조선 협객 편 － https://youtu.be/QKYhceY-h1I?si=JEocDXED50HHux8c\nEP.8 | 차원의 균열 이탈리아 편－ https://youtu.be/lNbXqDuYlA0",
+      "channelId": "UCrkEan5aPsUoN1v_wbz5wlg",
+      "channelTitle": "Kidultchar AI Studio | 키덜트샤아",
+      "thumbnail": "https://i.ytimg.com/vi/jg9b7whbgOs/hqdefault.jpg",
+      "publishedAt": "2026-10-09T04:05:08Z",
+      "durationSeconds": 2106,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xxqYXAZUc10",
+      "url": "https://www.youtube.com/watch?v=xxqYXAZUc10",
+      "title": "2170년 기묘한 이야기 EP1~5 몰아보기 |AI드라마 | 웹드라마 | 부산여행 | SF#ai드라마몰아보기",
+      "description": "2170년 기묘한 이야기 EP1~5 몰아보기 |AI드라마 | 웹드라마 | 부산여행 | SF\n#부산여행#부산맛집#ai드라마#ai드라마몰아보기",
+      "channelId": "UCrke8DPQo9LJjZTmIiFFdpw",
+      "channelTitle": "mo•on",
+      "thumbnail": "https://i.ytimg.com/vi/xxqYXAZUc10/hqdefault.jpg",
+      "publishedAt": "2026-10-08T15:34:44Z",
+      "durationSeconds": 2778,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "YFtlo9RgU9M",
+      "url": "https://www.youtube.com/watch?v=YFtlo9RgU9M",
+      "title": "콜제로 시즌1 한방에 보기! | 1–8화 몰아보기",
+      "description": "지워진 명령, 동료의 배신, 그리고 감춰진 진실.\n끝까지 살아남아 진실을 쫓는 한서율의 이야기.\n〈콜제로〉 시즌1 전편을 한 번에 만나보세요.\n\n본 작품은 허구의 인물과 이야기를 바탕으로 제작한 AI 창작 드라마입니다. 기획·시나리오·캐릭터 설정·연출·편집을 직접 진행하며, AI 영상 생성 기술을 제작 도구로 활용했습니다.\n\n#콜제로 #CallZero #몰아보기 #AI드라마 #액션드라마 #시즌1 #AI영화 #오늘도살아갑니다",
+      "channelId": "UCjG9Ci2Ak7oJooEMV-HFGlA",
+      "channelTitle": "오늘도, 살아갑니다",
+      "thumbnail": "https://i.ytimg.com/vi/YFtlo9RgU9M/hqdefault.jpg",
+      "publishedAt": "2026-10-08T08:50:09Z",
+      "durationSeconds": 1829,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "goXjnRwWaDU",
+      "url": "https://www.youtube.com/watch?v=goXjnRwWaDU",
+      "title": "【BL】 Multi-Sub | 황제가 사랑한 신하, 끝내 공개 고백했다 |  파트 1 | AI BL",
+      "description": "너와 나, 두 사람의 특별한 이야기. 💙\n설렘 가득한 BL 로맨스를 만나보세요. 🎬✨\n#BL #비엘 #BL드라마 #BL로맨스 #로맨스 #사랑이야기 #드라마 #추천드라마 #너와나의이야기",
+      "channelId": "UCVvK_YdGtY3eA5hX985MH8w",
+      "channelTitle": "너와 나의 이야기",
+      "thumbnail": "https://i.ytimg.com/vi/goXjnRwWaDU/hqdefault.jpg",
+      "publishedAt": "2026-10-06T13:00:09Z",
+      "durationSeconds": 3000,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sFw17ZPE42A",
+      "url": "https://www.youtube.com/watch?v=sFw17ZPE42A",
+      "title": "그들을 두고 돌아갈 수 없다 | 낙하 707 시즌 2 몰아보기",
+      "description": "동료를 찾으러 왔다. 그런데 돌아온 동료들이 나를 공격한다.\n검은 종소리가 이끄는 조선의 어둠, 그리고 사라진 707 대원들. 〈낙하 707: 리부트〉 시즌2 전편을 한 편의 영화로 감상하세요.\n\nShe came to save her soldiers. Now they are attacking her. Watch the complete second season of FALL 707: REBOOT.\n\n▶ 이전 이야기 / Watch Season 1 Full Movie\nhttps://youtu.be/4f6Zguf7c2M\n\n오리지널 AI 밀리터리 판타지 드라마 | DRA9ON CINEMA\n\n━━━━━━━━━━━━━━━━━━━━\n\nModern special forces. Joseon-era darkness.\nThe soldiers she came to save have become her enemies.\n\nStranded in Joseon, Captain Min Seo-a follows the toll of a black bell to Mokpojin. The trail leads her to her missing 707 comrades — but they are no longer the soldiers she remembers.\n\nWith Yeon-hwa, Prince Yi-seo, and Yuna, she fights to bring them back. A shaman’s buried past, the power in Yeon-hwa’s blood, and the secret behind the evil spirits come to light.\n\nCan she bring everyone home?\n\nSeason 2, complete in one cut. Episodes 1–6.\n\n━━━━━━━━━━━━━━━━━━━━\n\n현대 특수전 vs 조선의 어둠.\n구하러 온 대원들이 적이 되었다.\n\n조선에 남은 민서아 대위는 검은 종소리 뒤 사람들이 사라진다는 소문을 따라 목포진으로 향한다. 마침내 사라진 707 대원들과 마주하지만, 그들은 더 이상 자신이 알던 동료들이 아니다.\n\n연화, 왕자 이서, 유나와 함께 대원들을 되찾으려는 싸움 속에서 무당이 감춘 과거, 연화의 피에 담긴 힘, 악귀의 비밀이 드러난다.\n\n모두를 데리고 돌아갈 수 있을까?\n\n시즌2 1–6화 전편 통합본입니다.\n\n━━━━━━━━━━━━━━━━━━━━\n\nCHAPTERS\n00:00 오프닝 · 목포진의 밤 / Opening & EP.1–2\n19:25 동료를 찾아서 / Episode 3\n28:56 무당의 과거와 왕자의 선택 / Episode 4\n39:56 돌아갈 길을 찾아서 / Episode 5\n50:11 구출, 그리고 남겨진 사람 / Episode 6\n\n━━━━━━━━━━━━━━━━━━━━\n\nGenre · Military Fantasy Thriller\nProduction · Fully AI-generated, one-person pipeline\n\n▶ Season 1 Full Movie: https://youtu.be/4f6Zguf7c2M\n\n자막: 한국어 · English · 日本語 · 繁體中文 · Español (Latinoamérica) · Bahasa Indonesia · Tiếng Việt\n영상에는 영어 자막이 포함되어 있습니다. 다른 언어는 CC 설정에서 선택해 주세요.\nEnglish subtitles are embedded. Select another language in the CC settings.\n\n※ AI-generated fiction. Not based on real persons, institutions, or events.\n※ AI로 제작된 픽션입니다. 실제 인물·기관·사건과 무관합니다.\n\n#AI영화 #AI드라마 #타임슬립 #조선 #사극판타지 #좀비 #AIfilm #AIfilmmaking #KoreanDrama #ZombieHorror #FALL707",
+      "channelId": "UCEZSQzQw7lIy2DBbojztyqg",
+      "channelTitle": "DRA9ON CINEMA(드래곤시네마)",
+      "thumbnail": "https://i.ytimg.com/vi/sFw17ZPE42A/hqdefault.jpg",
+      "publishedAt": "2026-10-06T09:00:20Z",
+      "durationSeconds": 3977,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5MrdZrJ077Q",
+      "url": "https://www.youtube.com/watch?v=5MrdZrJ077Q",
+      "title": "[AI 풀버전] \"또 나라를 망치려느냐\" 150년 만에 환생한 조선 공주의 경고[AIPrincess The Joseon Royal's Warning Full AI Movie",
+      "description": "[AI Movie] 미래로 간 공주: 150년 만의 경고 | Princess to the Future: The Warning\n[AI Cinema] 2026년에 깨어난 조선 공주 | Reborn Princess in Modern Seoul\n[AI 영화] 미래로간공주 — 도심에 나타난 히어로 | Princess in the Future: Hero Awakens\n\n🚨 \"150년 전처럼 또 나라를 망치려느냐!\"\n🚨 \"Will you destroy the nation once again after 150 years?!\"\n\n[KOR]\n조선 궁궐에 붉은 달이 뜬 밤, 어머니의 비녀 속에 봉인된 신비한 기운...\n150년의 시공간을 넘어 2026년 차가운 미래 도심 속에서 눈을 뜬 조선의 '경이 공주'.\n\n원인 불명의 집단 감염과 폭주하는 괴물들, \n그리고 그 뒤에 숨겨진 거대한 음모에 맞서기 위해 공주와 수호자들이 일어선다!\n\n🎬 100% AI 기술로 구현된 K-SF 판타지 액션 대작 《미래로 간 공주》 정식 개봉!\n\n------------------------------------------------------------\n\n[ENG]\nOn a night under a blood moon in the Joseon Palace, a legendary power was sealed inside a royal hairpin...\n150 years later, Princess Gyeong-i awakens in the cold, dystopian city of 2026.\n\nAs an unknown outbreak turns citizens into raging monsters, \nthe Princess and her guardians rise up to crush the evil conspiracy behind it all!\n\n🎬 Experience the groundbreaking K-Sci-Fi Fantasy Action Film created entirely with 100% AI technology!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ [TIMESTAMPS / 주요 장면]\n00:00 오프닝 — 붉은 달과 비녀의 봉인 (The Crimson Moon & The Sealed Hairpin)\n03:15 2026년 서울 — 도심 속 각성 (Awakening in Modern Seoul)\n08:40 정체불명의 폭주 — 괴물들의 습격 (The Outbreak Begins)\n15:20 공주의 경고 — \"또 나라를 망치려느냐\" (\"Will You Destroy the Nation Again?\")\n22:10 수호자들의 반격 (Guardians Strike Back)\n30:00 클라이맥스 — 최후의 혈투 (The Ultimate Showdown)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🎬 [작품 정보 / Movie Info]\n• 작품명 (Title): 미래로 간 공주 (Princess in the Future / Princess to the Future)\n• 장르 (Genre): SF 판타지 액션 / K-드라마 (Sci-Fi / Action / K-Fantasy)\n• 제작 (Produced by): K-이매진 AI (K-Imagine AI)\n\n🔔 [구독]과 [좋아요], [알림 설정]은 더 멋진 AI 영화 제작에 큰 힘이 됩니다!\n🔔 Subscribe and hit the notification bell for more cinematic AI films!\n\n💬 소중한 관람 후기와 댓글을 남겨주세요! / Leave your thoughts in the comments below!\n\n#미래로간공주 #AI영화 #KSF영화 #조선공주 #타임슬립 #AICinema #PrincessToTheFuture #KoreanDrama #AIMovie",
+      "channelId": "UCt-Z8vSWs7vmHWmrP0tTaww",
+      "channelTitle": "K-이매진 AI (K-Imagine AI)",
+      "thumbnail": "https://i.ytimg.com/vi/5MrdZrJ077Q/hqdefault.jpg",
+      "publishedAt": "2026-09-24T11:30:20Z",
+      "durationSeconds": 4388,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5lUKH8tDN7w",
+      "url": "https://www.youtube.com/watch?v=5lUKH8tDN7w",
+      "title": "추석특집 착한 일진 여고생, 눈 떠보니 북부대공의 신부였다  AI 웹드라마 1~9화 모음집",
+      "description": "추석 특집 1~9화 모음집입니다.\n\nAI 기술을 활용해 제작한 실사형 판타지 웹드라마입니다.\n재미있게 보셨다면 구독과 좋아요 부탁드립니다.\n\n#북부대공 #일진 #웹드라마 #AI드라마 #AI웹드라마 #로맨스판타지 #판타지드라마 #한국드라마 #드라마 #숏드라마 #AI영상 #AI콘텐츠 #시네마틱 #KDrama #WebDrama",
+      "channelId": "UCLl8F5njzENSUHGUGYIljPA",
+      "channelTitle": "Mirrorline Studio",
+      "thumbnail": "https://i.ytimg.com/vi/5lUKH8tDN7w/hqdefault.jpg",
+      "publishedAt": "2026-09-22T11:17:54Z",
+      "durationSeconds": 2951,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JUt2Os4xQf4",
+      "url": "https://www.youtube.com/watch?v=JUt2Os4xQf4",
+      "title": "THE WIFE HE THREW AWAY/FULL NOLLYWOOD AI MOVIE.",
+      "description": "For seven years, a hardworking woman carried her unemployed husband and their entire household-only to be repaid with betrayal, gambling and humiliation. When he finally threw her out, he believed she would come begging to return. But months later, one unexpected delivery introduced her to a kindhearted widower and changed her life forever.                                                                                                              This story explores love, sacrifice, betrayal, second chances and the courage to walkaway.",
+      "channelId": "UCxKXlRA76apP7KBDxaF4jVA",
+      "channelTitle": "Precie's Tales",
+      "thumbnail": "https://i.ytimg.com/vi/JUt2Os4xQf4/hqdefault.jpg",
+      "publishedAt": "2026-09-12T17:00:36Z",
+      "durationSeconds": 4644,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xTQxotOlk50",
+      "url": "https://www.youtube.com/watch?v=xTQxotOlk50",
+      "title": "[풀버전] \"이 모든 충격적 사건 뒤에 숨겨진 진실은?\" [AI 드라마]",
+      "description": "[설계해드리겠습니다] 낌새 채널 소개\n인간의 욕망과 사연, 그리고 그 뒤에 감춰진 진실을 추적하는 AI 스토리텔링 드라마입니다.\n\n👍 '구독'과 '좋아요', '알림 설정'은 다음 시즌 제작에 큰 힘이 됩니다!\n💬 가장 기억에 남는 에피소드나 장면에 대해 댓글로 의견을 남겨주세요!",
+      "channelId": "UCNVDuYKyvgtlwCGFxnlPSJA",
+      "channelTitle": "낌새",
+      "thumbnail": "https://i.ytimg.com/vi/xTQxotOlk50/hqdefault.jpg",
+      "publishedAt": "2026-09-11T09:11:17Z",
+      "durationSeconds": 5231,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DB7yLeCghGM",
+      "url": "https://www.youtube.com/watch?v=DB7yLeCghGM",
+      "title": "[특강 풀버전] 누구나 감독이 되는 시대, 유양석 감독의 AI영화만들기 특강 2/2(26.06.17) | 강사 : 유양석 감독",
+      "description": "\"ChatGPT로 쓴 시나리오, 어떻게 진짜 영화 영상으로 만들까요?\" 🎬\n\n글로벌사이버대학교 평생교육원이 준비한 고품격 실전 AI 특강!\n세계 유수 AI 영화제를 휩쓴 유양석 감독과 함께한 \n[유양석 감독의 AI 영화 만들기 특강 : ChatGPT 시나리오부터 드리미나AI 영상 생성까지] 녹화 풀버전입니다.\n\n시나리오 작성부터 캐릭터 시트 제작, 정교한 키프레임 이미지 생성,\n그리고 드리미나AI의 멀티 프롬프트를 활용한 고품질 영상화까지!\n2시간 만에 한눈에 끝내는 AI 영화 제작의 핵심 풀코스를 지금 바로 확인해 보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 글로벌사이버대학교 평생교육원 AI영화제작마스터 양성\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국 AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Award Winner\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스」\n기초 실습을 넘어 국제 영화제 출품과 나만의 포트폴리오 완성까지 도전하세요!\n👉 정규과정 상세 안내 및 수강신청 : https://edu.global.ac.kr/\n───────────────────────────────\n\n배움이 변화가 되고, 상상이 현실이 되는 곳!\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#AI영화 #ChatGPT #드리미나AI #Dreamina #키프레임 #AI영상제작 #유양석감독 #글로벌사이버대학교평생교육원 #생성형AI #VEO3",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/DB7yLeCghGM/hqdefault.jpg",
+      "publishedAt": "2026-09-09T06:04:29Z",
+      "durationSeconds": 5232,
+      "matchedKeywords": [
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JgLCXqB3hso",
+      "url": "https://www.youtube.com/watch?v=JgLCXqB3hso",
+      "title": "[특강 풀버전] 누구나 감독이 되는 시대, 유양석 감독의 AI영화만들기 특강 1/2(26.06.17) | 강사 : 유양석 감독",
+      "description": "\"ChatGPT로 쓴 시나리오, 어떻게 진짜 영화 영상으로 만들까요?\" 🎬\n\n글로벌사이버대학교 평생교육원이 준비한 고품격 실전 AI 특강!\n세계 유수 AI 영화제를 휩쓴 유양석 감독과 함께한 \n[유양석 감독의 AI 영화 만들기 특강 : ChatGPT 시나리오부터 드리미나AI 영상 생성까지] 녹화 풀버전입니다.\n\n시나리오 작성부터 캐릭터 시트 제작, 정교한 키프레임 이미지 생성,\n그리고 드리미나AI의 멀티 프롬프트를 활용한 고품질 영상화까지!\n2시간 만에 한눈에 끝내는 AI 영화 제작의 핵심 풀코스를 지금 바로 확인해 보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 글로벌사이버대학교 평생교육원 AI영화제작마스터 양성\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국 AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Award Winner\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스」\n기초 실습을 넘어 국제 영화제 출품과 나만의 포트폴리오 완성까지 도전하세요!\n👉 정규과정 상세 안내 및 수강신청 : https://edu.global.ac.kr/\n───────────────────────────────\n\n배움이 변화가 되고, 상상이 현실이 되는 곳!\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#AI영화 #ChatGPT #드리미나AI #Dreamina #키프레임 #AI영상제작 #유양석감독 #글로벌사이버대학교평생교육원 #생성형AI #VEO3",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/JgLCXqB3hso/hqdefault.jpg",
+      "publishedAt": "2026-09-09T05:52:41Z",
+      "durationSeconds": 2607,
+      "matchedKeywords": [
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "EAxsPrjvDFU",
+      "url": "https://www.youtube.com/watch?v=EAxsPrjvDFU",
+      "title": "[특강 풀버전] 세계 AI영화제 수상 감독에게 배우는 AI영화제작비법 : 동일 캐릭터 생성부터 영상제작까지(26.04.09) | 강사 : 유양석 감독",
+      "description": "\"AI로 영상을 만들 때마다 주인공 얼굴이 바뀌어 고민이셨나요?\" 🎬\n\nAI 영화 제작의 최대 난제, '캐릭터 일관성'을 완벽하게 해결하는 실전 워크플로우!\n글로벌사이버대학교 평생교육원이 주최하고, 세계 유수 AI 영화제를 휩쓴 유양석 감독이 전하는 [세계 AI 영화제 수상 감독에게 배우는 AI 영화 제작 비법 : 동일 캐릭터 생성부터 영상 제작까지] 녹화 풀버전입니다.\n\nGEMINI 챗봇을 활용한 캐릭터 시트와 스토리보드 기획,\nFLOW AI 컬렉션과 캐릭터 소환 노하우,\nNANOBANANA2 기반의 동일 캐릭터 이미지 생성,\n그리고 스토리보드 기반 VEO3 영상화 실습까지!\n한 편의 영화를 일관성 있게 완성하는 프로 감독의 제작 비밀을 지금 바로 확인해 보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 글로벌사이버대학교 평생교육원 AI영화제작마스터 양성\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Award Winner\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스」\n기초를 넘어 나만의 완성작으로 국내외 AI 영화제 출품까지 도전하세요!\n👉 정규과정 상세 안내 및 수강신청 : https://edu.global.ac.kr/\n───────────────────────────────\n\n배움이 변화가 되고, 상상이 현실이 되는 곳!\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#AI영화 #동일캐릭터생성 #캐릭터일관성 #GEMINI #FLOWAI #NANOBANANA2 #VEO3 #유양석감독 #글로벌사이버대학교평생교육원 #AI영상제작",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/EAxsPrjvDFU/hqdefault.jpg",
+      "publishedAt": "2026-09-09T05:39:29Z",
+      "durationSeconds": 5866,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ra3Ynlq8ZIU",
+      "url": "https://www.youtube.com/watch?v=ra3Ynlq8ZIU",
+      "title": "[특강 풀버전] 누구나 감독이 되는 시대, AI영화 제작 특강 | 「할리우드를 내 손안에」 바이브 코딩으로 AI영화 자동화 워크 플로우(26.02.11) | 강사 : 유양석 감독",
+      "description": "\"상상만 하던 내 영화, 할리우드급 퀄리티로 완성할 수 있을까?\" 🎬\n\n글로벌사이버대학교 평생교육원이 선보이는 실전 AI 킬러 특강!\n국내외 유수 AI 영화제를 휩쓴 유양석 감독과 함께하는 \n[할리우드를 내 손안에 : 바이브 코딩으로 AI영화 자동화 워크플로우] 녹화 풀버전입니다.\n\n시나리오 프롬프트 생성부터 카메라 샷 자동 연출, \n나노바나나 Pro를 활용한 시그니처 영화 포스터 제작, \n그리고 구글 오팔 기반의 무료 Veo3 영상 생성 실습까지!\n비전공자도 단숨에 크리에이터이자 감독으로 도약하는 자동화 워크플로우를 지금 만나보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 글로벌사이버대학교 평생교육원 AI영화제작마스터 양성\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Award Winner\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스」\n기초 실습을 넘어 국제 영화제 출품과 나만의 포트폴리오 완성까지!\n👉 정규과정 상세 안내 및 수강신청 : https://edu.global.ac.kr/\n───────────────────────────────\n\n배움이 변화가 되고, 상상이 현실이 되는 곳!\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#AI영화 #바이브코딩 #Veo3 #생성형AI #유양석감독 #글로벌사이버대학교평생교육원 #AI영상제작 #구글오팔 #나노바나나 #믹스보드",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/ra3Ynlq8ZIU/hqdefault.jpg",
+      "publishedAt": "2026-09-09T05:09:33Z",
+      "durationSeconds": 5754,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0UyYWGG_s3o",
+      "url": "https://www.youtube.com/watch?v=0UyYWGG_s3o",
+      "title": "[특강 풀버전] 누구나 감독이 되는 시대, AI영화 제작 특강 : 바이브코딩으로 고품질 AI영상제작하기(25.12.11) | 강사 : 유양석 감독",
+      "description": "누구나 나만의 영화를 만드는 시대! 🎬\n글로벌사이버대학교 평생교육원이 준비한 특별한 선물,\n유양석 감독의 [누구나 감독이 되는 시대, AI 영화 제작 특강] 녹화 풀버전입니다.\n\n시나리오 프롬프트 작성부터 구글 스튜디오를 활용한 스토리보드,\n믹스보드와 나노바나나, 구글 오팔을 활용한 무료 영상 생성까지!\n'바이브 코딩'으로 복잡한 기술 없이 고품질 AI 영상을 완성하는 \n실전 제작 노하우를 지금 바로 확인해 보세요.\n\n📌 강사 소개 : 유양석 감독\n• 현) 한국AI영상제작협회 부회장\n• 현) 한국AI리터러시강사협회 지도교수\n• 2025 서울국제AI영화제 홍보영상 대상 수상\n• 2025 대한민국AI영상제 최우수상 수상\n• 2025 The IndieFEST Film Awards Winner\n• 2025 Paris Lady MovieMakers Festival Semi-Finalist\n\n───────────────────────────────\n🎬 [정규과정 안내] 「VEO3 AI영화제작 마스터 클래스」\n기초를 넘어 공모전 출품과 나만의 단편영화 완성까지 도전하세요!\n👉 정규과정 상세 안내 및 수강신청 : https://edu.global.ac.kr/\n───────────────────────────────\n\n건강하고 행복하게 선한 영향력을 키우는 평생학습의 장,\n글로벌사이버대학교 평생교육원\n🌐 공식 홈페이지 : https://edu.global.ac.kr/\n📞 교육 과정 문의 : 041-415-6185\n\n#AI영화 #생성형AI #바이브코딩 #AI영상제작 #글로벌사이버대학교 #평생교육원 #유양석감독 #구글스튜디오 #믹스보드",
+      "channelId": "UCH33YlQdO_BdLWnGKEnVYMg",
+      "channelTitle": "글로벌사이버대학교 평생교육원",
+      "thumbnail": "https://i.ytimg.com/vi/0UyYWGG_s3o/hqdefault.jpg",
+      "publishedAt": "2026-09-08T07:28:59Z",
+      "durationSeconds": 6311,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KeHqBvsJyJ0",
+      "url": "https://www.youtube.com/watch?v=KeHqBvsJyJ0",
+      "title": "🏛️영화 오디세이 원작, 한국어로 전편 무료 공개 | 🌊 AI고전 오뒷세이아",
+      "description": "- 방송 홈페이지 링크 : https://aiclassics.ebs.co.kr\n- 참고사항 : 2026. 3. 30 ~ 4. 3까지 방송된 오뒷세이아 시리즈 1~10강의 우리말 더빙 몰아보기 버전입니다. 본방은 유료구독이며, 해당 콘텐츠만 무료로 제공됩니다.\n\n기획의도\n역사를 바꾼 100권, 2,000년 지혜와의 만남.\n플라톤에서 프로이트까지, 호메로스에서 아담 스미스까지.\n시대를 초월해 인류의 이정표가 된 고전 100선을 선정하여, 현대적 시각에서 그 가치를 다시 조명합니다.\n\n고전은 단순한 옛 책이 아닙니다.\n복잡한 현대 사회를 해석할 사고의 구조이자, 비판적 관점을 기르는 지적 도구입니다.\n우리는 고전에 담긴 본질적 질문들을 통해 지식과 교양의 새로운 표준을 제시합니다.\n\n어렵게만 느껴졌던 고전, 이제 AI 기술로 생생하게 만납니다.\n전 국민이 깊이 있는 독서와 사유에 동참하는 대형 독서 진흥 프로젝트.\n인류 지성사 최대 규모의 인문학 아카이빙이 시작됩니다.\n\n제작방향\nAI가 되살린 고전의 현장.\n「오뒷세이아」의 포도주빛 바다가 눈앞에 펼쳐지고, 「국부론」의 18세기 핀 공장이 돌아가며, 「군주론」의 피렌체 궁정이 생생하게 재현됩니다.\nAI 기술 기반의 혁신적 시각화로 기존 강의 문법을 완전히 뛰어넘습니다.\n\n한 권당 10강씩 구성된 총 1,000강의 방대한 체계.\n한 권당 10편의 심도 있는 강의로 핵심 개념부터 철학적 배경, 현대적 의미까지 빠짐없이 전달합니다.\n철학·과학·문학·역사·경제·사회·예술·심리 8개 분야를 아우르는 체계적 커리큘럼.\n\n과거의 텍스트가 아닌, 오늘의 질문.\n고전을 현대 사회·기술·윤리 이슈와 연결하여 '지금, 우리에게 왜 필요한지'에 대한 명확한 해답을 제시합니다.\n\n\"원문의 힘을 그대로.\n고전의 핵심 구절을 직접 인용하여 시청자가 텍스트 본연의 감동을 느낄 수 있도록 합니다.\n번역이 아닌 원문의 무게, 해석이 아닌 거장의 목소리.\"",
+      "channelId": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "channelTitle": "EBSCulture (EBS 교양)",
+      "thumbnail": "https://i.ytimg.com/vi/KeHqBvsJyJ0/hqdefault.jpg",
+      "publishedAt": "2026-09-07T09:00:22Z",
+      "durationSeconds": 7396,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "THzLSSl6MGo",
+      "url": "https://www.youtube.com/watch?v=THzLSSl6MGo",
+      "title": "AI 드라마 딱 1편으로 610만 원 벌었습니다｜이순신 타임슬립 영상 제작법 33분 풀버전",
+      "description": "[9월 9일(수) 저녁 7시 30분 무료 라이브]\n👉 라이브 신청 & 무료 PDF 받기: https://m.site.naver.com/2f4I5\n(※ 신청 즉시 'AI 타임슬립 전쟁 드라마 전체 지도' PDF를 바로 보내드립니다)\n\n이 영상에서 만든 순서 그대로, 라이브에서는 타임슬립 전쟁 드라마 한 편을 소재 선택부터 장면 제작까지 실제 화면으로 직접 만듭니다.\n\n단순 10초 쇼츠를 넘어, 시청자를 몰입시키고 실제 수익으로 연결되는 '서사 있는 AI 드라마' 제작의 모든 과정을 담았습니다.\n이번 영상은 현대의 주인공 루미가 조선시대로 이동해 이순신 장군을 만나는 1분 AI 타임슬립 드라마입니다.\n소재를 정하고, 장면을 만들고, 대사와 음악을 넣어 한 편으로 완성하는 과정을 처음부터 끝까지 보여드립니다.\n(※ 영상을 진행하는 루미도 같은 방법으로 만든 AI 캐릭터입니다.)\n\n영상이 도움이 되셨다면 [구독]과 [좋아요] 부탁드립니다.\n\n━━━━━━━━━━━━━━━━━━━━━\n⏱️ 타임라인 (TIMESTAMPS)\n00:00 이순신 장군 앞에 현대인이 나타난다면?\n01:22 [1단계] 소재 정하기: 타임슬립 소재를 고르는 기준\n04:44 [2단계] 대본: 한 줄 소재가 8장면이 되는 과정\n07:30 [3단계] 인물 고정: 주인공 루미 얼굴과 옷이 안 바뀌게\n10:16 [4단계] 첫 장면 영상화: 사진에 움직임 넣기\n15:36 [5단계] 이순신 장군과 거북선 해전 장면\n22:41 [6단계] 해전과 현대 귀환 장면 이어 만들기\n25:21 [7단계] 배경음악: 대사를 살리는 역사극 음악\n26:41 [8단계] 편집: 컷 붙이고 소리 맞추기\n31:45 완성본: 임진왜란으로 간 루미 1분\n32:56 9월 9일 무료 라이브 안내\n━━━━━━━━━━━━━━━━━━━━━\n\n※ 타임슬립 장면은 역사적 배경을 활용한 창작물입니다. 영상 제작 결과와 채널 성과는 사람마다 다릅니다.\n\n#AI타임슬립드라마 #AI드라마 #AI영상제작 #이순신 #AI유튜브 #유튜브부업",
+      "channelId": "UCn3akvXueY7Hb6wa5cbwdlQ",
+      "channelTitle": "애유미 AI 드라마",
+      "thumbnail": "https://i.ytimg.com/vi/THzLSSl6MGo/hqdefault.jpg",
+      "publishedAt": "2026-09-06T08:03:35Z",
+      "durationSeconds": 1992,
+      "matchedKeywords": [
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6Ie9EniF-cQ",
+      "url": "https://www.youtube.com/watch?v=6Ie9EniF-cQ",
+      "title": "[AI 판타지 드라마] 조선 판타지 - 조선에 판타지 몬스터가 침략했다!! ㅣ 시즌1 통합 풀버전 (SEASON 1 - ALL EPISODES)",
+      "description": "#ai #판타지 #ai판타지 #ai영상 #ai드라마 #ai영화 #판타지드라마 #판타지영화 #정통판타지 #다크판타지 #퓨전판타지 #조선판타지 #k드라마\n\nAI로 제작한 창작물 영상 입니다\n시대적 배경을 참고하였으며 사실과는 전혀 무관합니다\n\n시즌1 오우거 킹의 에피소드 통합본 입니다\n\n[조선 판타지] 는 조선 시대 + 신화 판타지를 혼합한 퓨전 판타지 장르 입니다\n조선 시대에 신화 속 판타지 몬스터들이 참략하며 벌어지는 이야기 입니다\n재미있게 시청해주세요!",
+      "channelId": "UChH73Oy9epccWvi-p9jncPA",
+      "channelTitle": "판타지_몽",
+      "thumbnail": "https://i.ytimg.com/vi/6Ie9EniF-cQ/hqdefault.jpg",
+      "publishedAt": "2026-08-22T01:00:16Z",
+      "durationSeconds": 4017,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HNdF0omOK94",
+      "url": "https://www.youtube.com/watch?v=HNdF0omOK94",
+      "title": "【FULL】 나는 만물의 재능을 복사할 수 있다#AI드라마 #숏폼드라마",
+      "description": "🍿 웹소설 실사화는 바로 여기! AI 漫改 전문 숏폼 극장입니다.\n\n개요：현대 시대의 한 청년이 예기치 않게 대신(大新) 왕조로 넘어가게 됩니다. 도착 직후, 그는 친척들의 악의적인 모함으로 인해 강제로 군에 징집되어 혹독한 추위가 몰아치는 변방의 최전방 초소로 보내집니다. 절망적인 상황 속에서 그는 타인의 재능을 복사해 자신의 것으로 만들 수 있는 특별한 '재능 복제 시스템'을 각성하게 됩니다. 이 비범한 능력을 활용해 그는 변방 군대 내에서 빠르게 승진하며, 온갖 역경을 딛고 승리를 향한 반전의 길을 개척해 나갑니다.\n\n전민 전직, 무한 창조, SSS급 소환수... 당신이 밤새며 읽던 그 爽文(상원) 소설들이 눈앞에서 진짜로 살아 움직입니다!🥳\n\n✅ 초고화질 실사화 연출 \n✅ 숨 쉴 틈 없는 폭풍 전개 \n✅ 매일 다량 연재! \n감질맛 나는 끊기나 중도 하차 없이, 매일 완벽한 몰입감을 약속드립니다.🚀\n\n❌ 본 채널의 모든 영상은 오리지널 콘텐츠입니다. 무단 도용 및 불법 펌 금지!\n\n🔔 지금 바로 [구독] 누르고, 억만 대군이 펼치는 역대급 도파민을 1열에서 정주행하세요! 🔥\n\n#웹소설실사화 #AI드라마 #숏폼드라마 #먼치킨 #사이다물 #판타지추천 #AI애니",
+      "channelId": "UC0591d33uSMhFbw1461kNpA",
+      "channelTitle": "플라워 미스트 극장",
+      "thumbnail": "https://i.ytimg.com/vi/HNdF0omOK94/hqdefault.jpg",
+      "publishedAt": "2026-08-21T04:00:14Z",
+      "durationSeconds": 9541,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ysmWRkuQPI8",
+      "url": "https://www.youtube.com/watch?v=ysmWRkuQPI8",
+      "title": "흑선봉명록 2 (黑扇奉命錄) | 조선 괴이 판타지 | AI Movie",
+      "description": "🎬 **로보랩 스튜디오 | AI CINEMA**\n\n로보랩 스튜디오는 **AI 기술을 활용해 다양한 장르의 영화와 이야기를 제작하는 창작 채널**입니다.\n\n등장인물과 세계관, 스토리 구성, 장면 연출, 영상 편집 등 여러 제작 과정을 직접 구성하여 하나의 영화로 완성하고 있습니다.\n\n판타지부터 사극, 액션, 재난, 호러까지 장르에 제한을 두지 않고,\n**“AI로 어디까지 영화다운 영화를 만들 수 있을까?”**라는 생각으로 새로운 작품에 계속 도전하고 있습니다.\n\n본 채널의 작품은 **AI 기술을 활용하여 제작된 가상의 창작물**이며, 등장하는 인물·단체·사건·설정 등은 실제와 관계없는 허구의 내용입니다.\n\n아직 부족한 부분도 많지만 작품을 거듭할수록 더 좋은 영상과 더 재미있는 이야기로 찾아뵙겠습니다.\n\n영화처럼 편하게 즐겨주세요. 🎥\n\n구독과 좋아요, 댓글은 다음 작품을 만드는 데 정말 큰 힘이 됩니다.\n시청해주셔서 감사합니다!\n\n**ROBO LAB STUDIO**\nAI CINEMA · AI FILM · ORIGINAL STORY\n\n🎬 **제작 안내 | Production Information**\n\n본 영상은 제작자가 **직접 기획하고 시나리오와 스토리, 캐릭터 설정, 장면 구성 및 연출을 구상하여 제작한 창작 영상**입니다.\n\nAI는 작품 제작을 위한 도구로 활용하고 있으며, 생성된 결과물을 그대로 게시하는 방식이 아닌 장면별 연출과 구성을 직접 설계하고 영상 편집 과정을 거쳐 하나의 작품으로 완성하고 있습니다.\n\n• **기획 / 시나리오 / 스토리 / 연출 구성:** 직접 제작\n• **AI 영상 생성:** Higgsfield AI — Seedance 2.0 / Seedance 2.5\n• **영상 편집 및 후반 작업:** HitPaw\n• **음악 / BGM 제작:** Suno AI\n• **최종 구성 및 편집:** 직접 제작\n\n본 작품에는 AI로 생성된 영상 및 음원이 포함되어 있습니다.\n\n등장하는 인물과 사건, 장소 및 세계관은 작품을 위해 창작된 가상의 내용이며 실제 인물이나 사건과는 관계가 없습니다.\n\n**AI 기술을 창작 도구로 활용하여 직접 기획·연출·편집한 오리지널 영상 콘텐츠입니다.**\n\n© 로보랩 스튜디오 (ROBO LAB STUDIO)",
+      "channelId": "UCCmE40u2cYb39GkLQObMBVQ",
+      "channelTitle": "로보랩 스튜디오",
+      "thumbnail": "https://i.ytimg.com/vi/ysmWRkuQPI8/hqdefault.jpg",
+      "publishedAt": "2026-08-18T08:25:30Z",
+      "durationSeconds": 2944,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "y7WrnxdWEQU",
+      "url": "https://www.youtube.com/watch?v=y7WrnxdWEQU",
+      "title": "유료강의 듣지마세요. 1년에 5억 번 AI 드라마 유튜브, 촬영·편집 없이 하는 법 / 30분 풀버전 강의",
+      "description": "[9월 9일(수) 저녁 7시 30분 무료 라이브]\n이 영상에서 다 못 보여드린 부분, 라이브에서 처음부터 끝까지 합니다.\n타임슬립 전쟁 드라마 한 편을 소재 선택부터 장면 제작까지 실제 화면으로 만들어 보여드립니다.\n신청하시면 'AI 타임슬립 전쟁 드라마 전체 지도' PDF를 바로 보내드리고, 입장 주소는 당일 안내 채팅방에 올립니다.\n👉 신청: https://m.site.naver.com/2f4I5\n\n영상이 도움이 됐다면 구독과 좋아요 한 번 부탁드립니다. 알림을 켜두시면 라이브 소식을 놓치지 않으세요.\n\n━━━━━━━━━━━━━━━━━━━━━\n\n유료강의 듣지마세요. \n시중 유료 강의에서 수백만원 받고 찔끔찔끔 알려주던\n'1년에 5억 번 AI 드라마 유튜브의 모든 것'을 30분 풀버전으로 싹 다 공개합니다.\n\n도구만 만지작거리는 껍데기 강의에 속지 마세요.\n돈이 되는 '세계관 기획'부터 대본·캐릭터 일관성 이미지·영상 변환·배경음악·컷편집까지 한 번에 끝내는 실전 풀코스입니다. 촬영도 편집 실력도 필요 없습니다.\n\n━━━━━━━━━━━━━━━━━━━━━\n🎁 [ 영상 속 프롬프트 + AI 세팅 프로그램 무료 배포 ]\n\n댓글 참고해주세요.\n[ 무료로 드리는 자료 ]\n✓ 영상에서 사용한 대본·이미지·영상 프롬프트 세트 전체\n✓ AI 드라마 캐릭터 일관성 세팅 가이드 PDF\n✓ 9월 9일 무료 라이브 참여 안내\n━━━━━━━━━━━━━━━━━━━━━\n\n⏱️ 챕터\n00:00 배우도 촬영도 없이, 1년에 5억 번 드라마 채널\n01:52 통장 그대로 보여드립니다 (70세 수강생 월 1천만 원)\n04:06 이걸 안 하면 100편 올려도 안 터집니다\n09:29 대본이 저절로 나오는 공식\n16:46 여기서 90%가 포기합니다 (얼굴 안 바뀌게)\n19:35 사진이 영상이 되는 순간\n29:18 클릭률 터지는 썸네일 만드는 법\n30:27 오늘 자료 무료로 받는 법\n\n\n━━━━━━━━━━━━━━━━━━━━━\n#유료강의듣지마세요 #AI드라마 #유튜브부업 #직장인부업 #재택부업 #50대부업 #AI부업 #도롱자",
+      "channelId": "UCGfm-hkKOA0eUraqkWbUSgw",
+      "channelTitle": "도롱자 | 촬영 없는 AI 유튜브 부업",
+      "thumbnail": "https://i.ytimg.com/vi/y7WrnxdWEQU/hqdefault.jpg",
+      "publishedAt": "2026-08-18T08:16:13Z",
+      "durationSeconds": 1891,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4f6Zguf7c2M",
+      "url": "https://www.youtube.com/watch?v=4f6Zguf7c2M",
+      "title": "707 특임대 대위가 조선에 떨어졌다 | 낙하 707 시즌 1 몰아보기",
+      "description": "현대의 707 특임대 대위가 조선에 떨어졌다.\n궁궐로 다가오는 좀비 군단, 그리고 자신보다 먼저 이곳에 온 대원의 흔적. 〈낙하 707: 리부트〉 시즌 1 전편을 이어서 감상하세요.\n\nA modern special forces captain is stranded in Joseon-era Korea. Watch the complete first season of FALL 707: REBOOT.\n\n▶ 다음 이야기 / Watch Season 2 Full Movie\nhttps://youtu.be/sFw17ZPE42A\n\n오리지널 AI 밀리터리 판타지 드라마 | DRA9ON CINEMA\n\n━━━━━━━━━━━━━━━━━━━━\n\nModern special forces. Joseon-era darkness.\nOne shot each. There are hundreds of them.\n\nA 707th Special Mission Unit officer falls from the sky into the rear garden of a Joseon royal palace. Rescued by Prince Yi-seo, she meets a king who has known about her arrival from the beginning.\n\nOutside the walls, an ageless shaman rings a black bell — waking an infection buried in the living, and leading the possessed dead toward the throne.\n\nIn a sealed chamber, Captain Min finds weapons from eras that shouldn't exist here. And dog tags belonging to a 707 soldier who arrived long before her.\n\nSeason 1, complete in one cut.\n\n━━━━━━━━━━━━━━━━━━━━\n\n현대 특수전 vs 조선의 어둠.\n한 발에 하나. 놈들은 수백이다.\n\n707특수전 장교 민 대위가 하늘에서 조선 궁궐 후원으로 추락한다. 왕자 이서에게 구조되어, 자신의 추락을 처음부터 알고 있던 왕과 마주한다.\n\n궁궐 밖에서는 늙지 않는 무당이 검은 방울을 울려 사람들 몸속에 잠복한 감염을 깨운다. 악귀에 들린 좀비 군단이 왕궁으로 진격한다.\n\n봉인된 밀실에서 민 대위는 서로 다른 시대의 현대 무기와 오래된 군번줄, 자신보다 먼저 조선에 도착했던 또 다른 707 대원의 흔적을 발견한다.\n\n시즌 1 전편 통합본입니다.\n\n━━━━━━━━━━━━━━━━━━━━\n\nCHAPTERS\n0:00 Episode 1\n3:03 Episode 2\n7:07 Episode 3\n10:56 Episode 4\n14:14 Episode 5\n22:38 Episode 6\n\n━━━━━━━━━━━━━━━━━━━━\n\nGenre · Military Fantasy Thriller\nProduction · Fully AI-generated, one-person pipeline\n\n▶ 시즌2 풀버전 / Season 2 Full Movie: https://youtu.be/sFw17ZPE42A\n\n※ AI-generated fiction. Not based on real persons, institutions, or events.\n※ AI로 제작된 픽션입니다. 실제 인물·기관·사건과 무관합니다.\n\n#AI영화 #AI드라마 #타임슬립 #조선 #사극판타지 #좀비 #AIfilm #AIfilmmaking #KoreanDrama #ZombieHorror #FALL707",
+      "channelId": "UCEZSQzQw7lIy2DBbojztyqg",
+      "channelTitle": "DRA9ON CINEMA(드래곤시네마)",
+      "thumbnail": "https://i.ytimg.com/vi/4f6Zguf7c2M/hqdefault.jpg",
+      "publishedAt": "2026-08-16T03:46:35Z",
+      "durationSeconds": 2033,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "twQZO24VPjs",
+      "url": "https://www.youtube.com/watch?v=twQZO24VPjs",
+      "title": "[AI 로판] (완결)구원 - 몰아보기 | Salvation (Complete) | Binge Watch",
+      "description": "신성력 없는 가짜 성녀 로웨나는 신전의 꼭두각시로 평생 갇혀 살아간다.\n그러던 어느 날, 굶어가는 북부 부족을 구하기 위해 성녀를 인질로 삼으려는 야수 공작 키란에게 납치된다.\n\n하지만 로웨나에게 납치는 뜻밖의 구원이었다.\n자유를 얻은 그녀는 의술과 약초 지식으로 부족민들을 살리고, 거칠기만 했던 키란과도 조금씩 마음을 나눈다.\n\n그러나 로웨나가 가짜 성녀라는 비밀을 감추려는 신전은 결국 그녀를 납치해 처형하려 하고, 키란은 평생 외면했던 펜드래건 공작의 이름과 힘을 되찾아 그녀를 구하기 위해 왕국으로 향한다.\n\n서로에게 인질과 납치범으로 시작해, 결국 서로의 삶을 구원하게 된 두 사람.\n야수 공작 키란과 가짜 성녀 로웨나의 유쾌하고도 뜨거운 로맨스 판타지, 《구원》 완결 몰아보기입니다.\n\n#RomanceFantasy #FantasyRomance #AIDrama #AIStory #DarkFantasy #FantasyShorts #youtubeshortsvideo #AI로판 #로맨스판타지 #구원 #Salvation #BingeWatch #완결몰아보기",
+      "channelId": "UCxOcx_uXIaOKXBeXVN1FnZQ",
+      "channelTitle": "필름서랍 | The Film Drawer",
+      "thumbnail": "https://i.ytimg.com/vi/twQZO24VPjs/hqdefault.jpg",
+      "publishedAt": "2026-08-12T02:08:14Z",
+      "durationSeconds": 2556,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Wb2oLCS55IM",
+      "url": "https://www.youtube.com/watch?v=Wb2oLCS55IM",
+      "title": "[AI 드라마 몰아보기] 별철이 떨어진 밤, 조선의 운명이 바뀌었다 | 푸른 밤의 문 1~5화",
+      "description": "조선의 밤하늘에 정체불명의 문이 열렸다.\n\n붉게 갈라진 하늘.\n\n조선 땅으로 떨어진 기이한 별철.\n\n그리고 하늘길 너머에서\n조선을 추적하기 시작한 외계의 존재들.\n\n처음에는 아무도 알지 못했다.\n\n하늘에 나타난 균열이\n두 세계를 연결하는 통로이며,\n\n그 문이 열리는 순간\n조선 전체가 거대한 외계 전쟁에\n휘말리게 될 것이라는 사실을.\n\n하늘길을 통해 조선으로 돌아온 리온.\n\n그를 뒤쫓아 모습을 드러낸\n카르둔의 생체기계 병사들과 괴수들.\n\n송현리에서 시작된 전투 이후,\n카르둔의 흔적은 조선 곳곳으로 퍼져나가기 시작한다.\n\n귀철령 외곽의 폐서낭당 숲길.\n\n적하린과 박동춘은\n정체불명의 검은 파편과\n카르둔의 생체기계 괴수들이 연결되어 있음을 알아낸다.\n\n상처 입은 수관귀.\n\n숲을 추적하는 철익야수들.\n\n그리고 끊임없이 새로운 병력을 불러들이는\n검은 생체기계 파편.\n\n적하린은 파편을 미끼로 삼아\n추적자들을 한곳으로 끌어들이지만,\n\n그들의 뒤에서는\n더 거대한 움직임이 시작되고 있었다.\n\n한편,\n\n조선 깊은 산속에서 모습을 드러낸\n카르둔의 전진기지.\n\n그곳으로 향하는\n정체불명의 다섯 도사.\n\n진무강.\n\n야월현.\n\n청사연.\n\n설귀화.\n\n그리고 그들을 이끄는 묵천도군.\n\n다섯 도사는\n카르둔의 기계군을 정면으로 돌파하며\n전진기지 깊숙한 곳까지 들어간다.\n\n기계병들을 압도하고,\n거대한 주 장갑문마저 열어젖힌 순간—\n\n그들은 마침내\n하늘길 너머에서 조선을 추적해 온 존재와 마주한다.\n\n카르둔.\n\n지금까지 기계군을 압도했던\n다섯 명의 강자.\n\n그러나 카르둔이\n천천히 모습을 드러내는 순간,\n\n전장은 완전히 뒤집힌다.\n\n네 명의 도사가\n보이지 않는 중력에 무릎을 꿇고,\n\n가장 강한 묵천도군조차\n공허수를 사용해\n겨우 무릎이 땅에 닿는 것만 막는다.\n\n묵천도군은\n온 힘을 다해 버티고 있다.\n\n하지만 카르둔은—\n\n그저 천천히 걸어오고 있을 뿐이다.\n\n조선 하늘에 열린 문.\n\n하늘길을 넘어온 외계군.\n\n그리고 조선의 강자들조차\n감당할 수 없는 존재.\n\n조선에 시작된 전쟁은\n이제 전혀 다른 단계로 들어간다.\n\n\n🎬 푸른 밤의 문 1~5화 몰아보기\n\n조선 SF 판타지 AI 드라마\n\n\n주요 등장인물\n\n리온 · 라온\n\n적하린 · 박동춘\n\n수관귀 · 철익야수\n\n묵천도군\n\n설귀화\n\n청사연\n\n진무강\n\n야월현\n\n카르둔\n\n\n🎵 AI 제작 도구\n\nSuno\n\nGPT Image\n\nSeedance\n\nKling\n\nChatGPT\n\n\n본 영상은 AI 기술을 활용해 제작한\n가상의 창작 드라마입니다.\n\n등장하는 인물, 사건, 장소와 세계관은\n모두 허구입니다.\n\n조선의 도사들과\n하늘길 너머에서 온 존재들이 충돌하는\nSF 판타지 세계관을 바탕으로 제작되었습니다.\n\n구독과 알림 설정으로\n다음 이야기를 가장 먼저 만나보세요.\n\n좋아요와 댓글은\n다음 화 제작에 큰 힘이 됩니다.\n\n자막이 필요하신 분은\nYouTube 자막(CC)을 켜고 시청해 주세요.\n\n한국어, 영어, 일본어 자막을 준비했습니다.\n\n※ 제작 과정에서 리온 일행의 일부 장면 배경이 원래 설정과 달리 마을 배경으로 변경되었습니다. 배경 연출만 달라졌으며, 이야기와 세계관 설정은 동일하게 이어집니다.\n\n\n#AI드라마 #푸른밤의문 #조선판타지 #SF판타지 #AI웹드라마#KoreanDrama#AIDrama #KDrama #AIFilm #AI영화  #AIFilm #DarkFantasy #비현실안내소",
+      "channelId": "UC5DQIbb0qo1qyXK6P6toysw",
+      "channelTitle": "비현실 안내소",
+      "thumbnail": "https://i.ytimg.com/vi/Wb2oLCS55IM/hqdefault.jpg",
+      "publishedAt": "2026-08-02T09:15:08Z",
+      "durationSeconds": 3982,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VoAr06QtgiY",
+      "url": "https://www.youtube.com/watch?v=VoAr06QtgiY",
+      "title": "[AI튜토리얼] AI 영화, 이 순서대로 만들면 됩니다 | 메카닉 영화 단편 '제로' 제작기",
+      "description": "👇 지금 바로 AInspire 4기와 함께하기\n🔗 수강 신청 바로가기: https://www.ainspire.co.kr/class/?idx=16\n\n👀 수업이 어떻게 진행되는지 궁금하다면? (OT 영상)\n🎞️ 바쁘신 분들을 위한 17분 핵심 하이라이트: https://www.youtube.com/live/CvyaA2uc78U\n🎥 AInspire 4기 오리엔테이션 풀버전: https://youtube.com/live/Pjw3yyplH3U?...\n\n🎁 [특별 무료 배포] 영상의 디테일과 퀄리티를 수직 상승시켜 줄 마스터키!\n📖 AInspire 연출 가이드 (CineGuide) 다운로드: https://materials.ainspire.co.kr/\n\n\n힉스필드에 가입해서 반자동화 에이전트를 구축해보세요!\nhttps://higgsfield.ai/?fpr=bokun26\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCzDLwL9KgAn_FKPHSkb4v1A/join\n\n#higgsfieldai \nMade with Higgsfield AI\n\nAInspire 오픈채팅방입니다. (다양한 정보와 소식을 공유드립니다)\n\n1번방\nhttps://open.kakao.com/o/gIAfY72g\n\n2번방\nhttps://open.kakao.com/o/ggbNxAai\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCzDLwL9KgAn_FKPHSkb4v1A/join\n\n\n[09:10] 기획/디자인 단계\n\n[09:40] 시나리오 작성 - 클로드 활용\n\n[10:32] 영상 생성\n\n[10:47] 디자인\n\n[11:14] 기획/디자인 단계\n\n[16:38] 시나리오 작성 - 클로드 활용\n\n[18:11] 후편집\n\n[21:32] 디자인 설계\n\n[23:46] 시네마틱 프롬프트\n\n[24:43] 영상 생성\n\n[27:03] 타이틀 디자인\n\n[27:39] 크리처 디자인\n\n[28:11] 후편집\n\n[29:05] 제작 파이프라인\n\n[30:42] 연출 법칙\n\n[31:02] 캐스팅\n\n[31:23] 캐릭터/장소/소품 시트\n\n[32:05] 생성 시 유의사항",
+      "channelId": "UCzDLwL9KgAn_FKPHSkb4v1A",
+      "channelTitle": "AInspire",
+      "thumbnail": "https://i.ytimg.com/vi/VoAr06QtgiY/hqdefault.jpg",
+      "publishedAt": "2026-08-01T11:00:16Z",
+      "durationSeconds": 2043,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QQuV0KvxuxQ",
+      "url": "https://www.youtube.com/watch?v=QQuV0KvxuxQ",
+      "title": "AI 시대, 왜 다시 영화와 문학일까? | 연세대 한인혜 교수 인터뷰",
+      "description": "#연세대학교 #아시아학 #영화#문학 #ai #영화역사 #문학작품 \n\nAI 시대에 영화와 문학은 왜 여전히 중요할까요? \n\n 이번 영상에서는 연세대학교 한인혜 교수님과 함께 동아시아 문학, 영화, 미디어, 아시아학, 그리고 AI 시대의 인문학적 공부에 대해 이야기했습니다.\n\n아시아학이 오늘날 왜 중요한지, 문화 텍스트를 어떻게 비판적으로 읽을 수 있는지, 그리고 아시아학을 공부하는 학생들에게 필요한 태도와 질문은 무엇인지 함께 들어봅니다.\n\n출연  \n한인혜 교수님 (Inhye Han)\n\n기획 및 제작\n연세대학교 아시아학 학생회\n미디어커뮤니케이션부\n\n다른 교수님들의 풀버전 강의 및 하이라이트를 듣고 싶다면 아래 링크로⬇\n-https://www.youtube.com/watch?v=aJjUxoGIAvQ&feature=youtu.be  - 하이라이트 영상\n-https://www.youtube.com/watch?v=3mRppL2hfGk 김연희 교수님 풀버전 강의\n-https://www.youtube.com/watch?v=F9HUKXHahGw 코바치치 교수님 풀버전 강의\n\n챕터:\n00:00 시작\n00:23 교수님 자기소개\n01:17 처음 아시아학에 관심 가진 계기 \n02:27 아시아학에 대한 이해는 어떻게 달라졌는가\n04:52 아시아학의 중요성은 무엇인가\n10:39 문학, 영화, 미디어는 무엇을 보여주는가\n13:37 초국가적 문화 연구가 동아시아 연구에 중요한 이유\n17:12 다시 생각해야할 고정관념은 무엇인가\n21:22 역사를 영화로 배워도 될까? \n24:41 학생들에게 필요한 자질과 태도\n29:36 어떤 분야에 관심을 가지면 아시아학 전공에 도움이 되는가\n34:27 교수님 소감 및 강의 소개\n\n#연세대학교 #아시아학 #AsianStudies #yonseiuniversity #아시아학학생회 #교수님 #인터뷰 #영화#문학 #ai #영화역사 #문학작품",
+      "channelId": "UCe3R9X67vvANx4ng14FB9Zw",
+      "channelTitle": "연세대학교 아시아학 공식 계정",
+      "thumbnail": "https://i.ytimg.com/vi/QQuV0KvxuxQ/hqdefault.jpg",
+      "publishedAt": "2026-07-28T01:00:11Z",
+      "durationSeconds": 2218,
+      "matchedKeywords": [
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oIVa5mHf4QU",
+      "url": "https://www.youtube.com/watch?v=oIVa5mHf4QU",
+      "title": "[EP1~4] 아직도 안본사람 있어? 글로리아 판타지아(Gloria Fantasia) EP1~4 모아보기 #AI #영화 #드라마 #게임 #애니메이션 #웹툰",
+      "description": "AI 드라마 글로리아판타지아의 EP01~04 모아보기입니다.\n\n크레딧에 쿠키 영상은 자막을 켜면 더 재밌게 보실 수 있어요!\n\n여러분의 구독, 좋아요, 댓글에 힘입어 오늘도 열심히 제작합니다!\n후원해주신 분들 감사드립니다.\n\n#영화 #애니메이션 #드라마 #애니 #게임 #animation \n#ai #chatgpt #seedance2 #anime #drama #gemini #숏드라마 #숏폼드라마 #ai영화 #ai드라마 #gemini #웹툰 #이세계 #만화 #글로리아판타지아 #글판 #gloriafantasia",
+      "channelId": "UCvRa6y1negU2WEGLYPAEPtQ",
+      "channelTitle": "뚜라셀",
+      "thumbnail": "https://i.ytimg.com/vi/oIVa5mHf4QU/hqdefault.jpg",
+      "publishedAt": "2026-07-25T11:30:04Z",
+      "durationSeconds": 1920,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PjfbYR1ztLo",
+      "url": "https://www.youtube.com/watch?v=PjfbYR1ztLo",
+      "title": "AI 로판드라마 완결 몰아보기 | 저는 다시는 그 결혼을 선택하지 않겠습니다 | Full Series | I Will Never Choose That Marriage Again",
+      "description": "안녕하세요! 이세계여행자님들🌎🩵\n이세계로망입니다☺️\n\n이세계 첫 번째 작품인 [저는 다시는 그 결혼을 하지 않겠습니다] 완결 기념으로 더 편하게 보실 수 있도록 모아보기를 준비했습니다🫶 \n외전까지 한 번에 보실 수 있으니 볼카르, 아델린, 에이든, 엘리아가 생각날 때 마다 이세계를 찾아주세요❤️❤️\n\n요즘 여러분 덕분에 웃고 행복을 느끼고 있습니다!(제 삶의 낙이십니다🩵) \n우리 여행자님들도 현생이 짜증나고 서러워도 제 영상으로 조금이나마 웃으셨으면 좋겠어요! 신작은 다음 주에 선보일 수 있을 것 같습니다! 새로운 주인공들로 찾아뵐게요! \n\n📌 이 작품은 직접 기획, 집필, 연출, 편집한 오리지널 창작 드라마입니다.\n\n재미있게 보셨다면 구독과 좋아요, 그리고 댓글로 응원해 주세요! 여러분의 응원이 큰 힘이 됩니다💙\n\nHello, ISEGYE Travelers! 🌎🩵\nThis is ISEGYE ROMANCE! ☺️\n\nTo celebrate the completion of our very first series, I Will Never Choose That Marriage Again, I’ve prepared a Complete Series so you can enjoy the entire story more easily! 🫶\n\nYou can now watch everything—including the special episode—in one place. Whenever you miss Volkar, Adeline, Aiden, or Elia, come visit the world of ISEGYE again. ❤️❤️\n\nLately, thanks to all of you, I’ve been smiling more and finding so much happiness. (You truly are one of the greatest joys in my life. 🩵) Even if real life feels frustrating or overwhelming sometimes, I hope my videos can bring you a smile, even if it’s just for a little while.\n\nI think I’ll be able to introduce my new series next week! I can’t wait for you to meet our brand-new main characters. ✨\n\n📌 This is an original drama conceived, written, directed, and edited by ISEGYE ROMANCE.\n\nIf you enjoyed watching, please don’t forget to subscribe, leave a like, and share your thoughts in the comments! Your support means the world to me. 💙\n\n\n📖[저는 다시는 그 결혼을 선택하지 않겠습니다] 줄거리\n배신당한 결혼의 끝에서 아이를 잃고 죽음을 맞이한 아델린.\n하지만 눈을 뜬 곳은 모든 비극이 시작되기 전이었다.\n이번 생에서는 그 결혼을 피하려 했는데...\n제국의 북부대공이 그녀에게 다가오기 시작했다.\n\n📖 Synopsis — [I Will Never Choose That Marriage Again]\nAdeline met her death after losing both her child and her life at the end of a betrayed marriage.\nBut when she opened her eyes, she found herself back before every tragedy had begun.\nDetermined to avoid that marriage in this life…\nAn unexpected man begins to approach her.\nThe Grand Duke of the North.\n\n#ai드라마 #ai로판 #ai드라마완결 #ai드라마몰아보기 #로맨스드라마 #로판 #로맨스판타지 #이세계로망 #웹툰 #북부대공 #웹소설 #ai실사 #airomance #romancebooks #romance #romancedrama #romancefantasia #otomeisekai",
+      "channelId": "UCvc2L4QflCjkJ51uMHaJtgg",
+      "channelTitle": "이세계로망 ISEGYE ROMANCE",
+      "thumbnail": "https://i.ytimg.com/vi/PjfbYR1ztLo/hqdefault.jpg",
+      "publishedAt": "2026-07-23T13:14:30Z",
+      "durationSeconds": 2426,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IKrQo_BQWj8",
+      "url": "https://www.youtube.com/watch?v=IKrQo_BQWj8",
+      "title": "\"인간을 파는 왕국\" 외계 행성 생존기 | LEO 시즌1 통합본 풀버전",
+      "description": "[LEO 1~4부 통합본]\n\nLEO는 AI로 제작된 SF 시리즈(Sci-Fi Series)입니다.\n총 37분 분량으로 시즌1을 마감하게 되었는데요!\n더 재미있는 LEO 시즌2 이야기로 곧 찾아뵙겠습니다.\n좋아요. 구독, 댓글은 언제나 힘이 됩니다. 👍\n\n[영상 챕터]\n00:00 1부: 고립 (Isolation) - 미지의 행성에 던져지다\n03:19 2부: 사투 (Survival) - 낯선 생태계에서의 생존\n09:09 3부: 실체 (The Market) - 외계 시장의 충격적 비밀\n16:18 4부: 탈출 (The Escape) - 최후의 탈출\n\n© GENV. Registered with the Korea Copyright Commission (No. C-2026-047140). Unauthorized reproduction, editing, or re-uploading is strictly prohibited.\n\n제작 :  @tapnow_global   @PolloAI   @HiggsfieldAI  \n\n#AI영화 #SF영화 #LEO #AI영상 #단편영화 #LEO #ai영상 #SF영화추천 #영화추천 #aivideo",
+      "channelId": "UCUNoSXmAaNIPQLvQS65CzvA",
+      "channelTitle": "젠브이",
+      "thumbnail": "https://i.ytimg.com/vi/IKrQo_BQWj8/hqdefault.jpg",
+      "publishedAt": "2026-07-21T08:44:42Z",
+      "durationSeconds": 2206,
+      "matchedKeywords": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vray8hdtQko",
+      "url": "https://www.youtube.com/watch?v=vray8hdtQko",
+      "title": "달이 사라진 세계｜이세계 판타지 드라마 Season 1 Full ver.",
+      "description": "이세계 판타지 드라마 ｜달이 사라진 세계 시즌2 보러가기!!\n👇👇👇\nhttps://youtu.be/USkW9eqVYT0\n\n비 오는 밤마다 반복되는 악몽.\n무기력한 일상을 버티던 청년 강도현은 어느 날, 현실과는 전혀 다른 낯선 세계에 떨어지게 된다.\n\n현실의 상처에서 시작되는 이세계 판타지 드라마.\nSeason 1\n\n본 영상은 AI 도구를 활용해 제작한 실사풍 판타지 드라마입니다.",
+      "channelId": "UCWOStGj8dkOWBhRpwDGzz2g",
+      "channelTitle": "솔무 스튜디오 Solmu Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/vray8hdtQko/hqdefault.jpg",
+      "publishedAt": "2026-07-18T09:30:03Z",
+      "durationSeconds": 2338,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Yg9TDjOj9as",
+      "url": "https://www.youtube.com/watch?v=Yg9TDjOj9as",
+      "title": "로맨틱 판타지 실사화 1부 몰아보기 AI로판 실사화 겉은 북부대공 속은 순정남 몰아보기Romantic Fantasy Live-Action | Part 1 Binge-Watch",
+      "description": "두 세력의 팽팽한 대립 속에서, 사랑과 권력 사이의 선택이 펼쳐진다.\n\n✨ 로맨틱 판타지 1부 몰아보기\n숨막히는 전개와 감정선, 지금 바로 확인하세요.\n\nTorn between love and power amidst a fierce clash of two factions.\n\n✨ Romantic Fantasy Live-Action | Part 1 (Binge-Watch)\nExperience the breathtaking suspense and intense emotions now.\n\n#ai #ai실사화 #영화 #몰아보기 #드라마 #영화추천 #로맨스 #로맨스판타지",
+      "channelId": "UCfe_fkAvcE6-0qnzQA2vYvg",
+      "channelTitle": "호그먀트",
+      "thumbnail": "https://i.ytimg.com/vi/Yg9TDjOj9as/hqdefault.jpg",
+      "publishedAt": "2026-07-18T06:10:37Z",
+      "durationSeconds": 2717,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-15T10:29:02.264Z",
+      "lastSeenAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    }
+  ]
 }
