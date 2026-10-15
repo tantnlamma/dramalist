@@ -1,0 +1,16 @@
+{
+  "language": "en",
+  "lookbackHours": 72,
+  "minDurationSeconds": 1800,
+  "maxResultsPerQuery": 50,
+  "queries": [
+    "english full drama movie",
+    "english drama full movie",
+    "english short drama full movie",
+    "new english drama movie",
+    "english full film drama",
+    "english drama full episode",
+    "english drama series full episode",
+    "english romantic drama full movie"
+  ]
+}

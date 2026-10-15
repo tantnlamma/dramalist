@@ -1,0 +1,32 @@
+{
+  "keywords": [
+    "trailer",
+    "teaser",
+    "official preview",
+    "review",
+    "recap",
+    "reaction",
+    "explained",
+    "ending explained",
+    "summary",
+    "plot summary",
+    "movie commentary",
+    "compilation",
+    "best scenes",
+    "playlist",
+    "music video",
+    "ost",
+    "soundtrack",
+    "behind the scenes",
+    "interview",
+    "making of",
+    "news"
+  ],
+  "patterns": [
+    "(?:^|\\s)#?shorts(?:\\s|$)",
+    "youtube\\.com/shorts/",
+    "youtu\\.be/shorts/",
+    "\\bshort\\s+clip\\b",
+    "\\bfull\\s+movie\\s+trailer\\b"
+  ]
+}

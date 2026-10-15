@@ -1,0 +1,9 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "minDurationSeconds": 1800,
+    "lookbackHours": 72,
+    "language": "en"
+  },
+  "videos": []
+}

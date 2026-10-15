@@ -1,0 +1,13 @@
+{
+  "name": "dramalist-youtube-fetcher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-drama.mjs",
+    "test": "node --test"
+  }
+}
