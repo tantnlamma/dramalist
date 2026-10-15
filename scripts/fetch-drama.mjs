@@ -38,6 +38,17 @@ const DEFAULT_KEYWORDS = {
   aiKeywords: DEFAULT_AI_KEYWORDS,
 };
 
+export class QuotaExceededError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = 'QuotaExceededError';
+  }
+}
+
+function isQuotaExceededError(error) {
+  return error instanceof QuotaExceededError || error?.name === 'QuotaExceededError';
+}
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -160,11 +171,15 @@ async function fetchJson(url, { fetchImpl = fetch, sleepFn = sleep } = {}) {
       if (response.ok) return payload;
 
       const message = payload?.error?.message || `HTTP ${response.status}`;
+      const quotaExceeded = /quota exceeded|quotaexceeded|daily limit/iu.test(message) ||
+        (payload?.error?.errors || []).some(item => /quota/iu.test(item.reason || '') || /daily/iu.test(item.reason || ''));
+      if (quotaExceeded) throw new QuotaExceededError(`YouTube API quota exhausted: ${message}`);
       const retryable = response.status === 408 || response.status === 429 || response.status >= 500;
       lastError = new Error(`YouTube API error ${response.status}: ${message}`);
       if (!retryable) throw lastError;
     } catch (error) {
       lastError = error;
+      if (isQuotaExceededError(error)) throw error;
       if (error.message?.startsWith('YouTube API error') && !/HTTP (408|429|5\d\d)/u.test(error.message)) {
         throw error;
       }
@@ -307,25 +322,35 @@ export async function buildCatalog({
     : Math.max(Math.min(Number(maxSearchCalls) || 0, queries.length * pagesPerQuery), 0);
   const nextPageTokens = new Map();
   let searchCallsUsed = 0;
+  let quotaExceeded = false;
 
   // Fetch page 1 for every query before fetching page 2. This keeps discovery broad
   // when the global daily search budget is smaller than queries * pages.
+  searchLoop:
   for (let pageIndex = 0; pageIndex < pagesPerQuery && searchCallsUsed < searchCallLimit; pageIndex += 1) {
     for (const keyword of queries) {
       if (searchCallsUsed >= searchCallLimit) break;
       const pageToken = pageIndex === 0 ? undefined : nextPageTokens.get(keyword);
       if (pageIndex > 0 && !pageToken) continue;
 
-      const response = await searchByKeyword(keyword, {
-        apiKey,
-        publishedAfter,
-        maxResults: Math.min(Math.max(Number(keywordConfig.maxResultsPerQuery) || 50, 1), 50),
-        regionCode: keywordConfig.regionCode,
-        language: keywordConfig.language,
-        pageToken,
-        fetchImpl,
-        sleepFn,
-      });
+      let response;
+      try {
+        response = await searchByKeyword(keyword, {
+          apiKey,
+          publishedAfter,
+          maxResults: Math.min(Math.max(Number(keywordConfig.maxResultsPerQuery) || 50, 1), 50),
+          regionCode: keywordConfig.regionCode,
+          language: keywordConfig.language,
+          pageToken,
+          fetchImpl,
+          sleepFn,
+        });
+      } catch (error) {
+        if (!isQuotaExceededError(error)) throw error;
+        quotaExceeded = true;
+        console.warn(`${keywordConfig.code || 'global'}: YouTube search quota exhausted; saving partial results and stopping discovery.`);
+        break searchLoop;
+      }
       searchCallsUsed += 1;
       if (response.nextPageToken) nextPageTokens.set(keyword, response.nextPageToken);
       for (const result of response.results) {
@@ -337,12 +362,41 @@ export async function buildCatalog({
   }
 
   const existingVideos = Array.isArray(existingCatalog.videos) ? existingCatalog.videos : [];
-  const existingById = new Map(existingVideos.filter(video => video?.videoId).map(video => [video.videoId, video]));
+  // Keep the first occurrence of every existing ID. This lets us preserve the
+  // catalog's append-only order while preventing legacy duplicate rows from
+  // being copied forward.
+  const existingById = new Map();
+  for (const video of existingVideos) {
+    if (video?.videoId && !existingById.has(video.videoId)) existingById.set(video.videoId, video);
+  }
   const allIds = unique([...existingById.keys(), ...discovered.keys()]);
-  const infoMap = await getVideoInfo(allIds, { apiKey, fetchImpl, sleepFn });
+  let infoMap;
+  try {
+    infoMap = await getVideoInfo(allIds, { apiKey, fetchImpl, sleepFn });
+  } catch (error) {
+    if (!isQuotaExceededError(error)) throw error;
+    console.warn(`${keywordConfig.code || 'global'}: YouTube metadata quota exhausted; keeping the existing catalog unchanged.`);
+    return {
+      ...existingCatalog,
+      criteria,
+      runStatus: 'partial_quota',
+    };
+  }
   const nextVideos = [];
+  const copiedExistingIds = new Set();
 
-  for (const [videoId, existing] of existingById) {
+  // Update records in their original order. Existing records are never
+  // replaced by the newly discovered list; only their metadata/status changes.
+  for (const existing of existingVideos) {
+    if (!existing?.videoId) {
+      // Preserve legacy/non-video records rather than deleting unknown data.
+      nextVideos.push(existing);
+      continue;
+    }
+    if (copiedExistingIds.has(existing.videoId)) continue;
+    copiedExistingIds.add(existing.videoId);
+
+    const videoId = existing.videoId;
     const info = infoMap.get(videoId);
     if (!info) {
       nextVideos.push(unavailableRecord(existing, nowIso));
@@ -374,16 +428,12 @@ export async function buildCatalog({
     });
   }
 
-  nextVideos.sort((left, right) => {
-    if (left.status !== right.status) return left.status === 'available' ? -1 : 1;
-    return String(right.publishedAt || '').localeCompare(String(left.publishedAt || ''));
-  });
-
   const oldVideos = JSON.stringify(existingVideos);
   const newVideos = JSON.stringify(nextVideos);
   return {
     generatedAt: oldVideos === newVideos && existingCatalog.generatedAt ? existingCatalog.generatedAt : nowIso,
     criteria,
+    runStatus: quotaExceeded ? 'partial_quota' : 'complete',
     videos: nextVideos,
   };
 }
@@ -445,8 +495,12 @@ export async function main() {
     });
     const available = catalog.videos.filter(video => video.status === 'available').length;
     const unavailable = catalog.videos.length - available;
-    console.log(`${countryConfig.code}: ${available} available, ${unavailable} unavailable (${countrySearchBudget} search-call budget)`);
+    console.log(`${countryConfig.code}: ${available} available, ${unavailable} unavailable (${countrySearchBudget} search-call budget, ${catalog.runStatus})`);
     outputs.push({ catalog, catalogPath });
+    if (catalog.runStatus === 'partial_quota') {
+      console.warn(`Stopping after ${countryConfig.code}; remaining countries will keep their previous catalogs until quota resets.`);
+      break;
+    }
   }
 
   if (process.env.DRY_RUN === '1') {

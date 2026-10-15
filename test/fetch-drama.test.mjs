@@ -140,6 +140,53 @@ test('deduplicates results, marks unavailable videos and restores recovered vide
   assert.equal(result.videos.find(video => video.videoId === 'recovered').status, 'available');
   assert.equal(result.videos.some(video => video.videoId === 'trailer'), false);
   assert.equal(result.videos.every(video => video.videoId !== 'new-1' || video.durationSeconds >= 1800), true);
+  assert.deepEqual(result.videos.map(video => video.videoId), ['old', 'recovered', 'new-1']);
+});
+
+test('updates existing IDs in place and appends only genuinely new videos', async () => {
+  const fetchImpl = async url => {
+    const parsed = new URL(url);
+    if (parsed.pathname.endsWith('/search')) {
+      return new Response(JSON.stringify({
+        items: [
+          { id: { videoId: 'existing' }, snippet: { title: 'Updated AI Drama' } },
+          { id: { videoId: 'new-video' }, snippet: { title: 'New AI Drama' } },
+        ],
+      }), { status: 200 });
+    }
+    const ids = parsed.searchParams.get('id').split(',');
+    return new Response(JSON.stringify({
+      items: ids
+        .filter(id => id !== 'untouched')
+        .map(id => videoInfo({ id, title: `AI Drama ${id}`, duration: 'PT40M' })),
+    }), { status: 200 });
+  };
+
+  const result = await buildCatalog({
+    apiKey: 'test-key',
+    now: new Date('2026-10-15T00:00:00Z'),
+    fetchImpl,
+    sleepFn: async () => {},
+    keywordConfig: {
+      language: 'en',
+      regionCode: 'US',
+      queries: ['AI drama movie'],
+      minDurationSeconds: 1800,
+    },
+    existingCatalog: {
+      generatedAt: '2026-10-14T00:00:00.000Z',
+      videos: [
+        { videoId: 'existing', title: 'Old title', status: 'available', matchedKeywords: ['old query'] },
+        { videoId: 'untouched', title: 'Keep this record', status: 'unavailable', matchedKeywords: [] },
+      ],
+    },
+  });
+
+  assert.deepEqual(result.videos.map(video => video.videoId), ['existing', 'untouched', 'new-video']);
+  assert.equal(result.videos.filter(video => video.videoId === 'existing').length, 1);
+  assert.equal(result.videos.find(video => video.videoId === 'existing').title, 'AI Drama existing');
+  assert.equal(result.videos.find(video => video.videoId === 'untouched').status, 'unavailable');
+  assert.deepEqual(result.videos.find(video => video.videoId === 'existing').matchedKeywords, ['AI drama movie', 'old query']);
 });
 
 test('retries transient YouTube API failures', async () => {
@@ -202,4 +249,46 @@ test('paginates search results when a second page is available', async () => {
   assert.equal(searchUrls.length, 2);
   assert.equal(searchUrls[1].searchParams.get('pageToken'), 'page-2');
   assert.deepEqual(result.videos.map(video => video.videoId).sort(), ['page-one', 'page-two']);
+});
+
+test('saves partial results and stops cleanly when search quota is exhausted', async () => {
+  let searchCalls = 0;
+  const fetchImpl = async url => {
+    const parsed = new URL(url);
+    if (parsed.pathname.endsWith('/search')) {
+      searchCalls += 1;
+      if (searchCalls === 1) {
+        return new Response(JSON.stringify({
+          items: [{ id: { videoId: 'partial-1' }, snippet: { title: 'AI Drama Partial', channelTitle: 'Channel' } }],
+        }), { status: 200 });
+      }
+      return new Response(JSON.stringify({
+        error: {
+          message: 'Quota exceeded for quota metric Search Queries',
+          errors: [{ reason: 'quotaExceeded' }],
+        },
+      }), { status: 429 });
+    }
+    return new Response(JSON.stringify({
+      items: [videoInfo({ id: 'partial-1', title: 'AI Drama Partial', duration: 'PT40M' })],
+    }), { status: 200 });
+  };
+
+  const result = await buildCatalog({
+    apiKey: 'test-key',
+    now: new Date('2026-10-15T00:00:00Z'),
+    fetchImpl,
+    sleepFn: async () => { throw new Error('quota errors must not be retried'); },
+    keywordConfig: {
+      language: 'en',
+      regionCode: 'US',
+      queries: ['AI drama movie', 'AI robot movie'],
+      pagesPerQuery: 1,
+      minDurationSeconds: 1800,
+    },
+  });
+
+  assert.equal(searchCalls, 2);
+  assert.equal(result.runStatus, 'partial_quota');
+  assert.deepEqual(result.videos.map(video => video.videoId), ['partial-1']);
 });
