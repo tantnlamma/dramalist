@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "countryCode": "tr",
+    "regionCode": "TR",
+    "language": "tr",
+    "aiOnly": true,
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160
+  },
+  "videos": []
+}

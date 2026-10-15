@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "countryCode": "br",
+    "regionCode": "BR",
+    "language": "pt",
+    "aiOnly": true,
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160
+  },
+  "videos": []
+}

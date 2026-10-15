@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "countryCode": "jp",
+    "regionCode": "JP",
+    "language": "ja",
+    "aiOnly": true,
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160
+  },
+  "videos": []
+}

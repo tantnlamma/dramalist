@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "countryCode": "fr",
+    "regionCode": "FR",
+    "language": "fr",
+    "aiOnly": true,
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160
+  },
+  "videos": []
+}

@@ -1,16 +1,150 @@
 {
-  "language": "en",
-  "lookbackHours": 72,
+  "lookbackHours": 2160,
   "minDurationSeconds": 1800,
   "maxResultsPerQuery": 50,
-  "queries": [
-    "english full drama movie",
-    "english drama full movie",
-    "english short drama full movie",
-    "new english drama movie",
-    "english full film drama",
-    "english drama full episode",
-    "english drama series full episode",
-    "english romantic drama full movie"
+  "countries": [
+    {
+      "code": "us",
+      "regionCode": "US",
+      "language": "en",
+      "aiKeywords": ["artificial intelligence", "ai", "robot", "android", "cyborg", "machine learning"],
+      "queries": [
+        "artificial intelligence full movie",
+        "AI science fiction drama full movie",
+        "robot android drama full movie",
+        "AI future movie full film",
+        "artificial intelligence short drama full movie"
+      ]
+    },
+    {
+      "code": "in",
+      "regionCode": "IN",
+      "language": "hi",
+      "aiKeywords": ["artificial intelligence", "ai", "robot", "android", "कृत्रिम बुद्धिमत्ता", "रोबोट", "रोबोटिक"],
+      "queries": [
+        "AI movie full hindi",
+        "artificial intelligence hindi movie full",
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी",
+        "रोबोट फिल्म पूरी हिंदी",
+        "AI drama movie hindi full"
+      ]
+    },
+    {
+      "code": "kr",
+      "regionCode": "KR",
+      "language": "ko",
+      "aiKeywords": ["ai", "인공지능", "로봇", "안드로이드", "사이보그", "머신러닝"],
+      "queries": [
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전",
+        "로봇 영화 전체",
+        "안드로이드 영화 풀버전",
+        "AI 드라마 영화"
+      ]
+    },
+    {
+      "code": "jp",
+      "regionCode": "JP",
+      "language": "ja",
+      "aiKeywords": ["ai", "人工知能", "ロボット", "アンドロイド", "サイボーグ", "機械学習"],
+      "queries": [
+        "AI 映画 フル",
+        "人工知能 映画 フル",
+        "ロボット 映画 完全版",
+        "アンドロイド 映画 フル",
+        "AI ドラマ 映画"
+      ]
+    },
+    {
+      "code": "cn",
+      "regionCode": "CN",
+      "language": "zh",
+      "aiKeywords": ["ai", "人工智能", "机器人", "安卓", "仿生人", "机器学习"],
+      "queries": [
+        "人工智能 电影 完整版",
+        "AI 科幻电影 完整版",
+        "机器人 电影 完整版",
+        "仿生人 电影 全集",
+        "人工智能 剧情电影"
+      ]
+    },
+    {
+      "code": "es",
+      "regionCode": "ES",
+      "language": "es",
+      "aiKeywords": ["inteligencia artificial", "ia", "robot", "androide", "ciborg", "aprendizaje automático"],
+      "queries": [
+        "película completa inteligencia artificial",
+        "película de ciencia ficción IA completa",
+        "película robot completa en español",
+        "película androide drama completa",
+        "drama IA película completa"
+      ]
+    },
+    {
+      "code": "br",
+      "regionCode": "BR",
+      "language": "pt",
+      "aiKeywords": ["inteligência artificial", "ia", "robô", "androide", "ciborgue", "aprendizado de máquina"],
+      "queries": [
+        "filme completo inteligência artificial",
+        "filme de ficção científica IA completo",
+        "filme de robô completo português",
+        "filme androide drama completo",
+        "drama IA filme completo"
+      ]
+    },
+    {
+      "code": "fr",
+      "regionCode": "FR",
+      "language": "fr",
+      "aiKeywords": ["intelligence artificielle", "ia", "robot", "androïde", "cyborg", "apprentissage automatique"],
+      "queries": [
+        "film complet intelligence artificielle",
+        "film science fiction IA complet",
+        "film robot complet français",
+        "film androïde drame complet",
+        "drame IA film complet"
+      ]
+    },
+    {
+      "code": "de",
+      "regionCode": "DE",
+      "language": "de",
+      "aiKeywords": ["künstliche intelligenz", "ki", "roboter", "android", "cyborg", "maschinelles lernen"],
+      "queries": [
+        "künstliche Intelligenz Film komplett",
+        "KI Science Fiction Film komplett",
+        "Roboter Film komplett deutsch",
+        "Android Drama Film komplett",
+        "KI Drama Film vollständig"
+      ]
+    },
+    {
+      "code": "tr",
+      "regionCode": "TR",
+      "language": "tr",
+      "aiKeywords": ["yapay zeka", "yapay zekâ", "robot", "android", "siborg", "makine öğrenmesi"],
+      "queries": [
+        "yapay zeka filmi full",
+        "yapay zeka bilim kurgu filmi full",
+        "robot filmi full türkçe",
+        "android dram filmi full",
+        "yapay zeka drama filmi"
+      ]
+    },
+    {
+      "code": "id",
+      "regionCode": "ID",
+      "language": "id",
+      "aiKeywords": ["kecerdasan buatan", "ai", "robot", "android", "sibernetik", "pembelajaran mesin"],
+      "queries": [
+        "film kecerdasan buatan full",
+        "film fiksi ilmiah AI lengkap",
+        "film robot lengkap bahasa indonesia",
+        "film android drama lengkap",
+        "film drama AI lengkap"
+      ]
+    }
   ]
 }

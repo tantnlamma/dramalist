@@ -12,7 +12,8 @@ import {
 
 function videoInfo({
   id = 'video-1',
-  title = 'English Full Drama Movie',
+  title = 'AI English Full Drama Movie',
+  description = 'A complete AI English drama film story.',
   duration = 'PT30M',
   privacyStatus = 'public',
   liveBroadcastContent = 'none',
@@ -23,7 +24,7 @@ function videoInfo({
     id,
     snippet: {
       title,
-      description: 'A complete English drama film story.',
+      description,
       channelId: 'channel-1',
       channelTitle: 'Drama Channel',
       publishedAt: '2026-10-15T00:00:00Z',
@@ -51,6 +52,7 @@ test('decodes HTML entities and encodes YouTube URLs', () => {
 test('accepts exactly 30 minutes and rejects shorter, live, vertical, private and excluded videos', () => {
   const excludeConfig = { keywords: ['trailer'], patterns: ['(?:^|\\s)#?shorts(?:\\s|$)'] };
   assert.equal(isEligibleVideo(videoInfo({ duration: 'PT30M' }), { minDurationSeconds: 1800 }, excludeConfig), true);
+  assert.equal(isEligibleVideo(videoInfo({ title: 'English Full Drama Movie', description: 'A complete English drama film story.' }), { minDurationSeconds: 1800 }, excludeConfig), false);
   assert.equal(isEligibleVideo(videoInfo({ duration: 'PT29M59S' }), { minDurationSeconds: 1800 }, excludeConfig), false);
   assert.equal(isEligibleVideo(videoInfo({ liveBroadcastContent: 'live' }), {}, excludeConfig), false);
   assert.equal(isEligibleVideo(videoInfo({ width: 720, height: 1280 }), {}, excludeConfig), false);
@@ -69,18 +71,18 @@ test('deduplicates results, marks unavailable videos and restores recovered vide
   const calls = [];
   const responses = {
     'english full drama movie': [
-      { id: { videoId: 'new-1' }, snippet: { title: 'New &amp; Drama', channelTitle: 'Channel' } },
-      { id: { videoId: 'recovered' }, snippet: { title: 'Recovered', channelTitle: 'Channel' } },
+      { id: { videoId: 'new-1' }, snippet: { title: 'New AI &amp; Drama', channelTitle: 'Channel' } },
+      { id: { videoId: 'recovered' }, snippet: { title: 'AI Recovered', channelTitle: 'Channel' } },
     ],
     'english drama full movie': [
-      { id: { videoId: 'new-1' }, snippet: { title: 'Duplicate', channelTitle: 'Channel' } },
-      { id: { videoId: 'trailer' }, snippet: { title: 'Drama Trailer', channelTitle: 'Channel' } },
+      { id: { videoId: 'new-1' }, snippet: { title: 'AI Duplicate', channelTitle: 'Channel' } },
+      { id: { videoId: 'trailer' }, snippet: { title: 'AI Drama Trailer', channelTitle: 'Channel' } },
     ],
   };
   const details = new Map([
-    ['new-1', videoInfo({ id: 'new-1', title: 'New & Drama', duration: 'PT45M' })],
-    ['recovered', videoInfo({ id: 'recovered', title: 'Recovered Full Drama', duration: 'PT35M' })],
-    ['trailer', videoInfo({ id: 'trailer', title: 'Drama Trailer', duration: 'PT45M' })],
+    ['new-1', videoInfo({ id: 'new-1', title: 'New & Drama AI', duration: 'PT45M' })],
+    ['recovered', videoInfo({ id: 'recovered', title: 'AI Recovered Full Drama', duration: 'PT35M' })],
+    ['trailer', videoInfo({ id: 'trailer', title: 'AI Drama Trailer', duration: 'PT45M' })],
   ]);
   const fetchImpl = async url => {
     calls.push(String(url));
@@ -99,7 +101,8 @@ test('deduplicates results, marks unavailable videos and restores recovered vide
     sleepFn: async () => {},
     keywordConfig: {
       language: 'en',
-      lookbackHours: 72,
+      regionCode: 'US',
+      lookbackHours: 2160,
       minDurationSeconds: 1800,
       queries: Object.keys(responses),
     },
@@ -127,6 +130,10 @@ test('deduplicates results, marks unavailable videos and restores recovered vide
   });
 
   assert.equal(calls.filter(call => call.includes('/search?')).length, 2);
+  const firstSearch = new URL(calls.find(call => call.includes('/search?')));
+  assert.equal(firstSearch.searchParams.get('regionCode'), 'US');
+  assert.equal(firstSearch.searchParams.get('relevanceLanguage'), 'en');
+  assert.equal(new Date(now).getTime() - new Date(firstSearch.searchParams.get('publishedAfter')).getTime(), 2160 * 3_600_000);
   assert.equal(result.videos.filter(video => video.videoId === 'new-1').length, 1);
   assert.deepEqual(result.videos.find(video => video.videoId === 'new-1').matchedKeywords, [...Object.keys(responses)].sort());
   assert.equal(result.videos.find(video => video.videoId === 'old').status, 'unavailable');

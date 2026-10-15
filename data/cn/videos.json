@@ -1,0 +1,12 @@
+{
+  "generatedAt": null,
+  "criteria": {
+    "countryCode": "cn",
+    "regionCode": "CN",
+    "language": "zh",
+    "aiOnly": true,
+    "minDurationSeconds": 1800,
+    "lookbackHours": 2160
+  },
+  "videos": []
+}

@@ -1,4 +1,4 @@
-import { readFile, rename, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import path from 'node:path';
 
@@ -6,16 +6,34 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const API_BASE = 'https://www.googleapis.com/youtube/v3';
 const KEYWORDS_PATH = path.join(ROOT, 'config', 'keywords.json');
 const EXCLUDE_PATH = path.join(ROOT, 'config', 'exclude-keywords.json');
-const CATALOG_PATH = path.join(ROOT, 'data', 'videos.json');
 const RETRIES = 3;
 const RETRY_DELAYS_MS = [500, 1_000, 2_000];
+const DEFAULT_AI_KEYWORDS = [
+  'artificial intelligence',
+  'intelligence artificielle',
+  'inteligencia artificial',
+  'inteligência artificial',
+  'künstliche intelligenz',
+  'yapay zeka',
+  'kecerdasan buatan',
+  '人工智能',
+  '人工知能',
+  '인공지능',
+  'कृत्रिम बुद्धिमत्ता',
+  'robot',
+  'robotics',
+  'robotic',
+  'android',
+  'cyborg',
+  'ai',
+];
 
 const DEFAULT_KEYWORDS = {
-  language: 'en',
-  lookbackHours: 72,
+  lookbackHours: 2_160,
   minDurationSeconds: 1_800,
   maxResultsPerQuery: 50,
   queries: [],
+  aiKeywords: DEFAULT_AI_KEYWORDS,
 };
 
 function sleep(ms) {
@@ -87,10 +105,25 @@ function isLive(info) {
 
 function hasDramaSignal({ title, description, channelTitle }) {
   const haystack = normalize(`${title} ${description} ${channelTitle}`);
-  return /\b(?:drama|movie|film|episode|series|story|full\s+length)\b/u.test(haystack);
+  return /(?:\b(?:drama|movie|film|episode|series|story|full\s+length)\b|영화|드라마|エイガ|映画|电影|影片|फिल्म|फ़िल्म|película|filme|film|film completa|film complet)/iu.test(haystack);
 }
 
-export function isEligibleVideo(info, { minDurationSeconds = 1_800 } = {}, excludeConfig = {}) {
+function hasAiSignal({ title, description, channelTitle }, aiKeywords = DEFAULT_AI_KEYWORDS) {
+  const haystack = normalize(`${title} ${description} ${channelTitle}`);
+  return aiKeywords.some(keyword => {
+    const normalizedKeyword = normalize(keyword);
+    if (!normalizedKeyword) return false;
+    if (/^[\p{L}\p{N} ]+$/u.test(normalizedKeyword) && normalizedKeyword.includes(' ')) {
+      return haystack.includes(normalizedKeyword);
+    }
+    if (/^[a-z0-9]+$/u.test(normalizedKeyword)) {
+      return new RegExp(`\\b${normalizedKeyword.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\$&')}\\b`, 'iu').test(haystack);
+    }
+    return haystack.includes(normalizedKeyword);
+  });
+}
+
+export function isEligibleVideo(info, { minDurationSeconds = 1_800, aiKeywords = DEFAULT_AI_KEYWORDS } = {}, excludeConfig = {}) {
   if (!info?.id) return false;
   const metadata = {
     title: info.snippet?.title,
@@ -105,6 +138,7 @@ export function isEligibleVideo(info, { minDurationSeconds = 1_800 } = {}, exclu
     durationSeconds != null &&
     durationSeconds >= minDurationSeconds &&
     hasDramaSignal(metadata) &&
+    hasAiSignal(metadata, aiKeywords) &&
     !isExcludedVideo(metadata, excludeConfig)
   );
 }
@@ -146,7 +180,7 @@ function apiUrl(endpoint, params, apiKey) {
   return url;
 }
 
-async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, fetchImpl, sleepFn }) {
+async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, regionCode, language, fetchImpl, sleepFn }) {
   const url = apiUrl('search', {
     part: 'snippet',
     type: 'video',
@@ -155,6 +189,8 @@ async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, fe
     publishedAfter,
     maxResults,
     q: keyword,
+    regionCode,
+    relevanceLanguage: language,
   }, apiKey);
   const data = await fetchJson(url, { fetchImpl, sleepFn });
   return (data.items || [])
@@ -247,7 +283,12 @@ export async function buildCatalog({
     minDurationSeconds: Number(keywordConfig.minDurationSeconds) || 1_800,
     lookbackHours: Number(keywordConfig.lookbackHours) || 72,
     language: keywordConfig.language || 'en',
+    countryCode: keywordConfig.code || 'global',
+    regionCode: keywordConfig.regionCode || null,
+    aiOnly: true,
   };
+  const aiKeywords = keywordConfig.aiKeywords?.length ? keywordConfig.aiKeywords : DEFAULT_AI_KEYWORDS;
+  criteria.aiKeywords = aiKeywords;
   const queries = unique(keywordConfig.queries || []);
   if (!queries.length) throw new Error('No YouTube search queries configured');
 
@@ -258,6 +299,8 @@ export async function buildCatalog({
       apiKey,
       publishedAfter,
       maxResults: Math.min(Math.max(Number(keywordConfig.maxResultsPerQuery) || 50, 1), 50),
+      regionCode: keywordConfig.regionCode,
+      language: keywordConfig.language,
       fetchImpl,
       sleepFn,
     });
@@ -329,30 +372,54 @@ async function readJson(filePath, fallback = null) {
   }
 }
 
-async function writeCatalogAtomically(catalog) {
-  const temporaryPath = `${CATALOG_PATH}.tmp`;
+async function writeCatalogAtomically(catalog, catalogPath) {
+  await mkdir(path.dirname(catalogPath), { recursive: true });
+  const temporaryPath = `${catalogPath}.tmp`;
   await writeFile(temporaryPath, `${JSON.stringify(catalog, null, 2)}\n`, 'utf8');
-  await rename(temporaryPath, CATALOG_PATH);
+  await rename(temporaryPath, catalogPath);
+}
+
+function countryCatalogPath(code) {
+  if (!/^[a-z0-9-]+$/u.test(code)) throw new Error(`Invalid country code: ${code}`);
+  return path.join(ROOT, 'data', code, 'videos.json');
+}
+
+function getCountryConfigs(config) {
+  if (Array.isArray(config.countries) && config.countries.length) {
+    return config.countries.map(country => ({
+      ...config,
+      ...country,
+      queries: country.queries || [],
+    }));
+  }
+  return [{ ...config, code: config.code || 'global' }];
 }
 
 export async function main() {
   const apiKey = process.env.YOUTUBE_API_KEY;
-  const [keywordConfig, excludeConfig, existingCatalog] = await Promise.all([
+  const [keywordConfig, excludeConfig] = await Promise.all([
     readJson(KEYWORDS_PATH, DEFAULT_KEYWORDS),
     readJson(EXCLUDE_PATH, {}),
-    readJson(CATALOG_PATH, { videos: [] }),
   ]);
-  const catalog = await buildCatalog({ apiKey, keywordConfig, excludeConfig, existingCatalog });
-  const available = catalog.videos.filter(video => video.status === 'available').length;
-  const unavailable = catalog.videos.length - available;
-  console.log(`Catalog: ${available} available, ${unavailable} unavailable`);
+  const countryConfigs = getCountryConfigs(keywordConfig);
+  const outputs = [];
+
+  for (const countryConfig of countryConfigs) {
+    const catalogPath = countryCatalogPath(countryConfig.code);
+    const existingCatalog = await readJson(catalogPath, { videos: [] });
+    const catalog = await buildCatalog({ apiKey, keywordConfig: countryConfig, excludeConfig, existingCatalog });
+    const available = catalog.videos.filter(video => video.status === 'available').length;
+    const unavailable = catalog.videos.length - available;
+    console.log(`${countryConfig.code}: ${available} available, ${unavailable} unavailable`);
+    outputs.push({ catalog, catalogPath });
+  }
 
   if (process.env.DRY_RUN === '1') {
-    console.log('DRY_RUN=1: catalog was not written');
-    return catalog;
+    console.log('DRY_RUN=1: catalogs were not written');
+    return outputs.map(output => output.catalog);
   }
-  await writeCatalogAtomically(catalog);
-  return catalog;
+  for (const output of outputs) await writeCatalogAtomically(output.catalog, output.catalogPath);
+  return outputs.map(output => output.catalog);
 }
 
 const invokedPath = process.argv[1] ? pathToFileURL(path.resolve(process.argv[1])).href : null;
