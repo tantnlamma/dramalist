@@ -32,6 +32,8 @@ const DEFAULT_KEYWORDS = {
   lookbackHours: 2_160,
   minDurationSeconds: 1_800,
   maxResultsPerQuery: 50,
+  pagesPerQuery: 2,
+  searchBudgetPerRun: 95,
   queries: [],
   aiKeywords: DEFAULT_AI_KEYWORDS,
 };
@@ -180,7 +182,7 @@ function apiUrl(endpoint, params, apiKey) {
   return url;
 }
 
-async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, regionCode, language, fetchImpl, sleepFn }) {
+async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, regionCode, language, pageToken, fetchImpl, sleepFn }) {
   const url = apiUrl('search', {
     part: 'snippet',
     type: 'video',
@@ -191,16 +193,20 @@ async function searchByKeyword(keyword, { apiKey, publishedAfter, maxResults, re
     q: keyword,
     regionCode,
     relevanceLanguage: language,
+    pageToken,
   }, apiKey);
   const data = await fetchJson(url, { fetchImpl, sleepFn });
-  return (data.items || [])
-    .filter(item => item.id?.videoId)
-    .map(item => ({
-      videoId: item.id.videoId,
-      matchedKeyword: keyword,
-      searchTitle: decodeHtmlEntities(item.snippet?.title),
-      searchChannelTitle: decodeHtmlEntities(item.snippet?.channelTitle),
-    }));
+  return {
+    nextPageToken: data.nextPageToken || null,
+    results: (data.items || [])
+      .filter(item => item.id?.videoId)
+      .map(item => ({
+        videoId: item.id.videoId,
+        matchedKeyword: keyword,
+        searchTitle: decodeHtmlEntities(item.snippet?.title),
+        searchChannelTitle: decodeHtmlEntities(item.snippet?.channelTitle),
+      })),
+  };
 }
 
 async function getVideoInfo(videoIds, { apiKey, fetchImpl, sleepFn }) {
@@ -273,6 +279,7 @@ export async function buildCatalog({
   keywordConfig = DEFAULT_KEYWORDS,
   excludeConfig = {},
   apiKey,
+  maxSearchCalls = null,
   now = new Date(),
   fetchImpl = fetch,
   sleepFn = sleep,
@@ -294,20 +301,38 @@ export async function buildCatalog({
 
   const publishedAfter = new Date(new Date(now).getTime() - criteria.lookbackHours * 3_600_000).toISOString();
   const discovered = new Map();
-  for (const keyword of queries) {
-    const results = await searchByKeyword(keyword, {
-      apiKey,
-      publishedAfter,
-      maxResults: Math.min(Math.max(Number(keywordConfig.maxResultsPerQuery) || 50, 1), 50),
-      regionCode: keywordConfig.regionCode,
-      language: keywordConfig.language,
-      fetchImpl,
-      sleepFn,
-    });
-    for (const result of results) {
-      const previous = discovered.get(result.videoId) || { videoId: result.videoId, keywords: [] };
-      previous.keywords = mergeKeywords(previous.keywords, [result.matchedKeyword]);
-      discovered.set(result.videoId, previous);
+  const pagesPerQuery = Math.min(Math.max(Number(keywordConfig.pagesPerQuery) || 1, 1), 10);
+  const searchCallLimit = maxSearchCalls == null
+    ? queries.length * pagesPerQuery
+    : Math.max(Math.min(Number(maxSearchCalls) || 0, queries.length * pagesPerQuery), 0);
+  const nextPageTokens = new Map();
+  let searchCallsUsed = 0;
+
+  // Fetch page 1 for every query before fetching page 2. This keeps discovery broad
+  // when the global daily search budget is smaller than queries * pages.
+  for (let pageIndex = 0; pageIndex < pagesPerQuery && searchCallsUsed < searchCallLimit; pageIndex += 1) {
+    for (const keyword of queries) {
+      if (searchCallsUsed >= searchCallLimit) break;
+      const pageToken = pageIndex === 0 ? undefined : nextPageTokens.get(keyword);
+      if (pageIndex > 0 && !pageToken) continue;
+
+      const response = await searchByKeyword(keyword, {
+        apiKey,
+        publishedAfter,
+        maxResults: Math.min(Math.max(Number(keywordConfig.maxResultsPerQuery) || 50, 1), 50),
+        regionCode: keywordConfig.regionCode,
+        language: keywordConfig.language,
+        pageToken,
+        fetchImpl,
+        sleepFn,
+      });
+      searchCallsUsed += 1;
+      if (response.nextPageToken) nextPageTokens.set(keyword, response.nextPageToken);
+      for (const result of response.results) {
+        const previous = discovered.get(result.videoId) || { videoId: result.videoId, keywords: [] };
+        previous.keywords = mergeKeywords(previous.keywords, [result.matchedKeyword]);
+        discovered.set(result.videoId, previous);
+      }
     }
   }
 
@@ -403,14 +428,24 @@ export async function main() {
   ]);
   const countryConfigs = getCountryConfigs(keywordConfig);
   const outputs = [];
+  const totalSearchBudget = Math.max(Math.min(Number(keywordConfig.searchBudgetPerRun) || 95, 100), 1);
+  const baseBudget = Math.floor(totalSearchBudget / countryConfigs.length);
+  const extraBudget = totalSearchBudget % countryConfigs.length;
 
-  for (const countryConfig of countryConfigs) {
+  for (const [index, countryConfig] of countryConfigs.entries()) {
     const catalogPath = countryCatalogPath(countryConfig.code);
     const existingCatalog = await readJson(catalogPath, { videos: [] });
-    const catalog = await buildCatalog({ apiKey, keywordConfig: countryConfig, excludeConfig, existingCatalog });
+    const countrySearchBudget = baseBudget + (index < extraBudget ? 1 : 0);
+    const catalog = await buildCatalog({
+      apiKey,
+      keywordConfig: countryConfig,
+      excludeConfig,
+      existingCatalog,
+      maxSearchCalls: countrySearchBudget,
+    });
     const available = catalog.videos.filter(video => video.status === 'available').length;
     const unavailable = catalog.videos.length - available;
-    console.log(`${countryConfig.code}: ${available} available, ${unavailable} unavailable`);
+    console.log(`${countryConfig.code}: ${available} available, ${unavailable} unavailable (${countrySearchBudget} search-call budget)`);
     outputs.push({ catalog, catalogPath });
   }
 

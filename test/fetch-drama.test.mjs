@@ -165,3 +165,41 @@ test('retries transient YouTube API failures', async () => {
   assert.equal(attempts, 3);
   assert.deepEqual(result.videos, []);
 });
+
+test('paginates search results when a second page is available', async () => {
+  const searchUrls = [];
+  const fetchImpl = async url => {
+    const parsed = new URL(url);
+    if (parsed.pathname.endsWith('/search')) {
+      searchUrls.push(parsed);
+      const secondPage = parsed.searchParams.get('pageToken') === 'page-2';
+      const id = secondPage ? 'page-two' : 'page-one';
+      return new Response(JSON.stringify({
+        items: [{ id: { videoId: id }, snippet: { title: `AI Drama ${id}`, channelTitle: 'Channel' } }],
+        ...(secondPage ? {} : { nextPageToken: 'page-2' }),
+      }), { status: 200 });
+    }
+    const ids = new URL(url).searchParams.get('id').split(',');
+    return new Response(JSON.stringify({
+      items: ids.map(id => videoInfo({ id, title: `AI Drama ${id}`, duration: 'PT40M' })),
+    }), { status: 200 });
+  };
+
+  const result = await buildCatalog({
+    apiKey: 'test-key',
+    now: new Date('2026-10-15T00:00:00Z'),
+    fetchImpl,
+    sleepFn: async () => {},
+    keywordConfig: {
+      language: 'en',
+      regionCode: 'US',
+      queries: ['artificial intelligence drama movie'],
+      pagesPerQuery: 2,
+      minDurationSeconds: 1800,
+    },
+  });
+
+  assert.equal(searchUrls.length, 2);
+  assert.equal(searchUrls[1].searchParams.get('pageToken'), 'page-2');
+  assert.deepEqual(result.videos.map(video => video.videoId).sort(), ['page-one', 'page-two']);
+});

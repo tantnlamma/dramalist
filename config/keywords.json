@@ -2,6 +2,8 @@
   "lookbackHours": 2160,
   "minDurationSeconds": 1800,
   "maxResultsPerQuery": 50,
+  "pagesPerQuery": 2,
+  "searchBudgetPerRun": 95,
   "countries": [
     {
       "code": "us",
