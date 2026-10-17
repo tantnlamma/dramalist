@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:02.264Z",
+  "generatedAt": "2026-10-17T02:51:12.918Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "머신러닝"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "1BX6_gOEp5w",
@@ -34,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -201,13 +202,14 @@
       "publishedAt": "2026-09-22T11:17:54Z",
       "durationSeconds": 2951,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -227,7 +229,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -265,7 +267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -284,7 +286,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -304,7 +306,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -324,7 +326,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -344,7 +346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -364,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -383,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +404,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -421,7 +423,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -435,12 +437,13 @@
       "publishedAt": "2026-08-18T08:25:30Z",
       "durationSeconds": 2944,
       "matchedKeywords": [
-        "AI 영화 풀버전"
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -460,7 +463,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -480,7 +483,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -499,7 +502,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -519,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -539,7 +542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -558,7 +561,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -578,7 +581,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -598,7 +601,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -618,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     },
     {
@@ -657,6 +660,272 @@
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
       "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "--YuxB9ac7o",
+      "url": "https://www.youtube.com/watch?v=--YuxB9ac7o",
+      "title": "60분 순삭 몰아보기｜붉은 달이 뜬 뒤 세상이 무너졌다｜RED MOON EP.1~8 몰아보",
+      "description": "붉은 달이 뜬 뒤, 우리가 알던 현실이 무너지기 시작했다.\n〈RED MOON 붉은달〉 EP.1~8을 한 번에 감상하는 60분 몰아보기입니다.\n\n나락으로 떨어진 K-POP 아이돌 한지수.\n제주도에서 정체불명의 괴물들에게 쫓기던 그녀 앞에\n다른 세계에서 돌아온 남자, 백호가 나타난다.\n\n그리고 서울 강남을 뒤덮은 괴물들,\n대통령 앞에서 밝혀지는 붉은 달의 진실,\n괴물을 돈으로 보기 시작한 인간들,\n서울 한복판에 나타난 거대한 균열까지.\n\n붉은 달이 커질수록 방문자들은 강해지고,\n인간의 욕망과 증오는 세상을 더욱 빠르게 변화시킨다.\n\n처음 RED MOON을 보시는 분들도\n이 영상 하나로 EP.1부터 EP.8까지 정주행하실 수 있습니다.\n\n🌕 RED MOON EP.1~8 60분 몰아보기\n00:00 EP.1\n06:15 EP.2\n10:47 EP.3\n16:15 EP.4\n24:39 EP.5\n33:32 EP.6\n40:38 EP.7\n51:51 EP.8\n\n재미있게 보셨다면 구독과 좋아요,\n그리고 가장 인상 깊었던 에피소드를 댓글로 남겨주세요.\n\n다음 이야기도 계속 이어집니다.\n\n붉은 달이 떠오르면, 세계는 다시 시작된다.\n\n〈레드문 RED MOON〉은 AI 영상으로 제작되는 다크 판타지 시네마틱 시리즈입니다.\n백호와 한지수, 그리고 붉은 달의 비밀은 앞으로의 에피소드에서 이어집니다.\n\n구독하고 다음 이야기를 함께 지켜봐 주세요.\n\n※ 본 영상은 AI 기술을 활용해 제작된 창작 영상입니다.\n\n영상에 등장하는 인물, 지명, 단체, 사건, 설정은 모두 허구이며 실제와 관련이 없습니다.\n특정 개인, 단체, 지역, 기관, 기업, 종교, 집단을 비하하거나 왜곡하려는 의도는 없습니다.\n\n#AI드라마 #레드문 #REDMOON #몰아보기 #AI영화 #AI판타지 #다크판타지 #이세계 #KPOP아이돌",
+      "channelId": "UCc6KiLSz5oQT3PgCcXYr9Ug",
+      "channelTitle": "붉은달(RedMoon)",
+      "thumbnail": "https://i.ytimg.com/vi/--YuxB9ac7o/hqdefault.jpg",
+      "publishedAt": "2026-09-17T08:00:24Z",
+      "durationSeconds": 3623,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jJpwnuxJLJ0",
+      "url": "https://www.youtube.com/watch?v=jJpwnuxJLJ0",
+      "title": "국정원 학교가다 1~5부 몰아보기 | 2026 국정원 드라마 통합본",
+      "description": "2026 K-드라마 | 국정원 학교가다 1~5부 몰아보기 | 한국 드라마 통합본\n\n00:00 국정원 학교가다 1부 | 2026 국정원 드라마\n12:22 국정원 학교가다 2부 | 학교 잠입 액션 드라마\n22:06 국정원 학교가다 3부 | 국정원 학교 드라마\n32:59 국정원 학교가다 4부 | K-드라마 로맨스 액션\n47:28 국정원 학교가다 5부 | AI 드라마 통합본\n\nK-POP 감성과 K-드라마의 설렘을 담은 AI 드라마, 〈국정원 학교가다〉 1부부터 5부까지 한 번에 공개합니다.\n\n정체를 숨긴 국정원 요원 미르가 천휘고에 잠입하면서 시작된 비밀 임무.\n효신, 운희, 그리고 개성 강한 친구들과 함께 학교 안에서 벌어지는 로맨스·액션·코미디를 만나보세요.\n\n수상한 인물들의 움직임, 예상 밖의 대결, 설레는 만남과 웃음까지.\n국정원 학교가다 전편을 지금 바로 몰아보기로 즐겨주세요.\n\n좋아요와 구독은 다음 이야기를 만드는 큰 힘이 됩니다.\n\n판타지와 역사, 드라마와 액션이 만나는 시네마틱 스토리 채널입니다.\n\n과거의 전쟁터, 현대의 특수요원, 숨겨진 능력을 가진 인물들과 새로운 세계관을 바탕으로 영화와 드라마 같은 이야기를 제작합니다.\n\n역사적 사건을 새로운 상상력으로 재해석한 작품부터 현실과 판타지가 교차하는 창작 드라마까지, 매 작품마다 하나의 영화처럼 몰입감 있는 이야기를 보여드리고자 합니다.\n\n대본, 세계관, 등장인물, 장면 구성, 이미지, 영상, 자막, 음향과 편집까지 전 제작 과정을 직접 기획하고 제작합니다.\n\n본 영상은 실제 역사와 창작을 결합한 판타지 드라마 콘텐츠이며, 일부 인물과 사건, 설정은 극적인 연출을 위해 재구성되었습니다.\n\n영상과 캐릭터의 무단 복제, 재편집 및 재업로드를 금지합니다.\n\n구독과 좋아요는 다음 이야기를 제작하는 데 큰 힘이 됩니다.\n\n#Kpop #KDrama #KoreanDrama #AIDrama #Anime #Animation #RomanticKDrama #HighSchoolKDrama #SpyDrama #AI드라마 #국정원학교가다 #국정원드라마 #한국드라마 #드라마몰아보기 #로맨스드라마 \n#판타지드라마 #역사판타지 #시네마틱영화 #최신드라마 #웹툰추천\n\n역사쇼츠.\n📧 sayzen@naver.com\n📧 sayzen03@gmail.com",
+      "channelId": "UCnrjvi3ZW9tUhyJfBduEHFA",
+      "channelTitle": "AI Drama Box 🎬",
+      "thumbnail": "https://i.ytimg.com/vi/jJpwnuxJLJ0/hqdefault.jpg",
+      "publishedAt": "2026-08-25T10:35:22Z",
+      "durationSeconds": 3516,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BmcqcMK3RW8",
+      "url": "https://www.youtube.com/watch?v=BmcqcMK3RW8",
+      "title": "도망친 개｜본편 몰아보기｜AI BL DRAMA",
+      "description": "▸ 이 영상은 사람의 시나리오를 바탕으로 AI를 이용해 만들어졌습니다.\n▸ 영상에 나오는 모든 인물과 상황은 가상이며 실재하지 않습니다.\n\n▸ This video was created using AI based on a human-written script.\n▸ All characters and situations in the videos are entirely fictional.\n\n═════════════════\n\n▸ 영상 및 영상 속 음악은 모두 오리지널이며 '블루룸'에게 저작권이 있습니다.\n▸ 이 채널의 모든 영상콘텐츠는 @blueroom_drama에서만 공식 업로드됩니다.\n▸ 무단 복제, 재배포 및 변형을 엄격히 금합니다.\n\n▸ Copyright © Blueroom. All Rights Reserved. All visual and audio contents are original works owned by BLUEROOM.\n▸ All video content for this channel is officially uploaded exclusively on @blueroom_drama.\n▸ Unauthorized copying, redistribution, and modification are strictly prohibited.\n\n═════════════════\n\n현실과는 또 다른 감성🔷\nAI 드라마 스튜디오 [블루룸]\n\n#BL #BL드라마 #블루룸 #도망친개 #blseries",
+      "channelId": "UCGvOHbG9yoQua4RV7btHMxA",
+      "channelTitle": "블루룸",
+      "thumbnail": "https://i.ytimg.com/vi/BmcqcMK3RW8/hqdefault.jpg",
+      "publishedAt": "2026-10-16T12:15:37Z",
+      "durationSeconds": 5765,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6eiCrRAtpPY",
+      "url": "https://www.youtube.com/watch?v=6eiCrRAtpPY",
+      "title": "⚔️ 천하진검 1~6화 몰아보기 | 37명이 지킨 소년의 비밀 [60분·AI 영화·AI드라마·무협 판타지드라마]",
+      "description": "37명이 지켜낸 아이. 17년 뒤, 부모의 원수가 그 소년의 힘을 노립니다.\n⚔️ AI 영화·AI드라마 《천하진검》 1화~6화 몰아보기 — 약 60분으로 이어 보는 창작 무협 판타지드라마.\n\n어머니가 남긴 흑옥, 여섯 번의 낙방, 그리고 길 위에서 만난 수상한 노인.\n자신의 뿌리를 찾아 강호로 나선 소년 하진은 감춰진 아버지의 정체와 마주합니다.\n소중한 사람을 지키려는 선택 끝에 도착한 무영곡.\n부모의 원수 ‘그림자’는 왜 하진 안의 힘을 원하는 걸까요?\n\n이번 영상은 《천하진검》 1화부터 6화까지를 이어 붙인 몰아보기입니다.\n탄생의 비밀부터 흑옥의 단서, 목 노인과의 인연, 추격과 대결까지 한 번에 감상하세요.\n전체 재생 시간: 60분 38초.\n\n🎬 작품 소개\n창작 무협소설을 영상으로 풀어낸 오리지널 무협 드라마 《천하진검》.\n강호에 감춰진 비밀과 검술 액션, 운명에 맞서는 소년의 성장을 담았습니다.\n실사풍 무협 영화, 동양 판타지, 사제의 인연과 성장 이야기를 좋아하신다면 함께해 주세요.\nAI 기술을 활용해 제작한 창작 작품입니다.\n\n📺 《천하진검》 본편 이어 보기\n1부 — 프롤로그·탄생의 비밀: https://www.youtube.com/watch?v=XKdFUuPgZ1k\n2부 — 흑옥의 비밀: https://www.youtube.com/watch?v=i43J_Snw1NU\n3부 — 수상한 노인과의 만남: https://www.youtube.com/watch?v=6fKF0MdtDz4\n4부 — 아버지의 정체: https://www.youtube.com/watch?v=Y8dzpUpRo00\n5부 — 소년의 결심: https://www.youtube.com/watch?v=tp8b_jcHYV8\n6부 — 부모의 원수와 숨겨진 힘: https://www.youtube.com/watch?v=J-TIOEhxwBA\n7부 — 아버지의 검을 배우다: 10월 21일 공개 예정\n\n👍 하진의 다음 여정도 함께해 주세요.\n구독과 좋아요는 후속편 제작에 큰 힘이 됩니다.\n가장 기억에 남은 장면과 궁금한 이야기를 댓글로 남겨 주세요.\n🔔 알림을 켜두시면 새 에피소드를 놓치지 않고 만나실 수 있습니다.\nStudio Glow: https://www.youtube.com/channel/UCaLfqgAemI8opLl805SBmyA\n\n#천하진검 #AI영화 #AI드라마 #판타지드라마 #무협영화 #무협드라마 #몰아보기\n\n관련 검색 키워드\n핵심 장르: 무협, 무협물, 무림, 무협판타지, 사극판타지, 동양판타지, 강호, 쾌검, 검술액션, 무협액션\n인접 콘텐츠(만화·애니·소설): 무협만화, 무협웹툰, 웹툰추천, 무협애니, 무협애니메이션, 무협소설, 무협웹소설, 중국무협, 홍콩무협영화, 쿵푸영화, 사극액션영화, 먼치킨무협, 정통무협, 신무협, 회귀물, 환생물, 빙의물\n흥행작 연계 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 열혈강호, 화산귀환, 마도조사, 전지적독자시점, 나혼자만레벨업, 일렉시드\n플랫폼명 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 네이버웹툰, 카카오페이지, 리디, 문피아, 조아라, 노벨피아\nAI 제작 관련: AI영화, AI무협, AI애니메이션, 인공지능영화, AI숏폼영화, AI시네마틱, 생성형AI영화, AI단편영화, AI장편영화\n영문 키워드: Wuxia, Wuxia film, Wuxia fantasy, Murim, Murim manhwa, Korean martial fantasy, AI generated film, Cinematic AI film, Kung fu fantasy, Sword fighting fantasy, AI short film\n롱테일(검색 문장형): 무협 웹툰 추천, 무협 소설 추천, 무협 영화 추천, AI로 만든 영화, 실사 무협, 한국 무협 영화, 무협 영화 2026, 유튜브 무협 영화, 볼만한 무협 영화, 요즘 무협 웹툰\n조합 키워드: AI 무협 영화, AI 장편 무협판타지 영화, 실사풍 무협 영화, 실사 AI 무협, 한국형 무협 판타지, 웹소설 원작 무협 영화, 창작 무협 스토리, 무협 성장물 영화, 무협 복수극 영화, 숨은 고수 무협, 사제 관계 무협, 내공 각성 영화, 무림 고수 액션 영화, 정통 무협 영화 추천, 무협 웹툰 좋아하면 추천, 무협 소설 좋아하면 추천, 무협 애니 좋아하면 추천\n조합 키워드(영문): AI Wuxia film, AI Murim series, Cinematic Wuxia short film, Korean Wuxia AI film\n몰아보기·드라마 관련: 천하진검 몰아보기, 천하진검 1화부터 6화, 무협 몰아보기, 무협 영화 몰아보기, AI 영화 몰아보기, AI드라마 몰아보기, 판타지드라마 몰아보기, 60분 무협 영화, 한 시간 영화, 한국형 무협 드라마, 무협 판타지드라마, 실사풍 AI 영화, AI 드라마, 판타지 드라마",
+      "channelId": "UCaLfqgAemI8opLl805SBmyA",
+      "channelTitle": "Studio Glow",
+      "thumbnail": "https://i.ytimg.com/vi/6eiCrRAtpPY/hqdefault.jpg",
+      "publishedAt": "2026-10-16T02:00:37Z",
+      "durationSeconds": 3639,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "EIR0g9c5K_I",
+      "url": "https://www.youtube.com/watch?v=EIR0g9c5K_I",
+      "title": "강철장미 몰아보기 | EP.1–4 통합본 | 7년의 비밀, 아버지의 진실 | Korean Crime Action Thriller",
+      "description": "🌹 **강철장미 (STEEL ROSE) — EP.1–4 통합본**\n\n**그녀가 잃어버린 7년, 그리고 마침내 밝혀지는 진실.**\n\n평범한 편의점 직원으로 살아가던 은지.  \n하지만 어느 날 밤, 그녀의 숨겨진 과거가 다시 깨어나기 시작한다.\n\n의문의 남자들, 사라진 기록, 끊임없는 추격.  \n그리고 7년 전 모든 것을 바꿔 놓았던 화재 사건.\n\n은지는 자신을 쫓는 자들의 정체를 밝히기 위해 위험한 진실 속으로 들어간다. 그 과정에서 그녀가 믿었던 모든 것이 흔들리기 시작한다.\n\n자신을 버렸다고 생각했던 아버지.  \n그날 밤 감춰진 진실.  \n그리고 두 사람을 서로 원망하게 만든 배후의 인물.\n\n과거의 비밀이 하나씩 드러날수록 은지는 더 위험한 싸움에 휘말린다.\n\n과연 7년 전 그날, 무슨 일이 있었던 것일까?  \n은지를 쫓는 진짜 범인은 누구인가?  \n그리고 그녀의 아버지는 정말 죽은 것일까?\n\n🔥 **EP.1부터 EP.4까지, 강철장미의 이야기를 한 편의 영화처럼 감상하세요.**\n\n액션, 추격, 미스터리, 복수 그리고 가족의 이야기.\n\n모든 진실은 마지막 순간을 향해 달려간다.\n\n**강철장미 — 그녀의 과거가 깨어난다.**\n\n🎬 장르: Korean Crime Thriller / Action / Mystery / Family Drama\n\n※ 본 작품은 AI 기술을 활용하여 제작된 창작 영상입니다. 등장인물과 사건은 허구입니다.\n\n#강철장미 #STEELROSE #몰아보기 #통합본 #한국액션영화 #범죄스릴러 #복수 #미스터리 #AI영화 #KoreanCrimeThriller",
+      "channelId": "UCxuS_nQAqHgNChipaUKKMYg",
+      "channelTitle": "드라마 Film AI",
+      "thumbnail": "https://i.ytimg.com/vi/EIR0g9c5K_I/hqdefault.jpg",
+      "publishedAt": "2026-10-11T17:23:00Z",
+      "durationSeconds": 2041,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "piTDYsi07BU",
+      "url": "https://www.youtube.com/watch?v=piTDYsi07BU",
+      "title": "「귓볼」 전편 몰아보기 | EP.01–23 완결 | BL AI 드라마",
+      "description": "「귓볼」 1화부터 최종화까지, 전편을 한 번에 몰아보세요.\n\n「귓볼」은 녹턴 공식 채널에서만 공개됩니다.\n다른 곳에 올라온 영상은 모두 무단 복제(불펌)입니다.\n공식 채널에서 봐주시는 것만으로도, 더 좋은 작품을 만드는 데 큰 힘이 됩니다 🧡\n\n━━━━━━━━━━━━━━━━\n🌙 녹턴 시리즈 「귓볼 (Earlobe)」 전편 몰아보기\n━━━━━━━━━━━━━━━━\n시네마틱 BL 드라마\nAI 생성 픽션\n\n🎬 다국어 자막 지원 (CC 버튼)\n\n[에피소드]\n0:00:00 EP.01\n0:07:08 EP.02\n0:15:32 EP.03\n0:27:38 EP.04\n0:37:48 EP.05\n0:48:32 EP.06\n0:58:41 EP.07\n1:13:27 EP.08\n1:26:07 EP.09\n1:38:51 EP.10\n1:54:55 EP.11\n2:11:18 EP.12\n2:30:04 EP.13\n2:53:04 EP.14\n3:11:01 EP.15\n3:32:15 EP.16\n3:55:34 EP.17\n4:17:28 EP.18\n4:40:49 EP.19\n5:01:22 EP.20\n5:21:49 EP.21\n5:42:13 EP.22\n6:04:32 EP.23 (최종화)\n\n※ 본 영상의 모든 인물은 AI로 생성된 가상 캐릭터이며, 스토리 또한 픽션입니다. 실존 인물과 무관합니다.\n\n#BL드라마 #귓볼 #전편몰아보기 #오피스BL #복수극 #녹턴 #KoreanBL",
+      "channelId": "UCJTySGBa3SF7vFnk81YoXiA",
+      "channelTitle": "녹턴 (Nocturne)",
+      "thumbnail": "https://i.ytimg.com/vi/piTDYsi07BU/hqdefault.jpg",
+      "publishedAt": "2026-10-03T09:45:00Z",
+      "durationSeconds": 23417,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WfQzdpetr04",
+      "url": "https://www.youtube.com/watch?v=WfQzdpetr04",
+      "title": "나의 오크(My Dear, Orc)🔥챕터1: 전편 | 오크마을편 몰아보기! 통합본(1~7화)",
+      "description": "00:00 1화 | 아니… 갑자기 여긴 어디야?!\n07:26 2화 | 이제, 본격 참교육이다 이거야!!\n14:42 3화 | 여기선... 무엇을 먹을까? 방심하면 안돼!\n18:40 4화 | 위험한 상황!! 그리고 엘프를 만나다.\n24:41 5화 | 아레나 결투! 압도적인 힘을 보여주다!\n33:36 6화 | 숨겨진 힘?! 최강자들의 숨막히는 대결!\n42:05 7화 | 오크 마을, 최후의 결전!\n\n나의 오크 (My Dear, Orc)는 코믹/액션/판타지 퓨전 드라마 입니다. \n\" 좋아요 \"와 \" 하이프 \" 버튼을 눌러 주시면 감사하겠습니다! \n \n1화 ~ 7화 챕터1: 오크 마을 편이 마무리되어 몰아보기용 통합본을 업로드 합니다. \n감사합니다! \n\n* 기타사항 \n[화면 조정] \n\n------------------------------------- \nOdd Lab Official · Original Content \n \n본 콘텐츠는 AI 기술이 활용 되었습니다.",
+      "channelId": "UCceCkDkpXp71-xLr4ReZ9Pg",
+      "channelTitle": "Odd Lab 오드랩",
+      "thumbnail": "https://i.ytimg.com/vi/WfQzdpetr04/hqdefault.jpg",
+      "publishedAt": "2026-10-01T08:00:13Z",
+      "durationSeconds": 3105,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FZLDJhp7CKA",
+      "url": "https://www.youtube.com/watch?v=FZLDJhp7CKA",
+      "title": "AI드라마 - 차원을 달리는 소녀 - 가디언 전투 편- Ep4~8 몰아보기 ",
+      "description": "🎬 차원을 달리는 소녀 시리즈\nEP.1 | 등교편ㅡhttps://youtu.be/roYJ3JfnUfY\nEP.2 | 심부름편 https://youtu.be/XNvR4cMivA4\nEP.3 | 중간고사편ㅡhttps://youtu.be/c_nyIPWXnVU \n\nEP.4 | 조선 여미새편ㅡhttps://youtu.be/1uVjLG-R3Gg?si=KgMAvtsnAqkzAA8e \n\nEP.5 | 다른 차원의 손님 편 - https://youtu.be/PKZrHg0NDTA?si=EWmXbYUVhVaXEoGb\n\n\nEP.6 | 협동 공격 편ㅡ https://youtu.be/q2WGRLfuoB8?si=_rlO3BzU0A5czG7B\n\nEP.7 | 조선 협객 편 － https://youtu.be/QKYhceY-h1I?si=JEocDXED50HHux8c\n\nEP.8 | 차원의 균열 이탈리아 편  \n----------------------------------------------------------------------------------------",
+      "channelId": "UCrkEan5aPsUoN1v_wbz5wlg",
+      "channelTitle": "Kidultchar AI Studio | 키덜트샤아",
+      "thumbnail": "https://i.ytimg.com/vi/FZLDJhp7CKA/hqdefault.jpg",
+      "publishedAt": "2026-09-28T09:00:06Z",
+      "durationSeconds": 2164,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "u4G8nZyv76Y",
+      "url": "https://www.youtube.com/watch?v=u4G8nZyv76Y",
+      "title": "[FULL MOVIE] CODENAME J | Season 2 - 통합본  #AI드라마 #aidrama",
+      "description": "MOISTEN.FILM Original Series\nCODENAME J | Season 2 - Full Movie\n-\n본 영상은 AI를 활용하여 제작되었습니다.\n영상에 등장하는 모든 인물, 사건, 장소 및 단체는 허구이며 실제와 무관합니다.\n-\nThis video was created using AI.\nAll characters, events, settings, and groups depicted are entirely fictional.\n-\nInstagram\nSeol Hana : https://www.instagram.com/seol_one_\nMoisten.film : https://www.instagram.com/moisten_film\n-\n#CODENAMEJ #코드네임J #MOISTENFILM #AIdrama #KoreanNoir",
+      "channelId": "UCSudvLWMmjwcxCjkyEACTcA",
+      "channelTitle": "MoistenAI",
+      "thumbnail": "https://i.ytimg.com/vi/u4G8nZyv76Y/hqdefault.jpg",
+      "publishedAt": "2026-09-26T11:52:04Z",
+      "durationSeconds": 3895,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2FstwxbeTso",
+      "url": "https://www.youtube.com/watch?v=2FstwxbeTso",
+      "title": "《My Lovable Boy》 EP.1–12 몰아보기 | 처음부터 사랑이 시작되기까지 | AI BL Drama",
+      "description": "열두 살 차이, 오랫동안 형과 동생으로 지내온 렌과 하루.\n\n작은 거짓말로 다시 렌과 함께 살게 된 하루와,\n한없이 다정하면서도 자꾸만 선을 긋는 렌.\n함께하는 시간이 쌓일수록 두 사람 사이의 감정도 조금씩 달라지기 시작합니다.\n\n《My Lovable Boy》 EP.1부터 EP.12까지,\n두 사람의 동거가 시작된 순간부터 서로의 마음을 확인하고\n첫 데이트를 즐기기까지의 이야기를 한 편에 담았습니다. 💛\n\n처음 찾아오신 분도, 다시 정주행하시는 분도\n렌과 하루의 천천히 깊어지는 마음을 함께 즐겨주세요. 🥰\n\n#MyLovableBoy #AIDrama #BoysLove #KoreanBL #BLDrama #BL #BLSeries",
+      "channelId": "UCtqoUyesj9OFexE_ZL06axg",
+      "channelTitle": "SugarCube",
+      "thumbnail": "https://i.ytimg.com/vi/2FstwxbeTso/hqdefault.jpg",
+      "publishedAt": "2026-09-25T12:25:53Z",
+      "durationSeconds": 2348,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "G5sINZaZg_M",
+      "url": "https://www.youtube.com/watch?v=G5sINZaZg_M",
+      "title": "단 한 번, 시간을 되돌릴 수 있다면 | 돌아가면 달라질까 [1~3화 몰아보기]",
+      "description": "만약 단 한 번, 시간을 되돌릴 수 있다면\n당신은 어느 날로 돌아가고 싶으신가요?\n\n우연히 시간을 되돌릴 수 있는 반지를 갖게 된 지은.\n과거로 돌아갈 때마다 작은 선택 하나가 누군가의 인생을 바꾸기 시작합니다.\n\n〈돌아가면 달라질까〉 1~3화를 한 편으로 만나보세요.\n\n※ 본 영상은 AI를 활용해 제작된 창작 드라마이며, 등장인물과 사건은 모두 허구입니다.\n\n▶구독과 좋아요, 댓글은 다음 이야기를 만드는 데 큰 힘이 됩니다.💜\n\n📩 문의 및 제안 yb.ym.story01@gmail.com\n\n#ai드라마 #ai단편영화 #타임슬립 #직장인사이다 #aivideo #돌아가면달라질까 #돌아가면 달라질까 #ai 드라마 #리와인드 #REWIND",
+      "channelId": "UCNXU690yhfPnypjFt5nfBKQ",
+      "channelTitle": "리와인드 | REWIND AI STUDIO",
+      "thumbnail": "https://i.ytimg.com/vi/G5sINZaZg_M/hqdefault.jpg",
+      "publishedAt": "2026-09-24T03:06:06Z",
+      "durationSeconds": 2900,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "K2srsfBWIQ4",
+      "url": "https://www.youtube.com/watch?v=K2srsfBWIQ4",
+      "title": "[AI 드라마] 오픈톡 퇴 몰아보기 4~6편 #aidrama #aifilm #aistory #aistory",
+      "description": "명절 시작이라, 평소 보다 좀 일찍 올렸습니다. \n재미있게 시청하시고, 좋아요, 구독, 하이프까지 부탁드립니다.\n멤버십도 열었습니다. 많은 분들의 도움이 필요합니다.\n잘 부탁 드립니다.\n\n\n오픈톡 퇴 | 시즌1 EP.04~06 몰아보기\n\n끝났다고 생각했던 사건. 하지만 진짜 이야기는 이제부터 시작된다.\n\n다시 시작된 의뢰, 병원에 남아 있는 정체불명의 존재들. 그리고 사건을 조사할수록 드러나는 수상한 흔적들.\n\n강태훈과 오픈톡 퇴 멤버들은 각자의 능력과 장비를 활용해 진실을 추적하기 시작한다.\n\n그러나 사건은 단순한 퇴마 의뢰에서 끝나지 않는다.\n\n보이지 않는 곳에서 움직이는 사람들, 의심스러운 거래, 그리고 점점 드러나는 거대한 비밀.\n\n과연 이들은 사건의 진실에 얼마나 가까워질 수 있을까?\n\nEP.04 | 끝나지 않은 병원 의뢰\n리모델링 중인 병원에서 다시 시작된 의뢰. 윤세령의 탐지 능력과 신재호의 부적을 활용해 보이지 않던 존재들의 흔적을 찾아 나선다.\n\nEP.05~06 | 더욱 깊어지는 의혹\n병원에서 발견한 단서를 따라 사건의 실체를 추적하는 오픈톡 퇴 멤버들. 새로운 위험이 다가오고, 이들의 이야기는 예상치 못한 방향으로 흘러간다.\n\n이번 영상은 오픈톡 퇴 시즌1 4화부터 6화까지 이어지는 몰아보기 통합본입니다.\n\n1~3편을 먼저 시청하시면 인물들의 관계와 사건의 흐름을 더욱 깊이 이해하실 수 있습니다.\n\n여러분의 구독과 좋아요, 댓글은 다음 이야기를 제작하는 데 큰 힘이 됩니다.\n\nAICIRCUSNOMAD\nAI를 활용해 제작하는 오리지널 드라마.\n\n※ 본 작품은 허구의 이야기이며, 등장하는 인물·단체·사건은 실제와 관계가 없습니다.\n\n#오픈톡퇴 #몰아보기 #AI드라마 #퇴마 #오컬트 #한국드라마 #미스터리 #공포드라마 #AI영화 #웹드라마 #드라마몰아보기 #귀신 #천도 #퇴마사 #강태훈 #윤세령 #AICIRCUSNOMAD",
+      "channelId": "UCJ3k-iqJHAUgBKrb3te7VJg",
+      "channelTitle": "AI CIRCUS NOMAD",
+      "thumbnail": "https://i.ytimg.com/vi/K2srsfBWIQ4/hqdefault.jpg",
+      "publishedAt": "2026-09-23T12:12:38Z",
+      "durationSeconds": 2932,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wQTsjfXHUL0",
+      "url": "https://www.youtube.com/watch?v=wQTsjfXHUL0",
+      "title": "【FULL】평범한 학생이 S급 빙결 능력을 각성했다! 시스템으로 최강 이능자가 된 남자 #AI드라마 #숏폼드라마",
+      "description": "🍿 웹소설 실사화는 바로 여기! AI 漫改 전문 숏폼 극장입니다.\n\n개요：평범한 학생이었던 육연은 이세계로 넘어간 순간 S급 빙결 이능을 각성한다.\n하지만 그의 진짜 비밀은 따로 있었다. 끝없이 성장하는 시스템과 함께 얼음의 힘은 계속 진화했고, 그는 학교의 무명 신입생에서 최강 이능자로 거듭나기 시작한다.\n\n캠퍼스 결투장에서 천재들을 꺾고, 지하 세계에서 흉수를 사냥하며 전투 경험을 쌓아가는 육연. 동료들과 팀을 결성한 그는 신입생 대회와 4대 명문 대학 리그에서 압도적인 빙결 능력으로 모두를 놀라게 한다.\n\n하지만 더 큰 위기는 아직 시작되지 않았다. SS급 도시 방어 임무에서 거대한 흉수의 습격을 마주한 육연은 극한의 순간 자신의 빙계 능력을 한 단계 진화시키고, 숨겨진 흑혈교의 비밀 기지와 잃어버린 유적의 진실을 발견한다.\n\n빙계 대종사 엽경월의 제자가 된 육연은 새로운 힘과 전승을 얻으며 더욱 강력한 법사로 성장한다. 이제 그는 블루스타 천재 전장에서 세계 최강자들과 맞서게 된다.\n\n전민 전직, 무한 창조, SSS급 소환수... 당신이 밤새며 읽던 그 爽文(상원) 소설들이 눈앞에서 진짜로 살아 움직입니다!🥳\n\n✅ 초고화질 실사화 연출 \n✅ 숨 쉴 틈 없는 폭풍 전개 \n✅ 매일 다량 연재! \n감질맛 나는 끊기나 중도 하차 없이, 매일 완벽한 몰입감을 약속드립니다.🚀\n\n❌ 본 채널의 모든 영상은 오리지널 콘텐츠입니다. 무단 도용 및 불법 펌 금지!\n\n🔔 지금 바로 [구독] 누르고, 억만 대군이 펼치는 역대급 도파민을 1열에서 정주행하세요! 🔥\n\n#웹소설실사화 #AI드라마 #숏폼드라마 #먼치킨 #사이다물 #판타지추천 #AI애니#남자애니 #이능배틀 #판타지애니 #시스템물 #각성물 #빙결능력 #최강자성장 #이세계 #천재전투 #애니메이션",
+      "channelId": "UC0591d33uSMhFbw1461kNpA",
+      "channelTitle": "플라워 미스트 극장",
+      "thumbnail": "https://i.ytimg.com/vi/wQTsjfXHUL0/hqdefault.jpg",
+      "publishedAt": "2026-09-23T10:00:20Z",
+      "durationSeconds": 16628,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WQtYXhitixI",
+      "url": "https://www.youtube.com/watch?v=WQtYXhitixI",
+      "title": "AI 로판 드라마 | 미방분 포함 | 두 번째 대관식 EP 21~25  몰아보기",
+      "description": "두 번째 대관식: 그녀가 고른 황관 EP 21~25  몰아보기 \n\n더 많은 로맨스 파트를 추가하려고 했으나, 기존에 제작했던 편집 파일(EP21~23)에 문제가 생겨서...\n\n최대한 흐름이 자연스럽도록 하려다보니 기획했던 것보다는 미방분이 좀 짧습니다 ㅠㅠㅠ\n\n그래서 외전 형식으로 짧은 로맨스+a 미공개 장면 모음을 만드려고 합니다.\n해당 영상 업로드는 10월 초로 생각하고 있으며,\n달달한 장면들 열심히 담아오겠습니다!\n\n감사합니다!\n\n---\n\n2황자를 위해 모든 것을 희생한 비비안 알덴마크.\n그를 황제로 만드는데 가장 큰 공을 세웠지만, 모든 것은 짜여진 판이었다.\n\n사랑하는 사람과 여동생에게 배신을 당하고, 죽기 전 모든 음모를 알게 된 그녀는 4년 전으로 회귀하게 된다.\n\n다시 얻은 생에서, 그녀는 자신을 이용하고 배신한 이들을 벌하고 모든 것을 제자리로 돌려놓고자 한다.\n\n본 콘텐츠는 AI를 활용하여 제작된 로판 실사화 드라마입니다.\n모든 설정과 묘사는 허구이며, Riku의 개인 창작물입니다.\n\n#AI드라마 #로판드라마 #AI로판 #회귀물 #복수",
+      "channelId": "UCs09px7JlKen0yA2hFa-1vg",
+      "channelTitle": "Riku's Library",
+      "thumbnail": "https://i.ytimg.com/vi/WQtYXhitixI/hqdefault.jpg",
+      "publishedAt": "2026-09-23T09:00:05Z",
+      "durationSeconds": 2144,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:12.918Z",
+      "lastSeenAt": "2026-10-17T02:51:12.918Z",
+      "lastVerifiedAt": "2026-10-17T02:51:12.918Z",
       "unavailableAt": null
     }
   ]

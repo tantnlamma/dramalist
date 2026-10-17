@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:04.273Z",
+  "generatedAt": "2026-10-17T02:51:15.685Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "機械学習"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "Hdi9-mmRadc",
@@ -54,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -74,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -94,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -108,12 +109,13 @@
       "publishedAt": "2026-10-08T14:19:45Z",
       "durationSeconds": 2872,
       "matchedKeywords": [
+        "AI 映画 フル",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -132,7 +134,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -172,7 +174,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -192,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -212,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -232,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -251,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -270,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -289,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -327,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -346,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -365,7 +367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -384,7 +386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     },
     {
@@ -403,7 +405,180 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Gv0VwL9VhMk",
+      "url": "https://www.youtube.com/watch?v=Gv0VwL9VhMk",
+      "title": "He Tasted Death | The Six Hours Behind the Veil | Full AI Film Adaptation of Novel",
+      "description": "What happened beyond what human eyes could see during the six hours of the cross?\n\nBased on my novel, He Tasted Death, this cinematic adaptation explores sacrifice, forgiveness, grief, and the finished work of Jesus Christ—from Gethsemane to the hope of the empty tomb.\n\nCreated with AI-assisted visuals, narration, and an original musical score, this 38-minute film brings the novel’s story to the screen.\n\n📖 Experience the full story in the book:\nhttps://a.co/d/0cRf2T20\n\nThis film is a condensed creative adaptation, not a word-for-word reading of the novel. Its imagined scenes and reflections are offered as storytelling, not as additional Scripture.\n\nThank you for watching. Share your thoughts in the comments, and subscribe for more stories of faith and hope. \n\nJesus paid it all and bore it all and all who call upon His Name will be saved! Will you call upon Jesus' name today?\n\n— Timothy Holt\n\n#HeTastedDeath #ChristianFilm #JesusChrist",
+      "channelId": "UC5IrCle565PsHmNmPm6RYyg",
+      "channelTitle": "Timothy Holt",
+      "thumbnail": "https://i.ytimg.com/vi/Gv0VwL9VhMk/hqdefault.jpg",
+      "publishedAt": "2026-10-15T16:30:37Z",
+      "durationSeconds": 2267,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wJM69boE1ps",
+      "url": "https://www.youtube.com/watch?v=wJM69boE1ps",
+      "title": "The Harness Problem: Governing AI That Starts Over Every Time | Full Episode | Cut to Context",
+      "description": "Every time an AI agent runs, it starts fresh, with no memory of what it did last. Presidio CTO Rob Kim joins Q2 CTO Adam Blue to explain what that means for keeping AI accountable, and why swapping one AI model for another can undo a process that was working fine. Their bigger point: Banks don't need smarter AI to win. Today's tools already hold decades of untapped value.\n\nRelated Links\n\nCut to Context https://www.q2.com/podcasts/tag/cut-to-context\n\nAI for Everyone https://www.q2.com/ai-for-everyone\n\n\"Tron,\" directed by Steven Lisberger https://www.imdb.com/title/tt0084827/?_ssoLoop=1\n\n\"Brain Rules,\" by John Medina https://brainrules.net/",
+      "channelId": "UCmpCJmohw7YSaEyx8J_FE7A",
+      "channelTitle": "Q2 Cut_to_Context",
+      "thumbnail": "https://i.ytimg.com/vi/wJM69boE1ps/hqdefault.jpg",
+      "publishedAt": "2026-10-01T10:00:31Z",
+      "durationSeconds": 1807,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "msyGsn4kQDM",
+      "url": "https://www.youtube.com/watch?v=msyGsn4kQDM",
+      "title": "Jezriel Full Episode 1 - Love at first sight in the city | Finding Ariel | ai gay films | Gay Series",
+      "description": "Jezriel | AI Gay Romance Drama Film Series.\n\nIntroduction: Episode 1.\n\nWhat happens when a chance encounter between two strangers becomes something neither of them expected?\n\nJezriel is a hardworking young man from the province who travels between Manila and home while carrying the responsibilities of his family and continuing his search for his missing twin brother, Ariel.\n\nOne unexpected day on the busy streets of EDSA, Jezriel crosses paths with Winston after a sudden accident brings them face-to-face. Their first meeting is far from romantic—filled with arguments, misunderstandings, and attitude. But after Winston realizes that Jezriel is hurt, everything begins to change.\n\nAs fate brings them together again, an unexpected friendship slowly develops. Winston finds himself thinking about Jezriel more than he expected, while Jezriel begins to wonder about the stranger who showed him unexpected kindness.\n\nBut their growing connection is only the beginning.\n\nBetween family responsibilities, a missing twin, complicated friendships, unexpected reunions, and secrets from the past, Jezriel and Winston's relationship will be tested by circumstances they never saw coming.\n\nThank you for watching.\n\nOriginality & Production Notice:\nThe script, story, characters, and overall concept of this video are 100% original work written and created by NTKR-FILMS. AI tools were utilized strictly as part of the visual/audio production process to bring this original creative vision to life. All rights reserved.",
+      "channelId": "UCPpnSMXl3nG4vB333ZvfZcw",
+      "channelTitle": "NTKR",
+      "thumbnail": "https://i.ytimg.com/vi/msyGsn4kQDM/hqdefault.jpg",
+      "publishedAt": "2026-09-29T03:21:28Z",
+      "durationSeconds": 2893,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wYamtfg1hwo",
+      "url": "https://www.youtube.com/watch?v=wYamtfg1hwo",
+      "title": "How to Make AI Films From Scratch | Full Step-by-Step Tutorial",
+      "description": "Prompt pack : https://docs.google.com/document/d/1sSP0Gl0iHAj7zlBxYBjYzQKjexJGu7o9yDHoxP9OGVw/edit?usp=drivesdk\n\nJoin the AI drama series waitlist : https://t.me/+HbWC4sgi6nhjNDI0\n\n\nWant to create your own AI short film from scratch?\n\nIn this step-by-step tutorial, I’ll show you my complete process for creating cinematic AI short films, from developing the story and characters to creating storyboards and turning each scene into a finished AI video.\n\nYou’ll learn how to:\n• Create a story for your AI film\n• Build consistent AI characters\n• Create cinematic storyboards\n• Write prompts for each scene\n• Turn images into realistic AI video scenes\n• Maintain character and scene consistency\n• Put everything together into a complete AI short film\n\nWhether you want to create AI movies, micro dramas, short-form series, or cinematic stories for social media, this tutorial will show you the full workflow.\n\nSubscribe for more AI filmmaking, AI video, storytelling, and content creation tutorials.\n\n#AIShortFilm #AIFilmmaking #AIVideo #AIMovie #GenerativeAI",
+      "channelId": "UC9NnbtmgAj1pTPrbfsFgITQ",
+      "channelTitle": "Kemi Frank | AI Creator",
+      "thumbnail": "https://i.ytimg.com/vi/wYamtfg1hwo/hqdefault.jpg",
+      "publishedAt": "2026-09-23T14:00:16Z",
+      "durationSeconds": 2820,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rZe7TLrDgNA",
+      "url": "https://www.youtube.com/watch?v=rZe7TLrDgNA",
+      "title": "The Last Dragon Queen | Part I - AI Short Film by ReelixBox",
+      "description": "🐉 In a war-torn kingdom, Lyra forms an unbreakable bond with the last dragon, Ash. When fear, power, and betrayal threaten to destroy them both, she must choose freedom over control as an ancient Titan awakens and changes the fate of Valedor forever.\n\n#FantasyMovie #MedievalFantasy #DragonMovie #EpicFantasy #AdventureMovie\n\n🎬 Reelix Box is your destination for original AI Film and cinematic storytelling. Discover every Short Film crafted with imagination, emotion, and cutting-edge AI. From thrilling AI Movie experiences to unforgettable Short Movie adventures, each Cinematic Story is created to entertain, surprise, and transport you into new worlds.\n#shortfilm  #shortmovie  #cinematic  #movie  #film \n#AIFilm #ShortFilm #AIMovie #ShortMovie #CinematicStory",
+      "channelId": "UCyqv38P-f76u8mcuPtH7SNQ",
+      "channelTitle": "ReelixBox",
+      "thumbnail": "https://i.ytimg.com/vi/rZe7TLrDgNA/hqdefault.jpg",
+      "publishedAt": "2026-09-21T12:39:41Z",
+      "durationSeconds": 1806,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FXsyzbqsC14",
+      "url": "https://www.youtube.com/watch?v=FXsyzbqsC14",
+      "title": "【吹替え】ホワイト・プリンセス | First Daughter (恋愛, ラブコメ, 大統領令嬢, 青春, ロマンス, 洋画, 無料フル)",
+      "description": "►日本語およびオリジナル言語の映画とドキュメンタリーをフルで視聴 - 今すぐ登録を: https://bit.ly/Subscribe-FilmBustersJP-Now\n🎥 自由な大学生活を夢見る大統領の娘が、正体を隠した青年と恋に落ちる――秘密と恋が交差する王道青春ラブコメディ\n\nホワイト・プリンセス (2004)\n原題: First Daughter\n出演: Katie Holmes（ケイティ・ホームズ）Marc Blucas（マーク・ブルーカス）Michael Keaton（マイケル・キートン）\n監督\n\n概要: アメリカ大統領の一人娘サマンサは、幼い頃から世間の注目とシークレットサービスの監視に囲まれ、普通の青春とは無縁の生活を送ってきた。大学進学を機に自由な毎日を夢見る彼女は、キャンパスで魅力的な青年ジェームズと出会い、次第に心を奪われていく。初めて味わう友情、恋、そして解放感。しかし、ジェームズにはサマンサに明かしていない重大な秘密があった。大統領の娘ではなく、一人の女性として愛されたい――華やかな世界の裏側で揺れ動く恋心を描く青春ロマンティックコメディ\n\n#フルムービー #無料映画 #オリジナルバージョン\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCxa4TqFd1NFHNnIQUgbrxCQ",
+      "channelTitle": "Filmbusters JP - フルレングス映画 (Fururengusu Eiga)",
+      "thumbnail": "https://i.ytimg.com/vi/FXsyzbqsC14/hqdefault.jpg",
+      "publishedAt": "2026-09-20T02:00:19Z",
+      "durationSeconds": 6377,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "s5nIKgdyWe0",
+      "url": "https://www.youtube.com/watch?v=s5nIKgdyWe0",
+      "title": "🍿コメディ🍿 ビッグママ・ハウス | Big Momma’s House（吹き替え, 映画フル, 無料映画, 女装ヒーロー, 爆笑, 洋画, FBI）",
+      "description": "💕 忙しい日々に、ほっとひと息。映画で心を満たしませんか？https://bit.ly/TokimekiSUB\n🌹 FBI捜査官が祖母に変装し、笑いと事件が交錯する痛快ドタバタコメディ！\n\nビッグママ・ハウス\nOriginal Title: Big Momma's House\nStarring: Martin Lawrence, Nia Long, Paul Giamatti\nDirector: Raja Gosnell\nRating: 6\n\n概要:\nFBI捜査官のマルコム・ターナー（マーティン・ローレンス）は、逃走中の銀行強盗捜査に協力するため、恋人の祖母「ビッグママ」に変装。本人が現れるとバレるため、体格や仕草を徹底的に演出し、見事に祖母役を演じ切る。地域の習慣や家族との触れ合いの中、騒動と笑いが巻き起こる――おばあちゃん姿で事件解決を目指す一風変わった爆笑コメディ。\n#フルムービー #トキメキシネマ #映画フル\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC2h-o-QMib_ecaMWeuFWD5w",
+      "channelTitle": "Tokimeki Cinema | トキメキ・シネマ",
+      "thumbnail": "https://i.ytimg.com/vi/s5nIKgdyWe0/hqdefault.jpg",
+      "publishedAt": "2026-09-20T01:00:24Z",
+      "durationSeconds": 5950,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Yah9UozhnYM",
+      "url": "https://www.youtube.com/watch?v=Yah9UozhnYM",
+      "title": "The king kept his own sister in chains, blindfolded, for 10 years. The hunter saves him and then...😲",
+      "description": "The King Chained His Own Sister and Kept Her Blindfolded for 10 Years… Then a Hunter Found Her 😲\n\nIn a forgotten kingdom surrounded by ancient mountains and dark forests, a beautiful princess is imprisoned by her own brother, the King. Chained and blindfolded, she is abandoned beside a remote lake, where she is left to survive alone.\n\nYears later, a mysterious hunter discovers her and risks everything to save her. But their escape does not remain a secret for long. The King's soldiers soon find them and bring them back to the castle.\n\nNow, the princess must face the brother who destroyed her life — and the hunter who refused to abandon her.\n\nThis is an original AI-generated fantasy movie created with the help of artificial intelligence. The characters, environments, cinematic scenes, visuals, and storytelling were created or enhanced using AI tools. This film is a fictional story made for entertainment.\n\n🎬 AI Movie | Fantasy | Medieval Kingdom | Princess | King | Hunter | Adventure | Drama\n\n#AIMovie #AIFilm #FantasyMovie #MedievalFantasy #FullMovie #Princess #Kingdom #Hunter #AIArt #AIGenerated #AIVideo #FantasyFilm #movie2026 \n\nai movie, ai movies, ai film, ai films, ai generated movie, ai generated film, ai fantasy movie, ai fantasy film, fantasy movie, fantasy movies, medieval fantasy movie, medieval movie, medieval fantasy film, full movie 2026, new movie 2026, fantasy movie 2026, ai movie 2026, best ai movies, best fantasy movies, princess movie, king movie, queen movie, medieval kingdom, royal family story, hunter saves princess, princess rescued by hunter, king and princess, princess in chains, blindfolded princess, trapped princess, beautiful princess, forgotten princess, fantasy adventure movie, fantasy drama movie, epic fantasy movie, cinematic ai movie, realistic ai movie, ai cinematic film, ai filmmaking, ai generated video, ai story, fantasy story, medieval story, emotional fantasy movie, adventure fantasy movie, epic medieval movie, new fantasy movie, full fantasy movie, fantasy film 2026, ai full movie, full ai movie, movie full movie, new fantasy film, 4k ai movie, 4k fantasy movie, cinematic fantasy, realistic fantasy movie\n\nai movie\nai movies\nai film\nai generated movie\nai movie 2026\nfull movie 2026\nfantasy movie\nfantasy movies\nfantasy movie 2026\nmedieval fantasy movie\nnew movie 2026\nbest fantasy movies\nai fantasy movie\nfull movie\nnew fantasy movie\nepic fantasy movie\nmedieval movie\nprincess movie\nking movie\nai full movie\n\nHashtags\n\n#AIMovie #AIFilm #AIGenerated #FantasyMovie #FantasyFilm #MedievalFantasy #FullMovie #Movie2026 #AIVideo #AIStory #EpicFantasy #MedievalMovie #PrincessMovie #Fantasy2026 #4KMovie\n\nYou might find these videos interesting.🤫🤫🤫\n\nhttps://youtu.be/R_VDrebwol8\n\nhttps://youtu.be/bMtZrvwb9I8\n\nhttps://youtu.be/goZf9lMf-aw\n\nhttps://youtu.be/LgkJqT4L6gY\n\nWatch this epic medieval movie, a fantasy story of adventure and emotional depth, as a king's dark secret is revealed. The king kept his own sister in chains, blindfolded, for 10 years, a shocking truth that is eventually uncovered by a brave hunter. This ai generated movie is a cinematic film that showcases the best of ai filmmaking, with a unique blend of medieval and fantasy elements. The story is full of unexpected twists and turns, making it a must-watch for fans of fantasy films. With its stunning 4k quality, this ai full movie is a treat for the eyes, and its engaging storyline will keep you on the edge of your seat. If you're looking for a new fantasy movie with a rich and immersive world, then this ai generated film is perfect for you. The combination of action, suspense, and emotional drama makes it an unforgettable experience, and the ai story is both captivating and thought-provoking. So sit back, relax, and enjoy this full fantasy movie, a true masterpiece of ai cinematic film.\n\n0:00 A Princess in a Kingdom of Dark Forests\n0:42 A Brother's Cold Betrayal\n1:34 Alone in the Silent Forest\n2:00 Elias the Hunter Enters the Woods\n2:40 A Gentle Hand in the Darkness\n3:37 The Shocking Truth Revealed\n3:54 The Sound of Approaching Hooves\n4:28 A Stand Against the Royal Guard\n4:58 The Rhythmic Pulse of the Forest",
+      "channelId": "UCOHv2vOpskJtNvtepbLmQ8g",
+      "channelTitle": "AI MOVIES STUDIO",
+      "thumbnail": "https://i.ytimg.com/vi/Yah9UozhnYM/hqdefault.jpg",
+      "publishedAt": "2026-09-15T12:39:14Z",
+      "durationSeconds": 4644,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "29NDpf74Q98",
+      "url": "https://www.youtube.com/watch?v=29NDpf74Q98",
+      "title": "【吹替版】ザ・ワーズ 盗まれた人生 | The Words（サスペンス, ミステリー, 洋画, 無料フル）",
+      "description": "🌌 未知のモンスターに出会える！チャンネル登録して毎週チェック‼️ https://bit.ly/MonsterfilmJP-SUB\n⚡ 成功を手にした作家が、一冊の原稿に隠された危険な真実へと飲み込まれていく心理サスペンス。\n\n原題: The Words\n出演: Bradley Cooper（ブラッドリー・クーパー）／Zoe Saldaña（ゾーイ・サルダナ）／Jeremy Irons（ジェレミー・アイアンズ）\n監督: Brian Klugman（ブライアン・クラグマン）、Lee Sternthal（リー・スターンタール）\n年齢制限: 0\n\n概要: 作家として成功を夢見るローリーは、偶然手に入れた古い原稿を自分の作品として発表し、一躍ベストセラー作家となる。しかし、その原稿には本当の作者が存在していた。ある日、謎めいた老人が現れ、自らの人生と原稿に秘められた悲劇を語り始める。名声、愛、そして罪悪感が交錯する中、ローリーは取り返しのつかない選択と向き合うことになる。物語が幾重にも重なる知的なミステリーと人間ドラマ。\n\n#モンスターフィルム #アクション映画 #ホラー映画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com .\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC4Tg69NfOtVLz2R8JxyY-zw",
+      "channelTitle": "CREATURE - モンスターフィルム",
+      "thumbnail": "https://i.ytimg.com/vi/29NDpf74Q98/hqdefault.jpg",
+      "publishedAt": "2026-08-13T00:45:19Z",
+      "durationSeconds": 6144,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:15.685Z",
+      "lastSeenAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
       "unavailableAt": null
     }
   ]

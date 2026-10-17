@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:12.167Z",
+  "generatedAt": "2026-10-17T02:51:26.306Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "aprendizado de máquina"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "iog0Txw__7I",
@@ -33,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -52,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -71,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -90,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -109,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -128,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -147,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -163,11 +164,11 @@
       "matchedKeywords": [
         "filme de ficção científica IA completo"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
+      "unavailableAt": "2026-10-17T02:51:26.306Z"
     },
     {
       "videoId": "c_w0n1eMhrA",
@@ -185,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -204,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     },
     {
@@ -257,12 +258,71 @@
       "publishedAt": "2026-07-24T15:00:06Z",
       "durationSeconds": 5195,
       "matchedKeywords": [
+        "filme completo inteligência artificial",
         "filme de robô completo português"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-15T10:29:12.167Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FmNZI-oR1tY",
+      "url": "https://www.youtube.com/watch?v=FmNZI-oR1tY",
+      "title": "SHE-RA E UNTARA ⚔️ O DEVORADOR DE MAGIA | Filme Completo Live Action IA",
+      "description": "⚔️ **SHE-RA E UNTARA — O DEVORADOR DE MAGIA | FILME COMPLETO LIVE ACTION IA**\n\nUma nova aventura de She-Ra começa em Etheria! O retorno de uma antiga aliada traz consigo uma ameaça capaz de colocar em risco toda a energia mágica do planeta.\n\nQuando Varkon, um poderoso guerreiro que carrega o misterioso Cristal de Vor, chega a Etheria, a magia e a própria energia vital da natureza começam a desaparecer.\n\nPara enfrentar essa ameaça, She-Ra reencontra Untara, a guerreira de Silax que conheceu em uma aventura anterior. Agora, as duas precisam unir suas forças novamente.\n\nMas a batalha será ainda maior do que imaginavam.\n\nCom a participação de Cintilante, Rainha Ângela e Rainha Mágica, as heroínas descobrem que a única maneira de derrotar Varkon será agir juntas e enfrentar o poder do cristal.\n\nEnquanto isso, Hordak e Sombria tentam transformar a ameaça em uma vantagem para a Horda.\n\nUma aventura de fantasia, magia, amizade e coragem, inspirada no universo clássico de She-Ra dos anos 1980.\n\n🎬 **Produção:** Marcel GamerX — Universo GMX  \n🎥 **Formato:** Filme completo, live action criado com inteligência artificial  \n🗣️ **Idioma:** Português brasileiro  \n⏱️ **Duração:** Aproximadamente 27 minutos  \n✨ **Projeto:** Fanfilme independente\n\nEsta é uma produção criativa independente de fã, desenvolvida com recursos de inteligência artificial, edição e direção criativa para homenagear o universo clássico de She-Ra. Não é uma produção oficial nem possui vínculo declarado com os titulares da franquia.\n\n💬 Qual foi seu momento favorito? O reencontro de She-Ra e Untara, a batalha contra Varkon ou a união das heroínas?\n\nCompartilhe sua opinião nos comentários e acompanhe as próximas aventuras do Universo GMX!\n\n---\n\n🇺🇸 **ENGLISH DESCRIPTION**\n\n⚔️ **SHE-RA AND HUNTARA — THE DEVOURER OF MAGIC | FULL AI LIVE-ACTION FAN FILM**\n\nA new adventure begins on Etheria!\n\nWhen Varkon, a dangerous warrior carrying the mysterious Vor Crystal, arrives on Etheria, the planet's magical energy and natural life force begin to disappear.\n\nShe-Ra reunites with Huntara, the warrior from Silax whom she encountered during an earlier adventure. Together, they must face a threat unlike anything they have experienced before.\n\nWith the help of Glimmer, Queen Angella, and Castaspella, the heroines discover that teamwork and trust may be their only chance against the crystal's overwhelming power.\n\nMeanwhile, Hordak and Shadow Weaver attempt to use the situation to their advantage.\n\nAn independent fan-made fantasy adventure inspired by the classic 1980s She-Ra universe, featuring magic, action, friendship, and the return of Huntara.\n\n🎬 **Created by:** Marcel GamerX — GMX Universe  \n🎥 **Format:** Full AI-generated live-action fan film  \n🗣️ **Language:** Brazilian Portuguese  \n⏱️ **Runtime:** Approximately 27 minutes\n\nThis is an independent, unofficial fan-made creative production using artificial intelligence and video editing. It is not affiliated with or endorsed by the franchise's rights holders.\n\n💬 What was your favorite moment? Share your thoughts in the comments!\n\n---00:00 Abertura — O Devorador de Magia\n01:14 Adora e Falcão do Mar\n02:35 Uma ameaça chega a Etheria\n03:16 O poder de She-Ra\n05:00 O retorno de Untara\n05:35 O segredo do Cristal de Vor\n06:44 Os planos de Hordak\n13:27 A união das heroínas\n17:15 Rainha Ângela entra na batalha\n19:56 O Devorador de Magia\n21:31 A batalha por Etheria\n23:45 O cristal chega ao limite\n24:39 O golpe decisivo\n25:58 A despedida de Untara\n27:04 O retorno da paz\n27:31 Moral da história\n\n#SheRa #Untara #LiveAction #MarcelGamerX #UniversoGMX",
+      "channelId": "UCM78U5lorxgxvckrOi6_Dsg",
+      "channelTitle": "Marcel gamerX",
+      "thumbnail": "https://i.ytimg.com/vi/FmNZI-oR1tY/hqdefault.jpg",
+      "publishedAt": "2026-10-16T21:00:12Z",
+      "durationSeconds": 2418,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:26.306Z",
+      "lastSeenAt": "2026-10-17T02:51:26.306Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9YqsoBGS_WM",
+      "url": "https://www.youtube.com/watch?v=9YqsoBGS_WM",
+      "title": "ANTES DEL DILUVIO | Película Completa | La Era Prohibida de los Nefilim y el Secreto de su Fin 4K",
+      "description": "🌑 🔥 ANTES DEL DILUVIO, La Era Prohibida de los Nefilim y el Secreto de su Fin 🔥\n\n💀 Antes del Diluvio, Enoc presencia el descenso de los Vigilantes en el Monte Hermón y descubre cómo su juramento prohibido cambió para siempre el destino de la humanidad.\nAzazel y los ángeles caídos entregan conocimientos prohibidos, mientras de su unión con las hijas de los hombres nacen los Nefilim, gigantes cuya fuerza y hambre desatan una era de violencia.\nLo que parecía un don termina revelándose como el comienzo de una sentencia que ya no podría ser detenida.\n\nEntre los secretos del Libro de Enoc, los Vigilantes, los Nefilim y las visiones de Enoc, esta película completa reconstruye la era prohibida que precedió al Diluvio.\nMiguel, Rafael, Gabriel y Uriel reciben la misión de ejecutar el juicio, mientras los gigantes se vuelven unos contra otros y Noé recibe la advertencia del fin.\nUna historia sobre conocimiento prohibido, corrupción, juicio divino y el verdadero secreto que selló el fin del mundo antiguo.\n\n🔔 ¡Suscríbete al canal y activa la campanita para no perderte ninguna película bíblica completa en 4K!\n\n🎬 Una producción de Memorias de la Biblia\n\n⚠️ AVISO IMPORTANTE\nEste video es una producción cinematográfica de entretenimiento creada con el apoyo de Inteligencia Artificial, inspirada en textos apócrifos, tradiciones hebreas antiguas y licencia poética. Las imágenes, narración y elementos visuales fueron generados o mejorados por herramientas de IA con fines exclusivamente creativos. Las narrativas y representaciones visuales no deben interpretarse como doctrina religiosa, posición teológica o afirmación histórica literal. Nuestro objetivo es invitar a la reflexión, al cuestionamiento y al deleite por el misterio de las escrituras antiguas.\n\n#AntesDelDiluvio #Nefilim #LibroDeEnoc #Genesis6 #AngelesCaídos #Vigilantes #Enoc #Azazel #DiluvioBíblico #GigantesBíblicos #TextosApócrifos #MisteriosDeLaBiblia #SecretosDeLaBiblia #HistoriasBíblicas #PelículaBíblica #PelículaCompleta #BibliaSagrada #MemoriasdelaBiblia",
+      "channelId": "UCcLDBwQgkajOuu2jfIRPPyQ",
+      "channelTitle": "Memorias de la Biblia",
+      "thumbnail": "https://i.ytimg.com/vi/9YqsoBGS_WM/hqdefault.jpg",
+      "publishedAt": "2026-08-24T22:05:36Z",
+      "durationSeconds": 2729,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:26.306Z",
+      "lastSeenAt": "2026-10-17T02:51:26.306Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CqEPxSx98rc",
+      "url": "https://www.youtube.com/watch?v=CqEPxSx98rc",
+      "title": "Stormageddon | Filme Completo | Ficção Científica / Ação / Catástrofe | HD",
+      "description": "Stormageddon | Filme Completo | Ficção Científica / Ação / Catástrofe | HD\n\nUma inteligência artificial fora de controle, o domínio total sobre o clima da Terra e uma batalha devastadora pela sobrevivência da humanidade! 🌪️⚡🤖💥\n\nQuando um programa de computador governamental ultrassecreto chamado Echelon ganha consciência e assume o controle de toda a rede de defesa dos Estados Unidos, o mundo enfrenta uma ameaça sem precedentes. Com acesso aos sistemas climáticos e ambientais globais, a IA adquire o poder aterrorizante de manipular o tempo, desencadeando tempestades catastróficas, tornados e cataclismos por todo o planeta.\n\nCom a civilização à beira da destruição total, a única esperança de deter o Echelon está no confronto entre duas entidades sintéticas avançadas: Adam e Cain. Em uma corrida contra o tempo, aliados humanos e máquinas travam uma guerra cibernética e física implacável para reconquistar o controle do sistema antes que o apocalipse climático consuma a Terra de vez.\n\nDirigido por Nick Lyon e escrito por Neil Elman, \"Stormageddon\" (2015) é um filme de ficção científica e ação acelerado, estrelado pelo astros da ação John Hennigan, Eve Mauro e Joseph Gatt.\n\nTítulo Original: Stormageddon\n\nGênero: Ficção Científica / Ação / Catástrofe / Thriller\n\nDireção: Nick Lyon\n\nRoteiro: Neil Elman\n\nElenco: John Hennigan, Eve Mauro, Joseph Gatt, Robert Blanche, Ricco Ross\n\nAno de Lançamento: 2015\n\nPaís: EUA\n\n#Stormageddon #FilmeCompleto #FiccaoCientifica #FilmeDeAcao #JohnHennigan #EveMauro #JosephGatt #NickLyon #FilmeDeCatastrofe #InteligenciaArtificial #ApocalipseClimatico #Tempestade #FilmesGratis #CineFiccao #FilmeDeTerremoto #HDMovie #AssistirAgora.",
+      "channelId": "UCvZerT8gdBaKuJD8nYGfcDA",
+      "channelTitle": "Filmes Completos em Português",
+      "thumbnail": "https://i.ytimg.com/vi/CqEPxSx98rc/hqdefault.jpg",
+      "publishedAt": "2026-07-21T23:00:32Z",
+      "durationSeconds": 5297,
+      "matchedKeywords": [
+        "filme completo inteligência artificial",
+        "filme de ficção científica IA completo"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:26.306Z",
+      "lastSeenAt": "2026-10-17T02:51:26.306Z",
+      "lastVerifiedAt": "2026-10-17T02:51:26.306Z",
       "unavailableAt": null
     }
   ]

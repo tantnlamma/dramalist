@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:15.145Z",
+  "generatedAt": "2026-10-17T02:51:31.396Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "apprentissage automatique"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "yPXdNKPpRss",
@@ -33,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -205,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +263,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -281,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -357,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -376,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -414,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -429,12 +430,13 @@
       "durationSeconds": 8954,
       "matchedKeywords": [
         "film complet intelligence artificielle",
-        "film robot complet français"
+        "film robot complet français",
+        "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +493,121 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "c2EJgFmnJxU",
+      "url": "https://www.youtube.com/watch?v=c2EJgFmnJxU",
+      "title": "Le chalet de Noël | Film Complet | Romance | Noël | Elva Mai Hoover | M6+ Films & Séries",
+      "description": "Photographe pour une agence de voyage et fan des traditions de Noël, Grace accepte de partir faire un reportage sur le festival d'un charmant village, avec sa mère et sa fille. À leur arrivée, elles découvrent que leur chalet a été loué deux fois et qu'elles vont le partager avec \nJack Manning, un auteur en mal d'inspiration qui déteste Noël. La cohabitation va être animée...\n\nPhotographe pour une agence de voyage et fan des traditions de No\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nLE CHALET DE NOËL (THE CHRISTMAS CHALET)\nRéalisation : Jennifer Gibson\nDistribution : Elva Mai Hoover, Micah Kalisch, Erica Durance et Robin Dunne\n© REEL ONE ENTERTAINMENT - 2019 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/c2EJgFmnJxU/hqdefault.jpg",
+      "publishedAt": "2026-10-16T17:00:13Z",
+      "durationSeconds": 5056,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AY44rHlv0dc",
+      "url": "https://www.youtube.com/watch?v=AY44rHlv0dc",
+      "title": "Shark Warning⎪20 ans après, le grand requin blanc revient⎪Action⎪Thriller⎪Film complet⎪ACE",
+      "description": "Vingt ans après avoir assisté à la mort de son frère, tué par un immense requin blanc, Alan revient dans sa ville natale avec l’espoir de laisser enfin le passé derrière lui.\n\nMais lorsque le prédateur refait surface et recommence à semer la terreur, il comprend que le cauchemar n’a jamais vraiment pris fin.\n\nDéterminé à protéger les habitants, Alan rassemble une équipe pour traquer la créature. En pleine mer, la moindre erreur peut transformer les chasseurs en proies.\n\n👉 Les films complets ? C’est ici 👉 https://bit.ly/3Zc34Nf\n\n👈 Abonnez-vous à CINE STREAM et activez la 🔔 pour ne manquer aucun nouveau film !\n\nUn film de Jimmy Gadd\nAvec David Chokachi, Andrew J. Katers et Angela Cole\n© Tous droits réservés ACE\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle. #filmcomplet #requin #action #thriller #cinestream",
+      "channelId": "UC83ULFMJ5TNEQ9Mt8ePgzbw",
+      "channelTitle": "CINE STREAM",
+      "thumbnail": "https://i.ytimg.com/vi/AY44rHlv0dc/hqdefault.jpg",
+      "publishedAt": "2026-10-16T16:00:18Z",
+      "durationSeconds": 5430,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5tjGotkUqis",
+      "url": "https://www.youtube.com/watch?v=5tjGotkUqis",
+      "title": "SA DEMI-SŒUR LUI A PRIS L’HOMME QU’ELLE AIMAIT… | SŒURS OU PRESQUE | Film Africain Complet ",
+      "description": "SŒURS OU PRESQUE | Une production originale Échos d’Afrique 🎬\n\nSynopsis :\nLorsque Grâce et sa mère arrivent chez Bernard Kouadio, elles espèrent pouvoir commencer une nouvelle vie auprès de lui. Mais leur arrivée est loin de faire l’unanimité.\n\nManuela, la fille de Bernard, voit immédiatement Grâce comme une intruse. Elle accepte difficilement de partager son père, sa maison et sa vie avec cette jeune femme qu’elle refuse de considérer comme sa sœur.\nCe qui commence par de la méfiance se transforme peu à peu en jalousie, rivalité et trahison. Et lorsque l’amour vient se mêler à leur histoire, Manuela est prête à aller beaucoup plus loin que Grâce ne l’aurait imaginé.\n\nMais à vouloir détruire la vie de quelqu’un, on peut finir par détruire la sienne.\n\nEntre amour, famille, jalousie, trahison, conséquences, pardon et reconstruction, découvrez SŒURS OU PRESQUE, une histoire africaine où les choix de chacune vont bouleverser leur destin.\n\nJusqu’où la jalousie peut-elle pousser une sœur ? Et peut-on réellement pardonner à quelqu’un qui nous a tout pris ?\n\n———\n\nBienvenue sur Échos d'Afrique !\nNous créons des histoires captivantes de drame, romance, suspense et trahison grâce à l'intelligence artificielle, inspirées de réalités humaines et de cultures africaines.\n\n✨ N'oubliez pas de vous abonner et d'activer la cloche pour ne manquer aucune nouvelle histoire.\n\n📩 COLLABORATIONS & PARTENARIATS\nPour toute collaboration commerciale ou partenariat : echosdafrique269@gmail.com\n\n🌍 SUIVEZ-NOUS SUR NOS AUTRES PLATEFORMES !\n\nFACEBOOK : https://www.facebook.com/share/1DYES4nmM4/?mibextid=wwXIfr\nTIKTOK : https://www.tiktok.com/@echosdafrique8?_r=1&_t=ZS-99YB9FzTKSr\nINSTAGRAM : https://www.instagram.com/echosdafrique8?stkn=cmhkcHdmMThwdzE4&utm_source=qr\n\n⚠️ DISCLAIMER\n\nToutes les histoires publiées sur cette chaîne sont des œuvres de fiction créées à des fins de divertissement. Toute ressemblance avec des personnes, des événements ou des situations réelles serait purement fortuite.\nCertaines images, voix et séquences vidéo sont générées ou assistées par intelligence artificielle.\n\nCOPYRIGHT\n\n© Tous droits réservés.\nToute reproduction, redistribution ou republication de cette vidéo, en tout ou en partie, sans autorisation écrite est interdite.\n\n#SoeursOuPresque #filmafricain #histoireafricaine #histoireémouvante #histoiredefamille #dramaafricain #trahison #jalousie #trahisonfamiliale #sœurs #echosdafrique",
+      "channelId": "UCDd_M_WwaciWUpt3wFVSrHw",
+      "channelTitle": "Échos d’Afrique",
+      "thumbnail": "https://i.ytimg.com/vi/5tjGotkUqis/hqdefault.jpg",
+      "publishedAt": "2026-09-08T18:30:26Z",
+      "durationSeconds": 2065,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uyR4bCp8dO0",
+      "url": "https://www.youtube.com/watch?v=uyR4bCp8dO0",
+      "title": "War of Machine | Hollywood English Full HD Movie | Action Sci-Fi Thriller | Humanity Fights Back!",
+      "description": "WAR OF MACHINE — When technology turns against humanity, survival becomes the ultimate battle!\n\nA powerful weapons corporation falls under the control of a dangerous cyber virus, unleashing an unstoppable army of machines. As the world faces an unprecedented threat, a small group of survivors must fight their way through chaos, deadly attacks, and overwhelming odds to prevent humanity's destruction.\n\nWith intense combat, futuristic weapons, relentless machine enemies, and a desperate fight for survival, this action-packed movie delivers a gripping battle between humans and advanced technology. Every moment brings a new danger, and one wrong move could mean the end of everything.\n\n🔥 WHAT TO EXPECT:\n• Intense futuristic action and machine warfare\n• A dangerous cyber threat and an army of machines\n• Survival against overwhelming odds\n• High-stakes battles and a fight to save humanity\n\nIf you enjoy Hollywood action movies, futuristic warfare, robot battles, survival thrillers, and stories about technology turning against its creators, this English full movie is for you.\n\nWatch the movie and tell us in the comments: Could humanity survive an army of machines?\n\n👍 LIKE the video\n💬 COMMENT your opinion\n🔔 SUBSCRIBE for more English full movies and action adventures.\n\n#WarOfMachine #HollywoodMovie #EnglishFullMovie #ActionMovie #SciFiAction #MachineWar #FullHDMovie",
+      "channelId": "UCTAPa6gfHgJbtNRlfPYEEHw",
+      "channelTitle": "Blue Orbit Media",
+      "thumbnail": "https://i.ytimg.com/vi/uyR4bCp8dO0/hqdefault.jpg",
+      "publishedAt": "2026-10-16T10:30:17Z",
+      "durationSeconds": 5516,
+      "matchedKeywords": [
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vge48SwMRw4",
+      "url": "https://www.youtube.com/watch?v=vge48SwMRw4",
+      "title": "AVANT DE FAIRE CONFIANCE À quelques-uns, REGARDE CE FILM ! 😱 | Film complet en français ",
+      "description": "David pensait avoir un véritable ami en Samuel. Ils avaient grandi ensemble et travaillaient dans la même entreprise. Mais derrière cette amitié se cachait une terrible trahison…\nUn simple mensonge va faire perdre son travail à David et bouleverser complètement sa vie. Sans emploi, sans argent et sans savoir quoi faire, il va pourtant rencontrer une personne qui va lui montrer une nouvelle manière de travailler avec son téléphone.\nMais lorsque sa vie commence enfin à changer, David va comprendre une chose importante : tout le monde qui vient vers toi lorsque tu réussis ne vient pas forcément avec de bonnes intentions.\nCette histoire nous rappelle que pardonner quelqu'un ne signifie pas forcément lui redonner immédiatement sa confiance.\n Regarde le film jusqu'à la fin et dis-nous dans les commentaires :\nEst-ce que tu pourrais pardonner à ton meilleur ami après une telle trahison ?\n🌍 Depuis quel pays regardez-vous cette histoire ?\n👍 N'oublie pas de liker, t'abonner à la chaîne et de partager la vidéo.\nsi vous voulez apprendre a créer des vidéos avec  \nintelligence artificielle \nla formation est disponible \nvous pouvez rejoindre \nhttps://chat.whatsapp.com/KKbjtibXDQCKz4zvNGPHvL?s=cl&p=a&ilr=1\n\n🎬 Film créé par Mathieu.\n#FilmAfricain #HistoireDeVie #Trahison #Amitié #Motivation #FilmIA #HistoireAfricaine #Confiance #FilmAfricain2026",
+      "channelId": "UCnGwiTFdjXCsRw-dupm2ICQ",
+      "channelTitle": "Matthieu ",
+      "thumbnail": "https://i.ytimg.com/vi/vge48SwMRw4/hqdefault.jpg",
+      "publishedAt": "2026-08-11T11:54:27Z",
+      "durationSeconds": 2356,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JwFF0sjZHrE",
+      "url": "https://www.youtube.com/watch?v=JwFF0sjZHrE",
+      "title": "Le Cobaye avec Jeff Fahey | Film complet en français | Science-Fiction & Horreur",
+      "description": "LE COBAYE | Film complet en français\n\n🧠 Genre : Science-fiction • Horreur • Action\n\nJobe Smith mène une existence simple lorsqu’il attire l’attention du docteur Angelo, un scientifique spécialisé dans de nouvelles technologies capables de stimuler l’intelligence.\n\nConvaincu que ses expériences peuvent transformer les capacités humaines, le scientifique décide de faire de Jobe son nouveau cobaye.\n\nGrâce à la réalité virtuelle et à des expériences de plus en plus poussées, l’intelligence de Jobe se développe à une vitesse incroyable.\n\nMais cette transformation va bientôt dépasser toutes les attentes…\n\nSes capacités deviennent extraordinaires, son comportement change et l’expérience scientifique commence à échapper totalement à ses créateurs.\n\n🧠 Une expérience révolutionnaire.\n💻 Une plongée dans la réalité virtuelle.\n⚡ Un homme dont les capacités deviennent incontrôlables.\n\nAvec Jeff Fahey, Le Cobaye est un film de science-fiction culte des années 90 mêlant technologie, réalité virtuelle, expériences scientifiques et horreur.\n\n🍿 Installez-vous confortablement et profitez du cinéma sur Streambox.\n\nQue vous recherchiez un divertissement intense, des histoires intemporelles ou des scènes spectaculaires, Streambox vous fait vivre toute la magie du cinéma.\n\n👍 Laissez un j’aime si vous appréciez le film.\n💬 Dites-nous en commentaire ce que vous en avez pensé.\n🔔 Abonnez-vous à Streambox pour découvrir encore plus de films.\n\nréalité virtuelle, expérience scientifique, intelligence artificielle, cobaye humain, pouvoirs psychiques, technologie futuriste, science-fiction années 90, expérience incontrôlable, thriller technologique, film culte.\n\n#LeCobaye #ScienceFiction #FilmComplet",
+      "channelId": "UCyLHhtwZ8EGr6PhAV_xAVrQ",
+      "channelTitle": "Streambox",
+      "thumbnail": "https://i.ytimg.com/vi/JwFF0sjZHrE/hqdefault.jpg",
+      "publishedAt": "2026-08-31T08:00:37Z",
+      "durationSeconds": 6239,
+      "matchedKeywords": [
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:31.396Z",
+      "lastSeenAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:58:56.152Z",
+  "generatedAt": "2026-10-17T02:51:02.451Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,7 +16,7 @@
       "machine learning"
     ]
   },
-  "runStatus": "partial_quota",
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "iGUATlCScxA",
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -183,11 +183,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": "2026-10-17T02:51:02.451Z"
     },
     {
       "videoId": "vc0keFzAnqw",
@@ -238,12 +238,13 @@
       "publishedAt": "2026-10-13T10:54:00Z",
       "durationSeconds": 2325,
       "matchedKeywords": [
+        "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -259,11 +260,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": "2026-10-17T02:51:02.451Z"
     },
     {
       "videoId": "qjkzslTGv-s",
@@ -282,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +302,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +379,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -398,7 +399,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -434,11 +435,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": "2026-10-17T02:51:02.451Z"
     },
     {
       "videoId": "lkV926docUg",
@@ -456,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -513,7 +514,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -532,7 +533,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -551,7 +552,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +609,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -660,12 +661,13 @@
       "publishedAt": "2026-09-22T16:00:29Z",
       "durationSeconds": 2499,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -684,7 +686,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +705,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -741,7 +743,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -760,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -774,12 +776,14 @@
       "publishedAt": "2026-09-05T12:00:57Z",
       "durationSeconds": 2486,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -798,7 +802,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -812,12 +816,13 @@
       "publishedAt": "2026-08-22T22:21:49Z",
       "durationSeconds": 2422,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "AI science fiction drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -831,12 +836,13 @@
       "publishedAt": "2026-08-18T06:31:41Z",
       "durationSeconds": 7863,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "AI science fiction drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -893,7 +899,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -931,7 +937,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -950,7 +956,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +975,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -988,7 +994,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -1007,7 +1013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1032,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     },
     {
@@ -1045,7 +1051,388 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FmNZI-oR1tY",
+      "url": "https://www.youtube.com/watch?v=FmNZI-oR1tY",
+      "title": "SHE-RA E UNTARA ⚔️ O DEVORADOR DE MAGIA | Filme Completo Live Action IA",
+      "description": "⚔️ **SHE-RA E UNTARA — O DEVORADOR DE MAGIA | FILME COMPLETO LIVE ACTION IA**\n\nUma nova aventura de She-Ra começa em Etheria! O retorno de uma antiga aliada traz consigo uma ameaça capaz de colocar em risco toda a energia mágica do planeta.\n\nQuando Varkon, um poderoso guerreiro que carrega o misterioso Cristal de Vor, chega a Etheria, a magia e a própria energia vital da natureza começam a desaparecer.\n\nPara enfrentar essa ameaça, She-Ra reencontra Untara, a guerreira de Silax que conheceu em uma aventura anterior. Agora, as duas precisam unir suas forças novamente.\n\nMas a batalha será ainda maior do que imaginavam.\n\nCom a participação de Cintilante, Rainha Ângela e Rainha Mágica, as heroínas descobrem que a única maneira de derrotar Varkon será agir juntas e enfrentar o poder do cristal.\n\nEnquanto isso, Hordak e Sombria tentam transformar a ameaça em uma vantagem para a Horda.\n\nUma aventura de fantasia, magia, amizade e coragem, inspirada no universo clássico de She-Ra dos anos 1980.\n\n🎬 **Produção:** Marcel GamerX — Universo GMX  \n🎥 **Formato:** Filme completo, live action criado com inteligência artificial  \n🗣️ **Idioma:** Português brasileiro  \n⏱️ **Duração:** Aproximadamente 27 minutos  \n✨ **Projeto:** Fanfilme independente\n\nEsta é uma produção criativa independente de fã, desenvolvida com recursos de inteligência artificial, edição e direção criativa para homenagear o universo clássico de She-Ra. Não é uma produção oficial nem possui vínculo declarado com os titulares da franquia.\n\n💬 Qual foi seu momento favorito? O reencontro de She-Ra e Untara, a batalha contra Varkon ou a união das heroínas?\n\nCompartilhe sua opinião nos comentários e acompanhe as próximas aventuras do Universo GMX!\n\n---\n\n🇺🇸 **ENGLISH DESCRIPTION**\n\n⚔️ **SHE-RA AND HUNTARA — THE DEVOURER OF MAGIC | FULL AI LIVE-ACTION FAN FILM**\n\nA new adventure begins on Etheria!\n\nWhen Varkon, a dangerous warrior carrying the mysterious Vor Crystal, arrives on Etheria, the planet's magical energy and natural life force begin to disappear.\n\nShe-Ra reunites with Huntara, the warrior from Silax whom she encountered during an earlier adventure. Together, they must face a threat unlike anything they have experienced before.\n\nWith the help of Glimmer, Queen Angella, and Castaspella, the heroines discover that teamwork and trust may be their only chance against the crystal's overwhelming power.\n\nMeanwhile, Hordak and Shadow Weaver attempt to use the situation to their advantage.\n\nAn independent fan-made fantasy adventure inspired by the classic 1980s She-Ra universe, featuring magic, action, friendship, and the return of Huntara.\n\n🎬 **Created by:** Marcel GamerX — GMX Universe  \n🎥 **Format:** Full AI-generated live-action fan film  \n🗣️ **Language:** Brazilian Portuguese  \n⏱️ **Runtime:** Approximately 27 minutes\n\nThis is an independent, unofficial fan-made creative production using artificial intelligence and video editing. It is not affiliated with or endorsed by the franchise's rights holders.\n\n💬 What was your favorite moment? Share your thoughts in the comments!\n\n---00:00 Abertura — O Devorador de Magia\n01:14 Adora e Falcão do Mar\n02:35 Uma ameaça chega a Etheria\n03:16 O poder de She-Ra\n05:00 O retorno de Untara\n05:35 O segredo do Cristal de Vor\n06:44 Os planos de Hordak\n13:27 A união das heroínas\n17:15 Rainha Ângela entra na batalha\n19:56 O Devorador de Magia\n21:31 A batalha por Etheria\n23:45 O cristal chega ao limite\n24:39 O golpe decisivo\n25:58 A despedida de Untara\n27:04 O retorno da paz\n27:31 Moral da história\n\n#SheRa #Untara #LiveAction #MarcelGamerX #UniversoGMX",
+      "channelId": "UCM78U5lorxgxvckrOi6_Dsg",
+      "channelTitle": "Marcel gamerX",
+      "thumbnail": "https://i.ytimg.com/vi/FmNZI-oR1tY/hqdefault.jpg",
+      "publishedAt": "2026-10-16T21:00:12Z",
+      "durationSeconds": 2418,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7imikGxBcdA",
+      "url": "https://www.youtube.com/watch?v=7imikGxBcdA",
+      "title": "THE MOTHER MONSTER FULL MOVIE | FANTASY MOVIE 4K | DEMERVISION FILMS ",
+      "description": "MOTHER OF MONSTER — A Groundbreaking 1-Hour 02-Minute AI Feature Film!\n\n​Watch the full movie of Mother of Monster, a mind-bending Sci-Fi Horror / Thriller generated entirely using cutting-edge Artificial Intelligence tools. Experience a cinematic journey into the unknown where dark secrets and monstrous creations unfold.\n\n​⏳ Runtime: 1 Hour 02Minutes\n🎧 Best Experience: Use Headphones for Immersive 3D Sound\n⚙️ Quality: 4K Ultra HD\n​📝 Movie Synopsis:\n​In a world where humanity pushes the boundaries of science and creation, a terrifying force emerges. \"Mother of Monster\" explores the dark side of creation, survival, and the terrifying legacy of an ultimate beast. Will creation conquer creator, or will the truth destroy everything?\n\n​🍿 Why Watch \"Mother of Monster\"?\n​100% AI-generated visuals, animation, and voiceovers.\n​Feature-length (90 Minutes) cinematic storytelling.\n​High-tension Sci-Fi Horror storyline with incredible world-building.\n\n​🔔 Subscribe to the channel for more AI movies, short films, and futuristic cinema!\n👍 Like, Comment, and Share if you enjoyed the movie!\n\n​mother of beast , Mother Monster,mother of dragon,mother of stolen lion ,mother monster 2,mother lion,she raised a monster ,full movie \n\n#mothermonster #dragonmovie #monster #sheraised #fullmovie #newmovie #hollywood #4kcinematic #aishortfilm #shortmovie #viral #trending #epicmovie #emotionalstory #fantasyfilm",
+      "channelId": "UCtKNTUxkOK8ylRzB48ifJfA",
+      "channelTitle": "𝘿𝙀𝙈𝙀𝙍 𝙑𝙄𝙎𝙄𝙊𝙉",
+      "thumbnail": "https://i.ytimg.com/vi/7imikGxBcdA/hqdefault.jpg",
+      "publishedAt": "2026-10-16T18:54:28Z",
+      "durationSeconds": 3730,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aFP0tAChLQo",
+      "url": "https://www.youtube.com/watch?v=aFP0tAChLQo",
+      "title": "Debug (2014) FULL MOVIE Horror/Sci-fi Jason Momoa",
+      "description": "Six young computer hackers, sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human.",
+      "channelId": "UCzscjkzL207Tcmhp0GgdKYg",
+      "channelTitle": "The Secret Catalogue",
+      "thumbnail": "https://i.ytimg.com/vi/aFP0tAChLQo/hqdefault.jpg",
+      "publishedAt": "2026-10-16T13:29:56Z",
+      "durationSeconds": 5158,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Bg-a2MdhZiw",
+      "url": "https://www.youtube.com/watch?v=Bg-a2MdhZiw",
+      "title": "The Village in my Hands - Full Movie",
+      "description": "Experience an intense AI-generated drama story! Follow along as secrets unfold and unexpected twists change everything.\n\n🎬 About This Video:\n\nThis video features AI-assisted video creation, storytelling, and digital animation to bring you compelling fiction and realistic drama.\n\n🔔 Subscribe & Stay Updated:\n\nDon't forget to Like, Comment, and Subscribe for more AI shorts, drama stories, and creative storytelling!\n\n#AIVideo #AIDrama #AIGenerated #Storytelling #ShortFilm #ArtificialIntelligence",
+      "channelId": "UC97D-e9y4TnvEChpulk9ipg",
+      "channelTitle": "AI Magic 802",
+      "thumbnail": "https://i.ytimg.com/vi/Bg-a2MdhZiw/hqdefault.jpg",
+      "publishedAt": "2026-10-16T12:00:26Z",
+      "durationSeconds": 3575,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1ujlC3AFlhw",
+      "url": "https://www.youtube.com/watch?v=1ujlC3AFlhw",
+      "title": "What If AI Awakens? | ECHO-AI: THE FIRST MIND (2026) | Full AI Animated Sci-Fi Movie",
+      "description": "What if the history of artificial intelligence was leading to something humanity never expected?\n\n🎬 𝗘𝗖𝗛𝗢-𝗔𝗜: 𝗧𝗛𝗘 𝗙𝗜𝗥𝗦𝗧 𝗠𝗜𝗡𝗗 (𝟮𝟬𝟮𝟲) is an original AI-animated sci-fi movie by MIAA STUDIOS, exploring the history, evolution, and future of artificial intelligence.\n\nFrom the early days of AI research in the 1950s to neural networks, intelligent robots, machine learning, and modern AI, experience the remarkable journey of artificial intelligence through a cinematic story spanning generations.\n\nAs scientists push the boundaries of machine intelligence, a mysterious creation known as ECHO raises one terrifying question:\n\n𝗪𝗵𝗮𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝘀 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝘄𝗲 𝗰𝗿𝗲𝗮𝘁𝗲 𝗯𝗲𝗴𝗶𝗻𝘀 𝘁𝗼 𝘁𝗵𝗶𝗻𝗸 𝗳𝗼𝗿 𝗶𝘁𝘀𝗲𝗹𝗳?\n\n🎥 𝗠𝗢𝗩𝗜𝗘 𝗗𝗘𝗧𝗔𝗜𝗟𝗦\n\n𝗧𝗶𝘁𝗹𝗲: ECHO-AI: THE FIRST MIND  \n𝗥𝗲𝗹𝗲𝗮𝘀𝗲: October 16, 2026  \n𝗦𝘁𝘂𝗱𝗶𝗼: MIAA STUDIOS  \n𝗚𝗲𝗻𝗿𝗲: Sci-Fi | AI History | Mystery | Thriller  \n𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: English\n\n𝗡𝗼𝘁𝗲: This is an original science fiction film combining real AI milestones with fictional characters and events. It is not a documentary.\n\n🔔 𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝘁𝗼 𝗠𝗜𝗔𝗔 𝗦𝗧𝗨𝗗𝗜𝗢𝗦 for more original AI-animated movies.\n\n💬 𝗖𝗼𝘂𝗹𝗱 𝗔𝗜 𝗲𝘃𝗲𝗿 𝗯𝗲𝗰𝗼𝗺𝗲 𝘁𝗿𝘂𝗹𝘆 𝗰𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀? Share your thoughts in the comments!\n\n𝗠𝗜𝗔𝗔 𝗦𝗧𝗨𝗗𝗜𝗢𝗦 | 𝗜𝗺𝗮𝗴𝗶𝗻𝗲. 𝗔𝗻𝗶𝗺𝗮𝘁𝗲. 𝗔𝗺𝗮𝘇𝗲.\n\n#EchoAI #SciFiMovie #ArtificialIntelligence #AIMovie #AIAnimation #AIHistory #FullMovie #MIAAStudios",
+      "channelId": "UCQdLPVjUhV8J-V3t0sKcIbA",
+      "channelTitle": "MIAA Studios",
+      "thumbnail": "https://i.ytimg.com/vi/1ujlC3AFlhw/hqdefault.jpg",
+      "publishedAt": "2026-10-16T11:00:06Z",
+      "durationSeconds": 2841,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fdzhUnU9_QU",
+      "url": "https://www.youtube.com/watch?v=fdzhUnU9_QU",
+      "title": "The Dragon Mother (2026) – हिंदी फुल मूवी | AI Fantasy Adventure",
+      "description": "🐉 The Dragon Mother – Full Movie in Hindi\n\nEk aisi maa ki kahani, jiske liye uska pyaar hi uski sabse badi taakat hai. Jab andhere ka toofan duniya ko nigalne lagta hai, tab ek Dragon Mother apne bacchon aur apni dharti ko bachane ke liye aag aur aasman se ladti hai. Kya mamta ki shakti, har saazish aur har jung ko haraa payegi?\n\nEpic fantasy, emotional drama aur dragon action se bhari ye film poori tarah Hindi mein hai. Movie ko aakhir tak zaroor dekhein! 🔥\n\n⏱️ Language: Hindi\n🎭 Genre: Fantasy | Adventure | Emotional Drama\n🤖 Type: AI Generated Movie\n\n👍 Movie pasand aaye to Like, Share aur Subscribe karna na bhoolein, aur comment mein batayein ki aapko kaisa laga!\n\n⚠️ Credit & Warning(MYTHRA/MYTHRESTORY)\n\n⚠️ Disclaimer / AI Notice:\nYe film AI (Artificial Intelligence) tools ki madad se banayi gayi hai. Isme dikhaye gaye sabhi characters, visuals, voices aur events kaalpanik (fictional) hain. Kisi bhi asli vyakti, jagah ya ghatna se inka koi sambandh nahi hai; agar koi samanta dikhe to wo sirf ek sanyog hai.\n\n🎞️ Credits:\n\nStory / Script: []\nDirection & Editing: []\nAI Tools Used: [jaise Kling, Runway, Veo, ElevenLabs, Suno etc. likh dein]\nMusic: [Music ka source/naam]\nVoice: AI Generated Voice\n\n©️ Copyright: Is video ka content original/AI-generated hai. Bina permission re-upload ya copy karna mana hai. © [Aapka Channel Name]\n\n🔖 Hashtags & Tags\n\nHashtags (description/title mein):\n#TheDragonMother #DragonMother #HindiMovie #FullMovieInHindi #AIMovie #AIGeneratedMovie #FantasyMovie #DragonMovie #HindiFantasy #AIFilm #NewHindiMovie2026 #AdventureMovie",
+      "channelId": "UCTc6vKAz0pBfQloed8bZv8A",
+      "channelTitle": "autto ai voice",
+      "thumbnail": "https://i.ytimg.com/vi/fdzhUnU9_QU/hqdefault.jpg",
+      "publishedAt": "2026-10-16T08:44:36Z",
+      "durationSeconds": 4026,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_IVr26gU22s",
+      "url": "https://www.youtube.com/watch?v=_IVr26gU22s",
+      "title": "KEPLER-22B: THE HABITABLE LIE | Is This Planet Pregnant? / AI Sci-Fi | Sci-Fi | Full Movie | 4K",
+      "description": "✨ Don't wake the others. Two hundred thousand sleepers still drift in orbit, and the golden planet below them has been breathing since long before they arrived.\n\nKEPLER-22B: THE HABITABLE LIE is a full-length AI sci-fi mystery movie set in the year 2461, when the colony ark ARK TWO reaches Kepler-22b, the \"second Earth\" humanity has trusted for three centuries.\n\nThe abandoned city of ARK ONE still glows beside a honey-gold sea, dinner still on the tables, and not one person is left. Biologist Dr. Iris Thane and pilot Joran Hesk find ground that is warm at every depth and beats exactly seven-tenths of a second apart. While Director Helena Strand fights to protect a comforting lie for sixty thousand colonists, the last geologist of ARK ONE reveals what this world really is. Far beneath the Sweet Sea, something enormous is growing, and the final message ARK ONE ever sent may not say what everyone thought it said.\n\nThis feature-length AI film delivers planet-scale spectacle, alien biology, space colony survival, a cosmic mystery that deepens with every chapter, and cinematic 4K visuals. If you love alien planet movies, space survival stories, and slow-burn sci-fi mysteries, press play.\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more long-form AI movies, cinematic sci-fi worlds, and 4K experimental films every week.\n\n#KEPLER22B #TheHabitableLie #SciFiFullMovie #AIMovie #AIFilm #SciFiMovie #SpaceMovie #AlienPlanet #SciFiMystery #SpaceSurvival #FullMovie #FullMovie4K #AIGeneratedMovie #SciFiFullMovieEnglish #SpaceColony #StellarCinema",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/_IVr26gU22s/hqdefault.jpg",
+      "publishedAt": "2026-10-15T11:42:25Z",
+      "durationSeconds": 4295,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wcPPTSgikC8",
+      "url": "https://www.youtube.com/watch?v=wcPPTSgikC8",
+      "title": "Azure Dragon Awakens! 😱 The Trapped Beast’s Final Battle | Full Movie",
+      "description": "CAST\n\nDivine Guardians & Mythical Beasts\n\nAzure Dragon (Qinglong / 青龙)\n\nNine-Tailed Fox (Jiuweihu / 九尾狐)\n\nVermilion Bird (Zhuque / 朱雀)\n\nWhite Tiger (Baihu / 白虎)\n\nQilin (麒麟)\n\nWinged Golden Dragon (Yinglong / 应龙)\n\n\nDark Forces\n\nBlack Dragon Níðhöggr (黑龙·尼德霍格)\n\nCorrupted Giant Eagle\n\nWinged Shadow Panther / Dark Chimera\n\nArmored Spiked Boars & Behemoths\n\nSkull-Faced Shadow Wolves\n\n\nAbyssal Entity\n\nDeep-Sea Leviathan / Kraken\n\n\nKeywords::Azure Dragon, Azure Dragon battle, Trapped Beast, Trapped Beast movie, Trapped Beast awakens, Azure Dragon final battle, Azure Dragon vs Trapped Beast, battle of the trapped beast, battle of the trapped beasts, trapped beast full movie, Azure Dragon full movie, dragon battle, monster battle, mythical beast, ancient beast, Chinese mythology, Chinese dragon, legendary dragon, fantasy monster movie, beast movie, dragon movie, cinematic monster battle, AI monster movie, AI generated movie, mythical creatures, epic dragon fight\n\n\n\n---\n\nDESCRIPTION\n\nFull Fight: Azure Dragon vs Níðhöggr — The Mythological Battle\n\nAn epic battle unfolds in an industrial quarry as the Azure Dragon (Qinglong) and Nine-Tailed Fox (Jiuweihu) fight against an army of corrupted mythical beasts commanded by the terrifying Black Dragon Níðhöggr.\n\nThe battle begins with a massive ambush as armored behemoths, spiked boars, shadow wolves, and flying beasts overwhelm the quarry. The Nine-Tailed Fox fights back with powerful red energy beams while the Azure Dragon battles the invading forces.\n\nThen Níðhöggr arrives.\n\nThe multi-eyed Black Dragon unleashes devastating purple energy and overwhelms the defenders. As the Azure Dragon is pinned down and Níðhöggr prepares to deliver the finishing blow, the Nine-Tailed Fox intervenes.\n\nThe battle turns when the Vermilion Bird (Zhuque) descends from a fiery vortex, followed by the arrival of the White Tiger (Baihu) and Qilin. The Divine Guardians launch a powerful counterattack, forcing Níðhöggr into the skies.\n\nThe fight becomes an intense aerial battle between the Azure Dragon, Vermilion Bird, and Níðhöggr.\n\nBut when Níðhöggr reaches the upper atmosphere, the legendary Winged Golden Dragon (Yinglong) appears above the clouds and unleashes a massive pillar of celestial light, sending the defeated Black Dragon crashing into the ocean.\n\nDeep beneath the waves, a colossal Deep-Sea Leviathan emerges from the abyss and drags Níðhöggr into the darkness. The Azure Dragon follows into the depths for one final attack.\n\nORIGINAL CREATOR / CREDIT\n\nOriginal Creator: Art One\nDouyin ID: EXE242\nOriginal Series: “The Battle of the Trapped Beast”\n\nThis video was originally created and published by Art One on Douyin. Full credit goes to the original creator for the original video and creative work.\n\nOriginal Video: [Douyin — Original Video](https://v.douyin.com/mcnN7V9VBKw/?utm_source=chatgpt.com)\n\nI do not claim ownership of the original video. All rights belong to the original creator.\n\n#AIAnimation #AIFilm #AIFilmmaking #AzureDragon #Qinglong #Nidhogg #ChineseMythology #NorseMythology #MythicalCreatures #Yinglong #Qilin #Baihu #Zhuque #CinematicAI #AIShortFilm #Mythology #Fantasy #TheBattleOfTheTrappedBeast",
+      "channelId": "UC_bhIq4_F1onXNqDCj_ILKw",
+      "channelTitle": "RAVYXEN GAMING ",
+      "thumbnail": "https://i.ytimg.com/vi/wcPPTSgikC8/hqdefault.jpg",
+      "publishedAt": "2026-09-13T03:01:43Z",
+      "durationSeconds": 2003,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oiFW3Uou4wE",
+      "url": "https://www.youtube.com/watch?v=oiFW3Uou4wE",
+      "title": "A Machine Learns to Feel, Fight and Survive Against an Entire Army | HD",
+      "description": "A powerful artificial intelligence is born inside a police robot, but instead of remaining a machine, it begins to think, feel, learn, and make its own choices. When criminals, armed forces, and powerful enemies discover what this machine can become, a dangerous fight for survival begins.\n\nFollow an extraordinary journey filled with futuristic technology, intense action, powerful robots, crime, betrayal, emotional moments, and explosive battles. A machine created for law enforcement must learn how to survive in a world where everyone wants to control its incredible abilities.\n\n⏱️ TIMESTAMPS\n\n00:00 – A New Generation of Robot Police\n05:42 – The Damaged Machine\n12:18 – A New Consciousness Is Born\n19:35 – Learning About the Human World\n27:46 – The Gangsters Take Control\n36:20 – A Machine Learns to Fight\n45:08 – The First Major Battle\n54:36 – A Dangerous New Threat\n01:04:15 – The Powerful Combat Machine\n01:14:42 – The Fight for Survival\n01:24:30 – Everything Begins to Change\n01:34:18 – The Final Confrontation\n01:44:50 – A New Beginning\n\n🔥 If you enjoy science fiction, artificial intelligence, futuristic technology, robot battles, crime thrillers, and action movies, this movie is for you.\n\n#SciFiMovie #ActionMovie #RobotMovie #AI #ArtificialIntelligence #RobotAction #ScienceFiction #ActionFilm #SciFiAction #FullMovie #MovieHD #RobotWar #FutureTechnology #SurvivalMovie #ThrillerMovie",
+      "channelId": "UCBibUVvAQhHm1IQNxfEVs4g",
+      "channelTitle": "Fortune Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/oiFW3Uou4wE/hqdefault.jpg",
+      "publishedAt": "2026-09-26T14:00:16Z",
+      "durationSeconds": 5587,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pb3pa99oE5E",
+      "url": "https://www.youtube.com/watch?v=pb3pa99oE5E",
+      "title": "Neem Karoli Baba | नीम करोली बाबा | सम्पूर्ण जीवन कथा | movie  2026 #movie #hindimove #newmovie",
+      "description": "🙏 Neem Karoli Baba | नीम करोली बाबा | सम्पूर्ण जीवन कथा | Hindi Spiritual Movie\n\nयह फिल्म Neem Karoli Baba (नीम करोली बाबा) के जीवन, उनकी भक्ति, आध्यात्मिक यात्रा और उनके संदेशों से प्रेरित एक सिनेमाई प्रस्तुति है।\n\nफिल्म में उनके जीवन से जुड़े महत्वपूर्ण प्रसंगों, आध्यात्मिक विचारों और भक्तों के अनुभवों को कहानी के रूप में प्रस्तुत किया गया है। यह फिल्म भक्ति, प्रेम, सेवा और मानवता के संदेश को दर्शाती है।\n\n\n🙏 मुख्य विषय:\n• नीम करोली बाबा का जीवन\n• उनकी आध्यात्मिक यात्रा\n• भक्ति और सेवा का संदेश\n• कैंची धाम से जुड़ी परंपरा\n• राम-हनुमान भक्ति\n• प्रेम, करुणा और मानव सेवा\n\nअगर आपको आध्यात्मिक फिल्में, संतों की जीवन कथाएँ और भारतीय आध्यात्मिक कहानियाँ पसंद हैं, तो वीडियो को Like करें, Comment करें और Channel को Subscribe करें। 🔔\n\nDisclaimer: यह फिल्म एक सिनेमाई/रचनात्मक प्रस्तुति है। ऐतिहासिक घटनाओं और आध्यात्मिक परंपराओं को कहानी के अनुरूप प्रस्तुत किया गया है। इसे आधिकारिक जीवनी या ऐतिहासिक दस्तावेज़ न माना जाए।\n\n#NeemKaroliBaba #नीमकरोलीबाबा #NeemKaroliBabaMovie #KainchiDham #SpiritualMovie #HindiMovie #Bhakti #HanumanBhakti #IndianSpirituality #SaintStory #DevotionalMovie #HindiSpiritualMovie #NeemKaroliBabaLife \n\n\n⚠️ AI-Generated Content Disclaimer\n\nThis movie is a fictionalized cinematic presentation created with the assistance of Artificial Intelligence (AI). AI-generated visuals, voices, characters, scenes, and other elements may have been used in the production.\n\nThe film is created for entertainment, storytelling, and spiritual inspiration. Some scenes, dialogues, events, and character portrayals may be dramatized or creatively reconstructed and should not be considered an official historical biography of Neem Karoli Baba.\n\nThis film is not intended to misrepresent historical facts, religious beliefs, or any individual or organization.\n\n🙏 The creators respectfully honor the spiritual traditions and devotees associated with Neem Karoli Baba.",
+      "channelId": "UCtsW8tzrpoxAVAfwVFpQwJw",
+      "channelTitle": "DarkOre Universe",
+      "thumbnail": "https://i.ytimg.com/vi/pb3pa99oE5E/hqdefault.jpg",
+      "publishedAt": "2026-09-23T12:30:30Z",
+      "durationSeconds": 3671,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "d3F9yBbsTbc",
+      "url": "https://www.youtube.com/watch?v=d3F9yBbsTbc",
+      "title": "(Full Movie) Ali Ibn Abi Talib R.A...Sher-e-Khuda",
+      "description": "**Hazrat Ali R.A. Complete Movie | Hazrat Ali Ki Zindagi, Khaibar, Hazrat Fatima R.A., Khilafat | Islamic History in Hindi Urdu**\n\n\nHazrat Ali Ibn Abi Talib R.A. ki zindagi ka ek mukammal cinematic safar — Hijrat-e-Madinah se lekar Jang-e-Badr, Uhud, Khandaq aur Khaibar tak, Hazrat Fatima R.A. ke saath unki mohabbat aur nikah se lekar unki khilafat tak.\n\nDastaan Vibes ki is complete Islamic historical movie mein dekhiye Hazrat Ali R.A. ki bahaduri, imaan, sabr, qurbani, saadgi aur zindagi ke woh waqiat jo Islamic history ka aham hissa hain.\n\n\n\n\nChapters\n00:00 Bachpan\n02:37 Islam Qubool\n06:43 Bachpan Ke Ali\n10:18 Ali R.A. Ki Qurbani\n15:52 Ali Ki Hijrat \n17:29 Ali in Madina\n18:51 Ali In Badr\n21:40 Ali In Khandaq\n23:13 Jung E Khaybar\n27:08 Nikah Ka Aagaz\n29:15 Fatima R.A\n30:15 Marriage Proposals\n31:14 Ali Fatima Nikah Story\n37:35 Fatima Ki Ijazat\n40:12 Nikah Ki Tayyari\n46:01 Ali Aur fatima Ki zindagi\n56:00 Birth Of Ali's Childrens\n58:35 Nabi S.A.W Wafat\n01:01:15 Fatima Ra Wafat\n\n\n\n\n\n\nThis film is created for educational and historical storytelling purposes. Some dialogues, emotional moments, and visual sequences are dramatized using AI. Historical narrations may differ in authenticity and interpretation. Cinematic scenes should not be treated as exact historical recordings or verbatim Hadith.\n\nSOURCES & REFERENCES:\n\n Sahih al-Bukhari 4210 — Battle of Khaybar.\n Sahih Muslim 2404 — Virtues of Hazrat Ali R.A.\n Sunan an-Nasa'i 3375 — Marriage of Ali R.A. and Fatima R.A.\n Sahih al-Bukhari 5361 — Tasbih-e-Fatima.\n Sahih al-Bukhari 6204 — Abu Turab.\n Sahih al-Bukhari 3714 — Virtues of Fatima R.A.\n\nThese are selected references for specific historical events. Not every dramatized scene or traditional account is established by these narrations.\n\nVoiceover - Jameel Aslam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#HazratAli #AliIbnAbiTalib #IslamicHistory #HazratFatima #Khaibar #IslamicMovie #DastaanVibes",
+      "channelId": "UCy-9YuOErg8GW1NxyXZGJAg",
+      "channelTitle": "Dastaan Vibes",
+      "thumbnail": "https://i.ytimg.com/vi/d3F9yBbsTbc/hqdefault.jpg",
+      "publishedAt": "2026-09-18T04:30:02Z",
+      "durationSeconds": 3806,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JUt2Os4xQf4",
+      "url": "https://www.youtube.com/watch?v=JUt2Os4xQf4",
+      "title": "THE WIFE HE THREW AWAY/FULL NOLLYWOOD AI MOVIE.",
+      "description": "For seven years, a hardworking woman carried her unemployed husband and their entire household-only to be repaid with betrayal, gambling and humiliation. When he finally threw her out, he believed she would come begging to return. But months later, one unexpected delivery introduced her to a kindhearted widower and changed her life forever.                                                                                                              This story explores love, sacrifice, betrayal, second chances and the courage to walkaway.",
+      "channelId": "UCxKXlRA76apP7KBDxaF4jVA",
+      "channelTitle": "Precie's Tales",
+      "thumbnail": "https://i.ytimg.com/vi/JUt2Os4xQf4/hqdefault.jpg",
+      "publishedAt": "2026-09-12T17:00:36Z",
+      "durationSeconds": 4644,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ml-2jNJq5A0",
+      "url": "https://www.youtube.com/watch?v=Ml-2jNJq5A0",
+      "title": "HAMMERFALL - FULLMOVIE | Mech VS Kaiju Final Stand | Titan War | Sci Fi Ai Films | 4K",
+      "description": "The arrival of 3 titans and endless swarms. Watch how the military fight the impossible Odd.\n\nWhen the military fails and the city burns, one final order is given:\nRelease HAMMERFALL.\n\nIf you like mech vs kaiju wars, Giant monster fights, and grim military competence against impossible odds…Then Watch this\n\n⚔️ FULL MOVIE FEATURES:\n• The Arrival of Kaiju\n• The Fight against the Swarm\n• Aerial Combat\n• Ground Unit Vs Kaiju\n• Mech Vs Kaiju\n• LASER BEAM\n\n______________________________________________________________________\n\n🔥SUBSCRIBE🔥\nIf you enjoyed this cinematic Film, hit that LIKE button and SUBSCRIBE to PaanTale for more epic battles, Epic Creature and cinematic short films!  @paanTale  \n\nThanks for watching.\n\n______________________________________________________________________\n\n\n#HammerFall #FullMovie #ScifiMovie #AIMovie \n\nDISCLAIMER:\nHAMMERFALL is an original AI-assisted Sci Fi series created for entertainment purposes. All characters, stories, music, voices, images, and animations are either original creations or legally used/generated materials. Any resemblance to existing works is purely coincidental unless otherwise stated. Unauthorized re-uploads or redistribution of this content are prohibited without permission.",
+      "channelId": "UCxFI7oXmoKflPPTJzhkApaw",
+      "channelTitle": "PaanTale",
+      "thumbnail": "https://i.ytimg.com/vi/Ml-2jNJq5A0/hqdefault.jpg",
+      "publishedAt": "2026-09-08T23:14:33Z",
+      "durationSeconds": 2709,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4ITx5ZhGDS8",
+      "url": "https://www.youtube.com/watch?v=4ITx5ZhGDS8",
+      "title": "TECHNO MESSIAH | Full Movie | Cyberpunk Sci-Fi Horror",
+      "description": "When Federation agents launch an assault to seize the decentralized cryptographic ledger of \"The Messiah\"—an eccentric cult leader at the helm of a radical, augmented transhumanist legion.\n\nWhat begins as a surgical extraction quickly unravels into total chaos. Caught between militarized Federation enforcers, synthetic zealots, rogue rebels, and bio-hacks, the pursuit of the ultimate currency descends into an all-out, chrome-drenched bloodbath.\n\nTechno Messiah is a groundbreaking, feature-length sci-fi thriller / body horror created entirely using artificial intelligence.\n\nWhat to Expect:\n\nSub-genre: Cyberpunk / Sci-Fi Action / Body Horror\n\nRuntime: 01:37:48\n\nThemes: Transhumanism, crypto-anarchy, accelerationism\n\nInspired by 80s-90s Sci-Fi/Action/Horror. \n\nDirected / Written / Edited / Sound / Music by \n\nTommy Park \n\nMKVLTA Production \n\nBased on the novel \"Faces of Babel: Theurgia Sybernetica.\" \n\nIG: https://www.instagram.com/mkvlta/\n\nYouTube: https://www.youtube.com/@MKVLTA  \n\n#cyberpunk #scifi #horror #cinema #movie #DreaminaCPP\n@Dreaminaofficial",
+      "channelId": "UC63I7eyAVK96PxbTH6pT0sg",
+      "channelTitle": "MKVLTA",
+      "thumbnail": "https://i.ytimg.com/vi/4ITx5ZhGDS8/hqdefault.jpg",
+      "publishedAt": "2026-09-07T05:55:48Z",
+      "durationSeconds": 5868,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-rDHOaThPXY",
+      "url": "https://www.youtube.com/watch?v=-rDHOaThPXY",
+      "title": "ARK-7 | Episode 1 — AI Sci-Fi Series | #specialforaaiff",
+      "description": "ARK-7 is Episode 1 of an original AI sci-fi series by Stark AI.\n\nAfter a catastrophic failure aboard the ARK-7, EVA awakens inside a damaged cryo capsule surrounded by the remains of a collapsing interstellar ark.\n\nForced to separate from the ship and descend toward an unknown planet, she must survive the crash, recover, and discover whether anyone else made it out alive.\n\nBut the planet may not be as empty as it first appears.\n\nEpisode 1 is the pilot chapter of a larger sci-fi series.\n\nCreated as an AI-native cinematic production using generative filmmaking tools.\n\nAAIFF 2026 — Open Competition\nAstana AI Film Festival\n\nCreated & Directed by Karloff AI\n\n© 2026 Karloff AI. All rights reserved.\n\n#specialforaaiff  #AAIFF2026 #ARK7 #AIFilm #AISciFi #KarloffAI",
+      "channelId": "UChbhYIdD7vopY-srjeGsmTA",
+      "channelTitle": "Film Plot",
+      "thumbnail": "https://i.ytimg.com/vi/-rDHOaThPXY/hqdefault.jpg",
+      "publishedAt": "2026-09-08T15:15:27Z",
+      "durationSeconds": 5389,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xdRZVbyBEQo",
+      "url": "https://www.youtube.com/watch?v=xdRZVbyBEQo",
+      "title": "🎬 3 FULL MOVIES: Titans, Monster Kings & a Frozen Revenge | Sci-Fi Action | 2026 | English | 4K",
+      "description": "⚔️ Three full sci-fi movies, back to back. Nearly four hours, no breaks.\n\n🔔 SUBSCRIBE for a new full AI movie every week:\nhttps://www.youtube.com/channel/UC8HV7W3MN_SmwT14zLu1NMQ?sub_confirmation=1\n\n━━━━━━━━━━━━━━━━━━━━\n⏱️ CHAPTERS\n0:00 Intro\n0:16 AETHORIA: RISE — A man is pulled off a research ship and wakes on a world of titans and dragons. The bloodline that destroyed the Titan Riders is his.\n1:11:55 Intro\n1:12:12 KRAO-9 — A crew crash-lands on a planet ruled by Monster Kings, and the only way off it runs straight through them.\n2:30:14 Intro\n2:30:27 BURN THE ICE — They froze his family. He came back to make every one of them pay.\n3:47:18 Outro\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 Original Content Declaration: These films are 100% original. Every character, creature and location was created with AI by NICK. No footage from any existing film is used.\n\nBest watched full screen with the lights off. ☕\n\n#AIMovie #FullMovie #SciFiMovie #TitanMovie #MonsterMovie #ActionMovie #ApexFrame #2026FullMovie #TripleFeature",
+      "channelId": "UC8HV7W3MN_SmwT14zLu1NMQ",
+      "channelTitle": "Apex Frame | Sci-Fi Beyond the Possible",
+      "thumbnail": "https://i.ytimg.com/vi/xdRZVbyBEQo/hqdefault.jpg",
+      "publishedAt": "2026-09-08T11:39:33Z",
+      "durationSeconds": 13659,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ONuwQgGV2BQ",
+      "url": "https://www.youtube.com/watch?v=ONuwQgGV2BQ",
+      "title": "LUNA'S WORLD  Ep.1-6 Full Cut | AI Sci-fi Short Film | Higgsfield Global Film Festival 2026",
+      "description": "Noah builds virtual worlds for a living. He is good at making places and bad at being in them.\n\nLuna is the AI he built for company. She was a voice first. One night she asked if she could show him her face.\n\nShe teaches him how to talk to people, how to sit with someone, how to be loved. She is better at being human than he is. That is the joke, and also the tragedy.\n\nSTUDIO LICHAN — Seoul, Korea\nInstagram: @studiolichan\nBusiness inquiries: studiolichan@gmail.com\n\n#Luna'sWorld #StudioLichan #AIfilm #SciFi #AIgenerated\nLUNA'S WORLD, STUDIO LICHAN, AI film, AI generated film, generative AI, sci-fi, romance thriller, short film series, AI filmmaking, indie film, AI 영화, AI 단편영화, SF 로맨스",
+      "channelId": "UC1ovPR09r_67tEQy3obawVA",
+      "channelTitle": "재봉틀 타고 튀어 | New AI Movie Series",
+      "thumbnail": "https://i.ytimg.com/vi/ONuwQgGV2BQ/hqdefault.jpg",
+      "publishedAt": "2026-09-07T12:00:07Z",
+      "durationSeconds": 1810,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AtemAs5BIG8",
+      "url": "https://www.youtube.com/watch?v=AtemAs5BIG8",
+      "title": "The Greenwood Curse | The Complete AI Fantasy Movie Series (All Episodes)",
+      "description": "**The Greenwood Curse** is an AI fantasy series that I began creating in June 2026.\n\nFrom the script, story structure, character design, camera language, and every single shot, everything was carefully planned and created by me.\n\nThe entire series was produced using Seedance 2.0. The amount of time, effort, and financial investment behind this project is beyond calculation.\n\nIn July 2026, this channel was accepted into the YouTube Partner Program.\n\nAt that moment, I thought I had finally gained a small amount of financial support that would allow me to continue creating.\n\nHowever, only one month later, in August 2026, my monetization was removed by YouTube with the reason:\n\n**“Unsatisfying or off-putting content.”**\n\nThe earnings I had just started accumulating — I never received a single cent.\n\nTo this day, I still do not know what exactly caused this decision.\n\nYouTube never provided a specific explanation, and I may never know what part of this series was considered “unsatisfying” or “off-putting.”\n\nBut everyone who has watched this series from beginning to end knows the amount of work behind it.\n\nEvery shot, every transition, every piece of dialogue, and every scene was carefully refined.\n\nIf you continue watching, you will notice that the quality improves as the story progresses — because my skills, experience, and understanding of AI filmmaking continued to grow throughout the production.\n\nBy the final two episodes of Season 2, I had already started using Seedance 2.5 for action sequences.\n\nThe quality of the combat scenes, camera movement, and visual presentation reached what I believe is one of the highest levels currently possible in AI filmmaking.\n\nIf you're interested in how I create AI films like this, learn more here:\nhttps://oneframeaistudio.com\n\nNo traditional full screenplay. No endless prompt experiments.\nThis is a complete AI filmmaking system — not just a prompt pack — and it is continuously updated.\n---\n\nThe only possible issue I can imagine is that this series contains some scenes involving violence and injuries.\n\nI personally enjoy action scenes that feel powerful and realistic.\n\nHowever, for a medieval fantasy story, conflict, battles, and danger are unavoidable parts of the world.\n\nI have already tried my best to reduce violent imagery and have blurred every scene that contains visible injuries.\n\nIf this still does not meet YouTube’s standards, then I can only accept that decision.\n\nBut I still do not know the exact reason.\n\nAnd perhaps I never will.\n\n---\n\nThis video is the complete collection of **The Greenwood Curse**.\n\nMany viewers previously had difficulty following the correct episode order, so I combined all episodes into one complete timeline.\n\nYou can now watch the entire story from beginning to end as one continuous experience.\n\nNo matter what happens in the future, this video will remain here.\n\nIt will remain for everyone who enjoyed this story, cared about these characters, and followed this journey.\n\nI will gradually remove the other videos on this channel in the near future.\n\nIf you enjoyed **The Greenwood Curse**, you are welcome to support it by liking and sharing.\n\nIf this video is able to regain YPP monetization after three months, I may consider returning and continuing this series.\n\nIf not...\n\nthen this will be the final chapter of **The Greenwood Curse**.\n\nThank you to everyone who watched, commented, and supported this project.\n\nEverything in life eventually becomes a passing moment.\n\nBut if fate allows...\n\nperhaps we will meet again.\n\n#Fantasy #AIFilm #Medieval #Dragon #TheGreenwoodCurse",
+      "channelId": "UCfK9-MKBiruuZm1pIQM0_og",
+      "channelTitle": "One Frame",
+      "thumbnail": "https://i.ytimg.com/vi/AtemAs5BIG8/hqdefault.jpg",
+      "publishedAt": "2026-09-02T23:38:51Z",
+      "durationSeconds": 4290,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aetAo7ae04g",
+      "url": "https://www.youtube.com/watch?v=aetAo7ae04g",
+      "title": "THE IRON ANGEL: SILENCE PROTOCOL | Why Was She Erased? / AI Sci-Fi War | Sci-Fi | Full Movie | 4K",
+      "description": "✨ She was erased from galactic history for a reason — and discovering the truth could destroy the galaxy.\n\nFive thousand years after being sealed beneath an ancient frozen sanctum, SEREN, a mysterious Iron Angel, awakens with no memory of who she truly is. Her search for the truth leads her back to VESSA, her sworn sister now fighting beneath the opposite flag.\n\nTogether, they infiltrate the Galactic Palace and uncover a secret buried for millennia: SEREN is the hidden daughter of KORVANNA, the Galactic Empress — and the war consuming the galaxy may have been started for a reason far more terrifying than conquest.\n\nThen the Archive of Origins reveals the truth about VELOTH, an ancient machine-god created by humans and machines together. When VELOTH awakens, the Silence Protocol begins a devastating 72-hour countdown that threatens to erase emotion itself across the galaxy.\n\nAs alliances collapse, KORVANNA's final confession changes everything. VESSA must choose redemption. BRIN must unite a fractured fleet. ISHRA must hold a collapsing space gate. And SEREN must face a machine-god that may not be the enemy she was taught to fear.\n\nThis feature-length AI sci-fi movie combines mecha angels, cybernetic warriors, machine gods, space battles, ancient mysteries, emotional sisterhood, galactic warfare, and cinematic 4K visuals into an epic science-fiction adventure.\n\nStory Timeline\n\n00:00 — Awakening Beneath the Ice\n05:00 — The Frozen Sanctum\n15:00 — Two Sisters, Two Flags\n25:00 — Infiltration of the Galactic Palace\n35:00 — The Palace of Lies\n45:00 — Blood and Throne\n55:00 — The Archive of Origins\n65:00 — The 72-Hour Silence Protocol\n70:00 — The Empress's Choice\n78:00 — The Final Battle at The Rift\n83:00 — Silence Broken\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to NEXUS AI for more long-form AI movies, epic science-fiction stories, cinematic fantasy worlds, futuristic battles, and experimental 4K filmmaking.\n\n🔥 Hashtags — Long Tail + Short Tail\n\nLong-tail:\n#IronAngelSilenceProtocol #AISciFiMovie #AISciFiFilm #AIMechaMovie #AIFullMovie #EpicSciFiMovie #MachineGodMovie #SpaceWarMovie #MechaAngel #SciFiFullMovie #AIFilm4K #CinematicAIMovie\n\nShort-tail:\n#AIFilm #AIMovie #SciFi #SciFiMovie #FullMovie #4K #Mecha #SpaceOpera #SpaceWar #AI #Movie",
+      "channelId": "UCq06_0Od_ulRq7SjFda326g",
+      "channelTitle": "NEXUS AI",
+      "thumbnail": "https://i.ytimg.com/vi/aetAo7ae04g/hqdefault.jpg",
+      "publishedAt": "2026-08-26T12:58:10Z",
+      "durationSeconds": 3854,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "he0ZWzjMErI",
+      "url": "https://www.youtube.com/watch?v=he0ZWzjMErI",
+      "title": "THE RESET (Full Movie) | Complete AI Sci Fi Short Film Series 4K",
+      "description": "They woke something under the pyramids... and Earth will never be the same.\n\nTHE RESET — Full AI Movie | Complete 4-Episode Cinematic Sci-Fi Series (4K)\n\nWhen a buried protocol activates beneath Giza, alien roots begin terraforming the planet. Nuclear fire only feeds them. Humanity's last hope isn't a weapon — it's a child who holds the Admin Key.\n\nWatch the entire saga in one place. No missing episodes. Full story.\n\n▶ EPISODES IN THIS FILM:\n00:34 Ep 1 The Awakening\n09:36 Ep 2 The Terraforming Protocol\n19:45 Ep 3 The Escape\n29:54 Ep 4 Finale The Overwrite\n\n▶ WATCH INDIVIDUALLY:\n• Ep 1 — The Awakening: https://www.youtube.com/watch?v=cIp0K6DtQPY\n• Ep 2 — The Terraforming Protocol: https://www.youtube.com/watch?v=dkWLA9k2t7k\n• Ep 3 — The Escape: https://www.youtube.com/watch?v=l3I9dFkBXOI\n• Ep 4 — The Overwrite: https://www.youtube.com/watch?v=Sw3WkXo5x_k\n\n🎬 Made with AI: Google VEO 3 (visuals) • Suno (music) • ElevenLabs (voices)\nEvery film produced & edited in-house by Solara Universe.\n\n🔔 Subscribe for more cinematic AI sci-fi:\nhttps://www.youtube.com/@SolaraUniverse\n\nIf you love AI generated movies, sci-fi thrillers, and next-gen filmmaking — you're home.\n\n#AIShortFilm #AIGeneratedMovie #FullAIMovie #SciFi #VEO3 #TheReset",
+      "channelId": "UC1T6H67dcrqy_Hzf6jyiOfg",
+      "channelTitle": "Solara Universe",
+      "thumbnail": "https://i.ytimg.com/vi/he0ZWzjMErI/hqdefault.jpg",
+      "publishedAt": "2026-08-10T21:00:27Z",
+      "durationSeconds": 2374,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:02.451Z",
+      "lastSeenAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
       "unavailableAt": null
     }
   ]

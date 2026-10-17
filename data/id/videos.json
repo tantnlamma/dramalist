@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:21.548Z",
+  "generatedAt": "2026-10-17T02:51:41.205Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "pembelajaran mesin"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "96vahoJtT94",
@@ -52,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -71,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -90,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -109,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -128,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -166,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -185,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -204,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -223,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -261,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -275,12 +276,13 @@
       "publishedAt": "2026-09-18T20:53:14Z",
       "durationSeconds": 10042,
       "matchedKeywords": [
+        "film drama AI lengkap",
         "film kecerdasan buatan full"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -318,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -332,12 +334,13 @@
       "publishedAt": "2026-09-13T16:30:54Z",
       "durationSeconds": 2698,
       "matchedKeywords": [
+        "film drama AI lengkap",
         "film fiksi ilmiah AI lengkap"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -356,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -375,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -394,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -413,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -432,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -451,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -470,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -489,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -508,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     },
     {
@@ -527,7 +530,217 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bMtZrvwb9I8",
+      "url": "https://www.youtube.com/watch?v=bMtZrvwb9I8",
+      "title": "An Alien Asked Me to Save His Baby… | AI Film | Full Sci-Fi Movie 2026",
+      "description": "An alien suddenly arrives on Earth and asks one human to save his child. What begins as a mysterious encounter becomes an emotional journey across mountains, forests, and an unknown world.\n\nWatch **An Alien Asked Me to Save His Baby** — a cinematic AI sci-fi full movie about trust, family, and humanity.\n\n🎬 Created with the help of **ChatGPT, OpenAI AI tools, Google Flow, and Astra AI**.\n\nIf you enjoy AI movies, alien stories, sci-fi adventures, and cinematic full movies, subscribe for more.\n\n#AIMovie #AlienMovie #SciFiMovie #FullMovie #AIFilm #GoogleFlow #ChatGPT #OpenAI #AstraAI\n\n\n #aimovie    #AIFilm #FullMovie #SciFiMovie #AlienMovie #ScienceFiction #AIGenerated #SciFi #Alien #movie2026 \nChatGPT AI, OpenAI AI, Google Flow AI, Google Flow movie, Astra AI, Astra AI movie, AI filmmaking, AI movie making, AI generated film, AI generated movie, cinematic AI\n\n#ChatGPT #OpenAI #GoogleFlow #AstraAI #AIFilmmaking #AIGenerated \nAn Alien Asked Me to Save His Baby… | Full Sci-Fi Movie 2026\nAn Alien Begged Me to Save His Child… What Happened Next | Full Movie\nHe Found an Alien Baby in the Forest… Then Its Father Appeared | Full Movie 2026\n\n\n\nai movie, ai movies, ai film, ai films, ai full movie, full movie, full movie 2026, sci fi movie, sci fi movies, science fiction movie, science fiction movies, alien movie, alien movies, alien full movie, alien sci fi movie, alien invasion movie, alien baby movie, alien child movie, alien story, alien adventure, alien rescue, save the alien baby, alien asked me to save his baby, emotional sci fi movie, best sci fi movies, new sci fi movies 2026, futuristic movie, space movie, space adventure movie, cinematic ai movie, ai generated movie, ai generated film, artificial intelligence movie, fantasy sci fi movie, action sci fi movie, adventure movie, sci fi full movie 2026, new alien movie, best alien movies, full sci fi movie\n\n\nalien movie\nalien movies\nalien movie full movie\nalien full movie\nalien full movie 2026\nalien sci fi movie\nalien sci fi movie full movie\nalien movie 2026\nnew alien movie 2026\nbest alien movies\nbest alien movie\nalien invasion movie\nalien adventure movie\nalien baby movie\nalien baby full movie\nalien child movie\nalien child full movie\nalien saves baby\nsave alien baby\nsave the alien baby movie\nalien asked me to save his baby\nan alien asked me to save his baby\nan alien asked me to save his baby full movie\nalien asked human to save his baby\nhuman saves alien baby\nhuman helps alien baby\nhuman and alien movie\nalien and human friendship movie\nemotional alien movie\nemotional sci fi movie\nemotional science fiction movie\nsci fi movie\nsci fi movies\nsci fi full movie\nsci fi full movie 2026\nsci fi movie 2026\nnew sci fi movie 2026\nbest sci fi movies 2026\nscience fiction movie\nscience fiction full movie\nscience fiction movie 2026\nai sci fi movie\nai alien movie\nai generated movie\nai generated sci fi movie\nai full movie\nai movie full movie\nai movie 2026\nnew ai movie 2026",
+      "channelId": "UCOHv2vOpskJtNvtepbLmQ8g",
+      "channelTitle": "AI MOVIES STUDIO",
+      "thumbnail": "https://i.ytimg.com/vi/bMtZrvwb9I8/hqdefault.jpg",
+      "publishedAt": "2026-09-14T11:57:09Z",
+      "durationSeconds": 4221,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap",
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IwDV9goYCEU",
+      "url": "https://www.youtube.com/watch?v=IwDV9goYCEU",
+      "title": "A Soldier Became Father to an Alien Child — Now They Must Survive Something Worse | Full Movie 4K",
+      "description": "A Soldier Became Father to an Alien Child — a full-length survival sci-fi movie from Lumz Cinema (2026, English, 4K). Watch the complete film free.\n\nThe only survivor of a military crash on a frozen alien planet. A creature hunting him through the storm. And a cave where he finds the last thing he expected — a pregnant alien woman, hiding from the same humans he came with.\n\nOne cave. One impossible child. And a choice that will turn him against his own army.\n\nA full AI movie for fans of alien survival films, sci-fi drama and stories like Avatar, The Martian and Enemy Mine.\n\n⏱️ CHAPTERS\n00:00 - Buried in Snow\n04:45 - The Hunt\n08:00 - Not Alone\n12:25 - One Month\n20:10 - The Birth\n23:30 - First Breath\n28:40 - Teren\n32:20 - They Came Back\n\n🔔 Subscribe for more full -Cinema\n💬 Would you protect them — even from your own army?\n\nFull Movie 2026 | English | Sci-Fi | Survival | Alien | 4K\n\n#AlienMovie #FullMovie #SciFiMovie #SurvivalMovie #SciFi #AIMovie #FullMovieEnglish\n\n⚠️ This is a fictional movie. All characters and events are imaginary.\n© Lumz Cinema Studio\n\n#AlienMovie #FullMovie #SciFiMovie #SurvivalMovie #SciFi #AIMovie #FullMovieEnglish\n\nalien movie, full movie, sci-fi movie, survival movie, alien child, soldier and alien, alien woman, sci fi drama, full movie english, AI movie, AI film, frozen planet, alien planet survival, stranded soldier, alien romance, human and alien, alien baby, space survival, sci-fi full movie 2026, survival sci-fi, enemy mine, avatar style movie, alien creature, 4K movie, Lumz Cinema",
+      "channelId": "UCouPF6WAcPeyOWpzeVibK_g",
+      "channelTitle": "Ai Viral Tube ",
+      "thumbnail": "https://i.ytimg.com/vi/IwDV9goYCEU/hqdefault.jpg",
+      "publishedAt": "2026-10-15T13:32:34Z",
+      "durationSeconds": 1953,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WP66FtEhzIs",
+      "url": "https://www.youtube.com/watch?v=WP66FtEhzIs",
+      "title": "( dubbing ) Penguasa Sihir Drama Ai Full.episode",
+      "description": "Penguasa sihir",
+      "channelId": "UCH8s2o4GNl0yHby1Cw70TXg",
+      "channelTitle": "Dari Pria Miskin yang Dicampakkan Jadi Konglomerat",
+      "thumbnail": "https://i.ytimg.com/vi/WP66FtEhzIs/hqdefault.jpg",
+      "publishedAt": "2026-10-15T04:35:52Z",
+      "durationSeconds": 4061,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PV7SU1aA-6Q",
+      "url": "https://www.youtube.com/watch?v=PV7SU1aA-6Q",
+      "title": "Tere Naam Zindagi | Complete Ai Drama | Pakistani Serial | Pakistani Drama | AI Drama",
+      "description": "Welcome to AI Drama 🎬❤️\n\nWe bring you romantic, emotional and heart-touching Urdu novels in AI-generated drama form. Enjoy beautiful love stories, emotional moments, memorable characters and cinematic AI scenes.\n\n❤️ Romantic Urdu Stories\n🎭 Urdu Novel Dramas\n🎬 AI-Generated Drama\n💔 Emotional Love Stories\n✨ Mohabbat, Ishq & Relationships\n\nIf you enjoy Urdu romantic novels and emotional love stories, make sure to Subscribe to AI Drama and turn on notifications 🔔\n\n📌 Channel: AI Drama\n🎬 Content: Urdu Romantic AI Dramas & Novel Stories\n\n#aidrama \n#pakistaniserial \n#pakistanidrama \n#aivideo \n#aicompletedrama \n#completeaipakistanidrama\n#aidramastory \n#aipakistanidrama \n#ainovel \n#aidramanovel\n#urdudrama  \n#UrduNoveldrama\n#RomanticDrama \n#UrduLoveStory",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/PV7SU1aA-6Q/hqdefault.jpg",
+      "publishedAt": "2026-10-14T15:00:11Z",
+      "durationSeconds": 2879,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "OpfIO3mMW_8",
+      "url": "https://www.youtube.com/watch?v=OpfIO3mMW_8",
+      "title": "MY MOTHER, THE MAID  | African AI Movie",
+      "description": "#nigeriamovie #africandrama #nollywoodmovie #nollywood #africanmovies #africanstories \n\nAnnabel has built the perfect life, successful career, beautiful relationship, and a future with the man she loves. But there is one part of her life she has spent years hiding, where she truly came from.\n\nBut when Annabel’s real mother unexpectedly discovers the truth and arrives, one lie becomes another, until the woman who gave Annabel everything finds herself living inside her daughter’s new life as someone she was never supposed to be #nollywoodmovie #nigeria #nigerianmovie2026 #aimovie #ai #movie #family #betrayal #fakelife #movie \n\nKindly Watch, like, comment and Subscribe For More",
+      "channelId": "UC1_yfXALRH8WXl0ggUURw9A",
+      "channelTitle": "Miss Naas Prod.",
+      "thumbnail": "https://i.ytimg.com/vi/OpfIO3mMW_8/hqdefault.jpg",
+      "publishedAt": "2026-09-25T13:27:37Z",
+      "durationSeconds": 2464,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kEtAaOC8Z4c",
+      "url": "https://www.youtube.com/watch?v=kEtAaOC8Z4c",
+      "title": "ANOMAN OBONG Full Movie | Film Drama Kolosal Ramayana AI",
+      "description": "Drama Kolosal  kisah heroik Anoman, putra dewa angin yang  membakar Alengka. Film drama kolosal AI berdurasi penuh, diadaptasi dari epos Ramayana : .Sinta diculik Rahwana dan dibawa ke Alengka. Anoman menyusup ke taman Asoka untuk menyampaikan pesan Rama, lalu tertangkap. \n\nRahwana memerintahkan ekor Anoman dibakar sebagai hukuman — tapi api itu justru melepaskan murka yang selama ini tertahan. Dengan ekor menyala, Anoman melompat dari satu bangunan ke bangunan lain, dan seluruh Alengka menjadi abu. \n\n-------------------------------------------------\nFilm ini merupakan adaptasi bebas dari epos Ramayana dari berbagai versi.\n\nSekitar 20% cerita terinspirasi dari sumber epos dan tradisi Ramayana, sementara sekitar 70% merupakan interpretasi dan pengembangan kreatif dari kreator. Elemen lainnya merupakan penyesuaian sinematik untuk kebutuhan produksi dan penceritaan.\n\nBeberapa tokoh, nama, peristiwa, dialog, dan adegan telah diadaptasi atau diperbesar untuk menunjang cerita. Kesamaan dengan versi atau karya lain merupakan bagian dari proses adaptasi dan tidak dimaksudkan sebagai penggambaran literal.\n\nSource Original Backsound :\n1. Gong Of Java www.youtube.com/@UCUH9cQLUSvVxGcs0Hl4T3PA \n2. After Air www.youtube.com/@UCeIkBCRf536MG9Cvl65Slow \n3. Memuliakan Nusantara https://www.youtube.com/channel/UCV-3Ca2GJGgr9Dzh6b7tsmg\n\n#anomanobong  #FilmKolosal #AIFilm",
+      "channelId": "UCNDnKr7mXGLT86y04Rdmrmw",
+      "channelTitle": "Afterprompt Studio",
+      "thumbnail": "https://i.ytimg.com/vi/kEtAaOC8Z4c/hqdefault.jpg",
+      "publishedAt": "2026-09-24T12:37:44Z",
+      "durationSeconds": 2013,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rZe7TLrDgNA",
+      "url": "https://www.youtube.com/watch?v=rZe7TLrDgNA",
+      "title": "The Last Dragon Queen | Part I - AI Short Film by ReelixBox",
+      "description": "🐉 In a war-torn kingdom, Lyra forms an unbreakable bond with the last dragon, Ash. When fear, power, and betrayal threaten to destroy them both, she must choose freedom over control as an ancient Titan awakens and changes the fate of Valedor forever.\n\n#FantasyMovie #MedievalFantasy #DragonMovie #EpicFantasy #AdventureMovie\n\n🎬 Reelix Box is your destination for original AI Film and cinematic storytelling. Discover every Short Film crafted with imagination, emotion, and cutting-edge AI. From thrilling AI Movie experiences to unforgettable Short Movie adventures, each Cinematic Story is created to entertain, surprise, and transport you into new worlds.\n#shortfilm  #shortmovie  #cinematic  #movie  #film \n#AIFilm #ShortFilm #AIMovie #ShortMovie #CinematicStory",
+      "channelId": "UCyqv38P-f76u8mcuPtH7SNQ",
+      "channelTitle": "ReelixBox",
+      "thumbnail": "https://i.ytimg.com/vi/rZe7TLrDgNA/hqdefault.jpg",
+      "publishedAt": "2026-09-21T12:39:41Z",
+      "durationSeconds": 1806,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kZSCaInXcNI",
+      "url": "https://www.youtube.com/watch?v=kZSCaInXcNI",
+      "title": "CorHearts: Between Hate & Love - Episode 8 | AI Drama Korea",
+      "description": "💌✨ CORTIS × Hearts2Hearts ✨💌\n\nCorHearts: Between Hate & Love - Episode 8 | AI Drama Korea\n\nThis is purely a fictional drama/AU made for fun and storytelling. None of the events or portrayals are real or connected to the actual artists. Thank you for watching and keeping the comment section respectful!\n\nVideo ini merupakan fictional story yang dibuat untuk hiburan. Cerita, hubungan antar karakter, dialog, maupun kejadian di dalam video sepenuhnya fiksi dan tidak menggambarkan kehidupan pribadi, hubungan nyata, atau kejadian sebenarnya yang melibatkan member CORTIS maupun Hearts2Hearts.\n\n⚠️ Disclaimer\nPenggunaan nama/wajah idol dalam video hanya sebagai referensi untuk membangun karakter dalam cerita fiksi. Mohon tidak menganggap alur atau pairing dalam video ini sebagai fakta.\n\nVideo ini dibuat dengan bantuan teknologi AI. Mohon maaf apabila masih terdapat hasil AI yang kurang sempurna, seperti ekspresi wajah, gerakan, lip-sync, detail visual, transisi, atau beberapa bagian yang mungkin terlihat sedikit aneh.\n\nTerima kasih sudah menonton dan harap bijak dalam berkomentar ✨\n\n#Cortis #Hearts2Hearts #하츠투하츠 #Kpop #KDrama #KDramaEdit #AIVideo #AIContent #FYP #ForYou #Trending #Viral #KpopFYP #KpopStan #GG #BoyGroup #GirlGroup #ShortDrama #DramaKorea #James #Juhoon #Martin #Seonghyeon #Keonho #Carmen #Jiwoo #Yuha #Stella #Juun #Ana #Ian #Yeon #H2H #CorHearts #CORTISxHearts2Hearts #CORTISShip #KpopStory #KpopEdit",
+      "channelId": "UCwJ6cHiWEur3J5k8cv52i-w",
+      "channelTitle": "Aqilah Rush",
+      "thumbnail": "https://i.ytimg.com/vi/kZSCaInXcNI/hqdefault.jpg",
+      "publishedAt": "2026-09-20T16:23:23Z",
+      "durationSeconds": 1912,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jXNbcXRqcCY",
+      "url": "https://www.youtube.com/watch?v=jXNbcXRqcCY",
+      "title": "Bukan Gagak Biasa Drama Sub Indo Full Movie",
+      "description": "FULL https://sfl.gl/h8qv Bukan Gagak Biasa\nNonton alur cerita lengkap Drama AI durasi penuh!\n\nKisah menguras emosi tentang Aria, seorang gadis pelayan yang ternyata merupakan Putri Sah Kerajaan Aethelgard yang terbuang. Di tengah intrik politik, racun takhta, dan pengkhianatan Ibu Suri serta Uskup Agung, hadir seekor burung gagak ajaib yang membawa ramalan kebenaran.   \n\nAkankah kebenaran terungkap di Lapangan Agung, ataukah kegelapan akan menguasai kerajaan selamanya? Simak alur cerita film AI terbaru ini sampai habis!   \n\n#BukanGagakBiasa #DramaAI #AlurCeritaFilm #FilmAITerbaru #DramaKerajaan #FullMovieAI #AlurCerita #FilmAI #DramaTikTok #SinopsisFilm\n\nBukan Gagak Biasa, BUKAN GAGAK BIASA FULL, Drama AI, Alur Cerita Film, Film AI Terbaru, Full Movie AI, Alur Cerita Drama AI, Drama Kerajaan AI, Cerita AI Viral, Film Pendek AI, Drama AI Sub Indo, Alur Cerita Lengkap, Drama TikTok Viral, AI Generated Movie, Sinopsis Film AI, film ai full movie, drama ai viral tiktok, alur cerita film ai terbaru, drama kerajaan full movie, cerita kerajaan ai",
+      "channelId": "UCw1GrOmLyTmc9HFaAhVt2cg",
+      "channelTitle": "Drama Drama",
+      "thumbnail": "https://i.ytimg.com/vi/jXNbcXRqcCY/hqdefault.jpg",
+      "publishedAt": "2026-09-20T09:05:11Z",
+      "durationSeconds": 3945,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SYAKWuUCbxI",
+      "url": "https://www.youtube.com/watch?v=SYAKWuUCbxI",
+      "title": "REVENGE Full Moive |JANNAT & ZORAIZ |PAKISTANI AI URDU DRAMA  |AK story ",
+      "description": "REVENGE Full Moive |JANNAT & ZORAIZ |PAKISTANI AI URDU DRAMA  |AK story\n\n\n\nToday we bring you a very sweet, emotional, and romantic Pakistani cinematic story.\n\nIf you enjoyed this romantic cinematic story, please like the video, tell us your favorite scene in the comments, and don't forget to subscribe to the channel! 🔔\n\n\n\n\n\n#PakistaniDrama #LoveStory #CinematicStory #UrduStories #RomanticStory #SanaAndHamdan #HoneymoonClimax #TrendingStory\n#PakistaniDrama #LoveStory #UrduStories #RomanticStory #CinematicStory #UrduKahani #TrendingStory #ViralVideo #MoralStories #SanaAndHamdan #UrduNovel #HeartTouchingStory #ShadiMubarak\npakistani love story, urdu story, romantic love story, pakistani drama story, cinematic love story, urdu kahani, heart touching story, shadi ki pehli mulaqat, rishta meeting story, hindi kahaniyan, moral stories in urdu, trending pakistani story, new urdu story, emotional love story, love story pakistani drama, aur sana hamdan ki kahani, moral story in urdu, pakistani lifestyle story, wedding love story urdu, short love story, cinematic urdu drama, viral video, motivational story urdu",
+      "channelId": "UC1NdZqFKbwaa1Lu3AdjYpWA",
+      "channelTitle": "AK Story",
+      "thumbnail": "https://i.ytimg.com/vi/SYAKWuUCbxI/hqdefault.jpg",
+      "publishedAt": "2026-09-19T15:00:23Z",
+      "durationSeconds": 5407,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pX3ZtUZ7Zu0",
+      "url": "https://www.youtube.com/watch?v=pX3ZtUZ7Zu0",
+      "title": "CorHearts: Between Hate & Love - Episode 7 | AI Drama Korea",
+      "description": "💌✨ CORTIS × Hearts2Hearts ✨💌\n\nCorHearts: Between Hate & Love - Episode 7 | AI Drama Korea\n\nThis is purely a fictional drama/AU made for fun and storytelling. None of the events or portrayals are real or connected to the actual artists. Thank you for watching and keeping the comment section respectful!\n\nVideo ini merupakan fictional story yang dibuat untuk hiburan. Cerita, hubungan antar karakter, dialog, maupun kejadian di dalam video sepenuhnya fiksi dan tidak menggambarkan kehidupan pribadi, hubungan nyata, atau kejadian sebenarnya yang melibatkan member CORTIS maupun Hearts2Hearts.\n\n⚠️ Disclaimer\nPenggunaan nama/wajah idol dalam video hanya sebagai referensi untuk membangun karakter dalam cerita fiksi. Mohon tidak menganggap alur atau pairing dalam video ini sebagai fakta.\n\nVideo ini dibuat dengan bantuan teknologi AI. Mohon maaf apabila masih terdapat hasil AI yang kurang sempurna, seperti ekspresi wajah, gerakan, lip-sync, detail visual, transisi, atau beberapa bagian yang mungkin terlihat sedikit aneh.\n\nTerima kasih sudah menonton dan harap bijak dalam berkomentar ✨\n\n#Cortis #Hearts2Hearts #하츠투하츠 #Kpop #KDrama #KDramaEdit #AIVideo #AIContent #FYP #ForYou #Trending #Viral #KpopFYP #KpopStan #GG #BoyGroup #GirlGroup #ShortDrama #DramaKorea #James #Juhoon #Martin #Seonghyeon #Keonho #Carmen #Jiwoo #Yuha #Stella #Juun #Ana #Ian #Yeon #H2H #CorHearts #CORTISxHearts2Hearts #CORTISShip #KpopStory #KpopEdit",
+      "channelId": "UCwJ6cHiWEur3J5k8cv52i-w",
+      "channelTitle": "Aqilah Rush",
+      "thumbnail": "https://i.ytimg.com/vi/pX3ZtUZ7Zu0/hqdefault.jpg",
+      "publishedAt": "2026-09-13T16:12:25Z",
+      "durationSeconds": 2015,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-17T02:51:41.205Z",
+      "lastSeenAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:29:19.741Z",
+  "generatedAt": "2026-10-17T02:51:39.485Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -16,6 +16,7 @@
       "makine öğrenmesi"
     ]
   },
+  "runStatus": "complete",
   "videos": [
     {
       "videoId": "pUHK0B1W6vM",
@@ -34,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-17T02:51:39.485Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-17T02:51:39.485Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-17T02:51:39.485Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-15T10:29:19.741Z",
+      "lastVerifiedAt": "2026-10-17T02:51:39.485Z",
       "unavailableAt": null
     }
   ]
