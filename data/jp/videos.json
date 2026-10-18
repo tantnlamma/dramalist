@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:15.685Z",
+  "generatedAt": "2026-10-18T02:52:45.447Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-15T10:29:04.273Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -171,11 +171,11 @@
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
+      "unavailableAt": "2026-10-18T02:52:45.447Z"
     },
     {
       "videoId": "IMpiZY06ts0",
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -329,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -367,7 +367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -386,7 +386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -405,7 +405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -424,7 +424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -443,7 +443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -463,7 +463,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -483,7 +483,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -502,7 +502,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -521,7 +521,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -540,7 +540,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     },
     {
@@ -579,6 +579,25 @@
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
       "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "GO4CChwFBNo",
+      "url": "https://www.youtube.com/watch?v=GO4CChwFBNo",
+      "title": "CREATE 1 HOUR LONG AI FILM USING FREE AI TOOLS (STEP-BY-STEP FULL TUTORIAL)",
+      "description": "Learn how to create long AI movies using free AI tools, even if you're a beginner. In this step-by-step AI filmmaking tutorial, I'll show you how to create consistent AI characters, generate cinematic scenes, control camera movements, enhance expressions, and combine everything into a complete AI movie.\nYou'll learn my AI movie-making workflow using powerful AI video tools, including Google Flow, ChatGPT, AI video generators, and other free AI filmmaking tools. Whether you want to create a full AI movie, cinematic AI videos, or AI-generated stories for YouTube, this tutorial will show you how to turn your ideas into professional-looking AI films.\nIn this tutorial, you'll learn:\n• How to create long AI movies\n• How to make AI movies for free\n• How to create consistent AI characters\n• How to generate cinematic AI scenes\n• How to create AI movie characters and environments\n• How to control camera movements with AI\n• How to create realistic AI video\n• How to use Google Flow for AI filmmaking\n• How to use ChatGPT for AI movie creation\n• How to combine AI-generated scenes into a complete movie\n• AI filmmaking tips for beginners\n• Free AI tools for creating movies and videos\nIf you're interested in AI movies, AI filmmaking, AI video generation, cinematic AI videos, AI storytelling, AI content creation, and creating movies with AI, this tutorial is for you.\n\n#AIMovies #AIFilmmaking #AIVideo #AIContentCreation #AIStorytelling",
+      "channelId": "UCTua9uy4qIcpHjVBb_Raujw",
+      "channelTitle": "guruvids",
+      "thumbnail": "https://i.ytimg.com/vi/GO4CChwFBNo/hqdefault.jpg",
+      "publishedAt": "2026-09-25T08:31:20Z",
+      "durationSeconds": 3270,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:45.447Z",
+      "lastSeenAt": "2026-10-18T02:52:45.447Z",
+      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:31.396Z",
+  "generatedAt": "2026-10-18T02:53:03.073Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -187,7 +187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -263,7 +263,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -569,7 +569,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,64 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cyGmHOHjx9I",
+      "url": "https://www.youtube.com/watch?v=cyGmHOHjx9I",
+      "title": "ELLE VOULAIT UNE VIE DE LUXE… MAIS À QUEL PRIX ? | KIMIA : LE PRIX DE LA VIE FACILE | Film africain",
+      "description": "Synopsis\nKimia, 22 ans, rêve d’une seule chose : devenir riche et quitter la vie modeste qu’elle a toujours connue. Malgré l’amour et les sacrifices de ses parents, elle a honte de ses origines et refuse de se contenter de peu.\nSa rencontre avec Imani, une jeune femme aussi riche que mystérieuse, lui ouvre les portes du monde dont elle a toujours rêvé : argent, luxe, soirées et succès. Fascinée par cette nouvelle vie, Kimia accepte d’aller toujours plus loin, sans chercher à comprendre d’où vient réellement cette richesse.\nMais lorsque son rêve devient enfin réalité, elle découvre qu’une vie obtenue trop facilement peut cacher un prix bien plus élevé que l’argent.\nJusqu’où Kimia sera-t-elle prête à aller pour conserver la vie dont elle a toujours rêvé ?\n\n—————————\n🎬 Bienvenue sur Échos d'Afrique !\nNous créons des histoires captivantes de drame, romance, suspense et trahison grâce à l'intelligence artificielle, inspirées de réalités humaines et de cultures africaines.\n\n✨ N'oubliez pas de vous abonner et d'activer la cloche pour ne manquer aucune nouvelle histoire.\n\n📩 COLLABORATIONS & PARTENARIATS\nPour toute collaboration commerciale, partenariat ou formation en vidéo IA : echosdafrique269@gmail.com\n\n📘 EBOOK DISPONIBLE\nVous souhaitez apprendre à créer vos propres histoires et vidéos avec l’intelligence artificielle, étape par étape, et découvrir comment les monétiser ?\n👉 Procurez-vous notre ebook ici : https://selar.com/9114o11g71\n\n🎓 Formation complète également disponible\n📩 Contact : echosdafrique269@gmail.com\n\n🌍 SUIVEZ-NOUS SUR NOS AUTRES PLATEFORMES !\n\nFACEBOOK : https://www.facebook.com/share/14nBFZvbMi3/?mibextid=wwXIfr\nTIKTOK : https://www.tiktok.com/@echosdafrique8?_r=1&_t=ZS-98a7rsegOMm\n\n⚠️ DISCLAIMER\n\nToutes les histoires publiées sur cette chaîne sont des œuvres de fiction créées à des fins de divertissement. Toute ressemblance avec des personnes, des événements ou des situations réelles serait purement fortuite.\n\nCertaines images, voix et séquences vidéo sont générées ou assistées par intelligence artificielle.\n\nCOPYRIGHT\n\n© Tous droits réservés.\nToute reproduction, redistribution ou republication de cette vidéo, en tout ou en partie, sans autorisation écrite est interdite.\n\n\n🏷 Hashtags\n\n#echosdafrique #histoireafricaine #filmafricain #filmafricainenfrancais #histoireémouvante #histoiredefamille #viefacile #luxe",
+      "channelId": "UCDd_M_WwaciWUpt3wFVSrHw",
+      "channelTitle": "Échos d’Afrique",
+      "thumbnail": "https://i.ytimg.com/vi/cyGmHOHjx9I/hqdefault.jpg",
+      "publishedAt": "2026-10-15T23:15:28Z",
+      "durationSeconds": 3000,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:03.073Z",
+      "lastSeenAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MiJLTFYtvfQ",
+      "url": "https://www.youtube.com/watch?v=MiJLTFYtvfQ",
+      "title": "Espoir Mortel | Téléfilm Complet | Thriller | M6+ Films & Séries",
+      "description": "La vie du docteur Joanne Connors, célèbre obstétricienne, bascule le jour où son collègue et ami, le docteur Gabe Haynes, est assassiné. Essayant de reconstruire sa vie, elle intègre une association où elle rencontre un certain Michael. À la fin de cette soirée, ce dernier est lui aussi retrouvé mort. Joanne comprend alors que c'est elle la cible, et va tenter de démasquer le tueur avant qu'il ne recommence à frapper...\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nESPOIR MORTEL (DEADLY HOPE)\nRéalisation : Nicolas Monette\nDistribution : Alana De La Garza, Sandrine Holt, Dan Jeannotte et Tim Campbell.\n© BATRAX ENTERTAINMENT - 2021 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/MiJLTFYtvfQ/hqdefault.jpg",
+      "publishedAt": "2026-09-18T17:00:37Z",
+      "durationSeconds": 5116,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:03.073Z",
+      "lastSeenAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ix4UPeQSgLw",
+      "url": "https://www.youtube.com/watch?v=ix4UPeQSgLw",
+      "title": "Alien: Covenant (2017) Film complet en français | Histoire complète et faits",
+      "description": "Alien: Covenant (2017) — film complet en français raconté et analysé, avec critique, faits cinéma et explication de la fin.\nUne chanson liée à Elizabeth Shaw détourne le Covenant de sa route vers Origae-six. Derrière une planète apparemment accueillante, l’équipage découvre des spores mortelles, des néomorphes et la cité dévastée des Ingénieurs. Le refuge proposé par David ouvre un autre cauchemar : un laboratoire où la vie devient matière à expérimentation. Le récit suit Daniels jusqu’au retour à bord du vaisseau, puis au dernier piège de l’hibernation.\nLa critique revient sur la mise en scène de Ridley Scott, le double rôle de Michael Fassbender et le parcours de Daniels, incarnée par Katherine Waterston. Les liens avec Prometheus, le sort de Shaw et l’opposition entre David et Walter éclairent une question centrale : créer donne-t-il le droit de posséder ? La fin est expliquée à travers le projet de chalet confié à Walter, l’identité de l’androïde et les embryons emportés à bord, sans prétendre résoudre tous les mystères de la saga.\nCette publication raconte et commente l’œuvre ; elle ne diffuse pas le long métrage original dans son intégralité. David vous semble-t-il plus terrifiant que ses créatures ?\n\n#AlienCovenant #CritiqueCinema #FinExpliquee #ScienceFiction #ApresProjection",
+      "channelId": "UC8dcSpD2208TKWcGcqR2Ing",
+      "channelTitle": "Après Projection",
+      "thumbnail": "https://i.ytimg.com/vi/ix4UPeQSgLw/hqdefault.jpg",
+      "publishedAt": "2026-10-17T09:11:01Z",
+      "durationSeconds": 7024,
+      "matchedKeywords": [
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:03.073Z",
+      "lastSeenAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
       "unavailableAt": null
     }
   ]

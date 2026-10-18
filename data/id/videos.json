@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:41.205Z",
+  "generatedAt": "2026-10-18T02:53:12.168Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -205,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -566,11 +566,11 @@
       "matchedKeywords": [
         "film fiksi ilmiah AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "unavailableAt": "2026-10-18T02:53:12.168Z"
     },
     {
       "videoId": "WP66FtEhzIs",
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     },
     {
@@ -741,6 +741,82 @@
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
       "lastVerifiedAt": "2026-10-17T02:51:41.205Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "t33h8E4d5fo",
+      "url": "https://www.youtube.com/watch?v=t33h8E4d5fo",
+      "title": "The Last Robot Guardian | Full Sci-Fi Movie 2026 | AI Action Adventure | 4K",
+      "description": "#OmegaTheLastGuardian\n#RobotMovie\n#SciFiMovie\n#AIMovie\n#ArtificialIntelligence\n#RobotVsRobot\n#FutureWorld\n#ActionMovie\n#HollywoodStyle\n#FullMovie\n#EnglishMovie",
+      "channelId": "UCZiyPcM2ELrnlfp2xSiExNQ",
+      "channelTitle": "    Epic AI Films 2",
+      "thumbnail": "https://i.ytimg.com/vi/t33h8E4d5fo/hqdefault.jpg",
+      "publishedAt": "2026-07-27T10:03:55Z",
+      "durationSeconds": 2145,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:12.168Z",
+      "lastSeenAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zS6Q7qTlS4M",
+      "url": "https://www.youtube.com/watch?v=zS6Q7qTlS4M",
+      "title": "How To Make Micro Drama with Ai - (FULL Guide)",
+      "description": "Try OpenArt Here: \nhttps://tolt.link/stephenfinance\n\nTry CapCut - (Try Pro for 7 days for FREE):\nhttps://capcutaffiliateprogram.pxf.io/stephenfinance01\n\nAt $9 Join my Patreon Membership Community\n1. 🎬Access the full detailed video tutorial for this specific video along with every future YouTube Videos\n2. 💬Get 1-on-1 Chat Help \n3.🎥 Occasional Live Streams for Members\n4.🛡️100% ad-free experience\nLink: https://www.patreon.com/stephenfinance?utm_campaign=creatorshare_creator\n\n\n\nMaster Prompt:\nhttps://docs.google.com/document/d/1whhJwTeBRnxmEr9gcpy-DFEWY_mzqV2VVk-O6pdSBII/edit?usp=sharing\n\n\n\nHop on a Phone call with me:\nhttps://buymeacoffee.com/stephenfinance/e/445225\n\n\n\n?DISCLAIMER: The content in this channel is for informational, educational and entertainment purposes only and should not be considered professional financial advice. Some links in this description may be affiliate links in which we may receive a commission for. There is absolutely no additional charge to you. Thanks for supporting our channel and helping us to continue to create free content.",
+      "channelId": "UCNXYBYAjs13KEAbXQ1UzfOg",
+      "channelTitle": "Stephen Finance ",
+      "thumbnail": "https://i.ytimg.com/vi/zS6Q7qTlS4M/hqdefault.jpg",
+      "publishedAt": "2026-10-13T13:42:45Z",
+      "durationSeconds": 2144,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:12.168Z",
+      "lastSeenAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VgqZQGxuTEo",
+      "url": "https://www.youtube.com/watch?v=VgqZQGxuTEo",
+      "title": "[FULL DRAMA]: He Dumped a Billionaire’s Daughter for a Single Mother — Who Is He? | Ai movie",
+      "description": "He Dumped a Billionaire’s Daughter for a Single Mother — She Had No Idea Who He Really Was | Ai movie \n\n\n🎬 Description\nHe dumped a billionaire’s daughter for a single mother — but she had no idea who he really was.\nA powerful story of love, trust, betrayal, and the choice that changed everything.\nWatch LOVE WITHOUT A NAME and discover what happens when money, love, and loyalty collide.\nThis is a fictional story created for entertainment.\n\n\nbillionaire love story, billionaire romance, single mother story, billionaire daughter, African drama, African movie, emotional love story, betrayal story, rich man poor woman, romantic drama, family drama, love and betrayal, Nigerian-style African drama, inspirational movie, LOVE WITHOUT A NAME, \n\nThis is a fictional AI-generated movie created for entertainment. Characters, events, locations and scenes are fictional and were created or enhanced using AI tools.\n\n\n#AfricanMovies #BillionaireStory #SingleMother #LoveStory #AfricanDrama",
+      "channelId": "UCyDpUoFK6jvDXvOyfR5KnWQ",
+      "channelTitle": "AJI MOVIES ",
+      "thumbnail": "https://i.ytimg.com/vi/VgqZQGxuTEo/hqdefault.jpg",
+      "publishedAt": "2026-10-07T16:54:41Z",
+      "durationSeconds": 3191,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:12.168Z",
+      "lastSeenAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nzXABK6IQl0",
+      "url": "https://www.youtube.com/watch?v=nzXABK6IQl0",
+      "title": "WORLDS APART – FULL NOLLYWOOD AI MOVIE | A BEAUTIFUL NIGERIAN LOVE STORY",
+      "description": "WORLDS APART is an emotional Nigerian AI movie about two people from completely different worlds whose paths cross at a time when neither of them is prepared for what comes next. Ella is simply trying to survive, find stability, and take care of the people she loves, while Micheal lives a life surrounded by wealth, expectations, and family pressure. What begins as an unexpected connection slowly opens the door to romance, difficult choices, secrets, jealousy, family conflict, and moments that will test just how far love can go. ❤️🎬 This is a story about hope, sacrifice, class differences, loyalty, and finding love where you least expect it. Watch WORLDS APART – FULL NIGERIAN AI MOVIE until the very end, and if you enjoy emotional Nigerian love stories, please LIKE, COMMENT, SHARE, and SUBSCRIBE to DramaQueen for more beautiful movies. 🔔❤️ Tell us in the comments: Can true love really survive when two people come from completely different worlds?\n\n#WorldsApart, #DramaQueen, #NigerianMovie, #NigerianMovies, #Nollywood, #NollywoodMovies, #AfricanMovies, #AfricanMovie, #NigerianAIMovie, #AIMovie, #AfricanStories, #NigerianStories, #LoveStory, #NigerianLoveStory, #AfricanLoveStory, #RomanticMovie, #RomanticDrama, #EmotionalMovie, #FamilyDrama, #RelationshipDrama, #LoveAndBetrayal, #AfricanCinema, #NigerianFilm, #FullMovie, #MustWatch, #TrendingMovies, #ViralMovies, #MovieNight, #UnexpectedLove, #AfricanEntertainment",
+      "channelId": "UChrTgjP_XXKKNC3gFSQu-Rg",
+      "channelTitle": "DramaQueen ",
+      "thumbnail": "https://i.ytimg.com/vi/nzXABK6IQl0/hqdefault.jpg",
+      "publishedAt": "2026-10-03T19:13:51Z",
+      "durationSeconds": 9217,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:53:12.168Z",
+      "lastSeenAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
       "unavailableAt": null
     }
   ]

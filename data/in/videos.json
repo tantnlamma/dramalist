@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:08.377Z",
+  "generatedAt": "2026-10-18T02:52:36.184Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -111,7 +111,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -221,12 +221,13 @@
       "durationSeconds": 3018,
       "matchedKeywords": [
         "AI drama movie hindi full",
-        "AI movie full hindi"
+        "AI movie full hindi",
+        "artificial intelligence hindi movie full"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -247,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -265,11 +266,11 @@
         "AI movie full hindi",
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": "2026-10-18T02:52:36.184Z"
     },
     {
       "videoId": "TlrjGqHhplc",
@@ -288,7 +289,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +309,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -327,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -346,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -365,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -403,7 +404,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -422,7 +423,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -460,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -507,7 +508,7 @@
       "title": "FALCON – Full Hindi Superhero Movie (2026) | A City in Darkness, One Hero Rises 🦅",
       "description": "🦅 FALCON – Full Hindi Superhero Movie\n\nWhen fear covers the city and the lights go out, one man stands up. FALCON is an Indian Hindi superhero movie about courage, friendship and truth, made completely with AI.\n\n📖 STORY\nA fake hero is spreading fear in the city, and a powerful businessman, Vikram Rana, is using a dangerous machine to steal the city's power. One ordinary man gets a hidden power and becomes FALCON. With the help of his friends Ajay and Meera, the old Elder and the people of the city, he fights back. In the final battle on the tower rooftop, he learns that real strength grows when it is shared, not taken.\n\n🎭 CHARACTERS\n• Falcon – the hero\n• Ajay – his loyal, cheerful friend\n• Meera – the brave reporter\n• The Elder – the wise guide\n• Guru Bhairav – the village strongman\n• Vikram Rana – the villain\n\n🎬 ABOUT THIS FILM\nThis whole movie was created with AI tools: scenes, voices and music. It is a creative experiment to bring an Indian superhero story to life in Hindi.\n\n👍 If you enjoyed FALCON, please LIKE, SHARE and SUBSCRIBE. Tell us in the comments: which scene was your favourite?\n\n🔔 Subscribe for more Hindi superhero stories and short clips from FALCON.\n\n#Falcon #HindiSuperhero #SuperheroMovie #HindiMovie #AIMovie #IndianSuperhero #FullMovie",
       "channelId": "UCE8xTXQ_KaK7WsnHmkgbOZA",
-      "channelTitle": "AzmatCreates",
+      "channelTitle": "AZMATA CREATES",
       "thumbnail": "https://i.ytimg.com/vi/HJoZx_ajN4w/hqdefault.jpg",
       "publishedAt": "2026-10-16T13:00:21Z",
       "durationSeconds": 5309,
@@ -536,7 +537,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -550,12 +551,13 @@
       "publishedAt": "2026-10-11T03:19:50Z",
       "durationSeconds": 2629,
       "matchedKeywords": [
+        "AI drama movie hindi full",
         "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -574,7 +576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -593,7 +595,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -612,7 +614,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -631,13 +633,13 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
       "videoId": "8XCrjgzg3g0",
       "url": "https://www.youtube.com/watch?v=8XCrjgzg3g0",
-      "title": "HEAVEN SAW MY TEARS | FULL MOVIE | NIGERIAN EMOTIONAL DRAMA 2026 ",
+      "title": "He aven saw my tears | full movie | nigerian emotional drama 2026 @Adheyaistorytelling ",
       "description": "💔 She sacrificed 18 years of her life for her siblings. But when she needed them for just one hour, neither came.\n\nMercy gave up her education, dreams, and happiness to raise Daniel and Anita after their parents died. Years later, they became successful and forgot the sister who gave them everything.\n\nOne stormy night, Mercy risks her life to save a stranger, unaware that he holds the key to changing her destiny.\n\nHEAVEN SAW MY TEARS is a powerful Nigerian family drama about sacrifice, betrayal, love, forgiveness, and second chances. ❤️\n\n💬 Would you forgive siblings who abandoned you after everything you sacrificed?\n\n❤️ LIKE, COMMENT, SHARE & SUBSCRIBE for more emotional African movies!\n\n🔔 https://youtube.com/@Adheyaistorytelling?sub_confirmation=1\n\n🎬 Written & Produced by ADHEY AI STORYTELLING.\n\nThis fictional movie uses AI-assisted visuals, voices, and creative tools.\n\n© 2026 ADHEY AI STORYTELLING. All rights reserved. Unauthorized copying, re-uploading, or redistribution is prohibited.\n\n#africandrama #cinematicstorytelling #dramaseries #lovestory #NigerianMovies\n#Storytelling  #Africanstories  #Africanfolktales #storytelling  #Folktales   #Talesbymoonlight #folklore   #gambianfolktales  #ghanianfolktales  #sierraleonefolktales #folklore  #storytelling   #morallessonfolktales  #africanfolktales #love #Nigerianfolktales #southafricafolktales  #AIStorytelling #AdheyAIStorytelling #Africanmovies  #ep\n​⁠ #HeavenSawMyTears #NigerianMovies2026 @Adheyaistorytelling",
       "channelId": "UC7F5OMwm72oAhF8U99bM7nA",
       "channelTitle": "Adhey Ai storytelling ",
@@ -650,7 +652,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -669,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -688,7 +690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -726,7 +728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -745,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -764,7 +766,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +785,83 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JTpjCc254n0",
+      "url": "https://www.youtube.com/watch?v=JTpjCc254n0",
+      "title": "Main Ladega Full Movie | Akash PratapSingh | Hindi Action Sports Movie FullHindi",
+      "description": "Main Ladega Full Movie | Akash PratapSingh | Hindi Action Sports Movie FullHindi",
+      "channelId": "UCpKkvJphe1esxfU7iQvjt_A",
+      "channelTitle": "Ai Men Edits 2M Views . 9 hour ago",
+      "thumbnail": "https://i.ytimg.com/vi/JTpjCc254n0/hqdefault.jpg",
+      "publishedAt": "2026-10-17T04:59:49Z",
+      "durationSeconds": 8578,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:36.184Z",
+      "lastSeenAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HyIq086mdmc",
+      "url": "https://www.youtube.com/watch?v=HyIq086mdmc",
+      "title": "Ai Video Making Complete Course | Make Ai Video Free & Unlimited 🔥 (15 Mins) | Free Ai Course ",
+      "description": "Move from an AI idea to a cut with Filmora's scene assembly, captions, music, voice, and export - try it free: https://bit.ly/4gcoB0L\n\n🎬 Learn how to create professional AI movies from start to finish using Google Flow Storyboard Studio. In this complete Hindi tutorial, you'll learn the entire AI filmmaking workflow with consistent characters, cinematic storyboard creation, AI animation, voice-over, editing, sound effects, and final YouTube upload.\n\nWhether you're creating YouTube videos, animated stories, cinematic films, AI shorts, or storytelling content, this guide will help you build high-quality AI movies much faster while maintaining character consistency across every scene.\n\nTimestamp:\n00:10:50 Video to Script Ai\n00:11:50 Ai Website's For Scripting \n00:12:47 Script Writing With Ai\n00:19:07 Character Designing Ai\n00:20:37 Storyboard Tool Ai\n00:40:50 Character & Voice \n00:51:35 Image To Video Ai\n1:42:00 Editing & Final Result \n\n\n🔥 In this complete Course you'll learn:\n\n✅ How to generate AI movie ideas\n✅ How to write cinematic AI movie scripts\n✅ Complete script breakdown into scenes & dialogue\n✅ Create consistent AI characters\n✅ Design consistent locations and props\n✅ Generate cinematic storyboard scenes\n✅ Camera angles & professional shot composition\n✅ Google Flow Storyboard Studio workflow\n✅ Agent Mode for automatic prompting\n✅ Omni Flash model for storyboard animation\n✅ AI voice-over generation\n✅ Background music & cinematic sound effects\n✅ Video editing workflow\n✅ Color grading & final polishing\n✅ Export settings for best quality\n✅ Upload your AI movie to YouTube with proper SEO\n\nThis tutorial is perfect for:\n• AI Filmmakers\n• YouTubers\n• Content Creators\n• Animators\n• Storytellers\n• AI Video Creators\n• Beginners and Professionals\n\nTop Searches:\nHow to Make FREE AI Videos🔥Long (15 Mins) Voice + Lip Sync✨AI video kaise banaye🎬 AI Video Generator,\nHow to Create AI Movies with Consistent\nCharacters (FREE)CI Google Flow Storyboard\nStudio,\nHow to Use Claude to Grow Your YouTube\nChannel (FULL GUIDE),\nHow To Create Long 3D Cartoon Story Videos\nUsing Al I AI Se Video Kaise Banaye Mobile\nSe (2026),\nClaude Ai+ YouTube = I Create Viral 2D Documentary Videos,\nCreate Unlimited Long Videos with FREE AI Tools\n•(With Dialogue),\nCreate 2D Cartoon Movies with Google Gemini\nOMNI (Full Tutorial) ,\nI Made Viral Long AI Video in 1 Click I Long Al\nvideo kaise banaye I Earn Money,\nGenerate Long YouTube (16:9) Videos Using\nMETA ALI FREE & UNLIMITED,\nGoogle Flow Storyboard Studio Tutorial | \nCreate Consistent Al Characters FREE,\nHow to make cartoon videos I how to make\nanimated videos I how to make animating videos\nfor free\n\n\n🔍 Queries:\n\nai video kaise banaye\nai se video kaise banaye\nfree ai video generator\nlong ai video generator\ntext to video ai free\nimage to video ai free\nai video maker free\nbest ai video generator\nai video creator\nai video website\nfree text to video ai\nai tools for youtube\nyoutube ai video tutorial\nai video editing\nai video without watermark\nbest free ai tools\nai video generator 2026\nfree ai website\nai video online\nlong video ai generator\nai movie generator free\ntext to video generator\nimage to video generator\nfree ai movie maker\nai animation generator\nai video tutorial hindi\nyoutube automation ai\nfaceless youtube ai\nviral ai video kaise banaye\nai video free unlimited\ngoogle flow\ngoogle flow ai\ngoogle flow tutorial\ngoogle flow storyboard\ngoogle flow storyboard studio\nstoryboard studio\ngoogle flow storyboard tutorial\ngoogle flow ai tutorial\ngoogle flow hindi\ngoogle flow tutorial hindi\ngoogle flow ai movie\ngoogle flow ai filmmaking\ngoogle flow consistent characters\ngoogle flow agent mode\ngoogle flow omni flash\nai movie\nai movies\nhow to create ai movies\ncreate ai movies\nai filmmaking\nai film making\nai cinema\nai animation\nai animated movie\nai animated film\nai video generator\nai video creation\nai storyboard\nstoryboard ai\nconsistent characters\ncharacter consistency\ncinematic ai\nai filmmaking tutorial\nai movie tutorial\nai movie making\nai video editing\nai voice over\nai script writing\nai storytelling\nai short film\nyoutube automation\ngoogle ai\nomni flash\nagent mode\nai se movie kaise banaye\nai movie kaise banaye\ngoogle flow kaise use kare\ngoogle flow hindi tutorial\nbest ai movie generator\nai animation tutorial\n\n  FREE Materials For Practice:👇\nhttps://www.instagram.com/channel/AbbxL0nAzVHsC64J/\n©️ Non copyright Background & Music 🎶 :  \nhttps://pixabay.com/music/\nhttps://www.pexels.com/\n\n@ManojDey @SpreadingGyanOfficial @aupmanyu @SpreadingGyanOfficial \n\n\n#AIVideo #AIVideoGenerator #LongAIVideo #TextToVideo #ImageToVideo #AITools #AI2026 #FreeAITools #YouTubeAI #TechAakashHelp\n\nDisclaimer :\nThis video is made for educational and informational purposes only. All AI tools, websites, logos, and trademarks belong to their respective owners. Please check the official terms of each platform before using it commercially.",
+      "channelId": "UCK6M9vcG15d5oJWPBHTWM7w",
+      "channelTitle": "Dhuriya Academy - Raj Dhuriya ",
+      "thumbnail": "https://i.ytimg.com/vi/HyIq086mdmc/hqdefault.jpg",
+      "publishedAt": "2026-08-03T12:31:20Z",
+      "durationSeconds": 8659,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:36.184Z",
+      "lastSeenAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tb20axG6GRE",
+      "url": "https://www.youtube.com/watch?v=tb20axG6GRE",
+      "title": "आखिरी जादूगर | The Last Magician | Full Hindi Superhero Movie | 70 Min Full Movie | AI Movie",
+      "description": "एक आम इंसान की जिंदगी उस समय पूरी तरह बदल जाती है, जब उसके अंदर छिपी एक रहस्यमयी शक्ति जाग जाती है। ⚡\n\nअब उसके सामने है एक खतरनाक दुश्मन, जिसकी ताकत पूरे शहर को तबाह करने की क्षमता रखती है। दोस्ती, परिवार, प्यार, शक्ति और बलिदान के बीच शुरू होती है एक ऐसी जंग, जिसमें इंसान को अपने अंदर के असली हीरो को खोजना होगा।\n\n🔥 आखिरी जादूगर – The Last Magician\n\nएक cinematic AI-generated Hindi superhero fantasy movie.\n\nक्या एक आम इंसान बन पाएगा असली हीरो?\nक्या वह अंधेरे की ताकतों को रोक पाएगा?\nऔर इस आखिरी जंग में कौन बचेगा?\n\n🎬 70 मिनट की पूरी फिल्म देखें और अंत तक जुड़े रहें।\n\nअगर आपको ये भी पसंद हो तो चैनल को सब्सक्राइब, लाइक एंड शेयर जरूर करें। ❤️\n\n⚠️ This is an AI-generated fictional movie created for entertainment purposes.\n#आखिरीजादूगर #TheLastMagician #HindiMovie #FullMovie #SuperheroMovie #AIMovie #AIGenerated #HindiSuperhero #FantasyMovie #ActionMovie #AIFilm #IndianSuperhero #FullHindiMovie #DarkFantasy #Superhero",
+      "channelId": "UCec_pNvCJIX79OOD8NuZOEA",
+      "channelTitle": "Shadow_Katha_ funny ",
+      "thumbnail": "https://i.ytimg.com/vi/tb20axG6GRE/hqdefault.jpg",
+      "publishedAt": "2026-10-07T04:45:44Z",
+      "durationSeconds": 2369,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:36.184Z",
+      "lastSeenAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "D5bijCC2JRM",
+      "url": "https://www.youtube.com/watch?v=D5bijCC2JRM",
+      "title": "The VVAAN - Full Movie Hindi | Sidharth Malhotra & Tamannaah Bhatia | Remix BY TBS FILM PRODUCTION",
+      "description": "❣️Thanks for watching my video.🙏 ❣️❣️❣️❣️❣️\n❣️ Hello guys this is a Official channel of The Brothers Studio.🎥 🫵\n❣️ Subscribe for more Video 👍 ❣️❣️❣️❣️❣️\n\n𝐂𝐚𝐥𝐥 𝐅𝐨𝐫 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 :_ 6290860876\n\n\n𝐀𝐌𝐈𝐓 𝐓𝐇𝐄 𝐁𝐑𝐎𝐓𝐇𝐄𝐑𝐒 𝐒𝐓𝐔𝐃𝐈𝐎 \n​🇦​ ​🇨​​🇴​​🇲​​🇵​​🇱​​🇪​​🇹​​🇪​ ​🇵​​🇷​​🇴​​🇫​​🇪​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇱​ ​🇨​​🇮​​🇳​​🇪​​🇲​​🇦​​🇹​​🇮​​🇨​ ​🇸​​🇪​​🇹​​🇺​​🇵\n𝓞𝓤𝓡 𝓣𝓞𝓟 𝓢𝓔𝓡𝓥𝓘𝓒𝓔𝓢\n📌 WEDDING & PRE-WEDDING\n📌 2D & 3D KRIZMA DESIGNS \n📌CINEMATIC WORK\n📌 WEB SERIES VIDEO\n📌 HINDI VIDEO ALBUM SONG\n📌 SHORT FILM\n📌AI PHOTHSOOT\n📌 CATALOGUE SHOOT\n📌 ADVERTISING SHOOT\n📌 PRINSHOOT\nℙℝ𝕆𝔻𝕌ℂ𝕋𝕀𝕆ℕ \n📌 PREMIER PRO \n📌 DAVANCI RESOLVE\n📌PHOTOSHOP AI\n📌 AFTER EFFECT\n𝔽𝕆ℝ ℝ𝔼ℕ𝕋 𝕌𝕊𝔼\n📌 ALL TYPE OF DSLR CAMERA \n📌 DRONE PRO & FPV\n📌 CRANE\n📌 WALL TV\n📌 PROJECTOR\n📌 GREEN SCREEN \n📌 LIVE SETUP\n𝙉𝙊𝙏𝙀 :- 𝙒𝙀 𝙋𝙍𝙊𝙑𝙀 𝘽𝙀𝙎𝙏 𝙎𝙀𝙍𝙑𝙄𝘾𝙀 𝙄𝙉 𝙔𝙊𝙐𝙍 𝘽𝙐𝘿𝙂𝙀𝙏 \nCALL NOW  𝟲𝟮𝟵𝟬𝟴𝟲𝟬𝟴𝟳𝟲 \n► ​🇹​​🇭​​🇦​​🇳​​🇰​​🇸​ ​🇫​​🇴​​🇷​ ​🇼​​🇦​​🇹​​🇨​​🇭​​🇮​​🇳​​🇬​ ​🇴​​🇺​​🇷​ ​🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​.❣️❣️❣️❣️❣️❣️\n ► ​🇭​​🇦​​🇻​​🇪​ ​🇦​ ​🇳​​🇮​​🇨​​🇪​ ​🇩​​🇦​​🇾​ ... ❣️❣️❣️❣️❣️❣️\n► ​🇸​​🇺​​🇧​​🇸​​🇨​​🇷​​🇮​​🇧​​🇪​ ​🇫​​🇴​​🇷​ ​🇲​​🇴​​🇷​​🇪​ ​🇺​​🇵​​🇩​​🇦​​🇹​​🇪​​🇸​ ... ❣️❣️❣️❣️❣️❣️❣️❣️❣️❣️\n\n\n\n #wedding \n#weddingphotography \n#weddings \n#video \n#viral \n#youtubeshorts \n#thebrothersstudio\n#amit \n#studio \n#trending \n#trend \n#amitthebrothersstudio\n#6290860876\n@thebrothersstudio24",
+      "channelId": "UCsqx6Tpq8euLkS05pnupfZA",
+      "channelTitle": "The Brothers Official",
+      "thumbnail": "https://i.ytimg.com/vi/D5bijCC2JRM/hqdefault.jpg",
+      "publishedAt": "2026-09-30T11:19:18Z",
+      "durationSeconds": 8125,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:36.184Z",
+      "lastSeenAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
       "unavailableAt": null
     }
   ]

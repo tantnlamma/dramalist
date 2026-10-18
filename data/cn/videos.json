@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:20.401Z",
+  "generatedAt": "2026-10-18T02:52:50.171Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -205,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -281,7 +281,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -338,7 +338,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -357,7 +357,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -376,7 +376,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -414,7 +414,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -433,7 +433,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -452,7 +452,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -568,7 +568,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -587,7 +587,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -606,7 +606,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -625,7 +625,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +759,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -835,7 +835,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -987,7 +987,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1025,7 +1025,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1082,7 +1082,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1120,7 +1120,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     },
     {
@@ -1197,6 +1197,177 @@
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
       "lastVerifiedAt": "2026-10-17T02:51:20.401Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jLUqLmvLLhc",
+      "url": "https://www.youtube.com/watch?v=jLUqLmvLLhc",
+      "title": "ASMR氛圍影片 完整版 60分鐘 #ai #asmr",
+      "description": "本次交付內容\n• 《ASMR 深夜療癒》氛圍影片第 1 段（深夜窗邊雨景），15 秒，16:9，單一長鏡頭、無剪接\n請檢查這些項目\n• 深夜房間窗邊，雨水沿玻璃流下、水珠互相匯流\n• 窗外遠處的城市燈光化成偏冷的柔和光斑\n• 室內偏暗偏冷，鏡頭極緩慢向前推進直到玻璃佔滿畫面\n• 畫面沒有出現人物，也沒有突然的變化",
+      "channelId": "UC2I-3NzrjoEWVwk1zd2pq3w",
+      "channelTitle": "劉浚宏（劉蓁浤 Liu Evan）",
+      "thumbnail": "https://i.ytimg.com/vi/jLUqLmvLLhc/hqdefault.jpg",
+      "publishedAt": "2026-09-28T12:37:49Z",
+      "durationSeconds": 3601,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Bgu_JCBLfFY",
+      "url": "https://www.youtube.com/watch?v=Bgu_JCBLfFY",
+      "title": "【完整版上集20260927】AI不加猶豫的信任 成現代戰爭最危險隱形導火線 #tvbs文茜的世界周報  20260927",
+      "description": "✔訂閱【TVBS戰情室】https://bit.ly/2sDiKcZ\n完整版HD集數快速找➔https://bit.ly/2Etctbf\n【戰情室上線啦】最真實直播點我看➔https://reurl.cc/5OD2YR\n【新聞翟急便】特別企劃➔https://bit.ly/2JiJgoA\n趙少康X陳文茜談國際➔https://reurl.cc/4my5pY\n美國下一步怎麼走?➔https://bit.ly/3qlGCig\n美豬議題➔https://bit.ly/2VqaSdD\n兩岸關係怎麼辦➔https://bit.ly/3qmFmeI\n頻道LIVE直播專區➔https://reurl.cc/5qokMR\n中美台緊張關係➔https://reurl.cc/q8mzZR\nTVBS戰情室每週精彩回顧➔https://bit.ly/2JiKS1C\n\n●鎖定TVBS TV 56台首播 \n●按讚【TVBS戰情室】fb粉絲頁：http://bit.ly/2fMs1us\n●收聽【TVBS戰情室】Apple Podcast：https://podcasts.apple.com/podcast/1740274058\n\n  《TVBS戰情室》YouTube頻道，部分影片因版權限制以致海外地區無法觀看，造成不便敬請見諒。歡迎海外觀眾鎖定網路獨家影片。\n\n #TVBS戰情室 #TVBS #少康戰情室 #趙少康 #少康上線啦 #錢子",
+      "channelId": "UCLZBXiS9ZrIXgKBs_SMfGBQ",
+      "channelTitle": "少康戰情室 TVBS Situation Room",
+      "thumbnail": "https://i.ytimg.com/vi/Bgu_JCBLfFY/hqdefault.jpg",
+      "publishedAt": "2026-09-28T10:00:01Z",
+      "durationSeconds": 2897,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qXAVg9bE_xY",
+      "url": "https://www.youtube.com/watch?v=qXAVg9bE_xY",
+      "title": "超细完整版 AI 漫剧零基础教程，2026 最新 AI 视频制作全流程拆解！7 天小白蜕变为行业大佬，吃透实战技巧，学完就能接单就业7月20日 10:23",
+      "description": "📌 關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/jSeIOSa4ZHrqFvxcvuCasg】",
+      "channelId": "UCh6EYTlKjPToJK63tjdt7Xw",
+      "channelTitle": "ai漫剧制作教程",
+      "thumbnail": "https://i.ytimg.com/vi/qXAVg9bE_xY/hqdefault.jpg",
+      "publishedAt": "2026-09-13T05:00:11Z",
+      "durationSeconds": 2840,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8aK_qexRkYs",
+      "url": "https://www.youtube.com/watch?v=8aK_qexRkYs",
+      "title": "Marvel & DC Cover Artist: AI Art Is \"Stolen Valor\" | David Nakayama",
+      "description": "David Nakayama draws covers for Marvel and DC, and he does not soften this one: \"you're not an AI artist, you asked a machine to steal stuff on your behalf.\" He's back with Adrian and Uncle Black on HBO's Lanterns, the X-Men he'd actually build, drawing Psylocke next to a J. Scott Campbell Rogue with no Wite-Out on the page, and why he thinks AI pushes original art prices up, not down.\n\nDavid Nakayama: https://davidnakayama.com/\n\nCHAPTERS\n0:00 Stolen valor, right up front\n0:33 David's back\n1:43 Kyle Rayner\n2:39 How Lanterns is hitting\n5:15 A new Lantern Corps\n7:11 If David ran the X-Men\n8:48 Enough Magneto? Mr. Sinister\n9:49 Still on the bucket list\n11:58 Why no sketchbook\n13:53 The Save Point shirt\n14:38 The cover that flopped\n16:25 Talking to fans like a fan\n19:24 The plan to be Jim Lee\n20:21 His own book, someday\n22:10 Variants, foils, collectors\n26:13 His comic-book Mount Rushmore\n27:16 Psylocke next to Campbell's Rogue\n29:01 Is original art dying?\n30:08 AI makes the real pages worth more\n31:24 Stolen valor, the whole argument\n33:09 Drawing Transformers\n36:32 Did Hot Rod shoot Optimus?\n37:51 Harley Quinn, and the tease\n39:50 Thanks, David\n\nPodcasting While Nerdy is Adrian and Uncle Black. Marvel, DC, and the movies go on trial. We argue about it like people who still buy the books.\n\nFull episode: https://podcastingwhilenerdy.com/david-nakayama-episode/?utm_source=youtube&utm_medium=description&utm_campaign=david_nakayama_episode&utm_content=episode_page\n\nGrab a free seat in the PWN Clubhouse: https://www.patreon.com/PodcastingWhileNerdy?utm_source=youtube&utm_medium=description&utm_campaign=david_nakayama_episode&utm_content=patreon\n\nShop: https://podcastingwhilenerdy.com/shop/?utm_source=youtube&utm_medium=description&utm_campaign=david_nakayama_episode&utm_content=shop\n\nBusiness: podcastingwhilenerdy@gmail.com\n\n#DavidNakayama #ComicArt #AIArt",
+      "channelId": "UCsu6WZ7UYhsWrfyibwLWCvg",
+      "channelTitle": "Podcasting While Nerdy",
+      "thumbnail": "https://i.ytimg.com/vi/8aK_qexRkYs/hqdefault.jpg",
+      "publishedAt": "2026-10-17T22:00:07Z",
+      "durationSeconds": 2428,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "UakiIQ3woS0",
+      "url": "https://www.youtube.com/watch?v=UakiIQ3woS0",
+      "title": "🔥【Multi SUB】全家流放沙漠，她靠AI画板画啥出啥，养家人帮穷人，从简笔画画到活物，硬把死地建成三无城！#ai #anime #animation",
+      "description": "🥰👉欢迎订阅 youtube.com/channel/UCXjlD2b-s_jiPIO1RwjlnRQ?sub_confirmation=1\n💖感谢您的观看，后续将会更新更多精彩的动漫！\n\n00:00:00 - 🔥开场就高能！喜欢AI漫剧的朋友，欢迎来到微尘漫剧 ，每日更新不迷路！\n00:30:00 - ⚡ 看到这里还满意吗？别光看，点赞订阅走一波，男频女频全都有！\n01:00:00 - 想追下一集的话，记得订阅哦，我们下集不见不散～\n\n⚠️ 内容声明（Disclaimer）\n分级建议：本视频包含虚构剧情及家庭冲突等成熟主题，适合一般观众（13+）观看，并非专为儿童制作。\n角色演出：视频中所有人物及情节均由演员饰演。\n温馨提示：影片内容仅供娱乐，请勿模仿。如有雷同，纯属巧合。\n所有剧集均已获得正规授权\n﻿\n#漫剧 #动画 #动漫 #逆袭 #反转 #爽剧 #系统 #穿越 #重生 #微尘漫剧\nThis video complies with EDSA standards and is not a real-life scenario",
+      "channelId": "UCXjlD2b-s_jiPIO1RwjlnRQ",
+      "channelTitle": "微尘漫剧 BeastAnimation",
+      "thumbnail": "https://i.ytimg.com/vi/UakiIQ3woS0/hqdefault.jpg",
+      "publishedAt": "2026-10-14T16:00:27Z",
+      "durationSeconds": 7814,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wRI4K8WyJp4",
+      "url": "https://www.youtube.com/watch?v=wRI4K8WyJp4",
+      "title": "LibTV + 即夢 AI 影片製作全流程，3D 導演台 + 故事板使用詳解 AI 影片製作全流程教學！ AI 短劇創作零基礎保姆級教程手把手教你玩轉 AI 影視賽道！（附文檔，敲666領取）",
+      "description": "關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/Mdlc6qFH-UziFGMr0yBudw】\n記得備註關鍵詞領取配套腳本和提示詞庫哦～",
+      "channelId": "UCvhRocfdNAIBFaJkWoBWh6A",
+      "channelTitle": "AI短剧制作教程",
+      "thumbnail": "https://i.ytimg.com/vi/wRI4K8WyJp4/hqdefault.jpg",
+      "publishedAt": "2026-10-13T14:30:32Z",
+      "durationSeconds": 6304,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "29BR5GH8hFY",
+      "url": "https://www.youtube.com/watch?v=29BR5GH8hFY",
+      "title": "Tawanda | Family Secret (Full Zimbabwean Ai Movie)",
+      "description": "#shona #zimbabwe #zimbabwean\nMwana WAMAMBO (Full Zimbabwean Ai Movie)\n\nStory By  Zim everything go subscribe 👍✌️\n\n#ai #aivideo #shona #zimbabwean #zimbabwe",
+      "channelId": "UCTF2ccx3_AWZ1YIKzJLrdPw",
+      "channelTitle": "NeoNeal StudioS",
+      "thumbnail": "https://i.ytimg.com/vi/29BR5GH8hFY/hqdefault.jpg",
+      "publishedAt": "2026-10-03T05:00:07Z",
+      "durationSeconds": 2920,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "odqMRgbzg3o",
+      "url": "https://www.youtube.com/watch?v=odqMRgbzg3o",
+      "title": "【就AI台灣AI創作大賽:AI電影組】參賽作品#016-印尼看護顧台灣-Alisa-台灣當代移工與高齡照護議題的現實主義家庭劇情片| 孵科未來AI創作大賽",
+      "description": "🎬 參賽作者：Alisa\n\n🎬 作品介紹：\n為了給遠在印尼的女兒更好的生活，28歲的絲莉（Sari）隻身來到台灣，成為24小時全年無休的家庭看護，負責照顧罹患重度失智症的阿嬤。\n\n她的世界被窒息地壓縮在一間小小的公寓裡，唯一的喘息是每個星期天—這天她會換上最亮麗的長裙與頭巾，在台北車站大廳的黑白格地板上與同鄉姊妹席地而坐，搭建起屬於她們的一日故鄉。\n\n這份工作從一開始就伴隨著雇主兒媳美玲根深蒂固的偏見與刻薄挑剔，指責她不吃豬肉是不敬業、用手機紀錄生活是偷懶。然而在日夜陪伴下，記憶不斷退化的阿嬤忘記了所有人，甚至自己的親生兒子文凱，卻唯獨認得絲莉，只願意在絲莉哼唱的印尼歌謠中平靜入睡。\n\n一場阿嬤意外走失的風波，讓絲莉憑藉對阿嬤習性的入微了解成功尋回老人，此舉徹底成為轉折點。兒子文凱開始正視絲莉的價值，並透過她私密的 TikTok 帳號，驚覺手機背後竟是一位母親對女兒深沉的愛。當六年合約期滿，面對雇主全家流淚的續約挽留，絲莉在責任與親情間掙扎，最終選擇回歸母親身份。\n\n故事結尾，電視新聞依舊喧囂地爭論著「北車大廳是否該禁止席地而坐」的冰冷社會議題，但在台灣的這個家裡，他們笨拙地沿用絲莉的方式照顧母親，永遠記住了這個帶來救贖的名字。\n\n\n🎬 作者創作理念：\n本片的核心初衷在於為台灣社會中長年「隱形」的外籍移工群體，發出一次溫柔而宏大的無聲詰問。\n\n創作不流於對立的控訴，而是將鏡頭對準兩個同樣處於邊緣、需要被拯救的靈魂：一個是因失智而迷失在記憶迷宮的老人，另一個是因生計而被剝奪主體性的異鄉母親。\n\n故事中的「台北車站黑白格地板」與「私密 TikTok」具有強烈的後設符號意義，它們是移工在異鄉捍衛尊嚴與生命力的「周日限定王國」，與台灣雇主眼中的刻板印象形成巨大反差。兒媳美玲的強勢刻薄，實則是台灣當代家庭巨大照護壓力與不安全感的焦慮轉嫁。\n\n透過這場阿嬤「忘記世界只記得你」的情感放大器，影片成功將原本壓迫的主雇關係，昇華為「跨血緣、跨國界」的双向救贖。我們希望透過這部極具都市現實感的情感劇集提醒觀眾：科技與政策或許能築起高牆，但身體親自陪伴的溫度、以及願意跨越文化偏見去理解對方的善意，才是這個高齡化社會中唯一的解藥。\n\n\n---\n孵科未來官網:https://www.focofuture.com\n就AI台灣AI創作大賽簡章:https://www.focofuture.com/2026-ai-taiwan-creation-competition",
+      "channelId": "UC4-G8vY1vnjn-W13KKqsbSQ",
+      "channelTitle": "FOCO Future Academy孵科未來學院",
+      "thumbnail": "https://i.ytimg.com/vi/odqMRgbzg3o/hqdefault.jpg",
+      "publishedAt": "2026-10-02T14:17:38Z",
+      "durationSeconds": 1815,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "y2aMeBQfv60",
+      "url": "https://www.youtube.com/watch?v=y2aMeBQfv60",
+      "title": "【錢線百分百】20260724完整版(中集)《AI基建大戰開打! 谷歌開啟新十年大局? 盤勢大怒神.不要慌! 選跌深反彈?守強勢股?》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 AI基建大戰開打! 谷歌開啟新十年大局?\n17:32 盤勢大怒神.不要慌! 選跌深反彈?守強勢股?\n36:08 從小幫孩子存台積電 爸媽離婚了!股票歸誰?\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20260724錢線影片#陳龍#許博傑#蘇家宏#王士維  \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+      "channelTitle": "USTV 非凡電視",
+      "thumbnail": "https://i.ytimg.com/vi/y2aMeBQfv60/hqdefault.jpg",
+      "publishedAt": "2026-07-24T15:00:17Z",
+      "durationSeconds": 2922,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:50.171Z",
+      "lastSeenAt": "2026-10-18T02:52:50.171Z",
+      "lastVerifiedAt": "2026-10-18T02:52:50.171Z",
       "unavailableAt": null
     }
   ]

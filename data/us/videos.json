@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:51:02.451Z",
+  "generatedAt": "2026-10-18T02:52:30.872Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -379,7 +379,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -399,7 +399,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -514,7 +514,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -530,11 +530,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": "2026-10-18T02:52:30.872Z"
     },
     {
       "videoId": "nzXABK6IQl0",
@@ -547,12 +547,13 @@
       "publishedAt": "2026-10-03T19:13:51Z",
       "durationSeconds": 9217,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -609,7 +610,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +629,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -647,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -686,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -705,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -743,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +784,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -802,7 +803,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -822,7 +823,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -842,7 +843,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -937,7 +938,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -956,7 +957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -975,7 +976,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1014,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1032,7 +1033,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1051,7 +1052,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1070,7 +1071,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1089,7 +1090,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1109,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1127,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1146,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1184,7 +1185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1203,7 +1204,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1222,7 +1223,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1241,7 +1242,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1260,7 +1261,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1279,7 +1280,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1299,7 +1300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1337,7 +1338,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1356,7 +1357,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1375,7 +1376,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1394,7 +1395,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1413,7 +1414,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     },
     {
@@ -1433,6 +1434,101 @@
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
       "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DXhMS3YGbX8",
+      "url": "https://www.youtube.com/watch?v=DXhMS3YGbX8",
+      "title": "Aladdin’s Search for the Magic Lamp 🪔 | Full AI Fantasy Movie | MUKUL AI FILMS",
+      "description": "ALADDIN’S SEARCH FOR THE MAGIC LAMP | FULL AI FANTASY MOVIE\n\n✨ A mysterious journey. An ancient secret. A legendary magic lamp waiting to be discovered!\n\nEnter a breathtaking world of Arabian fantasy in *Aladdin’s Search for the Magic Lamp*. Follow Aladdin as he ventures into mysterious landscapes, explores forgotten places, and searches for a legendary lamp hidden beyond the ordinary world. His journey is filled with mystery, adventure, danger, and unexpected discoveries.\n\n🎬 Experience an imaginative fantasy adventure brought to life with AI-generated visuals, cinematic storytelling, and creative filmmaking.\n\n🍿 Watch the full movie and join Aladdin on his extraordinary quest!\n\n🎥 ABOUT MUKUL AI FILMS :- \nWelcome to MUKUL AI FILMS, where artificial intelligence meets cinematic imagination. Discover original AI-generated movies, fantasy adventures, epic stories, and immersive cinematic experiences across different genres.\n\n🔎 SEO KEYWORDS :- \nAladdin’s Search for the Magic Lamp\nAladdin full movie\nAladdin AI movie\nAladdin fantasy movie\nAladdin magic lamp story\nAladdin adventure film\nAI generated fantasy movie\nAI movie full length\nAI cinematic film\nArabian fantasy adventure\nmagic lamp movie\nmagical adventure story\nAI filmmaking\nfantasy movie in English\nMukul AI Films.\n\nCOPYRIGHT DISCLAIMER :-\nThis video is an AI-assisted creative production created for entertainment purposes. Characters, visuals, music, sound effects, and other materials may be subject to their respective copyrights and intellectual property rights. Any third-party material, if used, belongs to its respective rights holders. This video is not officially affiliated with or endorsed by any existing Aladdin franchise or rights holder. This disclaimer does not replace the permissions or licenses required for copyrighted material.\n\n👍 If you enjoy fantasy movies and AI-generated storytelling, LIKE the video, SHARE it with fellow movie lovers, and SUBSCRIBE to MUKUL AI FILMS for more cinematic adventures!\n\nHastags :-\n#Aladdin #MagicLamp #AladdinMovie #AIMovie #AIGeneratedMovie #FantasyMovie #AIShortFilm #FantasyAdventure #FullMovie #AIFilmmaking #MukulAIFilms\n\n© MUKUL AI FILMS | Original AI-assisted creative content.",
+      "channelId": "UCgofTAiwgapEpC_AeMWH5Yw",
+      "channelTitle": "Mukul AI films",
+      "thumbnail": "https://i.ytimg.com/vi/DXhMS3YGbX8/hqdefault.jpg",
+      "publishedAt": "2026-10-17T23:45:00Z",
+      "durationSeconds": 12700,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:30.872Z",
+      "lastSeenAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wcPggxRmR_8",
+      "url": "https://www.youtube.com/watch?v=wcPggxRmR_8",
+      "title": "She Gave Birth to a Dragon — The Mother's Monster (2026) | Full Movie New",
+      "description": "#TheMothersMonster #DragonMovie #FantasyMovie #FullMovie #DarkFantasy\n\nShe Gave Birth to a Dragon — The Mother's Monster (2026) | Full Movie New \n\nA young woman in a frozen mountain village gives birth to something no human has ever seen before — **a dragon**.\n\nThe villagers call it a monster.\n\nShe calls it her son.\n\nWhen fear spreads through the village, the people come at dawn with stones and torches, determined to destroy the creature before it grows. But she refuses to let them take her child.\n\nInstead, she is driven into the frozen mountains and left behind with the creature in her arms.\n\nThey believe the brutal cold will finish what they started.\n\nBut the cold doesn't finish it.\n\nIt changes everything.\n\n**The Mother's Monster** is an original **dark fantasy movie** about a mother's love, fear of the unknown, survival, and the bond between a human mother and a creature the world believes should never exist.\n\nAs the story unfolds, the frozen wilderness becomes the only place where mother and dragon can survive — while the village begins to discover that the creature they feared may not be the monster they imagined.\n\n❄️ **A mysterious dragon.**\n🐉 **An impossible birth.**\n🏔️ **A frozen mountain village.**\n❤️ **A mother's unconditional love.**\n🔥 **A village determined to destroy what it fears.**\n\nWatch the **full fantasy movie in 4K** and discover what happens when a mother chooses to protect her child against an entire village.\n\n### 🎬 About This Film\n\n**Title:** The Mother's Monster\n**Year:** 2026\n**Genre:** Dark Fantasy, Fantasy, Dragon, Adventure, Drama\n**Format:** Full Movie / Feature Film\n**Quality:** 4K UHD\n**Story:** Original Fiction\n\nThis is an **original fantasy story created from imagination**. It is not adapted from any book, film, mythology, folklore, or existing franchise.\n\nThis film contains **AI-generated visuals and synthetic voices**. The characters, environments, creatures, cinematic scenes, and other visual elements were created or enhanced using artificial intelligence as part of the filmmaking process.\n\n### 💭 What Would You Do?\n\nWas the village right to fear the dragon?\n\nOr did they create the very monster they were afraid of?\n\n**Tell us what you think in the comments.**\n\nIf you enjoy **full fantasy movies, dragon movies, dark fantasy stories, AI-generated movies, mythical creatures, cinematic fantasy films, emotional fantasy stories, medieval fantasy, monster stories, magical worlds, and original fantasy adventures**, subscribe for more original films.\n\n🔔 **Subscribe and turn on notifications** so you don't miss the next original fantasy movie.\n\n#TheMothersMonster #DragonMovie #FantasyMovie #FullMovie #DarkFantasy #Dragon #AIAnimation #AIMovie #AIFilm #FantasyFilm #4KMovie #FullFantasyMovie #MonsterMovie #FantasyAdventure #OriginalMovie #CinematicFantasy #MythicalCreature #FantasyStory #DarkFantasyMovie #2026Movie",
+      "channelId": "UCF8X5oe3zcvOR2Youo64peQ",
+      "channelTitle": "Qelvynor",
+      "thumbnail": "https://i.ytimg.com/vi/wcPggxRmR_8/hqdefault.jpg",
+      "publishedAt": "2026-10-17T07:46:38Z",
+      "durationSeconds": 2162,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:30.872Z",
+      "lastSeenAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3cDtcuN_J1I",
+      "url": "https://www.youtube.com/watch?v=3cDtcuN_J1I",
+      "title": "MERMAID: Curse of the Sunken Kingdom | Full Movie English 2026 | Dark Fantasy Surviva",
+      "description": "MERMAID: Curse of the Sunken Kingdom — Full Movie English 2026 | Dark Fantasy Survival Thriller in 4K. A marine archaeologist is sealed inside a drowned sunken city and hunted through its flooded halls by an ancient armoured mermaid as the tide rises to drown the kingdom to its ceiling.\n\n🌊 WATCH THE FULL MOVIE — \n\n📖 THE STORY\nOnce every four years, the lowest tide of the year exposes a sea cave on a black northern coast. Inside it lies a kingdom deliberately drowned four hundred years ago — nine terraces of stone and bronze, stacked and chained beneath the water. A survey team enters with eleven hours before the door closes. Then the entrance collapses behind them.\n\nRhea, a marine archaeologist, must climb upward through the flooded city to the only exit at the top — while the water rises beneath her, and something ancient moves through the halls. Maren is not a monster. She is the guardian the city was built to imprison, and she has been holding back the sea alone for four centuries. Now the chains are failing, and Rhea has to decide whether the thing hunting her is the enemy — or the only one who can save them all.\n\nA dark fantasy survival thriller with no gore, no profanity, and no jump-scare horror. Pure tension, scale and atmosphere — suitable for teen and adult audiences.\n\n\n\n🧜 CHARACTERS\nMAREN — The ancient armoured guardian of the sunken kingdom. Storm-grey and cold-pearl skin, oxidised bronze and iron armour, a tail of gunmetal scale lit by cold-blue bioluminescence. Four hundred years alone beneath the city.\nRHEA — Marine archaeologist. Practical, stubborn, and the first person in four centuries to lower her light instead of aiming it.\nOSRIC — Veteran dive lead. Forty years on this coast and never once looked down.\nINES — Sonar specialist. The one who hears the knocking.\n\n🎬 ABOUT THIS FILM\nThis is a full-length AI-generated feature film — story, direction and creative vision are human-led; visuals and sound are machine-generated. Full disclaimer at the bottom of this description.\n\n👍 If you enjoyed the movie, a like and a comment help the channel more than you'd think. Tell us where you're watching from — city and country — in the pinned comment.\n\n🔔 SUBSCRIBE for the next  cr Sunrise \n\n\n#MermaidMovie #FullMovie #DarkFantasy\n\n\n📌 DISCLAIMER\nThis film is an experiment at the frontier of cinema. \"MERMAID: Curse of the Sunken Kingdom\" is a feature-length motion picture created with artificial intelligence, built from a range of AI systems — including Google's Veo 3.1 for high-fidelity video generation, the Nano Banana Pro model for character continuity and story coherence, and additional AI tools for the action sequences. Although the imagery and audio were produced by machines, the screenplay, direction and artistic vision came from human filmmakers. It stands among the first full-length films of its kind and points toward where digital filmmaking is heading. The plot, characters and setting are entirely fictional; any similarity to actual persons, locations or events is coincidental. This movie exists for entertainment and as a creative exploration of what AI-assisted filmmaking can achieve.\n\n\n\n#MermaidMovie #FullMovie #DarkFantasy #SunkenCity #SurvivalThriller #FantasyMovie #FullMovieEnglish #4KMovie #AdventureMovie #Mermaid #UnderwaterMovie #AIMovie #NewMovie2026 #FantasyAdventure #MovieNight#MermaidMovie #FullMovie #DarkFantasy #MermaidMovie #FullMovie #DarkFantasy #SunkenCity #SurvivalThriller #FantasyMovie #FullMovieEnglish #4KMovie #AdventureMovie #Mermaid #UnderwaterMovie #AIMovie #NewMovie2026 #FantasyAdventure #MovieNight",
+      "channelId": "UCzsJ8NZndzdbZghx-EB4bKQ",
+      "channelTitle": "CR Sunrise ",
+      "thumbnail": "https://i.ytimg.com/vi/3cDtcuN_J1I/hqdefault.jpg",
+      "publishedAt": "2026-10-17T04:33:27Z",
+      "durationSeconds": 3819,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:30.872Z",
+      "lastSeenAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LYRrLRA-f6g",
+      "url": "https://www.youtube.com/watch?v=LYRrLRA-f6g",
+      "title": "The Amnesiac CEO’s Ordinary Wife | Full Movie | Complete Story | Trending Emotional AI Drama",
+      "description": "#movie #film #aidrama #romanticmovie \n\nWelcome to Vyora! In this full-length movie presentation, we bring you the complete story of the viral hit short drama, \"The Amnesiac CEO’s Ordinary Wife\". Dive into a captivating tale of unexpected romance, hidden identities, and deep emotional twists as a powerful CEO loses his memory and crosses paths with his ordinary wife. If you love trending short dramas, multi-episode romance marathons, and full vertical movies, this complete story is packed with drama and suspense to keep you hooked till the end. Make sure to watch the full movie of The Amnesiac CEO’s Ordinary Wife, explore the ultimate CEO romance plot, and experience the viral vertical movie sensation right here on Vyora.   Don't forget to like, comment, subscribe, and hit the notification bell for more viral short dramas, full-length movies, and exclusive complete stories!#TheAmnesiacCEOsOrdinaryWife #FullMovie #TrendingDrama #CEORomance #ShortDrama #VerticalMovie #Vyora #ViralMovie\n\n#VYORA #VYORAFilms #AIFilms #AIMovies #AIShortFilms #AIStorytelling #CinematicStories #CinematicFilms #ShortFilms #AIFilmmaking #VisualStorytelling #SciFiFilms #FantasyFilms #FilmMaking #Cinematic\n\nMYTHRA, Mythra Films, Mythra cinematic, cinematic AI films, cinematic AI stories, AI cinematic movies, AI generated short films, AI fantasy films, AI sci fi films, cinematic storytelling, futuristic cinematic films, epic AI stories, emotional cinematic stories, immersive cinematic storytelling, AI movie studio, AI film studio, digital filmmaking, cinematic fantasy, cinematic science fiction, original AI films\n\n#dragonmovie #dragonfilms #dragon",
+      "channelId": "UCWMj4sDg8PG4t1Vs21nZK4Q",
+      "channelTitle": "VYORA",
+      "thumbnail": "https://i.ytimg.com/vi/LYRrLRA-f6g/hqdefault.jpg",
+      "publishedAt": "2026-10-18T01:56:44Z",
+      "durationSeconds": 4944,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:30.872Z",
+      "lastSeenAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "46mo0VFuYoM",
+      "url": "https://www.youtube.com/watch?v=46mo0VFuYoM",
+      "title": "She Became The Mother Of Dragons | AGE OF DRAGONS | Full Fantasy Movie 4K 2026",
+      "description": "She Gave Life To 5 Dragons. A girl everyone laughed at finds a wounded white dragon in the frozen forest, and the five eggs it was hiding. Her village says dragons vanished a lifetime ago. She keeps its secret. This is the full fantasy movie in 4K.\n\nFar to the north, an orc army is building something that has no end, and it needs slaves. They came by sea with beasts and dark dragons. They burned the great hall, chained the village and left one girl face down in the snow, certain she would never get up.\n\nShe got up.\n\n▶ Watch Age of Kingdoms Part 5: https://youtu.be/Rk4UsZPm1nA\n\nWould you have kept the dragon a secret? Tell me in the comments.\n\nSubtitles available in 18 languages: tap ⚙️ then Subtitles/CC.\n\nChapters\n0:00 The White Dragon Falls\n0:36 The Orc Fortress\n5:34 Freya, The Girl Who Wanted To Fight\n13:33 The Village By The Sea\n19:57 No Dragon Since Grandfather's Time\n22:56 Face To Face With The Dragon\n25:43 Feeding A Secret\n32:36 The Bear In The Forest\n34:36 The Shaman's Vision\n38:36 The Raid\n50:01 Alone In The Snow\n1:01:35 Hunted Through The Forest\n1:14:43 The First Flight\n1:21:57 Dark Dragons In The Sky\n1:36:03 The Five Eggs\n\nAn original story, written from imagination and set in the world of Age of Kingdoms. If you loved stories of a mother raising a dragon the world calls a monster, this is a full length dragon movie about a young woman, a dying white dragon and the brood she promised to protect.\n\nThis film contains AI generated visuals and synthetic voices.\n\n🌐 https://www.epicaifilms.com\n\nStory, screenplay and direction: \n© Epic AI Films. All rights reserved.\n\n#FullMovie #FantasyMovie# DragonMother #MothersMonster",
+      "channelId": "UC5FCyk1QkTBLgWm-w866PGg",
+      "channelTitle": "Epic AI Films",
+      "thumbnail": "https://i.ytimg.com/vi/46mo0VFuYoM/hqdefault.jpg",
+      "publishedAt": "2026-10-05T10:00:17Z",
+      "durationSeconds": 6006,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-18T02:52:30.872Z",
+      "lastSeenAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
       "unavailableAt": null
     }
   ]
