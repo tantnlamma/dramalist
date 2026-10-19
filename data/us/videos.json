@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:52:30.872Z",
+  "generatedAt": "2026-10-19T03:05:27.685Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -238,13 +238,14 @@
       "publishedAt": "2026-10-13T10:54:00Z",
       "durationSeconds": 2325,
       "matchedKeywords": [
+        "AI future movie full film",
         "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -354,12 +355,13 @@
       "publishedAt": "2026-10-12T01:12:07Z",
       "durationSeconds": 2381,
       "matchedKeywords": [
+        "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -379,7 +381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -399,7 +401,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -514,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -553,7 +555,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -610,7 +612,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -629,7 +631,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +650,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +689,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +708,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +746,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +765,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -784,7 +786,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -803,7 +805,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -823,7 +825,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -843,7 +845,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -862,7 +864,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1014,7 +1016,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1033,7 +1035,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1052,7 +1054,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1071,7 +1073,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1090,7 +1092,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1109,7 +1111,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1204,7 +1206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1223,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1242,7 +1244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1280,7 +1282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1300,7 +1302,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1338,7 +1340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1357,7 +1359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1376,7 +1378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1395,7 +1397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1414,7 +1416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1452,7 +1454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:30.872Z",
       "lastSeenAt": "2026-10-18T02:52:30.872Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1471,7 +1473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:30.872Z",
       "lastSeenAt": "2026-10-18T02:52:30.872Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1490,14 +1492,14 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:30.872Z",
       "lastSeenAt": "2026-10-18T02:52:30.872Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
       "videoId": "LYRrLRA-f6g",
       "url": "https://www.youtube.com/watch?v=LYRrLRA-f6g",
       "title": "The Amnesiac CEO’s Ordinary Wife | Full Movie | Complete Story | Trending Emotional AI Drama",
-      "description": "#movie #film #aidrama #romanticmovie \n\nWelcome to Vyora! In this full-length movie presentation, we bring you the complete story of the viral hit short drama, \"The Amnesiac CEO’s Ordinary Wife\". Dive into a captivating tale of unexpected romance, hidden identities, and deep emotional twists as a powerful CEO loses his memory and crosses paths with his ordinary wife. If you love trending short dramas, multi-episode romance marathons, and full vertical movies, this complete story is packed with drama and suspense to keep you hooked till the end. Make sure to watch the full movie of The Amnesiac CEO’s Ordinary Wife, explore the ultimate CEO romance plot, and experience the viral vertical movie sensation right here on Vyora.   Don't forget to like, comment, subscribe, and hit the notification bell for more viral short dramas, full-length movies, and exclusive complete stories!#TheAmnesiacCEOsOrdinaryWife #FullMovie #TrendingDrama #CEORomance #ShortDrama #VerticalMovie #Vyora #ViralMovie\n\n#VYORA #VYORAFilms #AIFilms #AIMovies #AIShortFilms #AIStorytelling #CinematicStories #CinematicFilms #ShortFilms #AIFilmmaking #VisualStorytelling #SciFiFilms #FantasyFilms #FilmMaking #Cinematic\n\nMYTHRA, Mythra Films, Mythra cinematic, cinematic AI films, cinematic AI stories, AI cinematic movies, AI generated short films, AI fantasy films, AI sci fi films, cinematic storytelling, futuristic cinematic films, epic AI stories, emotional cinematic stories, immersive cinematic storytelling, AI movie studio, AI film studio, digital filmmaking, cinematic fantasy, cinematic science fiction, original AI films\n\n#dragonmovie #dragonfilms #dragon",
+      "description": "#movie #film #aidrama #romanticmovie \n\nWelcome to Vyora! In this full-length movie presentation, we bring you the complete story of the viral hit short drama, \"The Amnesiac CEO’s Ordinary Wife\". Dive into a captivating tale of unexpected romance, hidden identities, and deep emotional twists as a powerful CEO loses his memory and crosses paths with his ordinary wife. If you love trending short dramas, multi-episode romance marathons, and full vertical movies, this complete story is packed with drama and suspense to keep you hooked till the end. Make sure to watch the full movie of The Amnesiac CEO’s Ordinary Wife, explore the ultimate CEO romance plot, and experience the viral vertical movie sensation right here on Vyora.   Don't forget to like, comment, subscribe, and hit the notification bell for more viral short dramas, full-length movies, and exclusive complete stories!#TheAmnesiacCEOsOrdinaryWife #FullMovie #TrendingDrama #CEORomance #ShortDrama #VerticalMovie #Vyora #ViralMovie\n\n#VYORA #VYORAFilms #AIFilms #AIMovies #AIShortFilms #AIStorytelling #CinematicStories #CinematicFilms #ShortFilms #AIFilmmaking #VisualStorytelling #SciFiFilms #FantasyFilms #FilmMaking #Cinematic\n\nMYTHRA, Mythra Films, Mythra cinematic, cinematic AI films, cinematic AI stories, AI cinematic movies, AI generated short films, AI fantasy films, AI sci fi films, cinematic storytelling, futuristic cinematic films, epic AI stories, emotional cinematic stories, immersive cinematic storytelling, AI movie studio, AI film studio, digital filmmaking, cinematic fantasy, cinematic science fiction, original AI films, billionaire romance movies\n\n#dragonmovie #dragonfilms #dragon",
       "channelId": "UCWMj4sDg8PG4t1Vs21nZK4Q",
       "channelTitle": "VYORA",
       "thumbnail": "https://i.ytimg.com/vi/LYRrLRA-f6g/hqdefault.jpg",
@@ -1509,7 +1511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:30.872Z",
       "lastSeenAt": "2026-10-18T02:52:30.872Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     },
     {
@@ -1529,6 +1531,158 @@
       "discoveredAt": "2026-10-18T02:52:30.872Z",
       "lastSeenAt": "2026-10-18T02:52:30.872Z",
       "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WqVw4NkVZAw",
+      "url": "https://www.youtube.com/watch?v=WqVw4NkVZAw",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/WqVw4NkVZAw/hqdefault.jpg",
+      "publishedAt": "2026-10-18T07:30:25Z",
+      "durationSeconds": 7328,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i4jr0Cn3fgI",
+      "url": "https://www.youtube.com/watch?v=i4jr0Cn3fgI",
+      "title": "ThunderCats: The Return – FULL MOVIE | The Complete Story",
+      "description": "The complete story is finally here!\n\nAfter five chapters, the entire ThunderCats: The Return saga is now available as one epic movie, featuring improved scenes, visual corrections, and a more polished cinematic experience.\n\nFrom the destruction of Thundera to the rise of a new threat, follow Lion-O and the ThunderCats as they face betrayal, dangerous enemies, devastating battles, and the struggle to protect their people.\n\nInspired by the ThunderCats: The Return comic book, this fan adaptation brings the story to life in a cinematic 3D animation style, created with artificial intelligence.\n\nWhether you're watching for the first time or returning to experience the entire adventure, this is the definitive version of our five-chapter journey.\n\n⚡ SUPPORT THE CHANNEL — BECOME A MEMBER!\n\nHelp us create more ambitious AI-animated movies and bring more classic stories to life!\n\n👉 https://www.youtube.com/channel/UCqUHAFN2zj4QdOW0rpkEUog/join\n\n❤️ YOUR SUPPORT MAKES A DIFFERENCE!\n\nIf you enjoyed the movie:\n👍 Leave a like to support the project.\n💬 Comment below and tell us your favorite scene!\n🔔 Subscribe and turn on notifications so you don't miss our upcoming movies and chapters.\n\nAnd one important question...\n\nWould you like to see ThunderCats: Dogs of War next? 🐾\n\nDISCLAIMER\n\nThis is an unofficial, AI-generated fan adaptation inspired by the ThunderCats: The Return comic book.\n\nThunderCats and all related characters, names, and trademarks belong to their respective copyright holders.\n\nThis production is not affiliated with, endorsed by, or sponsored by the official rights holders.\n\nCreated by Beyond What If as an independent fan project.\n\n#ThunderCats #ThunderCatsTheReturn #FullMovie #AIAnimation #LionO #MummRa #BeyondWhatIf #FanFilm #CinematicAnimation",
+      "channelId": "UCqUHAFN2zj4QdOW0rpkEUog",
+      "channelTitle": "Beyond What If",
+      "thumbnail": "https://i.ytimg.com/vi/i4jr0Cn3fgI/hqdefault.jpg",
+      "publishedAt": "2026-10-17T19:00:08Z",
+      "durationSeconds": 3128,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0Ry4iYg-tIk",
+      "url": "https://www.youtube.com/watch?v=0Ry4iYg-tIk",
+      "title": "How to Create AI Movies with ChatGPT & Flow AI (Full Tutorial)",
+      "description": "Want to create your own AI movies from scratch? In this FULL TUTORIAL, I’ll show you step by step how to create cinematic AI films using free Ai tools to get started!\n\nIn this video, you’ll learn how to turn your ideas into a complete AI movie, from creating your story and generating character images to bringing your scenes to life with AI video generation.\n\nWhether you’re a beginner, content creator, filmmaker, or someone curious about AI filmmaking, this tutorial will help you understand the entire process.\n\nWHAT YOU’LL LEARN:\n\n* How to create one hour AI movie story\n* How to generate consistent AI characters\n* Why you should create separate images for individual scenes\n* How to write prompts for cinematic AI videos\n* How to turn images into video clips\n* How to navigate AI tools and understand its credits\n* How to create movie scenes with more consistent characters\n* How to combine your generated clips into a complete AI film\n* Tips for creating cinematic AI movies for free\n\nThe exciting part? You don’t need to be a professional filmmaker to start experimenting with AI filmmaking. With the right workflow, creativity, and practice, you can bring your own movie ideas to life.\n\nIf you find this tutorial helpful, LIKE this video, SUBSCRIBE to the channel, and turn on notifications for more AI filmmaking tutorials, AI tools, and creative tips.\n\n💬 QUESTION FOR YOU: What kind of AI movie would you love to create? Let me know in the comments!\n\nThanks for watching, and welcome to Chioma Francisca Productions! ❤️\n\n#AlMovies #FreeAltools #AlFilmmaking #GoogleFlowAI #ChatGPT",
+      "channelId": "UCX39VCgtnZ4DEKVblv69XKw",
+      "channelTitle": "Chioma Francisca | AI Creator",
+      "thumbnail": "https://i.ytimg.com/vi/0Ry4iYg-tIk/hqdefault.jpg",
+      "publishedAt": "2026-10-11T21:30:01Z",
+      "durationSeconds": 1980,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ae-W3iqKz-I",
+      "url": "https://www.youtube.com/watch?v=Ae-W3iqKz-I",
+      "title": "YOUNG BILLIONAIRE PRETENDS TO BE A BEGGAR TO FIND A WIFE - THEN THIS HAPPENED",
+      "description": "David, heir to the Peterside oil empire, begs at a Diobu junction to find a woman who will choose him without his surname. Nengi Briggs, the woman his father's partner has promised him to, humiliates him in mud at a mall. Amaka, a rice seller, kneels beside him with her towel. Nengi discovers who he is and keeps it secret. A demolition notice lands on Amaka's stall and her brother Kelechi is sent home for fees. David reaches for his phone and Amaka stops him: \"I do not take what I did not sweat for.\"\n\nYoung Billionaire Pretends To Be A Beggar To Find A Wife - Then This Happened\n\nAi movies, ai full movies, latest Nigerian movies, latest Nollywood movies 2026, ai movie, ai Nigerian movies, latest Nigerian movie 2026\n\n#aimovie #aifilm #nollywoodmovie #aivideo #nollywooddrama",
+      "channelId": "UCfCow8tAuM3Atf5Zp3vvYIA",
+      "channelTitle": "TIMELESS TALES TV ",
+      "thumbnail": "https://i.ytimg.com/vi/Ae-W3iqKz-I/hqdefault.jpg",
+      "publishedAt": "2026-10-10T12:36:18Z",
+      "durationSeconds": 2713,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nv23QXivaN8",
+      "url": "https://www.youtube.com/watch?v=nv23QXivaN8",
+      "title": "[FULL MOVIE] The Guard Is A Actually An Archmage",
+      "description": "He faked a mage license to save his sister. He never expected a night guard job to make him the next Archmage.\nFixer Milo takes a desperate gamble, using a forged mage license to secure work as a night guard. While repairing broken exhibits, he discovers an extraordinary ability to absorb Calamity powers. In the Trial, his grandfather’s tools become his greatest advantage, allowing him to overcome enemies through repair rather than destruction.\nBut when dark mage Valerian strikes, Milo’s hidden bloodline awakens. Armed with God’s Anchor, he confronts the sinister plot and rises from an unlikely repairman to a new Archmage.\n🎬 TITLE: The Guard Is A Actually An Archmage\n🎭 GENRE: Fantasy • Action • Adventure\n✨ THEMES: Saving Family • Hidden Bloodline • Magical Awakening • Unlikely Hero\n🎥 FORMAT: FULL MOVIE\n💬 Which makes Milo extraordinary—his awakened bloodline or his ability to repair what others destroy? Share your thoughts below!\n👍 Like, share, and subscribe to CineVanta for more magical adventures, powerful comebacks, and unforgettable dramas.\n🤖 AI CONTENT DISCLOSURE:\nThis video features AI-generated or AI-assisted visuals and storytelling elements. Characters and events are fictional and presented for entertainment.\n#CineVanta #Archmage #FantasyDrama #MagicAwakening #HiddenBloodline",
+      "channelId": "UCYUGmr8kz-4M3Q2bZzhw-wg",
+      "channelTitle": "CineVanta",
+      "thumbnail": "https://i.ytimg.com/vi/nv23QXivaN8/hqdefault.jpg",
+      "publishedAt": "2026-10-17T11:00:33Z",
+      "durationSeconds": 4891,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wYamtfg1hwo",
+      "url": "https://www.youtube.com/watch?v=wYamtfg1hwo",
+      "title": "How to Make AI Films From Scratch | Full Step-by-Step Tutorial",
+      "description": "Prompt pack : https://docs.google.com/document/d/1sSP0Gl0iHAj7zlBxYBjYzQKjexJGu7o9yDHoxP9OGVw/edit?usp=drivesdk\n\nJoin the AI drama series waitlist : https://t.me/+HbWC4sgi6nhjNDI0\n\n\nWant to create your own AI short film from scratch?\n\nIn this step-by-step tutorial, I’ll show you my complete process for creating cinematic AI short films, from developing the story and characters to creating storyboards and turning each scene into a finished AI video.\n\nYou’ll learn how to:\n• Create a story for your AI film\n• Build consistent AI characters\n• Create cinematic storyboards\n• Write prompts for each scene\n• Turn images into realistic AI video scenes\n• Maintain character and scene consistency\n• Put everything together into a complete AI short film\n\nWhether you want to create AI movies, micro dramas, short-form series, or cinematic stories for social media, this tutorial will show you the full workflow.\n\nSubscribe for more AI filmmaking, AI video, storytelling, and content creation tutorials.\n\n#AIShortFilm #AIFilmmaking #AIVideo #AIMovie #GenerativeAI",
+      "channelId": "UC9NnbtmgAj1pTPrbfsFgITQ",
+      "channelTitle": "Kemi Frank | AI Creator",
+      "thumbnail": "https://i.ytimg.com/vi/wYamtfg1hwo/hqdefault.jpg",
+      "publishedAt": "2026-09-23T14:00:16Z",
+      "durationSeconds": 2820,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Hh1Yfn_kGAY",
+      "url": "https://www.youtube.com/watch?v=Hh1Yfn_kGAY",
+      "title": "SANG PEWARIS TAHTA 2 FULL MOVIE : PEMBALASAN TAK BERUJUNG | Drama Indonesia",
+      "description": "SANG PEWARIS TAHTA 2: PEMBALASAN TAK BERUJUNG — FULL MOVIE\n\nCinta, keluarga, kekuasaan dan pengkhianatan akhirnya membawa semuanya menuju satu titik yang tak bisa dihindari.\n\nMasa lalu yang selama ini terkubur perlahan kembali membuka rahasia. Rey harus menghadapi kenyataan tentang keluarga, persaudaraan, perebutan kekuasaan, serta ancaman yang datang dari orang-orang di sekelilingnya.\n\nDi tengah konflik keluarga Ardiansyah, Ricky, Rey, Ratna dan orang-orang yang terlibat di dalamnya, siapa yang sebenarnya bisa dipercaya?\n\nSaksikan kisah lengkap SANG PEWARIS TAHTA 2: PEMBALASAN TAK BERUJUNG dalam versi FULL MOVIE dari awal hingga akhir.\n\n🔥 Drama keluarga\n🔥 Perebutan kekuasaan\n🔥 Pengkhianatan\n🔥 Rahasia masa lalu\n🔥 Persaudaraan\n🔥 Cinta dan pembalasan\n\nTonton sampai selesai karena setiap rahasia akan membawa cerita menuju akhir yang tidak terduga.\n\nFilm ini merupakan karya fiksi yang dibuat untuk tujuan hiburan. Seluruh nama, karakter, tempat, peristiwa dan alur cerita bersifat fiktif. Film ini dibuat dengan bantuan teknologi kecerdasan buatan (AI).\n\nTerima kasih sudah menonton dan mendukung BDX.production.\n\nJangan lupa:\n👍 LIKE\n💬 KOMENTAR\n🔔 SUBSCRIBE\ndan aktifkan notifikasi agar tidak ketinggalan karya BDX.production berikutnya.\n\n#SangPewarisTahta2 #PembalasanTakBerujung #FullMovie #DramaIndonesia #FilmIndonesia #DramaKeluarga #FilmAI #BDXproduction",
+      "channelId": "UC1Id5BcCyhgzaU3gKUrt5tw",
+      "channelTitle": "BDX Production",
+      "thumbnail": "https://i.ytimg.com/vi/Hh1Yfn_kGAY/hqdefault.jpg",
+      "publishedAt": "2026-09-10T06:25:46Z",
+      "durationSeconds": 2555,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ev-8Cx8VGqc",
+      "url": "https://www.youtube.com/watch?v=Ev-8Cx8VGqc",
+      "title": "THE BURIED LEGION | Earth Awakened the Wrong Weapon / Mecha War | Full Movie | 4K",
+      "description": "⚠️ Humanity thought the buried Titans were weapons. The aliens knew they were a prison.\n\nIn 2189, humanity has spent forty years studying 17,000 colossal machines buried beneath Greenland, Antarctica, the Sahara, Siberia, the Pacific and other regions of Earth. None of them have ever awakened—until a mysterious gravitational signal arrives from beyond the Solar System.\n\nSeventy-two hours later, an alien fleet appears near Saturn and attacks without warning.\n\nElias Vale is a low-ranking Mecha Recovery Technician—not a pilot, officer, or military hero. But when the mysterious 148-meter Titan Zero awakens beneath Greenland, Elias becomes the only human able to connect with it. Humanity believes it has finally found the weapon that can save Earth.\n\nBut as Titan Zero begins awakening the other machines of the Buried Legion, Elias discovers a terrifying truth: the invaders are not trying to conquer Earth. They are trying to stop something ancient from escaping.\n\nFrom the frozen Titan excavation pits of Greenland to a devastating battle across futuristic Singapore, the buried Titan fields of the Sahara, a colossal underground vault beneath Antarctica, and a three-way war above Earth, THE BURIED LEGION is a feature-length AI military science-fiction film about humanity awakening a weapon it was never meant to control. The story ultimately escalates into a conflict involving 17,000 Titans, the Varkhari fleet, humanity's orbital forces, and the ancient Sovereign Gate above the Moon.\n\nThe final conflict reveals Titan Zero as both a Warden and a Seed for the Sovereign, forcing Elias to choose between controlling the Legion or eliminating the power humanity desperately wanted to possess.\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more feature-length AI movies, massive sci-fi worlds, alien wars, cinematic adventures, and experimental 4K films.\n\n#SciFi #SciFiMovie #AIFilm #AIMovie #TheBuriedLegion #TitanZero #SciFiFullMovie #MechaWar #MilitarySciFi #MilitarySciFiMovie #EpicSciFi #ApocalypseMovie #RobotWar #AlienWar #CinematicSciFi #FutureWar #EpicSpaceBattle",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/Ev-8Cx8VGqc/hqdefault.jpg",
+      "publishedAt": "2026-09-07T20:31:49Z",
+      "durationSeconds": 4681,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:27.685Z",
+      "lastSeenAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:53:12.168Z",
+  "generatedAt": "2026-10-19T03:06:07.757Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -205,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,64 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qZ6ItfHMPyE",
+      "url": "https://www.youtube.com/watch?v=qZ6ItfHMPyE",
+      "title": "Seven Kings Could Not Kill Him | THE LAST SEAL | Full Fantasy Movie 2026",
+      "description": "THE LAST SEAL (2026) — Full Epic Dark Fantasy Movie\n\nSeven Kings Could Not Kill Him.\n\nFor a thousand years, the world believed the DARK KING was gone.\n\nThey were wrong.\n\nSomething ancient is awakening. Forgotten kingdoms are falling. Terrifying creatures are rising from the darkness.\n\nAnd a secret buried for centuries is about to change everything.\n\nAs war spreads across the land, an ordinary blacksmith becomes trapped in a battle far greater than he could ever imagine.\n\nBut some secrets were never meant to be discovered.\n\nSome powers were never meant to return.\n\nAnd some enemies were never meant to be defeated.\n\nWhat happens when the greatest evil in history returns?\n\n00:00 - Prologue: The Six Broken Seals\n02:45 - Rowan the Blacksmith & The Singing Stone\n06:00 - The North Ridge War Horn\n08:00 - The Village Falls & Mara Captured\n11:50 - The Truth of the Last Seal\n14:00 - Trek into the Moonwood\n19:00 - The Whispering Wood\n22:15 - Betrayal at the Orc Camp\n26:30 - Revelation: The Seventh King\n31:15 - The Blue Flame & Shadow Hounds\n34:00 - The Court of the First King\n37:10 - The Forgotten Glacier Forge\n41:45 - The Seventh King Awakens\n46:00 - Clash on the Ice\n48:45 - Mother's Sacrifice: Given Freely\n50:20 - The Thaw & The Final Vow\n\n⚔️ THE LAST SEAL — FULL FANTASY MOVIE (2026)\n\nEnter a world of ancient magic, powerful wizards, fearless warriors, dark kingdoms, orcs, giants, and epic battles.\n\n🎬 Genre: Epic Fantasy | Dark Fantasy | Action | Adventure\n\n🎥 Original AI-Generated Fantasy Film\n\n🌍 Language: English\n\nWatch the full movie and discover the secret of THE LAST SEAL.\n\nSubscribe to ONEAIFILM for original fantasy movies, epic adventures, and cinematic AI storytelling.\n\n🔔 New fantasy films and stories are coming soon!\n\n\n🎭 CHARACTERS\n\nRowan the Blacksmith • Aldric the Wizard • Mara • Nessa the Blind Healer • Captain Brann • Liriel • Grom the Warlord • Ugra the Tracker • Borg • Vargal the Ancient King\n\n🎬 PRODUCTION\n\nCreated by ONEAIFILM\n\nStory & Creative Direction: Tuncay K.\n\nThis original fantasy film was created using artificial intelligence and cinematic storytelling techniques.\n\n#fullmovie #fantasymovie #darkfantasy #epicfantasy #aifilm",
+      "channelId": "UCnDJqQ6YxwnzhjIhniL3blw",
+      "channelTitle": "oneaifilm",
+      "thumbnail": "https://i.ytimg.com/vi/qZ6ItfHMPyE/hqdefault.jpg",
+      "publishedAt": "2026-10-17T13:45:26Z",
+      "durationSeconds": 3149,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:06:07.757Z",
+      "lastSeenAt": "2026-10-19T03:06:07.757Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Tob38w83eaM",
+      "url": "https://www.youtube.com/watch?v=Tob38w83eaM",
+      "title": "Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass",
+      "description": "Want to create your own cinematic AI movie? 🎬 In this complete step-by-step tutorial, I’ll show you how I created a full AI short movie using AI tools — from the story and characters to cinematic images, AI video scenes and final editing.\n\n✅ You’ll learn the complete AI filmmaking workflow, including how to create consistent characters, generate cinematic scenes, turn images into AI videos and combine everything into a complete movie.\n\n✅ Important Link’s \n• Telegram -https://t.me/mktfamily\n• Prompts - https://docs.google.com/document/d/15CaxBARF1ZVARwQSL533MXupbuJUK-WLx5JfVhm0TPc/ edit?usp=drivesdk\n\n🔥 In this video, you’ll learn:\n• How to create an AI movie from scratch\n• How to create cinematic AI scenes\n• How to generate consistent AI characters\n• How to turn AI images into videos\n• How to create realistic AI movie scenes\n• How to create long-form AI videos\n• How to edit AI video scenes into a complete movie\n• Complete AI filmmaking workflow step-by-step\n• Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass \n• How to Make AI Movies for FREE 🤯 | Full Guide\n• How to Make AI Movies 🤯 | AI Filmmaking Tutorial\n• ai movie tutorial\n• how to make ai movie\n• how to create ai movies\n• ai filmmaking tutorial\n• ai movie making\n• ai movie kaise banaye\n• ai se movie kaise banaye\n• ai video tutorial\n• ai video kaise banaye\n• cinematic ai video\n• cinematic ai movie\n• ai film making\n• ai filmmaking\n• ai storytelling\n• ai short film\n• ai short film tutorial\n• ai movie creation\n• ai video generation\n• ai movie for youtube\n• how to make ai film\n• ai film tutorial\n• ai video editing\n• ai movie step by step\n• ai filmmaking tutorial hindi\n• ai movie tutorial hindi\n\n👉 If you want to create AI movies, AI short films or cinematic AI videos for YouTube, this tutorial will help you understand the complete process from start to finish. And make sure like this Video And Subscriber my Channel  for upcoming tutorial & share with you’re friends \n\n⚠️ AI DISCLAIMER:\nThe AI movie shown in this tutorial, including its visuals, scenes, characters, videos and other elements, has been created using Artificial Intelligence (AI). The remaining tutorial footage, including the screen recordings and my presentation, was personally recorded by me. This video is created for educational and entertainment purposes.\n\n©️ COPYRIGHT DISCLAIMER:\nThis video is created for educational, commentary, transformative and entertainment purposes. Any third-party music, sounds, trademarks, images or other materials used in this video belong to their respective owners. No copyright infringement is intended.\n\n✅ Chapters :-\n00:00 – How to Make AI Movies | AI Movie Tutorial\n00:48 – Complete AI Movie Made with Free AI Tools\n06:10 – Complete AI Movie Workflow | AI Filmmaking\n06:25 – AI Movie Story & Prompts Generation\n15:06 – AI Characters, Images & Video Generation\n28:31 – How to Remove Gemini Watermark for Free\n30:00 – How to Get Gemini & Google Flow Pro for Free\n31:10 – How to Edit AI Movie Videos\n\n#AIMovie #AIFilmmaking #AITutorial #AIVideo #AIMovies",
+      "channelId": "UCeRJIYONwn9rcSaV0zTksBQ",
+      "channelTitle": "Manni Ki Tech",
+      "thumbnail": "https://i.ytimg.com/vi/Tob38w83eaM/hqdefault.jpg",
+      "publishedAt": "2026-10-04T11:14:29Z",
+      "durationSeconds": 2058,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:06:07.757Z",
+      "lastSeenAt": "2026-10-19T03:06:07.757Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2BRC8JFzLd4",
+      "url": "https://www.youtube.com/watch?v=2BRC8JFzLd4",
+      "title": "The Return of Zulu Son | Full Movie | African Drama",
+      "description": "DISCLAIMER: \nThis video is a 100% fictional moral story created using digital animation and AI-generation tools. All characters, situations, and events depicted are entirely imaginary and scripted for educational and storytelling purposes. No real minors or individuals are depicted.\n\nAfter thirteen years away, Siyabonga returns to his Zulu homeland following the death of his father. What begins as a painful homecoming soon becomes a mystery involving seven cattle, an old family agreement, a missing bead, and a hidden family conflict.\n\nAs Siyabonga uncovers the truth about his father, he must confront the past he ran from, the family he left behind, and the meaning of the legacy waiting for him at home. Along the way, his relationship with Seo-yeon deepens as she discovers the culture and heritage that shaped the man she loves.\n\nSometimes you have to leave home to finally understand where you belong.\n\nBig Smarty Tv — Original African AI Full Movie\nIf you enjoy African royal stories, emotional love stories, betrayal, palace drama, and inspirational movies, subscribe to Big Smarty TV and turn on notifications for more cinematic stories.\n\n#TheReturnOfZuluSon #AfricanMovie #ZuluStory #AfricanDrama #FamilyMystery #AfricanStories #KDramaRomance #BigSmartyTv",
+      "channelId": "UCZPoDHB4tuuzcs-LiUZXoxg",
+      "channelTitle": "Big Smarty Tv",
+      "thumbnail": "https://i.ytimg.com/vi/2BRC8JFzLd4/hqdefault.jpg",
+      "publishedAt": "2026-09-30T17:07:59Z",
+      "durationSeconds": 2462,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:06:07.757Z",
+      "lastSeenAt": "2026-10-19T03:06:07.757Z",
+      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:53:03.073Z",
+  "generatedAt": "2026-10-19T03:05:58.743Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -569,7 +569,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,64 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "y2ASzTz5W6U",
+      "url": "https://www.youtube.com/watch?v=y2ASzTz5W6U",
+      "title": "Mariage sous la neige | Film Complet | Romance | Noël | Joey Fatone | M6+ Films & Séries",
+      "description": "Jeune et pétillante organisatrice de mariages, Kelsey organise celui de sa cousine Emily, la fille de sa riche tante Olivia. Si ce mariage peut propulser sa carrière, tout va se compliquer pour Kelsey avec l'arrivée de l'ex d'Emily, Connor, un détective privé venu enquêter sur Todd, le futur marié, et faire capoter le mariage...\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nMARIAGE SOUS LA NEIGE (CHRISTMAS WEDDING PLANNER)\nRéalisation : Justin G. Dyck\nDistribution : Joey Fatone, Jocelyn Hudon, Stephen Huszar, Rebecca Dalton, Eric Hicks, Kelly Rutherford\n© BRAIN POWER STUDIO - 2017 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/y2ASzTz5W6U/hqdefault.jpg",
+      "publishedAt": "2026-10-18T17:00:20Z",
+      "durationSeconds": 4946,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:58.743Z",
+      "lastSeenAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QnjekNZ7gPw",
+      "url": "https://www.youtube.com/watch?v=QnjekNZ7gPw",
+      "title": "Amour, rupture et littérature | Téléfilm Complet | Romance | M6+ Films & Séries",
+      "description": "Éditrice junior et romantique invétérée, Dori doit éditer le nouveau roman de son auteur préféré, Michael Rothchild, dans 30 jours. Leur rencontre ne démarre pas sous les meilleurs auspices car le romancier s'avère grossier, cynique et en panne d'inspiration. Dori va redoubler d'efforts pour que Michael retrouve son énergie créatrice, quitte à délaisser son fiancé et les préparatifs de son mariage... \n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nAMOUR, RUPTURE ET LITTÉRATURE (MR.WHITE)\nRéalisation : Rick Bota\nDistribution : Christie Laing, Charlotte Sullivan, Corey Sevier, Colin Lawrence\n© GREAT POINT MEDIA - 2021 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/QnjekNZ7gPw/hqdefault.jpg",
+      "publishedAt": "2026-09-15T17:00:14Z",
+      "durationSeconds": 4931,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:58.743Z",
+      "lastSeenAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3NEC17vOtmo",
+      "url": "https://www.youtube.com/watch?v=3NEC17vOtmo",
+      "title": "✨🙀A Foolish Archmage Full Movie | Arthur Leo  Full Episodes 1-96 Complete English A Foolish Archmage",
+      "description": "✨🙀A Foolish Archmage Full Movie | Arthur Leo  Full Episodes 1-96 Complete English A Foolish Archmage\n\n✨🙀A Foolish Archmage Full Movie | Arthur Leo  Full Episodes 1-96 Complete English A Foolish Archmage\n\nA Foolish Archmage Full Movie | Arthur Leo Full Episodes 1-96 Complete English 2026\n\nA Foolish Archmage Full Movie | A Foolish Archmage Full Episodes 1-96 Complete | Arthur Leo Becomes Greatest Archmage\n\nArthur Leo is the foolish son of a powerful magic family, mocked for having no magic. After awakening the legendary Wordless Book, he gains a power beyond all spells. He will become the greatest Archmage in the magical world.\n\nWATCH: A Foolish Archmage Full Movie English Complete\nWATCH: Arthur Leo No Magic To Strongest Archmage Full Episodes\n\n------ LONG TAIL KEYWORDS ------\nA Foolish Archmage full movie\nA Foolish Archmage full episodes 1-96\nA Foolish Archmage full movie English\nA Foolish Archmage 1-96 complete movie\nA Foolish Archmage all episodes complete English\nArthur Leo becomes Archmage full movie\nArthur Leo Wordless Book awakening full episodes\nArthur Leo no magic to strongest Archmage\nArthur Leo hidden identity revealed full movie\nthe foolish son of magic family becomes Archmage\nfoolish son mocked for no magic full drama\nWordless Book legendary power full movie\nno magic son becomes greatest Archmage\nunderdog rise Archmage revenge full movie\nkarma payback magic family drama full\nmultiple identities Archmage full movie English\n\n#AFOOLISHARCHMAGE #ArthurLeo #WordlessBook #HiddenIdentity #UnderdogRise #FantasyDrama #FullMovie2026 #KarmaPayback\n\nA Foolish Archmage edit, Arthur Leo transformation, Wordless Book power scene\nArthur Leo Archmage, Foolish Archmage complete\nA Foolish Archmage full episodes English\n: A Foolish Archmage full movie 1-96\n\n✨🙀A Foolish Archmage Film Lengkap | Arthur Leo Semua Episode 1-96 Lengkap Bahasa Inggris A Foolish Archmage\n\nA Foolish Archmage Film Lengkap | Arthur Leo Semua Episode 1-96 Lengkap Bahasa Inggris 2026\n\nA Foolish Archmage Film Lengkap | A Foolish Archmage Semua Episode 1-96 Lengkap | Arthur Leo Menjadi Archmage Terhebat\n\nArthur Leo adalah putra bodoh dari keluarga sihir yang kuat, diejek karena tidak memiliki sihir. Setelah membangkitkan Buku Tanpa Kata yang legendaris, ia memperoleh kekuatan melampaui semua mantra. Dia akan menjadi Archmage terhebat di dunia sihir.\n\nTONTON: A Foolish Archmage Film Lengkap Bahasa Inggris Lengkap\nTONTON: Arthur Leo Tanpa Sihir Menjadi Archmage Terkuat Semua Episode\n\n------ KATA KUNCI LONG TAIL ------\nFilm lengkap A Foolish Archmage\nSemua episode 1-96 A Foolish Archmage\nFilm lengkap Bahasa Inggris A Foolish Archmage\nFilm lengkap 1-96 A Foolish Archmage\nSemua episode lengkap Bahasa Inggris A Foolish Archmage\nArthur Leo menjadi Archmage film lengkap\nKebangkitan Buku Tanpa Kata Arthur Leo semua episode\nArthur Leo tanpa sihir menjadi Archmage terkuat\nIdentitas tersembunyi Arthur Leo terungkap film lengkap\nPutra bodoh dari keluarga sihir menjadi Archmage\nPutra bodoh diejek karena tanpa sihir drama lengkap\nKekuatan legendaris Buku Tanpa Kata film lengkap\nPutra tanpa sihir menjadi Archmage terhebat\nKebangkitan underdog balas dendam Archmage film lengkap\nDrama keluarga sihir balas dendam karma lengkap\nFilm lengkap Bahasa Inggris Archmage identitas ganda\n\n#AFOOLISHARCHMAGE #ArthurLeo #WordlessBook #HiddenIdentity #UnderdogRise #FantasyDrama #FullMovie2026 #KarmaPayback\n\nEdit A Foolish Archmage, Transformasi Arthur Leo, Adegan kekuatan Buku Tanpa Kata\nArthur Leo Archmage, A Foolish Archmage lengkap\nSemua episode Bahasa Inggris A Foolish Archmage\n: Film lengkap 1-96 A Foolish Archmage",
+      "channelId": "UCUDqyEbvy_HjjzqLF3STGPw",
+      "channelTitle": "Taja Khabar Live",
+      "thumbnail": "https://i.ytimg.com/vi/3NEC17vOtmo/hqdefault.jpg",
+      "publishedAt": "2026-10-15T17:49:15Z",
+      "durationSeconds": 6956,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:58.743Z",
+      "lastSeenAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
       "unavailableAt": null
     }
   ]

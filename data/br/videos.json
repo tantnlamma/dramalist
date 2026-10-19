@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:52:57.829Z",
+  "generatedAt": "2026-10-19T03:05:53.685Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -247,7 +247,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -267,7 +267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -286,7 +286,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -325,7 +325,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -344,7 +344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -363,7 +363,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
-      "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     },
     {
@@ -383,6 +383,25 @@
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
       "lastVerifiedAt": "2026-10-18T02:52:57.829Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8aOtu4eTnAo",
+      "url": "https://www.youtube.com/watch?v=8aOtu4eTnAo",
+      "title": "ENOQUE: O Homem que Andou com Deus | Filme Completo em Português",
+      "description": "Enoque, o homem que andou com Deus, ganha vida neste filme completo em português do Caminho da Fé. Uma jornada de fé, coragem e compaixão em um mundo marcado pelo medo e pela injustiça.\n\nAo lado de seu filho Matusalém, Enoque enfrenta escolhas que colocam sua confiança em Deus à prova: acolher quem precisa de abrigo, repartir o pouco que resta e permanecer fiel quando fazer o bem tem um preço. A história também percorre a tradição dos Vigilantes e o mistério de seu encontro com o divino.\n\nMais do que os grandes acontecimentos, esta dramatização acompanha os gestos cotidianos que dão sentido a uma vida de fé — e o legado que permanece quando o caminho parece vazio.\n\nQual momento do filme mais tocou você? Conte nos comentários o que significa andar com Deus no dia a dia.\n\nInscreva-se no Caminho da Fé para acompanhar nossos próximos filmes e compartilhe esta história com alguém que precisa de uma mensagem de esperança.\n\nSOBRE A OBRA\nProdução audiovisual com recursos de inteligência artificial. As imagens, vozes e situações encenadas fazem parte de uma representação artística.\n\nO filme se inspira no relato bíblico sobre Enoque, especialmente em Gênesis 5:21–24 e Hebreus 11:5–6. As cenas dos Vigilantes são inspiradas na tradição de 1 Enoque, apresentada separadamente no filme, e não são episódios narrados em Gênesis. Essa obra tem recepções diferentes entre as tradições religiosas.\n\nOs diálogos e diversas situações são criações dramáticas. Mara, Natan e Doran são personagens fictícios. A encenação não pretende reproduzir literalmente todos os detalhes do texto bíblico.\n\nUma produção do canal Caminho da Fé.\n\n#Enoque #FilmeBiblico #CaminhoDaFe\n\n#CaminhoDaFé #HistóriasBíblicas #FilmeBíblico",
+      "channelId": "UCDO37R9faHTFg2BLHf7pvUQ",
+      "channelTitle": "Caminho da Fé",
+      "thumbnail": "https://i.ytimg.com/vi/8aOtu4eTnAo/hqdefault.jpg",
+      "publishedAt": "2026-10-18T23:30:07Z",
+      "durationSeconds": 2729,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:53.685Z",
+      "lastSeenAt": "2026-10-19T03:05:53.685Z",
+      "lastVerifiedAt": "2026-10-19T03:05:53.685Z",
       "unavailableAt": null
     }
   ]

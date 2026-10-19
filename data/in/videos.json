@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:52:36.184Z",
+  "generatedAt": "2026-10-19T03:05:32.912Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -111,7 +111,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -537,7 +537,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -652,7 +652,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -785,7 +785,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -801,11 +801,11 @@
       "matchedKeywords": [
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-18T02:52:36.184Z",
       "lastSeenAt": "2026-10-18T02:52:36.184Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "unavailableAt": "2026-10-19T03:05:32.912Z"
     },
     {
       "videoId": "HyIq086mdmc",
@@ -842,7 +842,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:36.184Z",
       "lastSeenAt": "2026-10-18T02:52:36.184Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     },
     {
@@ -862,6 +862,82 @@
       "discoveredAt": "2026-10-18T02:52:36.184Z",
       "lastSeenAt": "2026-10-18T02:52:36.184Z",
       "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NySprDTocAc",
+      "url": "https://www.youtube.com/watch?v=NySprDTocAc",
+      "title": "Jai Maa Kali (जय माँ काली) | #Amrapali Dubey | Navratri Special Bhojpuri Movie 2026",
+      "description": "Jai Maa Kali (जय माँ काली) | #Amrapali Dubey | Navratri Special Bhojpuri Movie 2026\n\n🙏 Jai Maa Kali (जय माँ काली) | Navratri Special Bhojpuri Movie 2026 🙏\n\nइस नवरात्रि माँ काली की भक्ति, शक्ति और महिमा के साथ देखिए Jai Maa Kali। भोजपुरी सिनेमा की लोकप्रिय अभिनेत्री Amrapali Dubey के नाम के साथ प्रस्तुत यह फिल्म धार्मिक भावनाओं और माँ के आशीर्वाद को समर्पित है।\n\nMovie Name: Jai Maa Kali (जय माँ काली)\nActress: Amrapali Dubey\nCategory: Bhojpuri Movie\nSpecial: Navratri Special 2026\nLanguage: Bhojpuri\n\nवीडियो पसंद आए तो Like, Share और Channel को Subscribe जरूर करें। अपने कमेंट में लिखें — जय माँ काली!\n\nजय माता दी! जय माँ काली!\n\nJai Maa Kali Bhojpuri Movie 2026, Amrapali Dubey Navratri Special Movie, Navratri Special Bhojpuri Movie 2026, Jai Maa Kali Full Movie, New Bhojpuri Movie 2026, Maa Kali Bhojpuri Film, Bhojpuri Bhakti Movie 2026, Navratri Bhojpuri Film, Amrapali Dubey Bhojpuri Movie, Jai Maa Kali Movie\n \n#JaiMaaKali #AmrapaliDubey #NavratriSpecial #BhojpuriMovie2026 #Navratri2026 #MaaKali #JaiMataDi #BhojpuriCinema #BhojpuriFilm #NavratriSpecialMovie",
+      "channelId": "UCkn-WPy81_t8F9QP2sTiVBA",
+      "channelTitle": "Udta Ai Bhakti",
+      "thumbnail": "https://i.ytimg.com/vi/NySprDTocAc/hqdefault.jpg",
+      "publishedAt": "2026-10-16T10:03:42Z",
+      "durationSeconds": 7405,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:32.912Z",
+      "lastSeenAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yjnknU1TcEw",
+      "url": "https://www.youtube.com/watch?v=yjnknU1TcEw",
+      "title": "शादी के मंडप में छूटा साथ, CEO ने थामा हाथ ❤️| Hindi Love Story #aivideo #emotionalstory #hindistory",
+      "description": "शादी के मंडप में छूटा साथ, CEO ने थामा हाथ ❤️ | Hindi Love Story\n\nएक ऐसा दिन, जिसने आरोही की पूरी ज़िंदगी बदल दी… ❤️\n\nशादी के मंडप में जब दूल्हा साथ छोड़कर चला गया, तब आरोही की दुनिया जैसे बिखर गई। लेकिन तभी उसकी ज़िंदगी में एक ऐसा मोड़ आया, जिसकी उसने कभी कल्पना भी नहीं की थी। एक CEO ने उससे शादी करने का फैसला लिया और एक अनजान रिश्ते की शुरुआत हुई।\n\nशुरुआत में यह रिश्ता आरोही के लिए कई सवालों से भरा था। क्या यह शादी सिर्फ एक मजबूरी थी, या इसके पीछे कोई अनकही भावना छिपी थी? धीरे-धीरे गलतफहमियों के बीच भरोसा बनने लगा और दोनों के रिश्ते में प्यार की एक नई कहानी जन्म लेने लगी। ❤️\n\nलेकिन जब अतीत से जुड़ी सच्चाइयाँ सामने आती हैं, तो क्या आरोही अपने दिल की आवाज़ सुन पाएगी? क्या एक अनचाही शुरुआत खूबसूरत रिश्ते में बदल सकती है?\n\nजानिए इस दिल छू लेने वाली हिंदी रोमांटिक कहानी में, जहाँ रिश्तों, भावनाओं, भरोसे और प्यार के कई रंग देखने को मिलेंगे। 💕\n\n✨ वीडियो को अंत तक देखें और कमेंट में बताएं कि आपको इस कहानी का कौन-सा पल सबसे अच्छा लगा।\n\nअगर आपको ऐसी हिंदी रोमांटिक कहानियाँ और भावनात्मक AI-जनरेटेड स्टोरीज़ पसंद हैं, तो वीडियो को Like करें, अपने दोस्तों के साथ Share करें और ऐसी नई कहानियों के लिए चैनल को Subscribe करना न भूलें। 🔔\n\n━━━━━━━━━━━━━━━━━━\n\n📌 About This Video\n\nयह एक काल्पनिक हिंदी रोमांटिक कहानी है, जिसे AI-generated visuals, AI video generation, cinematic editing और creative storytelling की सहायता से प्रस्तुत किया गया है। पात्रों और घटनाओं को मनोरंजन एवं कहानी कहने के उद्देश्य से दिखाया गया है।\n\n\nHindi Love Story, Hindi Romantic Story, Emotional Love Story, CEO Love Story, CEO Marriage Story, Indian Romantic Story, Wedding Love Story, Bride Love Story, Unexpected Marriage Story, Arranged Marriage Love Story, Husband Wife Love Story, Heart Touching Hindi Story, Emotional Hindi Kahani, Romantic Hindi Kahani, Hindi Kahani, Indian Love Story, AI Generated Love Story, AI Story Video, Cinematic Hindi Story, New Hindi Love Story\n\n\n#HindiLoveStory #RomanticLoveStory #EmotionalLoveStory #CEOLoveStory #HindiKahani #IndianLoveStory #WeddingStory #AIStory #AIGeneratedVideo #CinematicStory\n\n━━━━━━━━━━━━━━━━━━\n\n© Copyright Notice\n\n© Lovie Verse. All Rights Reserved.\n\nThe original story presentation, creative concepts, editing and other original creative elements created for this video belong to Lovie Verse. Unauthorized copying, reproduction or re-uploading of this original content without permission is prohibited.\n\nPlease respect the original creator's work.",
+      "channelId": "UCK4I4IJ-qQgY4Gj_l4HwVqQ",
+      "channelTitle": "LovieVerse",
+      "thumbnail": "https://i.ytimg.com/vi/yjnknU1TcEw/hqdefault.jpg",
+      "publishedAt": "2026-10-14T10:03:15Z",
+      "durationSeconds": 3726,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:32.912Z",
+      "lastSeenAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kzEKjd-OYZ4",
+      "url": "https://www.youtube.com/watch?v=kzEKjd-OYZ4",
+      "title": "AI ने अपनी हदें पार करनी शुरू कर दी हैं? Tech World में क्यों मची हलचल | Kautuk | Saurabh Dwivedi",
+      "description": "AI is developing at an unprecedented pace, but are safety measures and regulation keeping up?\n\nIn the first episode of our new show Kautuk, we discuss the growing debate around AI safety, regulation and governance, especially as increasingly autonomous AI agents gain access to real-world systems and tools. Recent incidents involving AI agents, along with renewed calls from leading AI figures to slow the pace of frontier AI development, have brought questions around safety and accountability back into focus.\n\nThe panel explores some of the key questions around AI today:\n\n1.Do we need to slow down the development of frontier AI?\n\n2.What new risks emerge as AI agents gain greater autonomy?\n\n3.Is self-regulation by AI companies enough?\n\n4.How should governments regulate increasingly powerful AI systems?\n\n5.What could AI mean for jobs and labour?\n\n6.How is the global AI race shaping AI governance and security?\n\n7.What role can India play in building a framework for AI governance?\n\nProduced by: Indian Express Hindi\nEdited by: Baivhaw Kesharwani",
+      "channelId": "UC13KrBW4je1iUkEhIZO15AQ",
+      "channelTitle": "Indian Express Hindi",
+      "thumbnail": "https://i.ytimg.com/vi/kzEKjd-OYZ4/hqdefault.jpg",
+      "publishedAt": "2026-09-22T15:37:08Z",
+      "durationSeconds": 4340,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:32.912Z",
+      "lastSeenAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mWG9GuZW5mA",
+      "url": "https://www.youtube.com/watch?v=mWG9GuZW5mA",
+      "title": "माटी से लिखी मोहब्बत की कहानी, ज़मींदार का घमंड हुआ चूर | Hindi Story ",
+      "description": "माटी से लिखी मोहब्बत की कहानी, ज़मींदार का घमंड हुआ चूर… ❤️\n\nयह कहानी है माधव और पार्वती की, जहाँ सच्चा प्यार, मेहनत और आत्मसम्मान एक बड़ी मुश्किल के सामने खड़े होते हैं। एक तरफ है दौलत और ताकत का घमंड, तो दूसरी तरफ है दो ऐसे लोगों का प्यार जो हालात चाहे कितने भी कठिन हों, एक-दूसरे का साथ नहीं छोड़ते।\n\nपार्वती की मेहनत, माधव का संघर्ष और दोनों का एक-दूसरे पर भरोसा आखिरकार उनकी जिंदगी कैसे बदल देता है? क्या उनका प्यार ज़मींदार के घमंड को हरा पाएगा? जानने के लिए पूरी कहानी जरूर देखें। ❤️\n\nअगर आपको यह कहानी पसंद आए तो वीडियो को Like करें, Comment में अपनी राय बताएं और हमारे चैनल को Subscribe जरूर करें। ऐसी ही भावुक, रोमांचक और दिल छू लेने वाली हिंदी कहानियों के लिए हमारे साथ जुड़े रहें। 🙏\n\nआपको कहानी का कौन-सा हिस्सा सबसे अच्छा लगा? कमेंट में जरूर बताइए। ❤️\n\n\nhindi story, hindi kahani, hindi kahaniya, emotional story, heart touching story, love story, hindi love story, romantic hindi story, village story, gaon ki kahani, desi kahani, moral story, emotional hindi kahani, new hindi story, latest hindi story, hindi kahani 2026, prem kahani, prem kahani hindi, gareeb ki kahani, zamindar ki kahani, madhav parvati story, mitti ki kahani, motivational story, heart touching hindi story, family story, hindi storytelling, kahani, kahani video, hindi story video\n\n\n#HindiStory #HindiKahani #LoveStory #EmotionalStory #HeartTouchingStory #MoralStory #PremKahani #GaonKiKahani #HindiKahaniya #Story\n\n\nDisclaimer: यह कहानी पूरी तरह काल्पनिक एवं मनोरंजन के उद्देश्य से प्रस्तुत की गई है। कहानी के सभी पात्र, घटनाएँ, स्थान और परिस्थितियाँ काल्पनिक हैं। किसी वास्तविक व्यक्ति, स्थान या घटना से समानता मात्र संयोग है। इस वीडियो में उपयोग किए गए AI-generated visuals/voice का उद्देश्य केवल रचनात्मक कहानी प्रस्तुत करना है। इसका उद्देश्य किसी व्यक्ति, समुदाय या वर्ग की भावनाओं को ठेस पहुँचाना नहीं है।\n\n\n  💐❣️🥰 THANKS FOR WATCHING 💕❣️💐",
+      "channelId": "UCWXhpk05Ss4wluYJjv9OQcw",
+      "channelTitle": "Fictional Studio TV",
+      "thumbnail": "https://i.ytimg.com/vi/mWG9GuZW5mA/hqdefault.jpg",
+      "publishedAt": "2026-10-06T13:00:30Z",
+      "durationSeconds": 5177,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-19T03:05:32.912Z",
+      "lastSeenAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
       "unavailableAt": null
     }
   ]
