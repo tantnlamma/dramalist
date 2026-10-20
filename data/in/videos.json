@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:05:32.912Z",
+  "generatedAt": "2026-10-20T03:14:34.393Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -480,7 +480,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-15T10:28:59.257Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -652,7 +652,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -728,7 +728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -766,7 +766,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -785,7 +785,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -832,7 +832,7 @@
       "title": "आखिरी जादूगर | The Last Magician | Full Hindi Superhero Movie | 70 Min Full Movie | AI Movie",
       "description": "एक आम इंसान की जिंदगी उस समय पूरी तरह बदल जाती है, जब उसके अंदर छिपी एक रहस्यमयी शक्ति जाग जाती है। ⚡\n\nअब उसके सामने है एक खतरनाक दुश्मन, जिसकी ताकत पूरे शहर को तबाह करने की क्षमता रखती है। दोस्ती, परिवार, प्यार, शक्ति और बलिदान के बीच शुरू होती है एक ऐसी जंग, जिसमें इंसान को अपने अंदर के असली हीरो को खोजना होगा।\n\n🔥 आखिरी जादूगर – The Last Magician\n\nएक cinematic AI-generated Hindi superhero fantasy movie.\n\nक्या एक आम इंसान बन पाएगा असली हीरो?\nक्या वह अंधेरे की ताकतों को रोक पाएगा?\nऔर इस आखिरी जंग में कौन बचेगा?\n\n🎬 70 मिनट की पूरी फिल्म देखें और अंत तक जुड़े रहें।\n\nअगर आपको ये भी पसंद हो तो चैनल को सब्सक्राइब, लाइक एंड शेयर जरूर करें। ❤️\n\n⚠️ This is an AI-generated fictional movie created for entertainment purposes.\n#आखिरीजादूगर #TheLastMagician #HindiMovie #FullMovie #SuperheroMovie #AIMovie #AIGenerated #HindiSuperhero #FantasyMovie #ActionMovie #AIFilm #IndianSuperhero #FullHindiMovie #DarkFantasy #Superhero",
       "channelId": "UCec_pNvCJIX79OOD8NuZOEA",
-      "channelTitle": "Shadow_Katha_ funny ",
+      "channelTitle": "Toons.masti_ai",
       "thumbnail": "https://i.ytimg.com/vi/tb20axG6GRE/hqdefault.jpg",
       "publishedAt": "2026-10-07T04:45:44Z",
       "durationSeconds": 2369,
@@ -842,7 +842,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:36.184Z",
       "lastSeenAt": "2026-10-18T02:52:36.184Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -880,7 +880,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -899,7 +899,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     },
     {
@@ -938,6 +938,63 @@
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
       "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "OS5rgBQIkho",
+      "url": "https://www.youtube.com/watch?v=OS5rgBQIkho",
+      "title": "ZEUS (2026) — The Movie That Shocked the World | Full Movie 4K",
+      "description": "To overthrow the tyrant who saved the world, he had to become the tyrant… unless he could find another way. ZEUS (2026) — The Movie That Shocked the World.\n\nA young warrior serving the king who once saved everyone discovers that king is his own father — and that the only way to beat him is to gather the power of every god into his own hands. But the night he forces his own brother's hand and wins, he finally understands what his father is. So on the eve of the last battle, with no guarantee anyone will return, Zeus does the one thing no king has ever done: he gives all of it back. This is the story of the god who refused the throne — and the argument that the way to break a cycle of power is not to change who sits on the throne, but to change how power itself is owned.\n\nGreek mythology reimagined as a full cinematic AI film — Zeus, Cronus, Poseidon and Hades, the Crown Bond, the Titans, and a war that is decided not by a stronger ruler but by several people who each choose, separately, on their own.\n\nDisclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google's new Veo 3.1 model and Google's new Nano Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nThumbnail Disclaimer: The thumbnail is a stylized, AI-generated illustration created for this film and does not depict any real person, artwork, or historical artifact. Made shot-by-shot with: Claude (Opus) — story, script & prompts · Google Veo 3.1 — video · Google Nano Banana Pro — reference visuals · human editing & diegetic sound design · ElevenLabs — English dialogue.\n\nSubscribe to Iron Movies HD for more full-length Greek mythology AI films in 4K. New epics every week.\n\n#Zeus #GreekMythology #FullMovie #AIFilm #4K",
+      "channelId": "UCJeF1rmzWV_fQJq49a057Uw",
+      "channelTitle": "Iron Movies HD",
+      "thumbnail": "https://i.ytimg.com/vi/OS5rgBQIkho/hqdefault.jpg",
+      "publishedAt": "2026-09-26T10:30:09Z",
+      "durationSeconds": 2293,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:34.393Z",
+      "lastSeenAt": "2026-10-20T03:14:34.393Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "onJQ_1v1AE0",
+      "url": "https://www.youtube.com/watch?v=onJQ_1v1AE0",
+      "title": "Ala Vaikunthapurramuloo Full Movie Hindi Dubbed 4K | Allu Arjun | Pooja Hegde",
+      "description": "Watch Ala Vaikunthapurramuloo Full Movie in Hindi Dubbed, starring Allu Arjun and Pooja Hegde. Experience an entertaining Telugu action drama featuring comedy, romance, family emotions, and powerful performances.\n\n🎬 Movie: Ala Vaikunthapurramuloo\n⭐ Cast: Allu Arjun, Pooja Hegde, Tabu\n🎭 Genre: Action, Comedy, Romance, Family Drama\n🌐 Language: Hindi Dubbed\n🎥 Quality: 4K Ultra HD (if available)\n\nEnjoy South Indian cinema and discover more movies featuring your favorite stars.\n\n👍 Like the video and subscribe for more movie content.\n🔔 Turn on notifications to stay updated.\n\n#AlaVaikunthapurramuloo #AlluArjun #HindiDubbed #SouthIndianMovies #TeluguMovie",
+      "channelId": "UCtZmHkpQAOOq2RkY-3E4h0g",
+      "channelTitle": "Ai-content",
+      "thumbnail": "https://i.ytimg.com/vi/onJQ_1v1AE0/hqdefault.jpg",
+      "publishedAt": "2026-10-19T12:29:05Z",
+      "durationSeconds": 10576,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:34.393Z",
+      "lastSeenAt": "2026-10-20T03:14:34.393Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8AeI0BQt-pw",
+      "url": "https://www.youtube.com/watch?v=8AeI0BQt-pw",
+      "title": "Khuni Dulhan Drama Full Episode in Hindi | Horror Game She’s a Monster Full Episode in Hindi Dubbed",
+      "description": "Khuni Dulhan Drama Full Episode in Hindi | Horror Game She’s a Monster Full Episode in Hindi DubbedHashtags\n\n#KhuniDulhan #HorrorGame #ShesAMonster #HorrorDrama #HindiDubbed #HindiDrama #FullEpisode #HorrorMovie #HorrorSeries #MonsterBride #KhooniDulhan #HindiDubbedDrama #HorrorStory #FullDrama #ScaryStory #HorrorGameHindi #DramaHindi #MonsterStory #NewHorrorDrama #HindiDubbedMovie\n\nSearch Queries\n\nKhuni Dulhan drama full episode in Hindi, Khooni Dulhan full episode Hindi dubbed, Horror Game She’s a Monster Hindi dubbed, Horror Game Shes a Monster full episode, She’s a Monster full drama Hindi, Khuni Dulhan horror drama Hindi, monster bride horror movie Hindi, horror game full episode Hindi dubbed, Hindi dubbed horror drama full episode, scary monster bride full episode, horror drama Hindi dubbed 2026, new horror movie Hindi dubbed, monster horror story Hindi, full episode horror drama Hindi, Khooni Dulhan horror movie full episode",
+      "channelId": "UCTjmrEvktFDxmV6YqvjhFuw",
+      "channelTitle": "AI SUPERVERSE",
+      "thumbnail": "https://i.ytimg.com/vi/8AeI0BQt-pw/hqdefault.jpg",
+      "publishedAt": "2026-10-19T12:16:29Z",
+      "durationSeconds": 7875,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:34.393Z",
+      "lastSeenAt": "2026-10-20T03:14:34.393Z",
+      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:05:58.743Z",
+  "generatedAt": "2026-10-20T03:14:58.897Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     },
     {
@@ -722,6 +722,44 @@
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
       "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "B6eJLT2eCsY",
+      "url": "https://www.youtube.com/watch?v=B6eJLT2eCsY",
+      "title": "Noël dans la prairie | Film Complet | Noël | Lindsay Wagner, Nicholas Gonzalez | M6+ Films & Séries",
+      "description": "Kendall dirige le ranch familial, malgré les nombreux obstacles mis en place par son vieux voi\nsin Brick. Alors que Noël approche, elle tombe sous le charme de Clint, un séduisant vétérina\nire qui vient l'aider au ranch. Quand elle apprend que c'est le fils de Brick, elle commence à\ndouter de ses réelles intentions…\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nNOËL DANS LA PRAIRIE (CHRISTMAS ON THE RANGE)\nRéalisation : Gary Wheeler\nDistribution : Dash Pomerantz, Lindsay Wagner, A. Martinez, Dawntavia Bullard, Nicholas Gonzalez, Erin Cahill\n© IMAGICOMM ENTERTAINMENT - 2019 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/B6eJLT2eCsY/hqdefault.jpg",
+      "publishedAt": "2026-10-19T17:00:21Z",
+      "durationSeconds": 5222,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:58.897Z",
+      "lastSeenAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-GrXBQXiLUM",
+      "url": "https://www.youtube.com/watch?v=-GrXBQXiLUM",
+      "title": "I, ROBOT : LE DERNIER HUMAIN (2026) | Film d’Action Épique en Français HD",
+      "description": "🤖 **I, ROBOT : LE DERNIER HUMAIN — FILM D’ACTION ÉPIQUE EN FRANÇAIS (2026)**\n\n🌍 **Quand les robots prennent le contrôle, l’humanité n’a plus qu’un seul espoir !**\n\nDans un monde futuriste où les machines deviennent de plus en plus puissantes, la frontière entre l’intelligence artificielle et l’humanité commence à disparaître. Alors que le chaos menace de tout détruire, un homme doit affronter une armée de robots pour protéger ce qu’il reste de la civilisation humaine.\n\n💥 Combats spectaculaires, technologie avancée, suspense et affrontement ultime entre l’homme et la machine : préparez-vous à vivre une aventure de science-fiction explosive !\n\n🍿 **Au programme :**\n- 🤖 Robots et intelligence artificielle\n- 💥 Action et combats futuristes\n- 🌎 Un monde au bord de l’effondrement\n- 🔥 Une lutte acharnée pour la survie de l’humanité\n\n👍 **Abonnez-vous à la chaîne**, activez la cloche 🔔 et partagez vos impressions dans les commentaires pour découvrir davantage de films d’action, de science-fiction et d’aventures en français.\n\n💬 Selon vous, les robots finiront-ils un jour par contrôler l’humanité ?\n\n#FilmAction #ScienceFiction #Robot #FilmEnFrancais #FilmComplet #IA #Film2026 #ActionMovie #LeDernierHumain",
+      "channelId": "UCqB-CJc_CRiOc8sdXhBbiXA",
+      "channelTitle": "Haitian Promo ",
+      "thumbnail": "https://i.ytimg.com/vi/-GrXBQXiLUM/hqdefault.jpg",
+      "publishedAt": "2026-10-18T20:30:22Z",
+      "durationSeconds": 8954,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:58.897Z",
+      "lastSeenAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
       "unavailableAt": null
     }
   ]

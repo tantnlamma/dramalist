@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:05:49.625Z",
+  "generatedAt": "2026-10-20T03:14:49.640Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-15T10:29:08.952Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -321,7 +321,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:53.659Z",
       "lastSeenAt": "2026-10-18T02:52:53.659Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:53.659Z",
       "lastSeenAt": "2026-10-18T02:52:53.659Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:53.659Z",
       "lastSeenAt": "2026-10-18T02:52:53.659Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     },
     {
@@ -549,7 +549,45 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7-a9z7oVCNg",
+      "url": "https://www.youtube.com/watch?v=7-a9z7oVCNg",
+      "title": "DESECHADO | Próxima b | Película Completa | El soldado que la Tierra declaró muerto 4K",
+      "description": "2140. El sargento Jonas Kessler es declarado muerto por el Consorcio y lanzado por un agujero de gusano sin regreso hacia Próxima b, como cápsula de prueba. Malherido, lo recoge un pueblo que vive del calor de la Brasa, algo vivo bajo la piedra, y Naia le enseña a pisar como quien quiere ser recordado.\nCuando el Consorcio descubre que la Brasa rejuvenece la carne, vuelve con una flota para convertir el planeta en concesión y borrar al hombre que sobrevivió. Jonas tiene treinta días para decidir si vuelve a ser el arma que lo desechó o el escudo de los que lo contaron como suyo.\n\nPelícula completa de ciencia ficción · 44 min · 4K · Creada con IA\n\nCapítulos\n00:00 Declarado muerto\n04:08 Sangre en la ceniza\n08:06 La Brasa\n12:17 Vinieron por el cuerpo\n18:09 Concesión\n23:27 El camino sellado\n29:01 El Durmiente\n38:17 Ya llegué\n\n#PelículaCompleta #CienciaFicción #PróximaB #AgujeroDeGusano #Exoplaneta #PelículaDeCienciaFicción #Extraterrestres #Espacio #PelículaEnEspañol #PelículaIA #SciFi #Astronauta #MundoAlien #Invasión #FallingUpward",
+      "channelId": "UCxyKUyq1pu7KvY2rhyUO0IQ",
+      "channelTitle": "Falling Upward Español",
+      "thumbnail": "https://i.ytimg.com/vi/7-a9z7oVCNg/hqdefault.jpg",
+      "publishedAt": "2026-10-03T00:00:28Z",
+      "durationSeconds": 2595,
+      "matchedKeywords": [
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:49.640Z",
+      "lastSeenAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8yYWO8D0A4A",
+      "url": "https://www.youtube.com/watch?v=8yYWO8D0A4A",
+      "title": "Lucifer (2026) La Caída del Ángel Más Bello | Película Bíblica Completa 4K",
+      "description": "Antes de ser el enemigo, fue el ángel más bello de la creación y el hermano de Miguel. El día en que todo el cielo se arrodilló, él se quedó de pie. Lo que siguió fue una guerra en el cielo — y una caída como un relámpago.\n\n🙏 Isaías 14:12-15 · Ezequiel 28:12-17 · Apocalipsis 12:7-9 · Apocalipsis 9:11 · Lucas 10:18 · Génesis 1–3 · Tobías 5 y 12\n\n\"¡Cómo caíste del cielo, oh Lucero, hijo de la mañana! — Isaías 14:12\"\n\nEsta película bíblica completa cuenta la caída de Lucifer desde el principio: el querubín protector, perfecto en hermosura, que dirigía la alabanza ante la Luz sobre el mar de cristal; su amistad con el arcángel Miguel en el borde del cielo; la primera aurora de la tierra, cuando Dios sacó la tierra seca de las aguas ante los ojos de Lucifer, Miguel y Gabriel; las piedras de fuego; el hombre hecho de barro en el jardín del Edén y el cielo entero de rodillas — menos uno. Después vienen Abadón, el ángel del abismo, y la tira roja en el brazo de los rebeldes; la puerta del norte cerrada; la conspiración, ángel por ángel, hasta la tercera parte de las estrellas; el monte del norte y el juramento de Isaías 14: «Subiré al cielo; por encima de las estrellas de Dios levantaré mi trono». Rafael trae la noticia, Miguel va solo y sin lanza a pedirle a su hermano que vuelva, la trompeta de Gabriel despierta al cielo, y estalla la guerra en el cielo de Apocalipsis 12: la batalla, el duelo de los dos hermanos y la pregunta que es el nombre de Miguel — ¿Quién como Dios? Lucifer cae como un relámpago (Lucas 10:18) sobre la tierra oscura, sale del cráter con las alas quemadas y entra en el Edén, donde Adán y Eva duermen. Una película épica sobre Lucifer, el arcángel Miguel, los ángeles caídos y el origen del mal, dramatizada escena por escena y fiel a la Biblia — no el diablo que ya conoces, sino el hermano que Miguel no pudo salvar.\n\n🔔 Suscríbete — una nueva épica bíblica cada semana.\n\nHecha con animación asistida por IA, escrita y dirigida a mano, fiel al texto bíblico.\n\n\n\n#Lucifer #LaCaídaDeLucifer #PelículaBíblica",
+      "channelId": "UCSdazpRY2o9Y8hLfI99RCPA",
+      "channelTitle": "Historias de la biblia",
+      "thumbnail": "https://i.ytimg.com/vi/8yYWO8D0A4A/hqdefault.jpg",
+      "publishedAt": "2026-10-10T11:00:29Z",
+      "durationSeconds": 3473,
+      "matchedKeywords": [
+        "drama IA película completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:49.640Z",
+      "lastSeenAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
       "unavailableAt": null
     }
   ]

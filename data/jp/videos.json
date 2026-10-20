@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:05:40.648Z",
+  "generatedAt": "2026-10-20T03:14:41.617Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -329,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -367,7 +367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -386,7 +386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -405,7 +405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -483,7 +483,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -502,7 +502,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -521,7 +521,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -540,7 +540,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -597,7 +597,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:45.447Z",
       "lastSeenAt": "2026-10-18T02:52:45.447Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -617,7 +617,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -631,12 +631,13 @@
       "publishedAt": "2026-10-15T19:49:51Z",
       "durationSeconds": 3902,
       "matchedKeywords": [
-        "AI 映画 フル"
+        "AI 映画 フル",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -655,7 +656,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     },
     {
@@ -695,6 +696,25 @@
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
       "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qZ6ItfHMPyE",
+      "url": "https://www.youtube.com/watch?v=qZ6ItfHMPyE",
+      "title": "Seven Kings Could Not Kill Him | THE LAST SEAL | Full Fantasy Movie 2026",
+      "description": "THE LAST SEAL (2026) — Full Epic Dark Fantasy Movie\n\nSeven Kings Could Not Kill Him.\n\nFor a thousand years, the world believed the DARK KING was gone.\n\nThey were wrong.\n\nSomething ancient is awakening. Forgotten kingdoms are falling. Terrifying creatures are rising from the darkness.\n\nAnd a secret buried for centuries is about to change everything.\n\nAs war spreads across the land, an ordinary blacksmith becomes trapped in a battle far greater than he could ever imagine.\n\nBut some secrets were never meant to be discovered.\n\nSome powers were never meant to return.\n\nAnd some enemies were never meant to be defeated.\n\nWhat happens when the greatest evil in history returns?\n\n00:00 - Prologue: The Six Broken Seals\n02:45 - Rowan the Blacksmith & The Singing Stone\n06:00 - The North Ridge War Horn\n08:00 - The Village Falls & Mara Captured\n11:50 - The Truth of the Last Seal\n14:00 - Trek into the Moonwood\n19:00 - The Whispering Wood\n22:15 - Betrayal at the Orc Camp\n26:30 - Revelation: The Seventh King\n31:15 - The Blue Flame & Shadow Hounds\n34:00 - The Court of the First King\n37:10 - The Forgotten Glacier Forge\n41:45 - The Seventh King Awakens\n46:00 - Clash on the Ice\n48:45 - Mother's Sacrifice: Given Freely\n50:20 - The Thaw & The Final Vow\n\n⚔️ THE LAST SEAL — FULL FANTASY MOVIE (2026)\n\nEnter a world of ancient magic, powerful wizards, fearless warriors, dark kingdoms, orcs, giants, and epic battles.\n\n🎬 Genre: Epic Fantasy | Dark Fantasy | Action | Adventure\n\n🎥 Original AI-Generated Fantasy Film\n\n🌍 Language: English\n\nWatch the full movie and discover the secret of THE LAST SEAL.\n\nSubscribe to ONEAIFILM for original fantasy movies, epic adventures, and cinematic AI storytelling.\n\n🔔 New fantasy films and stories are coming soon!\n\n\n🎭 CHARACTERS\n\nRowan the Blacksmith • Aldric the Wizard • Mara • Nessa the Blind Healer • Captain Brann • Liriel • Grom the Warlord • Ugra the Tracker • Borg • Vargal the Ancient King\n\n🎬 PRODUCTION\n\nCreated by ONEAIFILM\n\nStory & Creative Direction: Tuncay K.\n\nThis original fantasy film was created using artificial intelligence and cinematic storytelling techniques.\n\n#fullmovie #fantasymovie #darkfantasy #epicfantasy #aifilm",
+      "channelId": "UCnDJqQ6YxwnzhjIhniL3blw",
+      "channelTitle": "oneaifilm",
+      "thumbnail": "https://i.ytimg.com/vi/qZ6ItfHMPyE/hqdefault.jpg",
+      "publishedAt": "2026-10-17T13:45:26Z",
+      "durationSeconds": 3095,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-20T03:14:41.617Z",
+      "lastSeenAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
       "unavailableAt": null
     }
   ]
