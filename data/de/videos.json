@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:15:03.860Z",
+  "generatedAt": "2026-10-21T03:10:03.087Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -205,7 +205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-10-20T03:15:03.860Z",
+      "lastVerifiedAt": "2026-10-21T03:10:03.087Z",
       "unavailableAt": null
     }
   ]

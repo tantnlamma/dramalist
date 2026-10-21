@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:15:07.689Z",
+  "generatedAt": "2026-10-21T03:10:06.874Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -202,11 +202,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "unavailableAt": "2026-10-21T03:10:06.874Z"
     },
     {
       "videoId": "M2vzXV4brfk",
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     },
     {
@@ -893,6 +893,82 @@
       "discoveredAt": "2026-10-20T03:15:07.689Z",
       "lastSeenAt": "2026-10-20T03:15:07.689Z",
       "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "R2CL86UUaU0",
+      "url": "https://www.youtube.com/watch?v=R2CL86UUaU0",
+      "title": "The Algorithm of Us | World Premiere | Full Film in 4K",
+      "description": "THE ALGORITHM OF US — WORLD PREMIERE\nOctober 4, 2026 • 7:00 PM ET • Streaming on YouTube\n\n***Note***\nMovie Closing Credits Song - \"Sooner or Later\"\nWritten, Produced & Performed by\nDaevon Isaiah Watson - Courtesy\nof Imprinted Ent, L.L.C\n\nWhat happens when artificial intelligence doesn't just help you find love — but creates the world in which you fall in love?\n\nTHE ALGORITHM OF US is a feature film exploring love, memory, relationships, and the increasingly complicated line between human connection and artificial intelligence.\n\nBlue and Indigo enter AlgoRythm, an AI-powered dating experience designed to determine whether two strangers are truly compatible. What begins as a virtual first date evolves into something neither of them expected as they travel through AI-generated worlds, confront uncomfortable truths, and begin to question whether a connection created inside a simulation can survive in the real world.\n\nBut THE ALGORITHM OF US isn't only a film about artificial intelligence.\n\nAI is part of how the film itself was made.\n\nCombining traditional live-action filmmaking with AI-generated actors, environments, voices, imagery, and filmmaking tools, writer/director Frank E. Jackson Jr. uses emerging technology to expand what can be accomplished within independent cinema — while keeping human characters, relationships, performance, and storytelling at the center of the experience.\n\nOn October 4, we're premiering the complete feature film FREE on YouTube in 4K.\n\nNo theater. No paywall. A worldwide audience watching together.\n\nJoin us for the World Premiere:\n\n📅 October 4, 2026\n🕖 7:00 PM Eastern\n🎬 THE ALGORITHM OF US\n📺 Presented in 4K\n\nSet your reminder, subscribe to the channel, and join us in the live chat during the premiere.\n\nABOUT THE FILM\n\nTHE ALGORITHM OF US\nWritten & Directed by Frank E. Jackson Jr.\nA Sunjada Production\nPresented by Algorithmic Cinema\n\nStarring Walter Maxfield Jones, Leela Heart, Frank E. Jackson Jr., Tasha Lyons, Miina Saray, and more.\n\nTHE ALGORITHM OF US represents an experiment in what's becoming possible when traditional independent filmmaking meets a new generation of artificial-intelligence tools.\n\nThe technology may be changing.\n\nThe question at the center of the story hasn't:\n\nWhat makes a connection real?\n\n#TheAlgorithmOfUs #WorldPremiere #AlgorithmicCinema\n\nThis is the version I'd use on the Premiere page.",
+      "channelId": "UCqxjf_4ZSk3F6ytmC8ZiELg",
+      "channelTitle": "Frank E Jackson Jr",
+      "thumbnail": "https://i.ytimg.com/vi/R2CL86UUaU0/hqdefault.jpg",
+      "publishedAt": "2026-10-04T23:00:08Z",
+      "durationSeconds": 5158,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:10:06.874Z",
+      "lastSeenAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i2cdf3hl4OA",
+      "url": "https://www.youtube.com/watch?v=i2cdf3hl4OA",
+      "title": "Telur Naga Tertinggi Di Tangannya Full Movie Drama AI",
+      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Supreme Dragon Egg in His Hand - Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
+      "channelId": "UCZyg67AK1lbTkwN3otFitsw",
+      "channelTitle": "Reynold Bronson Official",
+      "thumbnail": "https://i.ytimg.com/vi/i2cdf3hl4OA/hqdefault.jpg",
+      "publishedAt": "2026-10-20T05:33:03Z",
+      "durationSeconds": 2859,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:10:06.874Z",
+      "lastSeenAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FxW-9cjF1FE",
+      "url": "https://www.youtube.com/watch?v=FxW-9cjF1FE",
+      "title": "Dada Ki Jaan – Fiza Ki Dard Bhari Kahani | Pakistani AI Drama | FULL 4K MOVIE #pakistaniai #aidrama ",
+      "description": "Dada Ki Jaan – Fiza Ki Dard Bhari Kahani | Pakistani AI Drama | FULL 4K MOVIE #pakistaniai #aidrama \n🌸 DADA KI JAAN — FIZA | FULL 4K MOVIE | PAKISTANI AI DRAMA @hoorainStudio02-v8t \n\nEk emotional Pakistani AI drama Dada Ki Jaan lekar aaya hai Fiza ki kahani, jahan rishton, mohabbat, jazbaat aur zindagi ke imtihaanon ka safar dekhne ko milega. ❤️💔\n\n🎬 Drama Name: Dada Ki Jaan\n🌸 Main Character: Fiza\n🎥 Video Type: Full Movie\n✨ Quality: 4K, if available in the uploaded video\n🇵🇰 Genre: Pakistani AI Drama | Family Drama | Emotional Drama | Romantic Drama\n\nAgar aapko Pakistani dramas, emotional family stories, romantic moments aur dil ko chhoo lene wali kahaniyan pasand hain, to Dada Ki Jaan dekhein aur apni rai comments mein zaroor share karein.\n\n💗 SUPPORT OUR CHANNEL\n👍 Video ko Like karein\n📲 Apne friends aur family ke saath Share karein\n💬 Comment mein batayein: Aapko Fiza ka character kaisa laga?\n🔔 Channel ko Subscribe karein aur notification bell on karein, taake aane wali videos miss na hon.\n\n📌 DISCLAIMER: This is an AI-created fictional drama made for entertainment. Characters, events and scenes are fictional. Any resemblance to real persons or events is coincidental.\n\n#DadaKiJaan #PakistaniAIDrama #Fiza\nDada Ki Jaan, Dada Ki Jaan drama, Fiza, Fiza drama, Pakistani AI Drama, Pakistani AI drama 4K, AI Pakistani drama, Pakistani drama, Urdu drama, emotional Pakistani drama, family drama, romantic Pakistani drama, AI movie, Pakistani AI movie, full 4K movie\n\n#DadaKiJaan #PakistaniAIDrama #Fiza #AIPakistaniDrama #PakistaniDrama #UrduDrama #AIMovie #EmotionalDrama #FamilyDrama #RomanticDrama #PakistaniAIMovie #Full4KMovie\nDada Ki Jaan, Dada Ki Jaan Fiza, Fiza drama, Dada Ki Jaan movie, Pakistani AI Drama, AI Pakistani Drama, Pakistani AI movie, Pakistani drama in Urdu, Urdu AI drama, emotional Pakistani drama, Pakistani family drama, romantic Pakistani drama, AI generated drama, realistic Pakistani AI drama, 4K Pakistani drama, full Pakistani AI movie, Fiza emotional story, Dada Ki Jaan full movie\nDada Ki Jaan, Dada Ki Jaan drama, Dada Ki Jaan Fiza, Fiza, Fiza drama, Pakistani AI Drama, AI Pakistani Drama, Pakistani drama, Pakistani AI movie, AI drama 4K, Urdu drama, Urdu AI drama, emotional drama, family drama, romantic drama, Pakistani full movie, 4K movie, AI generated movie, Hoorain AI drama",
+      "channelId": "UC3YxoLgjaGMnXrue73YKnqg",
+      "channelTitle": "Hoorain Studio 02 ",
+      "thumbnail": "https://i.ytimg.com/vi/FxW-9cjF1FE/hqdefault.jpg",
+      "publishedAt": "2026-10-19T14:00:07Z",
+      "durationSeconds": 3302,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:10:06.874Z",
+      "lastSeenAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wJ8F2xU2HaM",
+      "url": "https://www.youtube.com/watch?v=wJ8F2xU2HaM",
+      "title": "[FULL] Plus Size Bride Stepmom In Charge [Eng Sub]",
+      "description": "Plus Size Bride Stepmom In Charge | Full Drama | Drama AI",
+      "channelId": "UCOTa6xUHBcO883mFVsnpp_Q",
+      "channelTitle": "Drama Buddy",
+      "thumbnail": "https://i.ytimg.com/vi/wJ8F2xU2HaM/hqdefault.jpg",
+      "publishedAt": "2026-09-26T08:58:36Z",
+      "durationSeconds": 8635,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:10:06.874Z",
+      "lastSeenAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
       "unavailableAt": null
     }
   ]

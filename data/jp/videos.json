@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:14:41.617Z",
+  "generatedAt": "2026-10-21T03:09:40.827Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -324,12 +324,13 @@
       "publishedAt": "2026-09-26T01:00:18Z",
       "durationSeconds": 7623,
       "matchedKeywords": [
-        "AI ドラマ 映画"
+        "AI ドラマ 映画",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -367,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -386,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -405,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -483,7 +484,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -502,7 +503,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -521,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -540,7 +541,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -597,7 +598,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:45.447Z",
       "lastSeenAt": "2026-10-18T02:52:45.447Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -617,7 +618,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -637,7 +638,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     },
     {
@@ -714,7 +715,26 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:41.617Z",
       "lastSeenAt": "2026-10-20T03:14:41.617Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IQb44ROPrG8",
+      "url": "https://www.youtube.com/watch?v=IQb44ROPrG8",
+      "title": "【吹き替え】ハリウッド・スキャンダル | Rules Don't Apply (ラブコメ, ハリウッド, 大富豪, 恋愛, 洋画, 無料映画)",
+      "description": "💖 映画の感動をそのままに。フル尺で毎週配信！https://bit.ly/MoviedomeJP-SUB\n🔔 1950年代のハリウッドで、若き女優と運転手の禁じられた恋が、伝説の大富豪ハワード・ヒューズによって思わぬ運命へ導かれていく。\n\nハリウッド・スキャンダル (2016)\n原題: Rules Don't Apply\n出演: Warren Beatty（ウォーレン・ベイティ）Lily Collins（リリー・コリンズ）Alden Ehrenreich（オールデン・エアエンライク）\n監督: Warren Beatty（ウォーレン・ベイティ）\n年齢制限: PG-13\n\n概要: 1950年代のハリウッド。スターを夢見る若き女優マーラは、大富豪ハワード・ヒューズとの契約を機にロサンゼルスへやって来る。そこで彼女を迎えたのは、ヒューズのもとで働き始めたばかりの運転手フランク。互いに惹かれ合う二人だったが、契約女優と従業員の恋愛は厳しく禁じられていた。さらに、予測不能で謎に満ちたヒューズに翻弄され、二人の夢と恋は思わぬ方向へ。華やかなハリウッドの裏側で繰り広げられる、恋と野望と人生の物語。\n\n#MoviedomeJP #フルムービー #洋画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC_RKuoBMRI_Ut0SCOcBIaoQ",
+      "channelTitle": "Moviedome JP みんなのホームエンタメ ",
+      "thumbnail": "https://i.ytimg.com/vi/IQb44ROPrG8/hqdefault.jpg",
+      "publishedAt": "2026-10-18T00:00:04Z",
+      "durationSeconds": 7623,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:40.827Z",
+      "lastSeenAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
       "unavailableAt": null
     }
   ]

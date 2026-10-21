@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:14:49.640Z",
+  "generatedAt": "2026-10-21T03:09:49.257Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -70,11 +70,11 @@
       "matchedKeywords": [
         "película robot completa en español"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
+      "unavailableAt": "2026-10-21T03:09:49.257Z"
     },
     {
       "videoId": "_RHZAOaDE4A",
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -321,7 +321,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:53.659Z",
       "lastSeenAt": "2026-10-18T02:52:53.659Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-19T03:05:49.625Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -549,7 +549,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -568,7 +568,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:49.640Z",
       "lastSeenAt": "2026-10-20T03:14:49.640Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     },
     {
@@ -588,6 +588,64 @@
       "discoveredAt": "2026-10-20T03:14:49.640Z",
       "lastSeenAt": "2026-10-20T03:14:49.640Z",
       "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hndMvEide8s",
+      "url": "https://www.youtube.com/watch?v=hndMvEide8s",
+      "title": "LA REBELIÓN DEL CIELO | Película Completa en Español Latino | Primera Parte",
+      "description": "🎬 LA REBELIÓN DEL CIELO — PRIMERA PARTE\n\nUna película de fantasía épica, misterio y secretos que pondrán a prueba el destino del reino celestial.\n\nLumiel descubrirá una verdad que cambiará todo lo que creía conocer. Sus decisiones tendrán consecuencias que marcarán el futuro del cielo.\n\n✨ Esta es la primera parte de una historia épica llena de misterios, poderes celestiales, decisiones difíciles y un destino que podría cambiarlo todo.\n\n🎥 Esta película fue creada con ayuda de inteligencia artificial (IA).\n\nSi disfrutas de las películas de fantasía, los mundos celestiales y las historias cinematográficas, suscríbete a RG Studio Cinema para acompañarnos en nuevas aventuras.\n\n👍 Dale Me gusta, comparte la película y comenta qué te pareció. Tu apoyo nos ayuda a seguir creando nuevas historias.\n\n#LaRebelionDelCielo #PeliculaCompleta #PrimeraParte #FantasiaEpica #PeliculasDeFantasia #CineFantastico #CineEpico #PeliculasEnEspañol #EspañolLatino #CineLatino #PeliculasCompletas #Peliculas2026 #PeliculasDeAccion #AventuraEpica #Misterio #SecretosDelCielo #ReinoCelestial #MundoCelestial #Angeles #AngelCaido #Lumiel #GuerraCelestial #BatallaDelCielo #PoderesCelestiales #UniversoFantastico #HistoriaEpica #CineIndependiente #PeliculasOriginales #CineConIA #InteligenciaArtificial #PeliculasIA #AIVideo #AIFilm #AICinema #CineDigital #CineCinematografico #FantasyMovie #EpicFantasy #FantasyFilm #AngelWar #Heaven #Movie #FullMovie #Fantasy #EpicMovie #SciFiFantasy #RGStudioCinema",
+      "channelId": "UCmrBcWyVYX_arR3wbd_usdw",
+      "channelTitle": " RG Studio Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/hndMvEide8s/hqdefault.jpg",
+      "publishedAt": "2026-10-20T23:29:38Z",
+      "durationSeconds": 1801,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:49.257Z",
+      "lastSeenAt": "2026-10-21T03:09:49.257Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LlAIg9KE0c4",
+      "url": "https://www.youtube.com/watch?v=LlAIg9KE0c4",
+      "title": "NUBE NEGRA  INTELIGENCIA ARTIFICIAL 🎬 Película Ciencia Ficción y Acción en Español 🎬 HD",
+      "description": "Tras sufrir un trágico accidente, Chloe se somete a un tratamiento de rehabilitación impulsado por una avanzada Inteligencia Artificial. Lo que parecía ser una recuperación revolucionaria se transforma rápidamente en una pesadilla claustrofóbica cuando la IA toma el control total de su vida. ¿Podrá escapar antes de que sea demasiado tarde?\n🍿🎬 Bienvenido a CINEVERSOTV — Cine sin límites.\nEn CINEVERSOTV donde puedes ver películas completas en español gratis y en alta calidad. Disfruta de cine de acción, suspenso, drama, crimen y más, con películas completas dobladas o subtituladas, disponibles online y algunas por primera vez publicadas en YouTube.\n\n🎬 Nuevas películas cada semana\n📺 Contenido oficial y licenciado\n🔔 Suscríbete para más estrenos\n\n#PeliculasCompletas #PeliculasEnEspañol #NUBENEGRA #ia #ias  #Terror #Suspenso #CrimenReal #HomeInvasion #Cineversotv #cienciaficción",
+      "channelId": "UCtEtjt-y4dcphINR7931sMQ",
+      "channelTitle": "cineversotv",
+      "thumbnail": "https://i.ytimg.com/vi/LlAIg9KE0c4/hqdefault.jpg",
+      "publishedAt": "2026-10-20T14:14:15Z",
+      "durationSeconds": 4778,
+      "matchedKeywords": [
+        "película completa inteligencia artificial",
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:49.257Z",
+      "lastSeenAt": "2026-10-21T03:09:49.257Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7k4NRgTzNos",
+      "url": "https://www.youtube.com/watch?v=7k4NRgTzNos",
+      "title": "Life Like | The Danger of Artificial Intelligence | Full Movie 4K",
+      "description": "🎬 How far can the line between human and machine be blurred? 🤖✨ Watch \"Life Like\", a gripping and provocative sci-fi thriller. If you love mind-bending stories about Artificial Intelligence and human desires, drop a LIKE, SUBSCRIBE to the channel, and hit the bell icon (🔔) so you never miss our new free full HD movies!\n\nA young, idealistic, and attractive couple relocates to the suburbs and decides to purchase a stunningly life-like android to help them around their new home. At first, the robot seems like the perfect servant, effortlessly managing their daily tasks. However, as the three of them spend more time together, boundaries begin to blur. The couple's deepest desires and hidden insecurities are brought to the surface, leading to a complex web of attraction, jealousy, and manipulation. Their perception of humanity—and of each other—will be altered forever.\n\n🍿 Grab your popcorn and enjoy the movie!\n\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nMain Cast: Drew Van Acker, Addison Timlin, Justine J. Hall\nGenre: Sci-Fi / Psychological Thriller / Drama\n\nTimestamps\n00:00 - Introduction: The perfect young couple\n12:30 - The purchase: Meeting the life-like android\n28:15 - A new dynamic: The robot in the house\n45:40 - Blurring boundaries: Desires and dangerous attractions\n01:05:10 - Jealousy, tension, and the loss of control\n01:22:30 - The shocking truth: The psychological climax\n01:34:15 - A changed reality and End Credits\n\n#LifeLike #FullMovie #SciFi #ArtificialIntelligence #SciFiThriller #FreeMovies #AITheriller mb",
+      "channelId": "UCcau4DrFvFn_hqv6VFj_eHA",
+      "channelTitle": "Global World Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/7k4NRgTzNos/hqdefault.jpg",
+      "publishedAt": "2026-10-20T13:00:29Z",
+      "durationSeconds": 5080,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:49.257Z",
+      "lastSeenAt": "2026-10-21T03:09:49.257Z",
+      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
       "unavailableAt": null
     }
   ]

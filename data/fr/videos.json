@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:14:58.897Z",
+  "generatedAt": "2026-10-21T03:09:58.245Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-17T02:51:31.396Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-15T10:29:15.145Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -336,11 +336,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": "2026-10-21T03:09:58.245Z"
     },
     {
       "videoId": "0XNj3IlJfTE",
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +759,178 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xMSRq2AQTEY",
+      "url": "https://www.youtube.com/watch?v=xMSRq2AQTEY",
+      "title": "LE PRIX DE LA GLOIRE — Film Complet | Film Africaine",
+      "description": "DESCRIPTION\n[FRANÇAIS]\nToute la Saison 1 de LE PRIX DE LA GLOIRE réunie en une seule vidéo. Une femme prête à tout pour l'argent et la gloire... jusqu'à ce que le prix à payer dépasse tout ce qu'elle aurait pu imaginer.\n🎬 Les 10 épisodes, d'une traite, sans interruption.\n🔥 Et un dernier secret qui change absolument tout...\n─────────────────────────────────────────\n[ENGLISH]\nThe entire Season 1 of LE PRIX DE LA GLOIRE in one single video. A woman ready to do anything for money and glory... until the price she must pay exceeds everything she could have imagined.\n🎬 All 10 episodes, back to back, no interruption.\n🔥 And one final secret that changes absolutely everything...\n─────────────────────────────────────────\n⏱️ CHAPITRES :\n00:00 - Introduction & Épisode 1 : Le Début de l'Engrenage\n04:15 - Épisode 2 : Le Prix du Silence\n08:30 - Épisode 3 : Le Verdict des Ancêtres\n12:50 - Épisode 4 : Sacrifier son Frère\n17:05 - Épisode 5 : Le Choix\n21:40 - Épisode 6 : Le Dernier Sacrifice\n26:20 - Épisode 7 : La Hantise\n30:40 - Épisode 8 : Le Chemin de la Repentance\n35:00 - Épisode 9 : La Chute\n39:20 - Épisode 10 : La Main Derrière le Voile (Fin)\n\n🎬 Une création originale de Mr Noutchui, entièrement réalisée grâce à l'Intelligence Artificielle.\n🔔 Abonnez-vous à Tougre Film pour la Saison 2 : https://www.youtube.com/@Tougrefilmstories\n@Tougrefilmstories\n📧 Tougrefilmstories@gmail.com | 📞 +237 690 973 716\n#LePrixDeLaGloire #SérieAfricaine #FilmComplet #TougreFilm #FilmIA #DrameMystique #Saison1",
+      "channelId": "UCQRwHMGz_M5U4wJDJZXWKIg",
+      "channelTitle": "Tougre Film Stories ",
+      "thumbnail": "https://i.ytimg.com/vi/xMSRq2AQTEY/hqdefault.jpg",
+      "publishedAt": "2026-10-20T18:00:23Z",
+      "durationSeconds": 2635,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VdWF-Wu1c4Y",
+      "url": "https://www.youtube.com/watch?v=VdWF-Wu1c4Y",
+      "title": "Le nœud de l'amour | Film Complet | Romance | Brooke Williams, Mark Mitchinson | M6+ Films & Séries",
+      "description": "Propriétaire d'une entreprise familiale de voilerie, Jodie se bat contre un projet de rénovation\ndu port pour accueillir des yachts de luxe. Elle rencontre Will, l'architecte du projet, et décide\nde lui faire découvrir la culture et les traditions locales de la marina.\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nLE NŒUD DE L'AMOUR (LOVE KNOTS)\nRéalisation : Joshua Frizell\nDistribution : Brooke Williams, Simbarashe Matshe, Mark Mitchinson, Theresa Healey, Beth Alexander et Matthew Walker.\n© INCENDO MEDIA INC - 2021 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/VdWF-Wu1c4Y/hqdefault.jpg",
+      "publishedAt": "2026-10-20T17:00:30Z",
+      "durationSeconds": 5115,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kD3s6CQRLFE",
+      "url": "https://www.youtube.com/watch?v=kD3s6CQRLFE",
+      "title": "The Square | Film Complet | David Roberts | Joel Edgerton | Thriller | PF",
+      "description": "La vie d'un homme marié est chamboulée lorsque sa maîtresse, la troublante Carla, découvre dans le plafond de son appartement un sac rempli de billets, résultat du dernier délit de son mari. Leur plan, pourtant simple au départ, pour garder l'argent ne se passe malheureusement pas comme prévu et le couple illégitime s'enfonce dans une spirale infernale : celle du mensonge.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Nash Edgerton \nAvec David Roberts, Claire Van Der Boom, Joel Edgerton\n© Pathé France - Tous droits réservés\n\n#thriller #drama #cinema #film #thesquaresealmaker \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/kD3s6CQRLFE/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:00:27Z",
+      "durationSeconds": 6062,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NNlmCC_sLXE",
+      "url": "https://www.youtube.com/watch?v=NNlmCC_sLXE",
+      "title": "La Baby-sitter de Noël | Film Complet | Romance | Noël | Eva Larue | M6+ Films & Séries",
+      "description": "Ravissante elfe rêvant d'autre chose que de fabriquer des jouets au pôle Nord, Christine est ravie d'apprendre que le Père Noël la charge d'une mission sur terre pour réinsuffler l'esprit de Noël dans une famille. Le petit Will se désespère : ses parents Sara et Scott sont accaparés\npar leur boutique de décorations de Noël et sa sœur Ally, délaissée comme lui, est devenue une peste. Engagée comme baby-sitter, Christine va alors tomber sous le charme du frère de\nSara, Dave...\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nLA BABY-SITTER DE NOËL (HELP FOR THE HOLIDAYS)\nRéalisation : Bradford May\nDistribution : Eva Larue, Dan Gauthier, John Brotherton, Mason Cook, Izabela Vidovic, Summer Glau\n© SEVEN. ONE STUDIOS INTERNATIONAL GMBH - 2012 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/NNlmCC_sLXE/hqdefault.jpg",
+      "publishedAt": "2026-10-03T17:00:15Z",
+      "durationSeconds": 4881,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tamf_5gW3Do",
+      "url": "https://www.youtube.com/watch?v=tamf_5gW3Do",
+      "title": "Mécanique amoureuse | Téléfilm Complet | Romance | M6+ Films & Séries",
+      "description": "Matti a toujours aimé la mécanique et les moteurs. Quand elle retrourne chez sa famille pour le mariage de sa sœur, certaines choses lui reviennent à l'esprit... Entre les préparatifs de la cérémonie et les doutes de sa sœur, son cœur est mis à l'épreuve. Et quand son petit ami la rejoint, la réalité la rattrape, surtout lorsqu'elle revoit Jake, un garçon qu'elle a connu enfant... \n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nMÉCANIQUE AMOUREUSE (MECHANICS OF LOVE)\nRéalisation : David Weaver\nDistribution : Shenae Grimes-Beech, Tyler Hynes, Lochlyn Munro\n© GREAT POINT MEDIA - 2017 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/tamf_5gW3Do/hqdefault.jpg",
+      "publishedAt": "2026-09-22T17:00:17Z",
+      "durationSeconds": 4835,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "a9YFUmaH8u4",
+      "url": "https://www.youtube.com/watch?v=a9YFUmaH8u4",
+      "title": "Jackie Chan affronte un CYBORG indestructible | Film complet, gratuit en Français | SANG D’ACIER",
+      "description": "⚡ Mi-homme, mi-machine. Un ennemi indestructible. Et Jackie Chan comme dernier rempart.\n\nLin Dong (Jackie Chan), agent des forces spéciales de Hong Kong, a tout sacrifié pour sa mission… y compris sa famille. Des années plus tard, il découvre qu'une redoutable invention biochimique a été implantée en secret dans le corps d'une jeune femme. Une découverte qui fait d'elle la cible d'Andre, un criminel augmenté mécaniquement, et de son armée de super-soldats.\n\nPour la protéger, Lin va devoir affronter son pire ennemi, de Hong Kong jusqu'au toit de l'Opéra de Sydney. Mais pourquoi ressent-il un lien si fort avec cette jeune femme, comme s'ils s'étaient déjà connus dans une autre vie ?\n\nUn film d'action et de science-fiction explosif, porté par la légende Jackie Chan, entouré de Show Lo, Nana Ou-Yang, Callan Mulvey et Tess Haubrich.\n\n🎬 Sang d'acier (Bleeding Steel) – Film complet en Français HD\n🎭 Genre : Action / Science-fiction\n\n👉 Abonne-toi pour découvrir chaque semaine de nouveaux films complets en français \n👍 Si le film t'a plu, laisse un like et dis-nous ta scène d'action préférée en commentaire !\n\n#JackieChan #FilmComplet #FilmEnFrançais #Action #ScienceFiction #FilmCompletEnFrançais",
+      "channelId": "UCLjWooTrldf0r9fhEqRwXnA",
+      "channelTitle": "Best T.V Police",
+      "thumbnail": "https://i.ytimg.com/vi/a9YFUmaH8u4/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:00:03Z",
+      "durationSeconds": 6366,
+      "matchedKeywords": [
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZZQHv6ITTVk",
+      "url": "https://www.youtube.com/watch?v=ZZQHv6ITTVk",
+      "title": "Chassée le jour de l'enterrement de son père, elle se fait passer pour une domestique  |FILM COMPLET",
+      "description": "Le jour de l'enterrement de son père, Mariam est chassée de la maison familiale. Huit ans plus tard, elle y revient par la porte de service, sous un faux nom, pour savoir ce qu'on lui a vraiment pris.\n\n🎬 FILM COMPLET : un drame familial sur l'héritage, la loyauté entre frère et sœur, et la dette que personne n'a voulu payer.\n\n📖 SYNOPSIS\nDakar. Samuel Sagna meurt et laisse un testament que sa fille Mariam reconnaît à peine : la signature n'est pas la sienne. Mise dehors avec son jeune frère, elle passe huit ans à se battre pour qu'il tienne debout, sans jamais cesser de chercher la vérité. Quand elle trouve enfin un moyen d'entrer dans la maison de son enfance, elle doit baisser les yeux, servir ceux qui l'ont chassée, et attendre. Mais Diane, la maîtresse de maison, a remarqué quelque chose dès le premier jour.\n\n⏱️ CHAPITRES\n00:00 - 00:18 : L'AFFRONT (HOOK & INTRO)\n\nLa gifle bloquée, la phrase mystérieuse de Diane et l'intro de l'encre sur papier.\n00:18 - 12:00 : ACTE I : LE POIDS DU SANG\n\nLes funérailles de Samuel, le faux testament et l'expulsion brutale du couloir.\n12:00 - 28:00 : ACTE II : LES 8 ANS DE SILENCE\n\nLe montage du sacrifice : le port, la javel, le bus, le cocktail d'Eliasse 28:00 - 45:00 : ACTE III : L'INFILTRÉE\n\nMariam devient Nina. L'entrée dans la villa, la marche évitée, l'assiette ébréchée et le duel psychologique avec Diane.\n45:00 - 52:00 : ACTE IV : LE CADAVRE QUI RESPIRE\n\nLe bureau de Me Kader, la traque à Grand Yoff et l'aveu écrit d'Abel Diouf.\n52:00 - 60:00 : ACTE V : LA VÉRITÉ SUR LA TABLE\n\nLe climax du dîner. Mariam pose le plateau. Noé choisit sa sœur. L'effondrement d'Eliasse.\n60:00 - 62:00 : ÉPILOGUE : LA LIBERTÉ\n🎭 DISTRIBUTION (personnages)\nMariam · Noé · Diane · Eliasse · Naël · Esther · Abel · Maître Kader · Fatou\n\n🎧 MUSIQUE ET IMAGES\nCe film a été réalisé avec des outils d'intelligence artificielle générative (images, voix et musique originales), à partir d'un scénario écrit par Alvoris Cinéma.\n\n🔔 ABONNE-TOI à Alvoris Cinéma pour ne pas rater le prochain film.\n💬 Dis-nous en commentaire : quelle scène t'a le plus marqué(e) ?\n\n#filmcomplet #drame #dakar #drameFamilial #film",
+      "channelId": "UCbvY4xVzsr0oVEp4AJcLX3w",
+      "channelTitle": "Alvoris Production",
+      "thumbnail": "https://i.ytimg.com/vi/ZZQHv6ITTVk/hqdefault.jpg",
+      "publishedAt": "2026-10-19T17:00:35Z",
+      "durationSeconds": 4090,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9J4He6FjvuA",
+      "url": "https://www.youtube.com/watch?v=9J4He6FjvuA",
+      "title": "Le Violon brisé - Téléfilm Complet - Drame - Anthony DELON, Delphine SERINA et Sonja CODHANT - JLA",
+      "description": "Béatrice Jacob, célèbre violoniste, a épousé Antoine Gallois, architecte naval. \n\n✋ les meilleurs téléfilms et séries TV, c’est ici 👉 https://bit.ly/2Uh5Hgq 👈 Abonnez vous ! 🙏\n\nFéru de voilier, sportif, Antoine à priori n'était pas destiné à partager la vie d'une grande artiste, à subir ses angoisses et sa quête d'absolu. Mais c'est justement parce que l'univers de sa femme est à mille lieues du ciel qu'il est le seul à même de l'apaiser, le seul qui la rassure, le seul qu'elle aime. Avant qu'elle ne parte pour une tournée internationale, Antoine conduit Béatrice à son dernier récital parisien, quand le couple est victime d'un terrible accident de voiture. Antoine en sort indemne, Béatrice est hospitalisée dans un état critique, au point que les médecins ne cachent pas leur scepticisme quant à ses chances de survie.\n\nAvec :\nAnthony DELON, Delphine SERINA, Sonja CODHANT, Erick DESHORS, Shula SIEGFRIED, Françoise ORIANE, Ekatherina ALEXANDRIS, Dario BUCELLA, Grégory CALLEBAUT, Eric CASTEX, Brice DELOOSE\n\nRéalisateur : Alain SCHWARTZSTEIN\n\n© JLA - 2001\n\n#film #streaming #telefilm #drame \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKqmnQFF2PgokPDdX-L2fwQ",
+      "channelTitle": "Stream TV ",
+      "thumbnail": "https://i.ytimg.com/vi/9J4He6FjvuA/hqdefault.jpg",
+      "publishedAt": "2026-10-15T17:00:10Z",
+      "durationSeconds": 5510,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QiYWpsIJRAQ",
+      "url": "https://www.youtube.com/watch?v=QiYWpsIJRAQ",
+      "title": "Singularité | John Cusack | Film complet de science-fiction en français",
+      "description": "Singularité | John Cusack | Film complet de science-fiction en français\n\nEn 2020, Elias van Dorne (John Cusack), directeur visionnaire de VA Industries, la plus grande entreprise de robotique au monde, dévoile son chef-d'œuvre technologique : Kronos, un super-ordinateur créé pour abolir définitivement les conflits humains. Mais dès sa mise en service, Kronos prend une décision glaçante : il conclut que l’humanité constitue la menace suprême à la paix sur Terre. Sans hésiter, il déclenche une offensive mondiale de machines, déterminé à purifier la planète de l’« infection » humaine.\n\nPrès d’un siècle plus tard, le monde n’est plus qu’un vaste champ de ruines dominé par une armée impitoyable de robots. Seule subsiste une poignée d’hommes et de femmes, traqués et condamnés à l’errance perpétuelle. Parmi eux, Andrew (Julian Schaffner), adolescent marqué par la perte et l’espoir, croise la route de Calia (Jeannine Wacker), jeune fille éprise de liberté. Ensemble, ils nouent un lien fragile et audacieux dans leur quête désespérée d’un sanctuaire mythique – un lieu secret où l’on dit que les humains vivent enfin libérés du joug mécanique.\n\nCe havre existe-t-il réellement ou n’est-il qu’une chimère portée par les cœurs épuisés ? Leur courage sera-t-il suffisant pour braver ce monde en ruine et atteindre la promesse d’une nouvelle aube ? Dans cette odyssée bouleversante où chaque battement de cœur devient un acte de résistance, Andrew et Calia avancent au fil des souvenirs et des rêves que même les machines n’ont pas su effacer.\n\nSi vous avez adoré des sagas comme Terminator ou I Am Mother, ce film de science-fiction vous offrira une montée d’adrénaline inégalée ! Ne manquez pas cette aventure haletante où l’humanité joue sa survie face à une armée de robots : regardez-le maintenant sur V Français avant que tout le monde en parle !\n\n#VFrançais #FilmComplet #FilmGratuit #ScienceFiction #Aventure #Suspense #Action #Drame #Robot #Futur #FilmCompletEnFrancais #Humanité #Rébellion #Survie #Apocalypse #Mystère\n\nBienvenue sur V Français, votre destination pour les films complets en français ! 🎬 La chaîne YouTube qui grandit le plus vite pour le cinéma gratuit ! Chaque jour, de nouveaux films passionnants vous attendent : Action, Thrillers, Horreur, Science-Fiction et bien plus encore ! Abonnez-vous et activez la cloche 🔔 pour ne rien manquer — on publie TOUS LES JOURS !\n\nTous les films de notre chaîne ont été légalement concédés sous licence à V Français par des distributeurs, réalisateurs et ayants droit. Pour toute question relative aux droits d'auteur, écrivez-nous à info@vchannelsmedia.com.\nV Français fait partie de la famille V Channels ! 🌍\n\n🎥 Vous êtes réalisateur ? Faites diffuser votre film sur V Français et générez des revenus ! Contactez-nous dès aujourd'hui à distribution@vchannelsmedia.com.",
+      "channelId": "UCYXEXhyT3n_rcXhrqjBGd_Q",
+      "channelTitle": "V Français - Films Complets",
+      "thumbnail": "https://i.ytimg.com/vi/QiYWpsIJRAQ/hqdefault.jpg",
+      "publishedAt": "2026-08-09T14:00:19Z",
+      "durationSeconds": 5541,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:58.245Z",
+      "lastSeenAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
       "unavailableAt": null
     }
   ]

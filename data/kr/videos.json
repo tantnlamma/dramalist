@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:14:38.965Z",
+  "generatedAt": "2026-10-21T03:09:37.755Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -209,7 +209,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -267,7 +267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -286,7 +286,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -306,7 +306,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -326,7 +326,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -346,7 +346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -404,7 +404,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -423,7 +423,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -443,7 +443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -463,7 +463,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -483,7 +483,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -502,7 +502,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -522,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -542,7 +542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -561,7 +561,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -581,7 +581,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -601,7 +601,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -678,7 +678,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -697,7 +697,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -716,14 +716,14 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
       "videoId": "6eiCrRAtpPY",
       "url": "https://www.youtube.com/watch?v=6eiCrRAtpPY",
-      "title": "⚔️ 천하진검 1~6화 몰아보기 | 37명이 지킨 소년의 비밀 [60분·AI 영화·AI드라마·무협 판타지드라마]",
-      "description": "37명이 지켜낸 아이. 17년 뒤, 부모의 원수가 그 소년의 힘을 노립니다.\n⚔️ AI 영화·AI드라마 《천하진검》 1화~6화 몰아보기 — 약 60분으로 이어 보는 창작 무협 판타지드라마.\n\n어머니가 남긴 흑옥, 여섯 번의 낙방, 그리고 길 위에서 만난 수상한 노인.\n자신의 뿌리를 찾아 강호로 나선 소년 하진은 감춰진 아버지의 정체와 마주합니다.\n소중한 사람을 지키려는 선택 끝에 도착한 무영곡.\n부모의 원수 ‘그림자’는 왜 하진 안의 힘을 원하는 걸까요?\n\n이번 영상은 《천하진검》 1화부터 6화까지를 이어 붙인 몰아보기입니다.\n탄생의 비밀부터 흑옥의 단서, 목 노인과의 인연, 추격과 대결까지 한 번에 감상하세요.\n전체 재생 시간: 60분 38초.\n\n🎬 작품 소개\n창작 무협소설을 영상으로 풀어낸 오리지널 무협 드라마 《천하진검》.\n강호에 감춰진 비밀과 검술 액션, 운명에 맞서는 소년의 성장을 담았습니다.\n실사풍 무협 영화, 동양 판타지, 사제의 인연과 성장 이야기를 좋아하신다면 함께해 주세요.\nAI 기술을 활용해 제작한 창작 작품입니다.\n\n📺 《천하진검》 본편 이어 보기\n1부 — 프롤로그·탄생의 비밀: https://www.youtube.com/watch?v=XKdFUuPgZ1k\n2부 — 흑옥의 비밀: https://www.youtube.com/watch?v=i43J_Snw1NU\n3부 — 수상한 노인과의 만남: https://www.youtube.com/watch?v=6fKF0MdtDz4\n4부 — 아버지의 정체: https://www.youtube.com/watch?v=Y8dzpUpRo00\n5부 — 소년의 결심: https://www.youtube.com/watch?v=tp8b_jcHYV8\n6부 — 부모의 원수와 숨겨진 힘: https://www.youtube.com/watch?v=J-TIOEhxwBA\n7부 — 아버지의 검을 배우다: 10월 21일 공개 예정\n\n👍 하진의 다음 여정도 함께해 주세요.\n구독과 좋아요는 후속편 제작에 큰 힘이 됩니다.\n가장 기억에 남은 장면과 궁금한 이야기를 댓글로 남겨 주세요.\n🔔 알림을 켜두시면 새 에피소드를 놓치지 않고 만나실 수 있습니다.\nStudio Glow: https://www.youtube.com/channel/UCaLfqgAemI8opLl805SBmyA\n\n#천하진검 #AI영화 #AI드라마 #판타지드라마 #무협영화 #무협드라마 #몰아보기\n\n관련 검색 키워드\n핵심 장르: 무협, 무협물, 무림, 무협판타지, 사극판타지, 동양판타지, 강호, 쾌검, 검술액션, 무협액션\n인접 콘텐츠(만화·애니·소설): 무협만화, 무협웹툰, 웹툰추천, 무협애니, 무협애니메이션, 무협소설, 무협웹소설, 중국무협, 홍콩무협영화, 쿵푸영화, 사극액션영화, 먼치킨무협, 정통무협, 신무협, 회귀물, 환생물, 빙의물\n흥행작 연계 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 열혈강호, 화산귀환, 마도조사, 전지적독자시점, 나혼자만레벨업, 일렉시드\n플랫폼명 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 네이버웹툰, 카카오페이지, 리디, 문피아, 조아라, 노벨피아\nAI 제작 관련: AI영화, AI무협, AI애니메이션, 인공지능영화, AI숏폼영화, AI시네마틱, 생성형AI영화, AI단편영화, AI장편영화\n영문 키워드: Wuxia, Wuxia film, Wuxia fantasy, Murim, Murim manhwa, Korean martial fantasy, AI generated film, Cinematic AI film, Kung fu fantasy, Sword fighting fantasy, AI short film\n롱테일(검색 문장형): 무협 웹툰 추천, 무협 소설 추천, 무협 영화 추천, AI로 만든 영화, 실사 무협, 한국 무협 영화, 무협 영화 2026, 유튜브 무협 영화, 볼만한 무협 영화, 요즘 무협 웹툰\n조합 키워드: AI 무협 영화, AI 장편 무협판타지 영화, 실사풍 무협 영화, 실사 AI 무협, 한국형 무협 판타지, 웹소설 원작 무협 영화, 창작 무협 스토리, 무협 성장물 영화, 무협 복수극 영화, 숨은 고수 무협, 사제 관계 무협, 내공 각성 영화, 무림 고수 액션 영화, 정통 무협 영화 추천, 무협 웹툰 좋아하면 추천, 무협 소설 좋아하면 추천, 무협 애니 좋아하면 추천\n조합 키워드(영문): AI Wuxia film, AI Murim series, Cinematic Wuxia short film, Korean Wuxia AI film\n몰아보기·드라마 관련: 천하진검 몰아보기, 천하진검 1화부터 6화, 무협 몰아보기, 무협 영화 몰아보기, AI 영화 몰아보기, AI드라마 몰아보기, 판타지드라마 몰아보기, 60분 무협 영화, 한 시간 영화, 한국형 무협 드라마, 무협 판타지드라마, 실사풍 AI 영화, AI 드라마, 판타지 드라마",
+      "title": "⚔️ 천하진검 1~6화 몰아보기 | 37명이 지킨 소년의 비밀 [60분·KDrama·AI 영화·AI드라마·무협 판타지드라마] | 武侠电影·古装武侠剧·武侠",
+      "description": "37명이 지켜낸 아이. 17년 뒤, 부모의 원수가 그 소년의 힘을 노립니다.\n⚔️ AI 영화·AI드라마 《천하진검》 1화~6화 몰아보기 — 약 60분으로 이어 보는 창작 무협 판타지드라마.\n\n어머니가 남긴 흑옥, 여섯 번의 낙방, 그리고 길 위에서 만난 수상한 노인.\n자신의 뿌리를 찾아 강호로 나선 소년 하진은 감춰진 아버지의 정체와 마주합니다.\n소중한 사람을 지키려는 선택 끝에 도착한 무영곡.\n부모의 원수 ‘그림자’는 왜 하진 안의 힘을 원하는 걸까요?\n\n이번 영상은 《천하진검》 1화부터 6화까지를 이어 붙인 몰아보기입니다.\n탄생의 비밀부터 흑옥의 단서, 목 노인과의 인연, 추격과 대결까지 한 번에 감상하세요.\n전체 재생 시간: 60분 38초.\n\n🎬 작품 소개\n창작 무협소설을 영상으로 풀어낸 오리지널 무협 드라마 《천하진검》.\n강호에 감춰진 비밀과 검술 액션, 운명에 맞서는 소년의 성장을 담았습니다.\n실사풍 무협 영화, 동양 판타지, 사제의 인연과 성장 이야기를 좋아하신다면 함께해 주세요.\nAI 기술을 활용해 제작한 창작 작품입니다.\n\n📺 《천하진검》 본편 이어 보기\n1부 — 프롤로그·탄생의 비밀: https://www.youtube.com/watch?v=XKdFUuPgZ1k\n2부 — 흑옥의 비밀: https://www.youtube.com/watch?v=i43J_Snw1NU\n3부 — 수상한 노인과의 만남: https://www.youtube.com/watch?v=6fKF0MdtDz4\n4부 — 아버지의 정체: https://www.youtube.com/watch?v=Y8dzpUpRo00\n5부 — 소년의 결심: https://www.youtube.com/watch?v=tp8b_jcHYV8\n6부 — 부모의 원수와 숨겨진 힘: https://www.youtube.com/watch?v=J-TIOEhxwBA\n7부 — 아버지의 검을 배우다: 10월 21일 공개 예정\n\n👍 하진의 다음 여정도 함께해 주세요.\n구독과 좋아요는 후속편 제작에 큰 힘이 됩니다.\n가장 기억에 남은 장면과 궁금한 이야기를 댓글로 남겨 주세요.\n🔔 알림을 켜두시면 새 에피소드를 놓치지 않고 만나실 수 있습니다.\nStudio Glow: https://www.youtube.com/channel/UCaLfqgAemI8opLl805SBmyA\n\n#천하진검 #AI영화 #AI드라마 #판타지드라마 #무협영화 #무협드라마 #몰아보기\n\n관련 검색 키워드\n핵심 장르: 무협, 무협물, 무림, 무협판타지, 사극판타지, 동양판타지, 강호, 쾌검, 검술액션, 무협액션\n인접 콘텐츠(만화·애니·소설): 무협만화, 무협웹툰, 웹툰추천, 무협애니, 무협애니메이션, 무협소설, 무협웹소설, 중국무협, 홍콩무협영화, 쿵푸영화, 사극액션영화, 먼치킨무협, 정통무협, 신무협, 회귀물, 환생물, 빙의물\n흥행작 연계 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 열혈강호, 화산귀환, 마도조사, 전지적독자시점, 나혼자만레벨업, 일렉시드\n플랫폼명 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 네이버웹툰, 카카오페이지, 리디, 문피아, 조아라, 노벨피아\nAI 제작 관련: AI영화, AI무협, AI애니메이션, 인공지능영화, AI숏폼영화, AI시네마틱, 생성형AI영화, AI단편영화, AI장편영화\n영문 키워드: Wuxia, Wuxia film, Wuxia fantasy, Murim, Murim manhwa, Korean martial fantasy, AI generated film, Cinematic AI film, Kung fu fantasy, Sword fighting fantasy, AI short film\n롱테일(검색 문장형): 무협 웹툰 추천, 무협 소설 추천, 무협 영화 추천, AI로 만든 영화, 실사 무협, 한국 무협 영화, 무협 영화 2026, 유튜브 무협 영화, 볼만한 무협 영화, 요즘 무협 웹툰\n조합 키워드: AI 무협 영화, AI 장편 무협판타지 영화, 실사풍 무협 영화, 실사 AI 무협, 한국형 무협 판타지, 웹소설 원작 무협 영화, 창작 무협 스토리, 무협 성장물 영화, 무협 복수극 영화, 숨은 고수 무협, 사제 관계 무협, 내공 각성 영화, 무림 고수 액션 영화, 정통 무협 영화 추천, 무협 웹툰 좋아하면 추천, 무협 소설 좋아하면 추천, 무협 애니 좋아하면 추천\n조합 키워드(영문): AI Wuxia film, AI Murim series, Cinematic Wuxia short film, Korean Wuxia AI film\n몰아보기·드라마 관련: 천하진검 몰아보기, 천하진검 1화부터 6화, 무협 몰아보기, 무협 영화 몰아보기, AI 영화 몰아보기, AI드라마 몰아보기, 판타지드라마 몰아보기, 60분 무협 영화, 한 시간 영화, 한국형 무협 드라마, 무협 판타지드라마, 실사풍 AI 영화, AI 드라마, 판타지 드라마\n\n#KDrama #KoreanDrama #AIKDrama #WuxiaDrama\n\nKDrama 관련 검색 키워드\nKDrama, Korean Drama, Korean Fantasy Drama, AI KDrama, Wuxia Drama, Korean Wuxia, Martial Arts Drama, Korean historical fantasy, Korean martial arts series\n\n【中文搜索关键词｜繁體中文】\n《天下真剑》是一部韩国原创 AI 武侠系列，以中式武侠风格呈现江湖、武林、武林盟、剑客、剑术对决、门派纷争、人物成长与武侠爱情。适合喜欢武侠电影、武侠片、古装武侠、古装武侠电影、武侠剧、古装武侠剧、武侠电视剧、古装武侠电视剧、武侠短剧、古装武侠短剧、武侠动作片、古装动作片、经典武侠电影、经典武侠剧、武侠电影推荐、古装武侠电影推荐、江湖武侠、动作武侠、玄幻武侠、武侠玄幻剧、东方玄幻、武侠成长、AI武侠、AI武侠电影、AI武侠剧、AI古装剧、AI短片电影、AIGC武侠、原创武侠短片、中式武侠AI短片电影、韩国武侠剧与韩国奇幻剧的观众。\n\n《天下真劍》是一部韓國原創 AI 武俠系列，以中式武俠風格呈現江湖、武林、劍客、劍術對決、門派紛爭與人物成長。適合喜愛武俠電影、古裝武俠、古裝武俠電影、武俠劇、古裝武俠劇、武俠電視劇、武俠短劇、武俠動作片、古裝動作片、經典武俠電影、江湖武俠、東方玄幻、武俠愛情、AI武俠電影與原創武俠故事的觀眾。\n\n#武侠 #武侠电影 #古装武侠剧 #AI武侠\n1–6集合集适合搜索武侠剧合集、古装武侠合集、武侠连续剧、古装武侠连续剧与武侠电视剧全集的观众。",
       "channelId": "UCaLfqgAemI8opLl805SBmyA",
       "channelTitle": "Studio Glow",
       "thumbnail": "https://i.ytimg.com/vi/6eiCrRAtpPY/hqdefault.jpg",
@@ -735,7 +735,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -754,7 +754,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -773,7 +773,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -811,7 +811,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -830,7 +830,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -945,7 +945,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -964,7 +964,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -983,7 +983,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -1004,7 +1004,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     },
     {
@@ -1039,11 +1039,11 @@
       "matchedKeywords": [
         "AI 드라마 영화"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": "2026-10-21T03:09:37.755Z"
     },
     {
       "videoId": "Bk2_hL-V00M",
@@ -1061,7 +1061,102 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-10-20T03:14:38.965Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hx5YrmPbcCA",
+      "url": "https://www.youtube.com/watch?v=hx5YrmPbcCA",
+      "title": "[킥의여신 1~4화 합본] 주유소 알바생인 줄 알았던 전 국가대표 여신, 조폭들을 쓸어버리다  | 참교육 몰아보기 | AI 드라마",
+      "description": "[킥의여신 1~4화 합본] 주유소 알바생인 줄 알았던 전 국가대표 여신, 조폭들을 쓸어버리다  | 참교육 몰아보기 | AI 드라마\n\n서울 강남 신사역 4거리, 화려한 불빛 사이에 홀로 불을 밝힌 작은 셀프주유소.\n그곳 편의점 카운터를 지키며 조용히 살아가는 알바생, 서율.\n말수도 적고 표정 변화도 없던 그녀 앞에, 동네를 주름잡는 흑룡파 조폭들이 나타난다.\n\n사장님을 협박하고, 알바 주제에 참견 말라며 그녀를 밀쳐내는 그들.\n하지만 그 손이 닿은 순간, 조용하던 그녀의 눈빛이 달라진다.\n\n아무도 몰랐다.\n그녀가 한때, 대한민국 킥복싱 국가대표였다는 것을.\n\n지하철에서 노인을 괴롭히던 조폭들,\n사장님을 납치해 폐건물로 끌고 간 조직원 20명,\n명동 백화점을 무대로 한 신분증 밀매 조직,\n그리고 일본에서 건너온 190cm의 야쿠자 해결사까지.\n\n복싱 국가대표 출신 친구 민지, 유도 국가대표 출신 김도한 경장과 함께\n서율은 흑룡파가 보내는 적들을 하나씩 쓰러뜨려 나간다.\n\n하지만 싸움이 계속될수록 드러나는 거대한 음모.\n흑룡파가 그토록 주유소를 노린 이유, 강남 개발 계획서 속에 숨겨진 거물의 이름,\n경찰 내부의 검은 그림자, 그리고 4년 전 서율에게 씌워진 경기 조작 누명의 진실까지.\n\n조용히 살고 싶었던 알바생과 강남을 집어삼키려는 조직의 전쟁.\n'킥의 여신'의 1화부터 4화까지, 한 번에 몰아보세요.\n\nTrack\n00:00 1화 늘푸른주유소\n08:51 2화 출근길이 위험해\n22:48 3화 백화점 쓰리군 소탕\n35:51 4화 사라진 계획서\n\n🔔 구독과 알림 설정으로 다음 작품도 함께해 주세요!\n▶ 구독과 좋아요는 다음 이야기를 만드는 힘이 됩니다. \n   댓글로 여러분의 생각을 남겨주세요.\n\n📌 이 영상은 AI로 제작된 창작 드라마입니다. 등장하는 인물·기업·사건은 모두 허구이며 실제와 관련이 없습니다.\n📌 This is a fictional drama created with AI. All characters, companies and events are fictitious.\n\n\n\n#킥의여신 #AI드라마 #사이다드라마 #참교육 #몰아보기 #복수극 #액션드라마 #경찰비리 #권선징악 #합본 #한국드라마 #AI영화 #국가대표 \n#정주행 #웹드라마 #aidrama #aidramaseries #aimovie #kdramas #shortdrama #webdrama",
+      "channelId": "UCV1o4bEeVZSTusf8CLBMUlg",
+      "channelTitle": "AI영화극장",
+      "thumbnail": "https://i.ytimg.com/vi/hx5YrmPbcCA/hqdefault.jpg",
+      "publishedAt": "2026-10-20T08:20:14Z",
+      "durationSeconds": 3198,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:37.755Z",
+      "lastSeenAt": "2026-10-21T03:09:37.755Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7dXSZtFe11U",
+      "url": "https://www.youtube.com/watch?v=7dXSZtFe11U",
+      "title": "(10화~14화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 10화\n10:01 11화\n16:56 12화\n27:17 13화\n33:52 14화",
+      "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
+      "channelTitle": "AI 드라마 by JooBin",
+      "thumbnail": "https://i.ytimg.com/vi/7dXSZtFe11U/hqdefault.jpg",
+      "publishedAt": "2026-10-19T11:30:33Z",
+      "durationSeconds": 2559,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:37.755Z",
+      "lastSeenAt": "2026-10-21T03:09:37.755Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dYB41yGUl04",
+      "url": "https://www.youtube.com/watch?v=dYB41yGUl04",
+      "title": "(5화~9화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 05화\n05:50 06화\n10:18 07화\n17:40 08화\n24:39 09화",
+      "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
+      "channelTitle": "AI 드라마 by JooBin",
+      "thumbnail": "https://i.ytimg.com/vi/dYB41yGUl04/hqdefault.jpg",
+      "publishedAt": "2026-10-19T11:15:11Z",
+      "durationSeconds": 1932,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:37.755Z",
+      "lastSeenAt": "2026-10-21T03:09:37.755Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WTj0LtYCjDU",
+      "url": "https://www.youtube.com/watch?v=WTj0LtYCjDU",
+      "title": "(1화~4화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 01화\n09:46 02화\n16:50 03화\n26:42 04화",
+      "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
+      "channelTitle": "AI 드라마 by JooBin",
+      "thumbnail": "https://i.ytimg.com/vi/WTj0LtYCjDU/hqdefault.jpg",
+      "publishedAt": "2026-10-19T11:00:39Z",
+      "durationSeconds": 2081,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:37.755Z",
+      "lastSeenAt": "2026-10-21T03:09:37.755Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qT02RSe7yoU",
+      "url": "https://www.youtube.com/watch?v=qT02RSe7yoU",
+      "title": "라스트 판타지 시즌1 완결 ｜AI 드라마｜라스트 판타지 15화 ｜Fantasy Drama｜Last Fantasy｜AI Drama ｜AIドラマ",
+      "description": "#ai영상 #생성형ai #Capcut\n\n라스트 판타지는 Capcut의 편집 기능을 이용하여 제작됩니다. 캡컷에서는 라스트 판타지에 이용된 \n\n영상 생성 툴 seedance 2.0. seedance 2.5를 바로 편집기에서 생성 바로 타임라인에 적용시킬수 있습니다.   \n                 \n#Capcut  #ai영상 #생성형ai #seedance\n\nhttps://last-fantasy-characters.vkfclf12.chatgpt.site/#world\n\n평범한 회사원이었던 채리는 현실을 벗어나 꿈을 이루기 위해 수상한 판타지 게임 세계에 뛰어든다.\n그런데 그곳에서 만난 사람은… 회사 부장 마이수?!\n\n채리는 이수를 전혀 모르지만, 마이수는 어째서인지 채리를 알고 있다!\n서로 다른 기억, 이상한 관계, 말도 안 되는 상황 속에서 시작되는 좌충우돌 판타지 모험!\n\n과연 채리는 이 세계에서 진짜 꿈을 이룰 수 있을까?\n그리고 마이수는 왜 채리를 알고 있는 걸까?\n\n웃기고, 당황스럽고, 이상하게 설레는\n소녀 채리의 인생 역전 판타지 여정이 시작됩니다!\n\n재밌게 보셨다면 좋아요와 구독 부탁드립니다!\n\n#라스트판타지 #AI드라마 #판타지드라마 #게임판타지 #쌀먹게임 #회사원탈출 #프로게이머 #웹드라",
+      "channelId": "UC6GS3l7eREzrovTeuNY2gIg",
+      "channelTitle": "픽셔라마",
+      "thumbnail": "https://i.ytimg.com/vi/qT02RSe7yoU/hqdefault.jpg",
+      "publishedAt": "2026-10-17T06:57:17Z",
+      "durationSeconds": 2524,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-21T03:09:37.755Z",
+      "lastSeenAt": "2026-10-21T03:09:37.755Z",
+      "lastVerifiedAt": "2026-10-21T03:09:37.755Z",
       "unavailableAt": null
     }
   ]
