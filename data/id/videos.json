@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:10:06.874Z",
+  "generatedAt": "2026-10-22T03:08:33.209Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -489,11 +489,11 @@
       "matchedKeywords": [
         "film kecerdasan buatan full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "unavailableAt": "2026-10-22T03:08:33.209Z"
     },
     {
       "videoId": "2llxee0VlQs",
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -828,7 +828,7 @@
       "channelTitle": "oneaifilm",
       "thumbnail": "https://i.ytimg.com/vi/qZ6ItfHMPyE/hqdefault.jpg",
       "publishedAt": "2026-10-17T13:45:26Z",
-      "durationSeconds": 3095,
+      "durationSeconds": 2678,
       "matchedKeywords": [
         "film kecerdasan buatan full"
       ],
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,64 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ofYwe3_s6VE",
+      "url": "https://www.youtube.com/watch?v=ofYwe3_s6VE",
+      "title": "WORLD APART - FULL MOVIE | Emotional African Ai Drama #fullmovie #lovestory #africanstories ",
+      "description": "The Billionaire Rescued A Poor Girl… Then Fell In Love With Her FULL MOVIE \n\nWORLD APART is an emotional Nigerian AI movie about two people from completely different worlds whose paths cross at a time when neither of them is prepared for what comes next. \nThis is a story about hope, sacrifice, class differences, loyalty, emotional Nigerian/Nollywood-style African drama filled with family betrayal, heartbreak, unexpected kindness, romance, a life-changing journey and finding love where you least expect it. \n\n❤️ If you enjoy African movies, Nigerian movies, emotional family dramas, billionaire love stories, and inspiring stories of survival, watch until the end.\n\n👍 Like this video, subscribe to Kokomma tv, and turn on notifications.\n💬 Comment below: If you were Olivia, would you ever forgive Agnes?\nCan true love really survive when two people come from completely different worlds? \n\n#WorldsApart, #DramaQueen, #Nigerian Movie , #Nigerian Movies, #Nollywood , #Nollywood Movies, #African Movies, #AfricanMovie, #NigerianAlMovie, #AlMovie , #AfricanStories, #NigerianStories, #LoveStory , #NigerianLoveStory, #AfricanLoveStory , #Romantic Movie, #RomanticDrama , #Emotional Movie, #FamilyDrama , #Relationship Drama, #LoveAndBetrayal , #AfricanCinema, #NigerianFilm, #FullMovie , #MovieNight, #UnexpectedLove, #AfricanEntertainment\n\n\n#TheyAreWorldsApart  #nollywoodmovies #africanstories  #africandrama #billionairelovestory  #lateststories #emotionalmovie   #nigerianmovie  #africanstories",
+      "channelId": "UC_B64PNeEzuUIHUc0RLxIiA",
+      "channelTitle": "KOKOMMA TV",
+      "thumbnail": "https://i.ytimg.com/vi/ofYwe3_s6VE/hqdefault.jpg",
+      "publishedAt": "2026-10-21T11:00:26Z",
+      "durationSeconds": 2657,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:33.209Z",
+      "lastSeenAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0HBsSe3cjvA",
+      "url": "https://www.youtube.com/watch?v=0HBsSe3cjvA",
+      "title": "RUDO neMISODZI (Full Zimbabwean Ai Movie)",
+      "description": "RUDO neMISODZI (Full Zimbabwean Ai Movie)\n\n#naizaboom #zimdrama #zimai #ai #zimbabwe",
+      "channelId": "UCyYcTFT3ifo_1C_Mhtc_SSQ",
+      "channelTitle": "Afri Ai Movies",
+      "thumbnail": "https://i.ytimg.com/vi/0HBsSe3cjvA/hqdefault.jpg",
+      "publishedAt": "2026-09-30T14:22:52Z",
+      "durationSeconds": 2487,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:33.209Z",
+      "lastSeenAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "x0ph5bOGLwA",
+      "url": "https://www.youtube.com/watch?v=x0ph5bOGLwA",
+      "title": "Ayah Miliarderku Akhirnya Menemukanku Drama Ai Full Episode",
+      "description": "Ayah Miliarderku Akhirnya Menemukanku",
+      "channelId": "UCdFXPEPmwJZOXLQ36v-_urA",
+      "channelTitle": "ayah miliarderku",
+      "thumbnail": "https://i.ytimg.com/vi/x0ph5bOGLwA/hqdefault.jpg",
+      "publishedAt": "2026-09-20T09:09:55Z",
+      "durationSeconds": 3779,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:33.209Z",
+      "lastSeenAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
       "unavailableAt": null
     }
   ]

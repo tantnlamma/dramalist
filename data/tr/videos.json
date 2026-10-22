@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:10:05.149Z",
+  "generatedAt": "2026-10-22T03:08:31.247Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-21T03:10:05.149Z",
+      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-21T03:10:05.149Z",
+      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-21T03:10:05.149Z",
+      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
       "unavailableAt": null
     },
     {
@@ -94,6 +94,25 @@
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
       "lastVerifiedAt": "2026-10-20T03:15:05.945Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8GHgc3uvvCE",
+      "url": "https://www.youtube.com/watch?v=8GHgc3uvvCE",
+      "title": "Ölüm Makinesi  (The Machine ) ❘ Türkçe Dublajlı Full 🅗🅓 ( Bilim kurgu ve gerilim film )",
+      "description": "İki yetenekli bilgisayar programcısı, yapay zeka üzerine yaptıkları çalışmalar neticesinde, türünün ilk örneği olan, kendinden haberdar ve insanlara yardım etme kapasitesine sahip bir yapay zeka geliştirirler. Bu yapay zeka, öyle bir ileri seviyededir ki programcılar zamanla ona duygusal bir bağ kurmaya başlarlar. Ancak durum, projelerini çok yakından takip eden Savunma Bakanlığı'nın yapay zekayı ele geçirmesiyle bir anda değişir. Bakanlık, bu zekayı sadece savunma amaçları için değil, bir robotik silah olarak kullanabilmek için yeniden programlar. Programcıların yaratıcılıkla ve iyi niyetle ürettikleri bu yapay zeka, beklenmedik şekilde bir silaha dönüştürüldüğünde, tahmin edilemeyen sonuçlar ortaya çıkar ve durum kontrolden çıkar. Film, yapay zekanın potansiyel tehlikelerini ve teknoloji ile etik arasındaki çizgiyi dramatik bir şekilde ele alıyor. Programcıların ve yapay zekanın macerası izleyiciye, bilimin sınırlarını ve insanlığın bu sınırlar içindeki yerini sorgulatan bir hikâye sunuyor.\n\nYönetmen\nCaradog W. James\n \nOyuncular\nCaity Lotz, Denis Lawson, Sam Hazeldine, Toby Stephens\n \nYapım\n2013 Filmleri İngiltere\n \nTür\nAksiyon Filmleri, Bilim Kurgu Filmleri, Dram Filmleri, Gerilim Filmleri\n \nKategori\nYabancı Filmler - 1080p\n \nDil\nTürkçe Dublaj / Türkçe Altyazılı",
+      "channelId": "UCAly2TEilvRXoGd9IjJS7GQ",
+      "channelTitle": "Film Kutusu",
+      "thumbnail": "https://i.ytimg.com/vi/8GHgc3uvvCE/hqdefault.jpg",
+      "publishedAt": "2026-10-21T13:07:44Z",
+      "durationSeconds": 5429,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:31.247Z",
+      "lastSeenAt": "2026-10-22T03:08:31.247Z",
+      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
       "unavailableAt": null
     }
   ]

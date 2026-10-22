@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:09:26.474Z",
+  "generatedAt": "2026-10-22T03:07:53.300Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -69,11 +69,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": "2026-10-22T03:07:53.300Z"
     },
     {
       "videoId": "i2syFiIC1BU",
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -460,7 +460,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -632,7 +632,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -768,7 +768,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -789,7 +789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -808,7 +808,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -828,7 +828,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -848,7 +848,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -867,7 +867,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1000,7 +1000,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1019,7 +1019,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1038,7 +1038,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1057,7 +1057,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1152,7 +1152,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1190,7 +1190,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1228,7 +1228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1266,7 +1266,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1285,7 +1285,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1305,7 +1305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1343,7 +1343,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1400,7 +1400,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1419,7 +1419,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1571,7 +1571,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1685,13 +1685,13 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
       "videoId": "MM8hsm5ZaN0",
       "url": "https://www.youtube.com/watch?v=MM8hsm5ZaN0",
-      "title": "MOTHER'S MONSTER  She  Came  BackFrom  The Dead  |Horror  Movie   #themothersmonster ",
+      "title": "MOTHER'S MONSTER (2026) 😱 He Raised The Monster | Epic 4K    #MotherMonster #shortvideo ",
       "description": "MOTHER'S MONSTER (2026) - Avenged His Mother | 4K English AI Movie | Full AI Movie\n\n🔥 A son becomes a monster to avenge his mother. Now the bloody game begins.\n\n🔔 LIKE karo warna Mother's Monster raat ko aayega!\nSUBSCRIBE karo Part 2 ke liye - 1000 Subs par Part 2!\n\n✅ LIKE kardo agar movie pasand aayi!\n✅ COMMENT me batao - kya bete ne sahi kiya?\n✅ SUBSCRIBE - THEMOTHERMONSTER-D4M pe roz nayi AI Movie!\n\nWATCH IN 4K - A powerful AI Fantasy Movie in English about revenge, love and fire.\n\n🎬 MOVIE STORY:\nWhen enemies destroy his mother and his kingdom, a gentle white dragon turns into a fire-breathing MONSTER. He will burn every castle, every enemy... to take revenge for his mother. This is not just a monster movie, it's a mother's revenge story.\n\n✨ Features:\n- Full AI Movie in 4K Ultra HD\n- English AI Movie 2026\n- Emotional Monster Revenge Story\n- Fire Dragon Action & Fantasy World\n\n🔔 Subscribe for more AI Movies!\n\n#MothersMonster #AvengedHisMother #EnglishAIMovie #4KAIMovie #AIMovie2026 #MonsterMovie #DragonMovie #FantasyMovie #RevengeMovie #FullAIMovie\n\nKeywords: mother's monster, avenged his mother, english ai movie, 4k ai movie, ai movie 2026, monster movie english, dragon ai movie\n\n---\n© 2026 MOTHER'S MONSTER - Avenged His Mother. All Rights Reserved.\n\nLicensed & Distributed by Abdul Rasheed AI Films\nThis is an Original AI Movie Created with Artificial Intelligence.\n\nFor Licensing, Distribution & Business Inquiries:\n📧 abdulrasheed19780220@gmail.com\n\nUnauthorized copying, re-uploading or re-editing of this film is strictly prohibited.\n\n#MothersMonsterOfficial",
       "channelId": "UCse6ydXdehB2JT_zubHlOeA",
       "channelTitle": "Abdul Rasheed",
@@ -1723,7 +1723,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1742,7 +1742,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1789,7 +1789,7 @@
       "title": "THE LAST SIGNAL 2 | Sci-Fi Mystery Thriller |Full Movie #uk #usa #india #pakistan #viral #viralvideo",
       "description": "Welcome to Durrani Films 🎬 | Where Every Story Comes to Life ❤️\n\nDurrani Films is a cinematic entertainment channel dedicated to bringing powerful stories, emotional dramas, AI movies, fantasy adventures, action-packed scenes, and unforgettable characters to life.\n\nFrom short cinematic stories to complete AI-generated movies, we create original entertainment designed to take you into a world of emotion, mystery, adventure, love, fantasy, and drama. 🌎✨\n\n🎥 What You’ll Find on Durrani Films:\n\nTHE LAST SIGNAL 🌊 | Sci-Fi Mystery Thriller | Full MovieA mysterious signal from the depths of the Atlantic Ocean. A team of scientists descends 4,000 meters to uncover its source — and discovers something that has been waiting for millions of years.Dr. Ethan Carter and Dr. Emily Reed must confront an ancient intelligence, a government cover-up spanning 26 years, and a choice that will decide humanity's fate.⏱️ Chapters:\nPart 1 — The Signal (0:00)\nPart 2 — The Descent (25:00)\nPart 3 — The Creature (50:00)\nPart 4 — The Last Choice (75:00)\n🎬 Produced by Durrani Films\n🌍 Made for US & UK audiences\n#TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie\n\n👉 Subscribe to Durrani Films and turn on 🔔 notifications so you never miss a new movie or Shorts!\n\nDurrani Films — Where Every Story Comes to Life. 🎬✨\n\n#DurraniFilms #AIMovies #AIFilms #CinematicStories #ShortFilms #Movies #Drama #Fantasy #ActionMovies #AIStorytelling #YouTubeShorts #ViralShorts #MovieLovers #Storytelling #Entertainment #TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie #ThrillerMovie #EnglishMovie #mustwatch",
       "channelId": "UCprLBVgcLqejRlHsMvy_5YQ",
-      "channelTitle": "Durrani Films",
+      "channelTitle": "DurraniFilms",
       "thumbnail": "https://i.ytimg.com/vi/Fh13zUTDHpY/hqdefault.jpg",
       "publishedAt": "2026-10-11T05:52:15Z",
       "durationSeconds": 6823,
@@ -1818,7 +1818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1837,7 +1837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1856,7 +1856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1875,7 +1875,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1914,7 +1914,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1933,7 +1933,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -1952,7 +1952,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     },
     {
@@ -2029,6 +2029,140 @@
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
       "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KigQvS7KRNI",
+      "url": "https://www.youtube.com/watch?v=KigQvS7KRNI",
+      "title": "From Poverty to Billionaire with AI content creation episode 1 and 2 full movie",
+      "description": "🔥 FROM POVERTY TO BILLIONAIRE WITH AI CONTENT CREATION — EPISODES 1 & 2 | THE COMPLETE STORY SO FAR! 🎬💰\n\n💔 From struggling to survive to discovering an opportunity that could change his life forever!\n\nWhat happens when a man who has experienced poverty, rejection, disappointment, and financial hardship refuses to give up on his dreams?\n\nWelcome to FROM POVERTY TO BILLIONAIRE WITH AI CONTENT CREATION, an inspiring, emotional, and suspense-filled cinematic series brought to you by MR. CHIDI BENSON ORIGINAL PRODUCTION.\n\n🎬 EPISODE 1 — A NEW BEGINNING\n\nFollow Chidi's emotional journey as he struggles through financial difficulties while searching for an opportunity to transform his future.\n\nWhen he discovers the possibilities of artificial intelligence and AI content creation, a new chapter of hope, determination, and ambition begins.\n\nBut will his determination be enough to overcome the challenges ahead?\n\n🎬 EPISODE 2 — THE SECRET BEHIND THE PHOTOGRAPH\n\nJust when Chidi begins to believe that his life is changing for the better, a mysterious photograph introduces unexpected questions, hidden secrets, and shocking discoveries.\n\nTogether with Amara, Chidi begins investigating clues that could reveal a dangerous truth.\n\nWho is hiding behind the photograph?\n\nWhat secrets are waiting to be uncovered?\n\nAnd how will these discoveries affect Chidi's journey towards success?\n\n🔥 WATCH EPISODES 1 AND 2 TOGETHER AND EXPERIENCE THE STORY FROM THE BEGINNING!\n\n💡 POWERFUL LESSONS FROM THIS MOVIE\n\n✅ Never allow poverty to destroy your dreams.\n\n✅ Your present financial situation does not determine your future.\n\n✅ Learning valuable digital skills can create new opportunities.\n\n✅ Artificial intelligence is changing how people create content and build businesses.\n\n✅ Determination, patience, and consistency are essential for success.\n\n✅ Every successful journey begins with a decision to start.\n\n❤️ A SPECIAL MESSAGE TO OUR VIEWERS\n\nThis movie is more than entertainment. It is a story of hope, perseverance, ambition, technology, and the courage to pursue a better future.\n\nIf you are struggling financially, searching for opportunities, or dreaming of building a successful future, this inspirational movie is for you.\n\n🙏 PLEASE SUPPORT OUR GROWING YOUTUBE CHANNEL!\n\n👍 LIKE this video.\n\n💬 COMMENT: What lessons have you learned from Chidi's journey?\n\n❤️ SHARE this movie with your friends and family.\n\n🔔 SUBSCRIBE to MR CHIDI BENSON and turn on notifications so you never miss the next exciting episode.\n\n🎥 MORE EPISODES ARE COMING!\n\nThe journey from poverty to billionaire has only just begun!\n\nDREAM BIG. LEARN NEW SKILLS. CREATE OPPORTUNITIES. NEVER GIVE UP! 🚀💰\n\n🎬 A MR. CHIDI BENSON ORIGINAL PRODUCTION\n\n#frompovertytobillionaire #aicontentcreation #inspirationalmovie #aifilmmaking #mrchidibenson #facelessyoutube #youtube #makemoneyfromhome #makemoneyonline",
+      "channelId": "UCeOmmvXs_htNezComeAtFew",
+      "channelTitle": "Mr Chidi Benson ",
+      "thumbnail": "https://i.ytimg.com/vi/KigQvS7KRNI/hqdefault.jpg",
+      "publishedAt": "2026-10-21T22:45:04Z",
+      "durationSeconds": 2243,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "agSrdYQwp2g",
+      "url": "https://www.youtube.com/watch?v=agSrdYQwp2g",
+      "title": "THE OPERATOR | AI Sci-Fi Thriller Full Movie (60 Min) | Who Really Controls AI?",
+      "description": "This video is a fictional story created for entertainment purposes only. All characters, events, creatures, locations and incidents shown in this video are imaginary and do not represent real people or real-life events.\n\nAny scenes involving fighting, violence, blood or revenge are part of the fictional storyline and are not intended to encourage, glorify or promote real-world violence, crime or harmful behavior.\n\nViewer discretion is advised. Please do not imitate or recreate any dangerous or violent actions shown in this fictional story.\n\nThis content is intended for entertainment and storytelling purposes only.What happens when Artificial Intelligence becomes more powerful than the people who created it? 🤖\n\n**THE OPERATOR** is a cinematic AI sci-fi thriller exploring a terrifying question: Who really controls AI — humanity or the machine?\n\nAs secrets emerge and the line between human decisions and artificial intelligence begins to disappear, one discovery could change everything.\n\n🎬 **MOVIE:** THE OPERATOR  \n🎭 **GENRE:** Sci-Fi Thriller | AI | Mystery | Suspense  \n⏱️ **RUNTIME:** 60 Minutes  \n🎥 **MADE WITH AI. DIRECTED BY A HUMAN.**\n\n🔥 Can humanity take back control before it's too late?\n\nWatch the movie until the end and share your thoughts in the comments!\n\n💬 **QUESTION:** Do you believe AI will help humanity or eventually control it?\n\n👍 Like the video  \n💬 Comment your theory  \n🔔 Subscribe to **EpicFrame Studios** for more AI-generated movies, sci-fi thrillers, and cinematic stories.\n\nThis is a fictional story created for entertainment. Characters and events are fictional.\n\n#TheOperator #SciFiThriller #AIMovie#TheOperator #SciFiThriller #AIMovie #ArtificialIntelligence #ScienceFiction #FullMovie #AIFilm #TechThriller #FutureOfAI #EpicFrameStudios #AIThriller #SciFiMovie",
+      "channelId": "UCzBMh9tZ5YWhQlrA0m2ALjg",
+      "channelTitle": "EpicFrame Studios",
+      "thumbnail": "https://i.ytimg.com/vi/agSrdYQwp2g/hqdefault.jpg",
+      "publishedAt": "2026-10-21T17:43:04Z",
+      "durationSeconds": 3600,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "j9gW8VoHqFw",
+      "url": "https://www.youtube.com/watch?v=j9gW8VoHqFw",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/j9gW8VoHqFw/hqdefault.jpg",
+      "publishedAt": "2026-10-21T12:30:04Z",
+      "durationSeconds": 7519,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4jiPMJS2FoE",
+      "url": "https://www.youtube.com/watch?v=4jiPMJS2FoE",
+      "title": "【FULL MOVIE】The Stolen Dragon's True Heir | Fantasy Drama",
+      "description": "【FULL MOVIE】The Stolen Dragon's True Heir | Fantasy Drama\n\n🎥 EXPERIENCE THE NEXT GENERATION OF CINEMA\n\nWelcome to \"Mythora Films AI\", where imagination meets cinematic innovation.\n\nStep into a visually stunning world of AI filmmaking, original concepts, extraordinary characters, and stories designed to transport you beyond the limits of reality.\n\nFrom massive cinematic landscapes and futuristic megacities to mythical creatures, supernatural forces, and breathtaking adventures, every creation explores new possibilities in digital filmmaking.\n\n🔥 DISCOVER OUR CINEMATIC WORLDS\n\n🎬 AI Cinematic Films — Experience original visual storytelling powered by artificial intelligence.\n\n🌍 Fantasy & Mythology — Explore legendary worlds, ancient secrets, powerful heroes, and mythical realms.\n\n🚀 Science Fiction — Travel to distant galaxies, advanced civilizations, and possible futures.\n\n🌑 Mystery & Suspense — Uncover hidden truths, unexpected twists, and worlds filled with secrets.\n\n✨ Visual Imagination — Witness ambitious creative visions brought to life through AI-assisted filmmaking.\n\n🎞️ MORE THAN A FILM. A NEW REALITY.\n\nAt \"Mythora Films AI\", we believe the future of storytelling belongs to those who dare to imagine differently. Our goal is to explore the creative potential of artificial intelligence and deliver memorable cinematic experiences for audiences around the world.\n\n🌟 BE PART OF THE STORY\n\nSubscribe to \"Mythora Films AI\" for more imaginative films, extraordinary adventures, and cinematic worlds waiting to be discovered.\n\n👍 Enjoyed the film? Leave a like.\n💬 What did you think of the story? Tell us in the comments.\n🔔 Turn on notifications to discover our next cinematic creation.\n\nThe future of cinema is being imagined today.\n\n\"Mythora Films AI\" — Imagine Beyond. Experience More.\n\n⚠️ CONTENT NOTICE: This production may include AI-generated or AI-assisted visuals, voices, characters, and environments. The film is created for entertainment and artistic purposes.\n\n#MythoraFilmsAI #AIcinema #AImovie #AIFilmmaking #CinematicFilms #ArtificialIntelligence #SciFiMovies #FantasyCinema",
+      "channelId": "UCNf58z-ktbiLTaA8TLcU5JA",
+      "channelTitle": "Mythora Films AI",
+      "thumbnail": "https://i.ytimg.com/vi/4jiPMJS2FoE/hqdefault.jpg",
+      "publishedAt": "2026-10-21T11:00:19Z",
+      "durationSeconds": 4181,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FeKlnXmsUhc",
+      "url": "https://www.youtube.com/watch?v=FeKlnXmsUhc",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/FeKlnXmsUhc/hqdefault.jpg",
+      "publishedAt": "2026-10-21T10:45:02Z",
+      "durationSeconds": 8061,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lI4ZGDoIXmw",
+      "url": "https://www.youtube.com/watch?v=lI4ZGDoIXmw",
+      "title": "Hazrat Sulaiman AS Full Story in Urdu  Islamic AI Movie  Miracles of Prophet Solomon  Mrashiqaliai",
+      "description": "Hazrat Sulaiman AS Full Story in Urdu | Islamic AI Movie | Miracles of Prophet Solomon | Mrashiqaliai\n\nDiscover the amazing story of Hazrat Sulaiman (AS), Prophet Solomon, in this cinematic Islamic AI Movie presented by Mrashiqaliai.\n\nThis AI-generated Islamic movie explores the inspiring story of Prophet Sulaiman (AS), his wisdom, his kingdom, the miracles granted to him by Allah, his understanding of animals and birds, and the famous story of the Queen of Sheba (Bilqis), as described in the Holy Quran.\n\nExperience a powerful Islamic historical story brought to life through AI movie creation, cinematic visuals, storytelling, and an immersive atmosphere. This video is created for educational, historical, and storytelling purposes, with respect for Islamic teachings.\n\n🎬 Movie Topics: Hindi movies \n\n- Hazrat Sulaiman AS Full Story\n- Prophet Solomon Islamic Story\n- Hazrat Sulaiman AS Miracles\n- Prophet Sulaiman and the Queen of Sheba\n- Bilqis and Prophet Sulaiman AS\n- Hazrat Sulaiman AS and the Kingdom\n- Islamic History and Quranic Stories\n- Islamic AI Movie in Urdu\n- AI Generated Historical Movie\n- Prophet Stories in Urdu\n- Islamic Cinematic Storytelling\n- Artificial Intelligence Movie Creation\n\nIf you enjoy Islamic stories, AI-generated movies, historical films, and Quranic storytelling, subscribe to Mrashiqaliai for more AI movies, inspiring stories, and cinematic creations.\n\n👍 Like the video, share it with others, and subscribe to Mrashiqaliai for more content.\n\nDisclaimer: This is an AI-generated cinematic interpretation of a religious and historical story. AI-generated scenes may be artistic representations and should not be treated as exact historical records. Please refer to the Holy Quran and authentic Islamic sources for religious details.\nHazrat Sulaiman AS, Hazrat Sulaiman story, Prophet Sulaiman, Prophet Solomon, Hazrat Suleman AS, Suleman Alaihissalam, Sulaiman AS full story, Hazrat Sulaiman movie, Islamic AI movie, AI movie Urdu, Islamic movie, Islamic stories in Urdu, Quran stories, stories of prophets, Prophet stories, Hazrat Sulaiman miracles, Queen of Sheba, Queen Bilqis, Bilqis story, Islamic history, Islamic historical movie, AI generated movie, AI cinematic movie, Urdu AI movie, Islamic documentary, historical AI film, Solomon story, Muslim history, Mrashiqaliai, Mrashiq Ali AI, AI film\n#HazratSulaiman #ProphetSulaiman #IslamicMovie #AIMovie #Mrashiqaliai #IslamicHistory #ProphetSolomon #QuranStories #IslamicStories #AIHistory #UrduMovie #IslamicAI #QueenOfSheba #Bilqis #AIGeneratedMovie",
+      "channelId": "UC3qxcQJmqL08gVperX9f4QQ",
+      "channelTitle": "Mr Ashiq Ali Ai",
+      "thumbnail": "https://i.ytimg.com/vi/lI4ZGDoIXmw/hqdefault.jpg",
+      "publishedAt": "2026-10-20T05:15:54Z",
+      "durationSeconds": 7461,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Qyp60Se9A1c",
+      "url": "https://www.youtube.com/watch?v=Qyp60Se9A1c",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/Qyp60Se9A1c/hqdefault.jpg",
+      "publishedAt": "2026-10-19T12:35:11Z",
+      "durationSeconds": 8517,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:53.300Z",
+      "lastSeenAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
       "unavailableAt": null
     }
   ]

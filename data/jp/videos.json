@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:09:40.827Z",
+  "generatedAt": "2026-10-22T03:08:06.789Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-20T03:14:41.617Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -330,7 +330,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -484,7 +484,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -503,7 +503,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -522,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -541,7 +541,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -598,7 +598,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:45.447Z",
       "lastSeenAt": "2026-10-18T02:52:45.447Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -618,7 +618,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -638,7 +638,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     },
     {
@@ -708,7 +708,7 @@
       "channelTitle": "oneaifilm",
       "thumbnail": "https://i.ytimg.com/vi/qZ6ItfHMPyE/hqdefault.jpg",
       "publishedAt": "2026-10-17T13:45:26Z",
-      "durationSeconds": 3095,
+      "durationSeconds": 2678,
       "matchedKeywords": [
         "人工知能 映画 フル"
       ],
@@ -734,7 +734,26 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:40.827Z",
       "lastSeenAt": "2026-10-21T03:09:40.827Z",
-      "lastVerifiedAt": "2026-10-21T03:09:40.827Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "srP2-ArJbk0",
+      "url": "https://www.youtube.com/watch?v=srP2-ArJbk0",
+      "title": "PLANET 9: THE SILENT SHEPHERD | What Waits Past Neptune? / AI Sci-Fi | Space Epic | Full Movie | 4K",
+      "description": "🌌 Beyond Neptune, something has been herding the dark for millions of years, and three rival ships have just woken it up.\n\nPLANET 9: THE SILENT SHEPHERD is a full-length AI sci-fi movie set in 2071, a hard science fiction space epic about humanity’s first crewed mission to the edge of the Solar System. Astrophysicist Dr. Naomi Reyes was laughed out of the room for predicting Planet Nine. Nine years later she is proven right, and the coalition, China’s space program, and the private giant Solvay Dynamics race each other across the dark to reach it first.\n\nWhat they find is not a planet. It is a colossal structure fused from thousands of captured worlds, glowing seams spreading across its surface, and a signal that has been waiting far longer than humanity has existed. As the three crews clash over who owns the discovery, one reckless move wakes the ancient core, and the only way out may be to answer a question no one has ever answered.\n\nThis feature-length AI film delivers deep-space scale, a cosmic mystery, political tension between rival crews, a first-contact feeling without monsters, and cinematic 4K visuals from start to finish.\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more long-form AI movies, epic sci-fi worlds, and 4K experimental films every week.\n\n#PLANET9 #TheSilentShepherd #AIFilm #AIMovie #SciFiMovie #SciFiFullMovie #FullMovie #FullMovie4K #4KMovie #SpaceMovie #AISciFi #PlanetNine #HardSciFi #SciFiFullMovieEnglish #AIGeneratedMovie",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/srP2-ArJbk0/hqdefault.jpg",
+      "publishedAt": "2026-10-05T12:15:25Z",
+      "durationSeconds": 4797,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:06.789Z",
+      "lastSeenAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
       "unavailableAt": null
     }
   ]

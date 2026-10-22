@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:09:32.634Z",
+  "generatedAt": "2026-10-22T03:07:58.696Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -70,11 +70,11 @@
       "matchedKeywords": [
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "unavailableAt": "2026-10-22T03:07:58.696Z"
     },
     {
       "videoId": "VFCBuDdTbt4",
@@ -108,11 +108,11 @@
       "matchedKeywords": [
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "unavailableAt": "2026-10-22T03:07:58.696Z"
     },
     {
       "videoId": "vc0keFzAnqw",
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-15T10:28:59.257Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -728,7 +728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -766,7 +766,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -880,7 +880,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     },
     {
@@ -1032,7 +1032,64 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8wBG5IHKFII",
+      "url": "https://www.youtube.com/watch?v=8wBG5IHKFII",
+      "title": "Ramayana Part 2 Full Hindi Movie | Sita Haran & Ravana’s Evil Plan | AI Mythological Movie",
+      "description": "Ramayana Part 2 Full Hindi Movie | Sita Haran & Ravana’s Evil Plan | AI Mythological Movie\n\n\n🚩 RAMAYANA PART 2 FULL HINDI MOVIE | THE EPIC CONTINUES 🚩\n\n🙏 Jai Shri Ram! 🙏\n\nWelcome to AI Story Teller Harish, where ancient Indian history, mythology, and timeless stories come alive through the power of AI storytelling.\n\n🔥 Ramayana Part 2 – The Epic Continues brings you another exciting chapter from the legendary Hindu epic, Ramayana. Experience a world of devotion, courage, mystery, and powerful twists as the story of Lord Shri Ram unfolds.\n\n✨ What to Expect in This Episode?\n🦌 The mysterious Golden Deer (Sone Ka Hiran)\n🏹 Shri Ram and Lakshman’s journey\n🙏 Mata Sita’s devotion and courage\n👑 Ravana’s evil plans and the story of Sita Haran\n🔥 The beginning of an epic conflict between good and evil\n\nDiscover the dramatic events that change the course of the Ramayana forever. This AI-created mythological storytelling experience brings the legendary characters and their unforgettable journey to life.\n\n📺 WATCH, LIKE, SHARE & SUBSCRIBE!\n\nIf you love Ramayana stories, Hindu mythology, Indian epics, and cinematic AI-generated storytelling, this video is for you!\n\n🔔 Subscribe to AI Story Teller Harish for more AI mythological movies, Ramayana episodes, Mahabharata stories, and historical adventures.\n\n🙏 May Lord Shri Ram bless everyone with peace, strength, and happiness. Jai Shri Ram! 🚩\n\n⚠️ Disclaimer: This video is an AI-assisted creative storytelling presentation inspired by the Ramayana. Visuals and dramatizations may be artistic interpretations and are not intended to replace traditional religious texts.\n\n#RamayanaPart2 #Ramayan #SitaHaran #ShriRam #Ravana #HindiMythology #AIMythologicalMovie #AiStoryTellerHarish #HinduMythology #RamayanaStory\n\n#RamayanaPart2 #RamayanPart2 #Ramayana #Ramayan #ShriRam #JaiShriRam #LordRam #SitaHaran #MataSita #Ravana #Ravan #Lakshman #SoneKaHiran #GoldenDeer #RamayanaStory #RamayanKatha #RamayanaInHindi #HindiMythology #HinduMythology #IndianMythology #SanatanDharma #AIMovie #AIMythologicalMovie #AIStorytelling #MythologicalMovie #HindiMovie #RamayanaFullMovie #AiStoryTellerHarish\n\n#RamayanaPart2 #Ramayan #SitaHaran #ShriRam #Ravana #HindiMythology #RamayanaStory #AIMovie #AiStoryTellerHarish #SanatanDharma\n\n\n\nRamayana Part 2, Ramayan Part 2 Full Hindi Movie, Ramayana Hindi Movie, Sita Haran Story, Ravan Sita Haran, Ramayan Full Story in Hindi, Shri Ram Story, Golden Deer Story, Sone Ka Hiran Ramayan, Lakshman Rekha, Ravana Evil Plan, AI Mythological Movie, Hindi Mythological Stories, Ramayana Animation, Ai Story Teller Harish\n\n#RamayanaPart2 #RamayanPart2 #Ramayana #Ramayan #SitaHaran #Ravan #ShriRam #LordRam #MataSita #Lakshman #GoldenDeer #SoneKaHiran #RavanaAbduction #HindiMythology #HinduMythology #RamayanaMovie #AIStory #AIMythologicalMovie #HindiMovie #MythologicalStories #SanatanDharma #RamBhakt #IndianMythology #AiStoryTellerHarish #RamayanKatha",
+      "channelId": "UCc6K3YxUQw_XvJNwrpw17Jg",
+      "channelTitle": "Ai Story Teller Harish ",
+      "thumbnail": "https://i.ytimg.com/vi/8wBG5IHKFII/hqdefault.jpg",
+      "publishedAt": "2026-10-20T15:30:39Z",
+      "durationSeconds": 3203,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:58.696Z",
+      "lastSeenAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2DdrHr_oHBU",
+      "url": "https://www.youtube.com/watch?v=2DdrHr_oHBU",
+      "title": "RAKT DWEEP (Full Movie) | Hindi Action Adventure Thriller | Director's Cut",
+      "description": "RAKT DWEEP (Full Movie) - Director's Cut Cinematic Action Adventure.\nWhen a high-stakes expedition turns into a violent fight for survival, the crew faces relentless threats on a forbidden island. Experience the complete action-packed thriller uninterrupted from start to finish.\n\nRakt Dweep is a Hindi cinematic action-adventure Hybrid AI film engineered for fans of high-octane Bollywood, South Dubbed, Hollywood action thrillers, and  epic adventures.\n\n🎬 WATCH FULL MOVIE: Rakt Dweep - Director's Cut\nGenre: Action / Survival Thriller / Adventure\nLanguage: Hindi (4K Cinematic Audio-Visual)\n\n📌 TIMESTAMPS / MOVIE CHAPTERS:\n03:45 - Story Begins\n12:35 - Dagdu - The Arms Dealer\n23:20 - Secret of Dada Haraka\n26:42 - The Zehreela Bandar Attack\n35:00 - The Hulu Motel Ambush\n40:35 - Rakt Dweep\n--------------------------------------------------\nScript, Screenplay, Editing & Direction by : Ishann\nProduction: ISHANN STUDIOS\nAudio Engineering & Sound Design: ISHANN STUDIOS\nVisual Storytelling & Production: Hybrid AI Cinema\n\nDISCLAIMER\nThe story, all names, characters, and incidents portrayed in this motion picture are entirely fictitious. No identification with actual persons (living or deceased), places, buildings, organizations, or products is intended or should be inferred. Any resemblance to real persons, living or dead, or to actual events or locations is purely coincidental.\n\nCOPYRIGHT\n© 2026 Ishann Studios. All Rights Reserved\n\n#RaktDweep #FullMovie #AIMovie #FullMovie #AIFilm #CinematicAI #HindiThriller#HindiActionMovie #ActionAdventure #HindiThriller #SurvivalThriller #IshannStudios",
+      "channelId": "UCD_b0klpDG1LiMHWviyIfEw",
+      "channelTitle": "ISHANN STUDIOS (Hybrid AI Production)",
+      "thumbnail": "https://i.ytimg.com/vi/2DdrHr_oHBU/hqdefault.jpg",
+      "publishedAt": "2026-10-20T06:30:10Z",
+      "durationSeconds": 3816,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:58.696Z",
+      "lastSeenAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8c764oQRfqc",
+      "url": "https://www.youtube.com/watch?v=8c764oQRfqc",
+      "title": "सास ने गर्भवती बहू को निकाला घर से, सैनिक बेटे से बोला झूठ तेरी पत्नी भाग गई😭 Hindi emotional kahani",
+      "description": "सास ने गर्भवती बहू को निकाला घर से, सैनिक बेटे से बोला झूठ तेरी पत्नी भाग गई😭 Hindi emotional kahani\n\n\n\n\nYour Queries:\nHindi Kahani\nHindi Kahaniyan\nहिंदी कहानी\nहिंदी कहानियां\nAI Story Hindi\nAI 3D Kahani Hindi Mein\nEmotional Kahani Hindi Mein\nइमोशनल कहानी\nदिल छू लेने वाली कहानी\nदुख भरी कहानी\nSaas Bahu Ki Kahani\nसास बहू की कहानी\nगरीब बहू की कहानी\nगर्भवती बहू की कहानी\nसास बहू का ड्रामा\nपारिवारिक कहानी\nपति पत्नी की कहानी\nसैनिक की कहानी\nIndian Army Story Hindi\nSoldier Emotional Story\nHusband Wife Emotional Story\nHeart Touching Story Hindi\nMoral Story Hindi\nसीख देने वाली कहानी\nनई हिंदी कहानी\nगांव की कहानी\nगरीब परिवार की कहानी\nझूठे इल्जाम की कहानी\nससुराल की कहानी\nबहू पर अत्याचार\nEmotional Family Drama\nHindi Family Drama\nSad Story Hindi\nHindi Drama Story\nHindi Storytelling\nLatest Hindi Kahani\nBest Hindi Story\nFamily Emotional Story\nAI Kahani\nAI से बनी कहानी\nAI Generated Story Hindi\nAI Video Hindi\nAI 3D Animation\nAI Animation Story Hindi\nAI Cartoon Story\nAI Movie Hindi\nAI Short Film Hindi\nAI Cinematic Video\nAI Voice Story Hindi\nAI Video Generation\n3D Animation Hindi\n3D Animated Story\nRealistic AI Story\nAI Tools for Video\nYouTube AI Story\nAI Storytelling Hindi\nराजा रानी की कहानी\nराजकुमारी की कहानी\nपुराने जमाने की कहानी\nजादुई कहानी\nमजेदार हिंदी कहानी\nकार्टून वाली कहानी\nप्रेरणादायक कहानी\nमहिलाओं की संघर्ष भरी कहानी\nगरीब बहू की दर्द भरी कहानी\nसैनिक और उसकी पत्नी की कहानी\nसास ससुर की कहानी\nदिल को रुला देने वाली कहानी\nनई AI हिंदी कहानी\nAI हिंदी मूवी\nAI से बनाई गई 3D कहानी\nहिंदी एनिमेशन कहानी\nइमोशनल फैमिली स्टोरी\nहिंदी नैतिक कहानियां\nHindi Moral Stories\nHindi Emotional Stories\nAI Story Video\nAI Video Maker\nAI Animation Hindi\nHindi Kahani 3D Animation\n\n\n\n⚠️ Disclaimer:\nयह कहानी केवल मनोरंजन और नैतिक संदेश के उद्देश्य से प्रस्तुत की गई है। इसमें दिखाए गए सभी पात्र, घटनाएं और परिस्थितियां काल्पनिक हैं। किसी वास्तविक व्यक्ति, स्थान या घटना से इसका संबंध नहीं है। यदि किसी वास्तविक व्यक्ति या घटना से समानता दिखाई देती है, तो वह मात्र संयोग है।\n\n\n\n\n#HindiKahani\n#HindiKahaniya\n#HindiStories\n#HindiStory\n#Kahani\n#Kahaniya\n#EmotionalStory\n#MoralStories\n#HeartTouchingStory\n#SaasBahuKiKahani\n#FamilyDrama\n#EmotionalKahani\n#HindiMoralStory\n#SadStory\n#IndianArmy\n#SoldierStory\n#AIStory\n#AIStoryHindi\n#AIKahani\n#AIVideo\n#AIGenerated\n#AIAnimation\n#AI3DAnimation\n#3DAnimation\n#AIShortFilm\n#AIMovie\n#AIHindiStory\n#AIContent\n#AnimationStory\n#AnimatedStories",
+      "channelId": "UCKemk421mTVp9_q9Bs8qVsw",
+      "channelTitle": "Story By Ansar Hindi ",
+      "thumbnail": "https://i.ytimg.com/vi/8c764oQRfqc/hqdefault.jpg",
+      "publishedAt": "2026-10-17T03:12:09Z",
+      "durationSeconds": 2751,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:07:58.696Z",
+      "lastSeenAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
       "unavailableAt": null
     }
   ]

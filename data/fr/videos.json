@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:09:58.245Z",
+  "generatedAt": "2026-10-22T03:08:24.073Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -754,12 +754,13 @@
       "publishedAt": "2026-10-18T20:30:22Z",
       "durationSeconds": 8954,
       "matchedKeywords": [
-        "film complet intelligence artificielle"
+        "film complet intelligence artificielle",
+        "film robot complet français"
       ],
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +779,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +798,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -811,12 +812,13 @@
       "publishedAt": "2026-10-20T16:00:27Z",
       "durationSeconds": 6062,
       "matchedKeywords": [
+        "drame IA film complet",
         "film complet intelligence artificielle"
       ],
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -835,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -868,12 +870,13 @@
       "publishedAt": "2026-10-20T16:00:03Z",
       "durationSeconds": 6366,
       "matchedKeywords": [
+        "film robot complet français",
         "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +895,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +933,159 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-21T03:09:58.245Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4ilqM4b0Nvs",
+      "url": "https://www.youtube.com/watch?v=4ilqM4b0Nvs",
+      "title": "Kill 'Em All | Film Complet | Jean-Claude Van Damme | Action | SPF",
+      "description": "Après une violente fusillade, un mystérieux inconnu grièvement blessé est conduit dans un hôpital. Lorsqu’un gang armé prend d’assaut l’établissement pour l’éliminer, une infirmière se retrouve prise au piège. Son interrogatoire par le FBI révélera progressivement une affaire de vengeance et de complot international.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Peter Malota\nAvec Jean-Claude Van Damme, Autumn Reeser, Peter Stormare\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #filmaction #thriller #vengeance #jeanclaudevandamme #cinema #filmcompletenfrançais #actionmovies\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/4ilqM4b0Nvs/hqdefault.jpg",
+      "publishedAt": "2026-10-21T18:00:02Z",
+      "durationSeconds": 5461,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BqT392SVC-o",
+      "url": "https://www.youtube.com/watch?v=BqT392SVC-o",
+      "title": "Blast⎪Une arme biochimique transforme des hommes en mutants⎪Action⎪Film complet⎪ACE",
+      "description": "Sunny est un modeste artiste de cirque habitué à vivre dans l’ombre de ses partenaires.\n\nAu cours d’une expédition, la troupe découvre un ancien laboratoire de l’armée japonaise. En cherchant un trésor caché, les hommes libèrent accidentellement une arme biochimique qui transforme leurs corps et décuple leur force.\n\nAlors que ses anciens compagnons décident d’utiliser leurs nouveaux pouvoirs pour mettre Hong Kong à feu et à sang, Sunny comprend qu’il est le seul capable de les arrêter.\n\nLa ville devient alors le théâtre d’un affrontement spectaculaire entre des êtres devenus presque invincibles.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Benny Chan\nAvec Aaron Kwok, Shu Qi, Collin Chou, Wu Jing et Zhang Jingchu\n© Tous droits réservés ACE\n\n#action #sciencefiction #mutant",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/BqT392SVC-o/hqdefault.jpg",
+      "publishedAt": "2026-10-21T17:30:18Z",
+      "durationSeconds": 6405,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MujKHCPVuc8",
+      "url": "https://www.youtube.com/watch?v=MujKHCPVuc8",
+      "title": "Mon fiancé mystère | Film Complet | Romance | Jen POGUE & Natalie HALL | M6+ Films & Séries",
+      "description": "Hayley découvre dans son nouvel appartement des lettres d'amour et une bague de fiançailles d'un mystérieux correspondant. Poussée par son amie Elisa, elle le retrouve et correspond avec lui en ligne. Elle essaye également d'obtenir une subvention pour son association et fait\nface à Josh, avec qui elle a de nombreux points communs. Entre sa correspondance anonyme avec l'auteur des lettres et son concurrent pour la subvention, son cœur balance... Mais sont-ils si différents ?\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nMON FIANCÉ MYSTÈRE (SINCERELY YOURS TRULY)\nRéalisation : Annie BRADLEY\nDistribution : Jen POGUE, Natalie HALL, Nicki WHITELY, Marshall WILLIAMS\n© REEL ONE ENTERTAINMENT - 2019 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/MujKHCPVuc8/hqdefault.jpg",
+      "publishedAt": "2026-10-21T17:00:09Z",
+      "durationSeconds": 4976,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pXZJS6n6lbk",
+      "url": "https://www.youtube.com/watch?v=pXZJS6n6lbk",
+      "title": "Les Amitiés Invisibles | Film Complet | Thriller | UC",
+      "description": "Fabian est journaliste d’investigation dans un grand journal berlinois. Jeune, beau et arrogant il voit d’un mauvais oeil arriver Nadja, la stagiaire que lui impose sa direction et à laquelle il confie une enquête à priori anodine. C’est pourtant là que débute un jeu dangereux dans lequel certains puissants ont décidé que Fabian aurait son rôle.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Christoph Hochhäusler\nAvec Florian David Fitz, Lilith Stangenberg, Horst Kotterba\n© UniversCiné - Tous droits réservés\n\n#thriller #drama #cinema #film\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/pXZJS6n6lbk/hqdefault.jpg",
+      "publishedAt": "2026-10-21T16:00:34Z",
+      "durationSeconds": 6466,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sWj8TAbwIqQ",
+      "url": "https://www.youtube.com/watch?v=sWj8TAbwIqQ",
+      "title": "Robin des Bois⎪Le shérif détient Marianne, Robin prépare l’assaut⎪Action⎪Aventure⎪Film complet⎪ACE",
+      "description": "Le prince Jean a usurpé le trône d’Angleterre et laissé le shérif de Nottingham imposer sa loi par la peur.\n\nDe retour des croisades, Robin de Locksley découvre un peuple opprimé et un royaume livré à la corruption. Refusant de se soumettre, il rassemble ses compagnons hors-la-loi et organise la résistance depuis la forêt de Sherwood.\n\nLorsque Marianne tombe entre les mains du shérif, Robin n’a plus le choix : il doit pénétrer au cœur de Nottingham et lancer un assaut aussi dangereux que spectaculaire.\n\nLa légende de Robin des Bois ne fait que commencer.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Nicholas Winter\nAvec Ben Freeman, Marie Everett, Kristian Nairn, Martyn Ford et Brian Blessed\n© Tous droits réservés ACE\n #action #aventure #robindesbois",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/sWj8TAbwIqQ/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:45:24Z",
+      "durationSeconds": 5208,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vS4CUmcFvoE",
+      "url": "https://www.youtube.com/watch?v=vS4CUmcFvoE",
+      "title": "Arnaque à Hollywood⎪De Niro⎪Morgan Freeman⎪Tommy Lee Jones⎪Comédie⎪Film complet⎪OFY",
+      "description": "Un producteur ruiné. Une dette envers la mafia. Une vieille star de western. Et un plan aussi immoral qu’improbable pour sauver sa peau.\n\nÀ Hollywood, Max Barber est un producteur de cinéma aux abois.\n\nSon dernier film est un désastre et, pire encore, il doit une importante somme d’argent à Reggie Fontaine, un homme lié à la mafia qui n’a aucune intention de patienter éternellement.\n\nMax doit trouver de l’argent.\n\nTrès vite.\n\nC’est alors qu’une idée particulièrement douteuse lui vient : produire un nouveau film avec Duke Montana, une ancienne star du western, puis provoquer un « accident » mortel pendant le tournage afin de toucher l’assurance.\n\nSur le papier, le plan paraît presque parfait.\n\nDans la réalité, Duke se révèle beaucoup plus difficile à tuer que prévu.\n\nVotre prochaine découverte cinéma vous attend sur Ciné Select. Abonnez-vous 👉 https://shorturl.at/07Z5h\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de George Gallo\nAvec Robert De Niro, Tommy Lee Jones, Morgan Freeman, Zach Braff et Emile Hirsch\n© Tous droits réservés OFY\n\n#film #deniro",
+      "channelId": "UCoyWpYaeoykAso1qTNH7qng",
+      "channelTitle": "CINE SELECT",
+      "thumbnail": "https://i.ytimg.com/vi/vS4CUmcFvoE/hqdefault.jpg",
+      "publishedAt": "2026-10-21T16:45:18Z",
+      "durationSeconds": 6208,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HBYnB0XlQ1s",
+      "url": "https://www.youtube.com/watch?v=HBYnB0XlQ1s",
+      "title": "Cyrano de Ménilmontant - Téléfilm Complet - Drame -  François MOREL et Claire BOROTRA - FP",
+      "description": "Pierre-Jean Morin, dit PJ, est un policier de proximité qui tombe amoureux de Lucille, la nouvelle recrue de sa brigade. \n\n✋ les meilleurs téléfilms et séries TV, c’est ici 👉 https://bit.ly/2Uh5Hgq 👈 Abonnez vous ! 🙏\n\nSouvent brimée par ses collègues, la jeune femme pense à démissionner. PJ va, alors, tout faire pour la garder à ses côtés...\n\nAvec :\nFrançois MOREL, Claire BOROTRA, Xavier DELUC\n\nRéalisateur : Marc ANGELO \nScénario par Gérard CARRÉ, Alain MINIER\n© FP - 2005\n\n#sériefrançaise #cyranodemenilmontant\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKqmnQFF2PgokPDdX-L2fwQ",
+      "channelTitle": "Stream TV ",
+      "thumbnail": "https://i.ytimg.com/vi/HBYnB0XlQ1s/hqdefault.jpg",
+      "publishedAt": "2026-10-20T17:00:11Z",
+      "durationSeconds": 5552,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zsNuin5hfEA",
+      "url": "https://www.youtube.com/watch?v=zsNuin5hfEA",
+      "title": "Amour ancré | Saison 1 (Intégrale) : Il pensait ne plus jamais aimer",
+      "description": "Amour ancré | Saison 1 (Intégrale) : Il pensait ne plus jamais aimer\n\nBlessé par son passé et convaincu de devoir fermer son cœur, Daryl Snip s'était juré de ne plus jamais aimer. Lorsque sa route croise celle de Tacha Forest, une femme guidée par sa foi et sa détermination à avancer malgré les épreuves, toutes ses certitudes vacillent. Au fil de leurs échanges, une complicité profonde et bouleversante s'installe, réveillant des espoirs qu'ils croyaient perdus à jamais. La sincérité de leurs sentiments suffira-t-elle à guérir les blessures d'autrefois et à leur offrir un nouveau départ ?\n\nDans cette vidéo : La puissance de la foi, la guérison intérieure, le pardon et la force d'un amour capable de restaurer ce qui semblait brisé.\n\n📺 Regarder la Saison 2 (Intégrale) : https://www.youtube.com/watch?v=HcWvZeUOizs\n\n🎬 COULISSES DE CRÉATION  \nÉcriture et scénario : Carole Logbo – fiction originale  \nRéalisation et direction artistique : Carole Logbo  \nIntrigue de cet épisode : Deux âmes marquées par les épreuves apprennent à faire confiance à nouveau et découvrent que l'amour peut renaître là où tout semblait éteint.  \nPersonnages : Daryl Snip, Tacha Forest.  \nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\nCarole Logbo – Le cinéma qui vous ressemble.  \nPour toute demande de partenariat : carolelogbopartenariat@gmail.com  \nAbonnez-vous et activez la cloche 🔔 pour ne manquer aucun épisode.\n\n#AmourAncré #CaroleLogboCinéma #FilmComplet #Romance",
+      "channelId": "UCwAwT46iTY80pI0WuA8SyPA",
+      "channelTitle": "Carole Logbo Cinéma",
+      "thumbnail": "https://i.ytimg.com/vi/zsNuin5hfEA/hqdefault.jpg",
+      "publishedAt": "2026-09-11T21:46:55Z",
+      "durationSeconds": 6081,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-22T03:08:24.073Z",
+      "lastSeenAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
       "unavailableAt": null
     }
   ]
