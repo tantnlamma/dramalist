@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:08:06.789Z",
+  "generatedAt": "2026-10-23T03:13:40.967Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -330,7 +330,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -484,7 +484,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -503,7 +503,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -522,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -541,7 +541,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -557,11 +557,11 @@
       "matchedKeywords": [
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-17T02:51:15.685Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "unavailableAt": "2026-10-23T03:13:40.967Z"
     },
     {
       "videoId": "29NDpf74Q98",
@@ -598,7 +598,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:45.447Z",
       "lastSeenAt": "2026-10-18T02:52:45.447Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -618,7 +618,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -638,7 +638,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -734,7 +734,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:40.827Z",
       "lastSeenAt": "2026-10-21T03:09:40.827Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     },
     {
@@ -753,7 +753,26 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-22T03:08:06.789Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JMWWejzZarM",
+      "url": "https://www.youtube.com/watch?v=JMWWejzZarM",
+      "title": "The Girl With the Golden Hand 👑✨ | Nollywood AI African Fantasy Full Movie",
+      "description": "THE GIRL WITH THE GOLDEN HAND 👑✨ | Nollywood AI African Fantasy Movie\n\nWhat if the very thing that made you different was the gift destined to save an entire kingdom? 😱✨\n\nAmara is a young woman who has endured rejection, humiliation, and suffering because of a mysterious secret she has struggled to hide. But when an ancient curse threatens to destroy her kingdom, Amara discovers that her golden hands hold a power greater than anyone could imagine.\n\nAs greed, betrayal, and dark forces rise against her, Amara must uncover an ancient prophecy, confront a terrifying Shadow King, and discover the truth about a mysterious prince whose identity has been kept secret for years.\n\nWith the fate of the kingdom hanging in the balance, will Amara find the courage to embrace her destiny, find true love, and save the people who once judged her?\n\nWatch this captivating Nollywood-inspired AI African fantasy movie filled with royal secrets, magic, romance, betrayal, suspense, and an unforgettable ending.\n\n❤️ LIFE LESSON: Never be ashamed of what makes you different. Sometimes, your greatest weakness in the eyes of others can become your greatest strength. True greatness comes from kindness, courage, forgiveness, and the way we use our gifts to help others.\n\n🎬 ABOUT AKASIBH AI DRAMA OFFICIAL\n\nWe create exciting AI-generated African drama movies, emotional stories, royal fantasies, family dramas, and powerful stories with meaningful life lessons.\n\nIf you love African movies, Nollywood-inspired stories, AI fantasy films, and surprising plot twists, make sure to:\n\n👍 LIKE this video\n💬 COMMENT on the lesson you learned from Amara's journey\n📲 SHARE this movie with your friends and family\n🔔 SUBSCRIBE to AKASIBH AI Drama Official and turn on notifications for more exciting movies.\n\nThank you for watching and supporting our channel!\n\n#TheGirlWithTheGoldenHand #NollywoodAI #AfricanFantasy #AIAfricanMovie #AfricanDrama #NollywoodMovie #AIDrama #FullMovie #AfricanStories #AKASIBHAIDramaOfficial",
+      "channelId": "UCsN6pq7M6s5Fwyr4dJP6TFA",
+      "channelTitle": "AKASIBH AI DRAMA OFFICIAL ",
+      "thumbnail": "https://i.ytimg.com/vi/JMWWejzZarM/hqdefault.jpg",
+      "publishedAt": "2026-10-21T13:18:44Z",
+      "durationSeconds": 1838,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:40.967Z",
+      "lastSeenAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
       "unavailableAt": null
     }
   ]

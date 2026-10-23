@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:08:19.313Z",
+  "generatedAt": "2026-10-23T03:13:53.249Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -189,7 +189,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -247,7 +247,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -344,7 +344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -401,7 +401,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:53.685Z",
       "lastSeenAt": "2026-10-19T03:05:53.685Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,45 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-22T03:08:19.313Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ULktGNzdU5M",
+      "url": "https://www.youtube.com/watch?v=ULktGNzdU5M",
+      "title": "Daniel – O Filme (2026) | O Profeta das Visões | Filme Bíblico Completo em 4K",
+      "description": "🎬 DANIEL – O PROFETA DAS VISÕES | Filme Bíblico Completo Dublado em Português 4K\n\nDa queda de Jerusalém à cova dos leões, acompanhe a extraordinária história de Daniel — um homem que permaneceu fiel a Deus mesmo diante de reis, impérios, ameaças e decretos de morte.\n\nLevado ainda jovem para a Babilônia, Daniel enfrentou uma nova cultura, novos governantes e grandes provações, mas nunca abandonou sua fé. Ao longo de sua jornada, Deus lhe concedeu sabedoria para interpretar sonhos e visões que revelariam o destino de reinos e acontecimentos que atravessariam gerações.\n\nNeste filme você acompanhará momentos marcantes do Livro de Daniel:\n\n🔥 Daniel e seus amigos levados para a Babilônia\n🔥 O sonho de Nabucodonosor e a grande estátua\n🔥 Sadraque, Mesaque e Abede-Nego na fornalha\n🔥 A queda e restauração de Nabucodonosor\n🔥 Belsazar e a escrita misteriosa na parede\n🔥 Daniel na cova dos leões\n🔥 As visões dos quatro animais\n🔥 O Ancião de Dias e o Filho do Homem\n🔥 Profecias e revelações sobre o futuro\n\n📖 Inspirado nos acontecimentos narrados no Livro de Daniel.\n\nEsta história nos lembra que governos passam, impérios caem, mas Deus permanece soberano sobre todas as coisas.\n\n🙏 Assista até o final e deixe nos comentários:\nQual momento da história de Daniel mais fortalece a sua fé?\n\n🔔 Inscreva-se no AI Cine Gospel para acompanhar novos filmes bíblicos, histórias das Escrituras e conteúdos cristãos em português.\n\n👍 Curta e compartilhe este filme com alguém que também ama histórias da Bíblia.\n\n🎬 Algumas imagens, vozes ou elementos visuais podem ter sido criados ou modificados com auxílio de inteligência artificial.\n\n#Daniel #FilmeBiblico #FilmeGospel #Biblia #HistoriasBiblicas #FilmeCristao #DanielNaCovaDosLeoes #LivroDeDaniel #DubladoEmPortugues #AICineGospel",
+      "channelId": "UCrMDiyD5gdj2jB5IFJN9Sog",
+      "channelTitle": "AI CINE GOSPEL",
+      "thumbnail": "https://i.ytimg.com/vi/ULktGNzdU5M/hqdefault.jpg",
+      "publishedAt": "2026-10-08T09:40:32Z",
+      "durationSeconds": 6046,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:53.249Z",
+      "lastSeenAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "90AwVWcyPBI",
+      "url": "https://www.youtube.com/watch?v=90AwVWcyPBI",
+      "title": "AZAZEL | Película Completa | El Ángel Caído y los Secretos Prohibidos que Destruyeron el Edén 4K",
+      "description": "🌑 🔥 AZAZEL, El Ángel Caído y los Secretos Prohibidos que Destruyeron el Edén 🔥\n\nAbraham ayuna en las alturas sagradas cuando se encuentra con Azazel, una criatura de alas oscuras que habla e intenta impedirle seguir junto al ángel. Guiado por su guardián celestial, asciende y contempla, en visión, el jardín del Edén, a Adán y Eva entrelazados bajo el árbol prohibido — y el verdadero origen del fruto que cambió el destino de la humanidad.\n\nUn viaje entre el cielo y la tierra que revela los secretos que el propio cielo intentó mantener ocultos: la rebelión de Azazel, la seducción en el Edén y el juicio que sentenció al ángel caído al desierto. Una reflexión sobre la tentación, las decisiones y la redención, inspirada en tradiciones apócrifas y narrada en formato cinematográfico 4K.\n\n🔔 ¡Suscríbete al canal y activa la campanita para no perderte ninguna película bíblica completa en 4K!\n\n🎬 Una producción de Memorias de la Biblia\n\n⚠️ AVISO IMPORTANTE\nEste video es una producción cinematográfica de entretenimiento creada con el apoyo de Inteligencia Artificial, inspirada en textos apócrifos, tradiciones hebreas antiguas y licencia poética. Las imágenes, narración y elementos visuales fueron generados o mejorados por herramientas de IA con fines exclusivamente creativos. Las narrativas y representaciones visuales no deben interpretarse como doctrina religiosa, posición teológica o afirmación histórica literal. Nuestro objetivo es invitar a la reflexión, al cuestionamiento y al deleite por el misterio de las escrituras antiguas.\n\n\n\n#Azazel #AngelCaido #AdanYEva #LibroDeEnoc #SecretosProhibidos #JardinDelEden #HistoriasDeLaBiblia #MisteriosDeLaBiblia #Biblia #Dios #PeliculaCompleta #PeliculaBiblica #Pelicula4K #PeliculasEnEspañol",
+      "channelId": "UCcLDBwQgkajOuu2jfIRPPyQ",
+      "channelTitle": "Memorias de la Biblia",
+      "thumbnail": "https://i.ytimg.com/vi/90AwVWcyPBI/hqdefault.jpg",
+      "publishedAt": "2026-07-27T22:05:06Z",
+      "durationSeconds": 2500,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:53.249Z",
+      "lastSeenAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
       "unavailableAt": null
     }
   ]

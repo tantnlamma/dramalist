@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:07:58.696Z",
+  "generatedAt": "2026-10-23T03:13:32.983Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -728,7 +728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -880,7 +880,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -994,7 +994,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:34.393Z",
       "lastSeenAt": "2026-10-20T03:14:34.393Z",
-      "lastVerifiedAt": "2026-10-20T03:14:34.393Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -1032,7 +1032,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -1051,7 +1051,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -1070,7 +1070,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     },
     {
@@ -1089,7 +1089,83 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-22T03:07:58.696Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CSwTdGo12yg",
+      "url": "https://www.youtube.com/watch?v=CSwTdGo12yg",
+      "title": "Talking Smart Home 🏠| AI Home's | Funny Stories | Hindi Cartoon | Moral Story | PunToon Kids Hindi",
+      "description": "🏠🤖 Talking Smart Home | AI Home | Hindi Cartoon | Moral Story | PunToon Kids\n\nWhat happens when a house becomes smart enough to talk? 😲🏡 Get ready for a fun and exciting adventure with this amazing AI Smart Home Hindi Cartoon from PunToon Kids!\n\nIn this entertaining Hindi cartoon story, discover how a talking smart home brings unexpected surprises, funny moments, and exciting challenges for the whole family. Watch how the kids explore the world of smart technology and learn an important lesson along the way.\n\n✨ Watch this fun-filled story to discover:\n🏠 The amazing features of a talking smart home  \n🤖 How AI technology can make everyday life different  \n😂 Funny moments and unexpected surprises  \n💡 Important lessons about technology, responsibility, and family  \n\nThis entertaining Hindi moral story combines fun, imagination, and valuable life lessons for kids and families.\n\n🎬 Watch more Hindi cartoons, kids' stories, funny animations, and moral stories on PunToon Kids!\n\n👍 Like the video, share it with your friends, and subscribe to PunToon Kids for more exciting cartoon stories.\n\n🔔 Subscribe for more Hindi cartoons and family-friendly entertainment!\n\n#Talkingsmarthome #SmartHome #AIHome #gattuchinki #PunToonKids #HindiCartoon #MoralStories #KidsCartoon #HindiKahani #KidsStories #TalkingHouse #HindiAnimation\n\nWelcome to Puntoon Kids, where education and entertainment go hand in hand! Enjoy engaging animated stories and lessons designed for curious young minds. Subscribe for a fun and educational experience every week!\"\n\n\nProduced By -VidUnit Media",
+      "channelId": "UCKiGNegP9BB-M8OJdmQYxIA",
+      "channelTitle": "PunToon Kids - Hindi",
+      "thumbnail": "https://i.ytimg.com/vi/CSwTdGo12yg/hqdefault.jpg",
+      "publishedAt": "2026-10-21T03:00:13Z",
+      "durationSeconds": 2154,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:32.983Z",
+      "lastSeenAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "J7oUFzZvwNI",
+      "url": "https://www.youtube.com/watch?v=J7oUFzZvwNI",
+      "title": "BEYOND THE LAST STAR — THE EDGE OF CREATION | Full Sci-Fi Movie (2026)",
+      "description": "Written, directed, produced, and published by Alay Demir. Created with limited AI-assisted production support.\n\n**BEYOND THE LAST STAR — THE EDGE OF CREATION | Full Sci-Fi Movie (2026)**\n\n*One man. One impossible spacecraft. One journey beyond the universe.*\n\nDr. Adrian Vale has spent years pursuing a dream the scientific world calls impossible: a spacecraft that can change its shape, evade detection, travel beneath oceans, and cross the vast distances between stars.\n\nWorking alone, Adrian creates AURORA, an extraordinary adaptive material; MIRA, an artificial intelligence that becomes more than an assistant; and VESPER, a small spacecraft unlike anything humanity has ever built.\n\nWhat begins as a secret experiment on Earth becomes a journey to the Moon, distant planets, alien oceans, crystal forests, and living civilizations. But a mysterious message leads Adrian toward a region where the familiar laws of space begin to fail — and where the way home may disappear forever.\n\nBEYOND THE LAST STAR: THE EDGE OF CREATION is an original science-fiction adventure about discovery, intelligence, isolation, and the price of crossing the final frontier.\n\n**PRODUCTION INFORMATION**\n\nThis film was created with approximately 25–30% support from artificial intelligence. The original idea, research, subject, creative direction, story, and final decisions were developed through human thought and imagination. Artificial intelligence was used only as a supporting production tool.\n\nFilm runtime: 39 minutes 41 seconds (39:41)\n\n**PRODUCTION CREDITS**\n\nStory, concept, screenplay, narrative design, creative direction, and editing: Alay Demir\n\nWritten, directed, produced, and published by: Alay Demir\n\nVideo production: Flow and VideoExpress\n\nStory organization, scene planning, prompt development, and production assistance: Bionic Platform\n\nArtificial intelligence was used only to support selected stages of visual production, prompt preparation, scene planning, and workflow organization. All final creative decisions, story development, direction, editing, and publishing were completed by Alay Demir.\n\n#BeyondTheLastStar #TheEdgeOfCreation #SciFiMovie #ScienceFiction #SpaceAdventure #SpaceExploration #AlienWorlds #ArtificialIntelligence #FullMovie #AlayDemir",
+      "channelId": "UCE17RazHyHfZ5D6XlgalvxA",
+      "channelTitle": "Future Stories by AI",
+      "thumbnail": "https://i.ytimg.com/vi/J7oUFzZvwNI/hqdefault.jpg",
+      "publishedAt": "2026-10-12T01:12:07Z",
+      "durationSeconds": 2381,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:32.983Z",
+      "lastSeenAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aNAAccEhIjk",
+      "url": "https://www.youtube.com/watch?v=aNAAccEhIjk",
+      "title": "Dragon mother full movie hindi dubbed | she gave birth to a dragon and then...",
+      "description": "Dragon mother full movie hindi dubbed | she gave birth to a dragon and then...\n\n\n\nShe’d Burn a Kingdom to Save Her Dragon Children 🔥 | THE DRAGON MOTHER 🐉\n\n🔥 *SHE’D BURN A KINGDOM TO SAVE HER DRAGON CHILDREN.*\n\n*THE DRAGON MOTHER: FLAMES OF ETERNITY* is an epic cinematic dark fantasy film about a mother, three legendary dragons, an icy tyrant, and an ancient power that was never meant to awaken.\n\nWhen Elara Veyne discovers that her destiny is bound to the First Flame, she must protect her three dragon children — Ignaris, Aurelia, and Vesper — from Lord Malrec Vorthane, a ruthless ruler determined to control the power of dragons.\n\nAs an ancient secret emerges beneath a war-torn fortress, fire and ice collide in a battle that will change their world forever. But when a mother loses everything she loves, one question remains:\n\n*HOW FAR WOULD YOU GO TO SAVE YOUR CHILDREN?*\n\n🐉 *ENTER A WORLD OF FIRE, ICE, AND ANCIENT DRAGONS*\n\nExperience a cinematic fantasy adventure featuring:\n\n🔥 Three extraordinary dragons with unique abilities  \n❄️ An ancient Heart of Ice and a kingdom consumed by war  \n⚔️ Epic medieval battles, siege warfare, and collapsing fortresses  \n❤️ A powerful story of motherhood, sacrifice, courage, and family  \n🌑 A mysterious ancient presence hidden beneath the ruins  \n✨ A dramatic finale that opens the door to a greater legend  \n\n\nWhich dragon is your favorite — Ignaris, Aurelia, or Vesper?\n\nAnd if you were Elara, would you risk everything to save your missing child? Tell us your answer in the comments.\n\n👍 Like the film if you love epic fantasy, dragons, emotional adventures, and cinematic storytelling. Subscribe for more original fantasy worlds, legendary creatures, and AI-assisted cinematic productions.\n\n⚠️ This is an original fictional fantasy production. Any resemblance to actual persons or events is coincidental.\n\n#TheDragonMother​ #DragonMovie​ #FantasyMovie​ #AivoraFilms​\n\nAivora Films, The Dragon Mother, The Dragon Mother Flames of Eternity, dragon movie, dragon fantasy movie, fantasy movie, epic fantasy film, dark fantasy movie, dragon film, dragons, dragon mother, AI fantasy film, cinematic fantasy, medieval fantasy, dragon battle, fire and ice, mother and dragons, epic dragon battle, fantasy adventure, original fantasy movie, Ignaris, Aurelia, Vesper, Elara Veyne, First Dragon King, full fantasy movie, 4K fantasy film, cinematic AI movie",
+      "channelId": "UCFiAFKL6K8Xz24LGBmuNxzg",
+      "channelTitle": "Movies 01",
+      "thumbnail": "https://i.ytimg.com/vi/aNAAccEhIjk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T14:05:26Z",
+      "durationSeconds": 4029,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:32.983Z",
+      "lastSeenAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fmJUSCDP-r4",
+      "url": "https://www.youtube.com/watch?v=fmJUSCDP-r4",
+      "title": "A She-Wolf Adopted Her Baby | Mother of Wolves | Full Fantasy Movie HD",
+      "description": "Mother of Wolves (2026) | Full Fantasy Movie\n\nCast out into the snow with her newborn son, a young mother was left to die. Then a she-wolf found them.\n\nViktor wanted his brother's throne badly enough to kill for it. He blamed the wolves, took the crown, and drove his brother's widow, Lena, out of the village on a winter night with her baby in her arms.\n\nAlone in the frozen forest, they should never have survived. Instead, the wolves took them in.\n\nTen years later, Lena has raised her son Luka beside the pack that saved them. But Viktor has not forgotten the heir he left to die, and he will turn the whole village against the wolves to finish what he started.\n\nMother of Wolves is an epic fantasy film about a mother's love, a stolen crown, and the wild family that stood by them.\n\nThis is Part 1. Part 2, Son of Wolves, is coming soon. Subscribe and turn on notifications so you don't miss it.\n\nWhich moment hit you hardest? Tell us in the comments.\n\nIroncrest Pictures - Movies That Stay With You.\nMade with AI video tools. All characters and events are fictional.\n\n#MotherOfWolves #FantasyMovie #FullMovie",
+      "channelId": "UCLryKn_vFx5lm3bFpPRhgRg",
+      "channelTitle": "Ironcrest Pictures",
+      "thumbnail": "https://i.ytimg.com/vi/fmJUSCDP-r4/hqdefault.jpg",
+      "publishedAt": "2026-09-29T20:29:15Z",
+      "durationSeconds": 1840,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:32.983Z",
+      "lastSeenAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
       "unavailableAt": null
     }
   ]

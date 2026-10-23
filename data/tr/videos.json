@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:08:31.247Z",
+  "generatedAt": "2026-10-23T03:14:05.420Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
+      "lastVerifiedAt": "2026-10-23T03:14:05.420Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
+      "lastVerifiedAt": "2026-10-23T03:14:05.420Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
+      "lastVerifiedAt": "2026-10-23T03:14:05.420Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-10-22T03:08:31.247Z",
+      "lastVerifiedAt": "2026-10-23T03:14:05.420Z",
       "unavailableAt": null
     }
   ]

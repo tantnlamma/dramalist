@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:08:14.887Z",
+  "generatedAt": "2026-10-23T03:13:49.138Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -606,7 +606,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,26 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-22T03:08:14.887Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DxO6BbNVKfw",
+      "url": "https://www.youtube.com/watch?v=DxO6BbNVKfw",
+      "title": "SANSÓN | El Hombre Más Fuerte de la Biblia – Película Completa",
+      "description": "Desgarró un león con sus manos desnudas, derrotó a mil hombres con una quijada de asno y derribó un templo entero con sus brazos. Esta es la historia completa de Sansón: el anuncio del ángel, su fuerza sobrenatural, la traición de Dalila y su victoria final en la hora más oscura.\n\n🎬 Película completa · 32 minutos · Narración cinematográfica en español\nSerie de películas bíblicas de Historiahoy360.\n\nSuscríbete a Historiahoy360 para no perderte la próxima película.\n\n🤖 Contenido creado con inteligencia artificial.\n\n#Biblia #Sansón #Dalila #PelículaCompleta #HistoriasBíblicas #Historiahoy360 #Jueces #CineBíblico",
+      "channelId": "UC75GFV3nnRRquSYdmiZKWKQ",
+      "channelTitle": "Historiahoy360",
+      "thumbnail": "https://i.ytimg.com/vi/DxO6BbNVKfw/hqdefault.jpg",
+      "publishedAt": "2026-10-22T11:54:02Z",
+      "durationSeconds": 1952,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:13:49.138Z",
+      "lastSeenAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
       "unavailableAt": null
     }
   ]

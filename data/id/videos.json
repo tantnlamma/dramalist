@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:08:33.209Z",
+  "generatedAt": "2026-10-23T03:14:07.328Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -547,11 +547,11 @@
         "film fiksi ilmiah AI lengkap",
         "film kecerdasan buatan full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "unavailableAt": "2026-10-23T03:14:07.328Z"
     },
     {
       "videoId": "IwDV9goYCEU",
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -987,7 +987,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     },
     {
@@ -1026,6 +1026,44 @@
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
       "lastVerifiedAt": "2026-10-22T03:08:33.209Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "90YduYJ_3Ug",
+      "url": "https://www.youtube.com/watch?v=90YduYJ_3Ug",
+      "title": "Ibu Tiriku Gendut Dan Kejam Drama China Sub Indonesia Full Terbaru 2026",
+      "description": "ibu tiriku gendut dan kejam shortmax sub indo\nibu tiriku gendut dan kejam sub indo\nibu tiriku gendut dan kejam shortmax sub indonesia\nibu tiriku gendut dan kejam subtitle indonesia\nibu tiriku gendut dan kejam full movie sub indo\nibu tiriku gendut dan kejam drama cina\nibu tiriku gemuk dan kejam drama ai",
+      "channelId": "UCfUQJYkVkX9v3mGilqay5OA",
+      "channelTitle": "AZ Boy",
+      "thumbnail": "https://i.ytimg.com/vi/90YduYJ_3Ug/hqdefault.jpg",
+      "publishedAt": "2026-10-21T01:00:08Z",
+      "durationSeconds": 10716,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:14:07.328Z",
+      "lastSeenAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "deC2NZMPJHQ",
+      "url": "https://www.youtube.com/watch?v=deC2NZMPJHQ",
+      "title": "The Stranger I Called My Husband | Full Nollywood Movie | Romance Drama",
+      "description": "What happens when the man you call your husband becomes a stranger to your heart? 💔\n\n🎬 THE STRANGER I CALLED MY HUSBAND\nA Full Nollywood Romance Drama | EVERHEART STUDIO\n\nMuna Bennett thought she knew the man she married. But behind the wealth, the promises, and the beautiful life they appeared to share, there were secrets she never expected to uncover.\n\nWhen love begins to hurt more than it heals, Muna must decide how much of herself she is willing to sacrifice for a marriage that may not be what it seems.\n\nBut some choices have consequences that cannot be undone, and sometimes, losing someone is the only way to discover what they truly meant to you.\n\nWill love survive the secrets between them, or will the truth change everything forever?\n\nWatch The Stranger I Called My Husband, an emotional Nollywood-style romance drama about love, betrayal, painful choices, and unexpected turns.\n\n━━━━━━━━━━━━━━━━━━\n\n💬 LET’S TALK!\n\n❤️ What would you do if you discovered that the person you married was not who you thought they were?\n\n💔 Do you believe love can survive betrayal?\n\n🎬 Would you like to see a Part 2?\n\nShare your thoughts in the comments!\n\n👍 Like the movie if you enjoyed watching.\n💬 Tell us your favourite moment.\n🔔 Subscribe to EVERHEART STUDIO for more original, AI-created cinematic stories.\n\nThank you for watching and supporting EVERHEART STUDIO. ❤️\n\n#TheStrangerICalledMyHusband #NollywoodMovies #romancedrama  #Everheartstudio\n\n🎬 DISCLAIMER\n\nThis movie is a fictional story created for entertainment purposes. All characters, names, and events are fictional. The film uses AI-generated content and does not depict real events.\n\n© EVERHEART STUDIO. All rights reserved.",
+      "channelId": "UC9YirjHWSCuGDWUKsBWj_GA",
+      "channelTitle": "EverHeart Studios",
+      "thumbnail": "https://i.ytimg.com/vi/deC2NZMPJHQ/hqdefault.jpg",
+      "publishedAt": "2026-10-17T15:30:12Z",
+      "durationSeconds": 3677,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-23T03:14:07.328Z",
+      "lastSeenAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
       "unavailableAt": null
     }
   ]
