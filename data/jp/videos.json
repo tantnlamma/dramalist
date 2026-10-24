@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:13:40.967Z",
+  "generatedAt": "2026-10-24T03:07:52.685Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -330,7 +330,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -420,12 +420,13 @@
       "publishedAt": "2026-10-15T16:30:37Z",
       "durationSeconds": 2267,
       "matchedKeywords": [
-        "AI 映画 フル"
+        "AI 映画 フル",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-18T02:52:45.447Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -484,7 +485,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -503,7 +504,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -522,7 +523,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -541,7 +542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -598,7 +599,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:45.447Z",
       "lastSeenAt": "2026-10-18T02:52:45.447Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -618,7 +619,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -638,13 +639,13 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
       "videoId": "Tob38w83eaM",
       "url": "https://www.youtube.com/watch?v=Tob38w83eaM",
-      "title": "Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass",
+      "title": "How to Make AI Movies for FREE 🤯 | Full Guide",
       "description": "Want to create your own cinematic AI movie? 🎬 In this complete step-by-step tutorial, I’ll show you how I created a full AI short movie using AI tools — from the story and characters to cinematic images, AI video scenes and final editing.\n\n✅ You’ll learn the complete AI filmmaking workflow, including how to create consistent characters, generate cinematic scenes, turn images into AI videos and combine everything into a complete movie.\n\n✅ Important Link’s \n• Telegram -https://t.me/mktfamily\n• Prompts - https://docs.google.com/document/d/15CaxBARF1ZVARwQSL533MXupbuJUK-WLx5JfVhm0TPc/ edit?usp=drivesdk\n\n🔥 In this video, you’ll learn:\n• How to create an AI movie from scratch\n• How to create cinematic AI scenes\n• How to generate consistent AI characters\n• How to turn AI images into videos\n• How to create realistic AI movie scenes\n• How to create long-form AI videos\n• How to edit AI video scenes into a complete movie\n• Complete AI filmmaking workflow step-by-step\n• Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass \n• How to Make AI Movies for FREE 🤯 | Full Guide\n• How to Make AI Movies 🤯 | AI Filmmaking Tutorial\n• ai movie tutorial\n• how to make ai movie\n• how to create ai movies\n• ai filmmaking tutorial\n• ai movie making\n• ai movie kaise banaye\n• ai se movie kaise banaye\n• ai video tutorial\n• ai video kaise banaye\n• cinematic ai video\n• cinematic ai movie\n• ai film making\n• ai filmmaking\n• ai storytelling\n• ai short film\n• ai short film tutorial\n• ai movie creation\n• ai video generation\n• ai movie for youtube\n• how to make ai film\n• ai film tutorial\n• ai video editing\n• ai movie step by step\n• ai filmmaking tutorial hindi\n• ai movie tutorial hindi\n\n👉 If you want to create AI movies, AI short films or cinematic AI videos for YouTube, this tutorial will help you understand the complete process from start to finish. And make sure like this Video And Subscriber my Channel  for upcoming tutorial & share with you’re friends \n\n⚠️ AI DISCLAIMER:\nThe AI movie shown in this tutorial, including its visuals, scenes, characters, videos and other elements, has been created using Artificial Intelligence (AI). The remaining tutorial footage, including the screen recordings and my presentation, was personally recorded by me. This video is created for educational and entertainment purposes.\n\n©️ COPYRIGHT DISCLAIMER:\nThis video is created for educational, commentary, transformative and entertainment purposes. Any third-party music, sounds, trademarks, images or other materials used in this video belong to their respective owners. No copyright infringement is intended.\n\n✅ Chapters :-\n00:00 – How to Make AI Movies | AI Movie Tutorial\n00:48 – Complete AI Movie Made with Free AI Tools\n06:10 – Complete AI Movie Workflow | AI Filmmaking\n06:25 – AI Movie Story & Prompts Generation\n15:06 – AI Characters, Images & Video Generation\n28:31 – How to Remove Gemini Watermark for Free\n30:00 – How to Get Gemini & Google Flow Pro for Free\n31:10 – How to Edit AI Movie Videos\n\n#AIMovie #AIFilmmaking #AITutorial #AIVideo #AIMovies",
       "channelId": "UCeRJIYONwn9rcSaV0zTksBQ",
       "channelTitle": "Manni Ki Tech",
@@ -753,7 +754,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     },
     {
@@ -772,7 +773,45 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-23T03:13:40.967Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Kk3di_NPncQ",
+      "url": "https://www.youtube.com/watch?v=Kk3di_NPncQ",
+      "title": "He became a KingSlayer for Honour | Full Ai Movie",
+      "description": "He became a KingSlayer for Honour | Full Ai Movie\n\n#Aicinematicmovie #epicfantasystory #dragonmovie",
+      "channelId": "UCqWSgQ5BmNgroGkHStF9ukw",
+      "channelTitle": "Ai Cinematic Universe",
+      "thumbnail": "https://i.ytimg.com/vi/Kk3di_NPncQ/hqdefault.jpg",
+      "publishedAt": "2026-10-15T12:53:31Z",
+      "durationSeconds": 1968,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:52.685Z",
+      "lastSeenAt": "2026-10-24T03:07:52.685Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "125N2CQuDXA",
+      "url": "https://www.youtube.com/watch?v=125N2CQuDXA",
+      "title": "They Forgot Each Other But Their Souls Never Did | AI Full Movie | AfroKorean love story ",
+      "description": "",
+      "channelId": "UCzII9uKFXvbYtetbrYiynMg",
+      "channelTitle": "Clover Reels",
+      "thumbnail": "https://i.ytimg.com/vi/125N2CQuDXA/hqdefault.jpg",
+      "publishedAt": "2026-10-23T23:16:37Z",
+      "durationSeconds": 2144,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:52.685Z",
+      "lastSeenAt": "2026-10-24T03:07:52.685Z",
+      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
       "unavailableAt": null
     }
   ]

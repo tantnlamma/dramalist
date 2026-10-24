@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:13:32.983Z",
+  "generatedAt": "2026-10-24T03:07:44.977Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -325,11 +325,11 @@
       "matchedKeywords": [
         "रोबोट फिल्म पूरी हिंदी"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": "2026-10-24T03:07:44.977Z"
     },
     {
       "videoId": "CMyoySd7b_Q",
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -515,11 +515,11 @@
       "matchedKeywords": [
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-17T02:51:08.377Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": "2026-10-24T03:07:44.977Z"
     },
     {
       "videoId": "IZ-mfTWzvnk",
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -728,7 +728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +747,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -880,7 +880,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -989,12 +989,13 @@
       "publishedAt": "2026-10-19T12:16:29Z",
       "durationSeconds": 7875,
       "matchedKeywords": [
-        "AI drama movie hindi full"
+        "AI drama movie hindi full",
+        "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:34.393Z",
       "lastSeenAt": "2026-10-20T03:14:34.393Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -1032,7 +1033,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -1051,14 +1052,14 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
       "videoId": "2DdrHr_oHBU",
       "url": "https://www.youtube.com/watch?v=2DdrHr_oHBU",
       "title": "RAKT DWEEP (Full Movie) | Hindi Action Adventure Thriller | Director's Cut",
-      "description": "RAKT DWEEP (Full Movie) - Director's Cut Cinematic Action Adventure.\nWhen a high-stakes expedition turns into a violent fight for survival, the crew faces relentless threats on a forbidden island. Experience the complete action-packed thriller uninterrupted from start to finish.\n\nRakt Dweep is a Hindi cinematic action-adventure Hybrid AI film engineered for fans of high-octane Bollywood, South Dubbed, Hollywood action thrillers, and  epic adventures.\n\n🎬 WATCH FULL MOVIE: Rakt Dweep - Director's Cut\nGenre: Action / Survival Thriller / Adventure\nLanguage: Hindi (4K Cinematic Audio-Visual)\n\n📌 TIMESTAMPS / MOVIE CHAPTERS:\n03:45 - Story Begins\n12:35 - Dagdu - The Arms Dealer\n23:20 - Secret of Dada Haraka\n26:42 - The Zehreela Bandar Attack\n35:00 - The Hulu Motel Ambush\n40:35 - Rakt Dweep\n--------------------------------------------------\nScript, Screenplay, Editing & Direction by : Ishann\nProduction: ISHANN STUDIOS\nAudio Engineering & Sound Design: ISHANN STUDIOS\nVisual Storytelling & Production: Hybrid AI Cinema\n\nDISCLAIMER\nThe story, all names, characters, and incidents portrayed in this motion picture are entirely fictitious. No identification with actual persons (living or deceased), places, buildings, organizations, or products is intended or should be inferred. Any resemblance to real persons, living or dead, or to actual events or locations is purely coincidental.\n\nCOPYRIGHT\n© 2026 Ishann Studios. All Rights Reserved\n\n#RaktDweep #FullMovie #AIMovie #FullMovie #AIFilm #CinematicAI #HindiThriller#HindiActionMovie #ActionAdventure #HindiThriller #SurvivalThriller #IshannStudios",
+      "description": "RAKT DWEEP (Full Movie) - Director's Cut Cinematic Action Adventure.\nWhen a high-stakes expedition turns into an epic fight for survival, the crew faces relentless threats on a forbidden island. Experience the complete action-packed thriller uninterrupted from start to finish.\n\nRakt Dweep is a Hindi cinematic action-adventure Hybrid AI film engineered for fans of high-octane Bollywood, South Dubbed, Hollywood action thrillers, and  epic adventures.\n\nWATCH FULL MOVIE: Rakt Dweep - Director's Cut\nGenre: Action / Survival Thriller / Adventure\nLanguage: Hindi (4K Cinematic Audio-Visual)\n\nTIMELINE:\n03:45 - Story Begins\n12:35 - Dagdu - The Arms Dealer\n23:20 - Secret of Dada Haraka\n26:42 - The Zehreela Bandar Attack\n35:00 - The Hulu Motel Ambush\n40:35 - Rakt Dweep\n\nScript, Screenplay, Editing & Direction by : Ishann\nProduction: ISHANN STUDIOS\nAudio Engineering & Sound Design: ISHANN STUDIOS\nVisual Storytelling & Production: Hybrid AI Cinema\n\nDISCLAIMER\nThe story, all names, characters, and incidents portrayed in this motion picture are entirely fictitious. No identification with actual persons (living or deceased), places, buildings, organizations, or products is intended or should be inferred. Any resemblance to real persons, living or dead, or to actual events or locations is purely coincidental.\n\nCOPYRIGHT\n© 2026 Ishann Studios. All Rights Reserved\n\n#RaktDweep #FullMovie #AIMovie #FullMovie #AIFilm #CinematicAI #HindiThriller#HindiActionMovie #ActionAdventure #HindiThriller #SurvivalThriller #IshannStudios",
       "channelId": "UCD_b0klpDG1LiMHWviyIfEw",
       "channelTitle": "ISHANN STUDIOS (Hybrid AI Production)",
       "thumbnail": "https://i.ytimg.com/vi/2DdrHr_oHBU/hqdefault.jpg",
@@ -1089,7 +1090,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -1127,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -1141,12 +1142,13 @@
       "publishedAt": "2026-10-13T14:05:26Z",
       "durationSeconds": 4029,
       "matchedKeywords": [
-        "AI drama movie hindi full"
+        "AI drama movie hindi full",
+        "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     },
     {
@@ -1165,7 +1167,83 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DD-e5zHWxQs",
+      "url": "https://www.youtube.com/watch?v=DD-e5zHWxQs",
+      "title": "FALCON – Full Hindi Superhero Movie (2026) | A City in Darkness, One Hero Rises 🦅",
+      "description": "FALCON – Full Hindi Superhero Movie\n\nWhen fear covers the city and the lights go out, one man stands up. FALCON is an Indian Hindi superhero movie about courage, friendship and truth, made completely with AI.\n\n📖 STORY\nA fake hero is spreading fear in the city, and a powerful businessman, Vikram Rana, is using a dangerous machine to steal the city's power. One ordinary man gets a hidden power and becomes FALCON. With the help of his friends Ajay and Meera, the old Elder and the people of the city, he fights back. In the final battle on the tower rooftop, he learns that real strength grows when it is shared, not taken.\n\n🎭 CHARACTERS\n• Falcon – the hero\n• Ajay – his loyal, cheerful friend\n• Meera – the brave reporter\n• The Elder – the wise guide\n• Guru Bhairav – the village strongman\n• Vikram Rana – the villain\n\n🎬 ABOUT THIS FILM\nThis whole movie was created with AI tools: scenes, voices and music. It is a creative experiment to bring an Indian superhero story to life in Hindi.\n\n👍 If you enjoyed FALCON, please LIKE, SHARE and SUBSCRIBE. Tell us in the comments: which scene was your favourite?\n\n🔔 Subscribe for more Hindi superhero stories and short clips from FALCON.\n\n#Falcon #HindiSuperhero #SuperheroMovie #HindiMovie #AIMovie #IndianSuperhero #FullMovie\n\n@D̈̇̃ @filmigaane @r̈̇ @abscbnentertainment @u",
+      "channelId": "UC-sBhApiqbCDLUBz_P8Ipjg",
+      "channelTitle": "Azmat Creates",
+      "thumbnail": "https://i.ytimg.com/vi/DD-e5zHWxQs/hqdefault.jpg",
+      "publishedAt": "2026-10-23T12:00:25Z",
+      "durationSeconds": 5309,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:44.977Z",
+      "lastSeenAt": "2026-10-24T03:07:44.977Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mj49dBrowAU",
+      "url": "https://www.youtube.com/watch?v=mj49dBrowAU",
+      "title": "ESTHER (2026) | Full Hindi Biblical Movie | Queen Esther | Neeraj Kumar | FOR MY LORD’S GLORY",
+      "description": "🎬 ESTHER (2026) | FULL HINDI BIBLICAL MOVIE | NEERAJ KUMAR\n\n🙏 FOR MY LORD’S GLORY 🙏\n\n👑 ESTHER — A STORY OF FAITH, COURAGE, SACRIFICE & GOD’S DIVINE PLAN\n\nExperience the powerful biblical story of Queen Esther, set in the ancient Persian Empire approximately 2,500 years ago.\n\nEsther was a young Jewish woman chosen to become the Queen of Persia. But behind the glory of the royal palace, a dangerous conspiracy threatened the lives of her people.\n\nWhen the evil Haman planned to destroy the Jewish people, Esther faced a life-changing decision. With courage, faith, and the guidance of Mordecai, she risked her own life to stand for her people.\n\nWill Esther find the courage to approach the king? Will Haman’s evil plan succeed? Can one woman change the destiny of an entire nation?\n\nWatch this inspiring biblical movie and discover a powerful message about faith, courage, prayer, justice, and God’s unseen providence.\n\n📖 BIBLE VERSE — ESTHER 4:14 (KJV)\n\n“And who knoweth whether thou art come to the kingdom for such a time as this?”\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 ABOUT THIS MOVIE\n\n🎬 Movie Title: ESTHER 📖 Based on: The Book of Esther 🗣️ Language: Hindi 🎞️ Format: Full Biblical Movie 🎥 Movie by: Neeraj Kumar 📺 YouTube Channel: FOR MY LORD’S GLORY\n\nThis film is a dramatic presentation based on the biblical Book of Esther. Some scenes, dialogues, and events have been dramatized to bring the story to life. The film includes AI-generated visuals, original creative work, editing, and AI-assisted music.\n\n━━━━━━━━━━━━━━━━━━━━\n\n❤️ SUPPORT OUR MINISTRY\n\n👍 LIKE this movie if it blesses you. 💬 COMMENT your thoughts and favourite scene. 🔁 SHARE this movie with your family, friends, and church community. 🔔 SUBSCRIBE to FOR MY LORD’S GLORY for more Christian movies, Bible stories, worship songs, and faith-based dramas.\n\nMay this film strengthen your faith and remind you that God can work through ordinary people to accomplish extraordinary things.\n\nALL GLORY AND HONOR BELONG TO OUR LORD JESUS CHRIST. 🙏\n\n━━━━━━━━━━━━━━━━━━━━\n\n🔎 SEARCH KEYWORDS\n\nEsther Full Movie Hindi, Esther Movie Hindi, Queen Esther Full Movie, Esther Bible Story in Hindi, Hindi Christian Movie, Bible Movie in Hindi, Christian Film India, Rani Esther Ki Kahani, Esther Ki Kahani, Biblical Movie Hindi, Hindi Bible Stories, Book of Esther, Mordecai and Esther, Haman Story, King Ahasuerus, Old Testament Bible Story, Christian Movies Hindi, Hindi Christian Film, Bible Based Movie Hindi, Esther Movie Neeraj Kumar, Neeraj Kumar Movie, FOR MY LORD’S GLORY\n\n#EstherMovie #FullHindiMovie #QueenEsther #BibleMovie #ChristianMovie #EstherKiKahani #HindiChristianMovie #BibleStory #NeerajKumar #ForMyLordsGlory\n\n━━━━━━━━━━━━━━━━━━━━\n\n© 2026 NEERAJ KUMAR FOR MY LORD’S GLORY\n\nALL RIGHTS RESERVED.\n\nESTHER is a creative film production based on the biblical Book of Esther.\n\nThe film includes AI-generated visuals, original lyrics, AI-assisted music, creative editing, and storytelling.\n\nThe original lyrics, original script, original dialogue, and creative contributions are claimed by their respective creator(s), to the extent protected by applicable copyright law.\n\nAI-generated elements and AI-assisted music are used subject to the applicable terms and licenses of the respective platforms.\n\nUnauthorized copying, re-uploading, reproduction, or redistribution of this film, in whole or in part, without permission is prohibited to the extent permitted by applicable law.\n\nThis notice does not claim exclusive copyright over material that is not eligible for such protection under applicable law.\n\nFor permission or inquiries, please contact the creator through the FOR MY LORD’S GLORY YouTube channel.\n\nMADE FOR THE GLORY OF GOD. 🙏",
+      "channelId": "UCa6pr383jiHInsOYCWwYu7A",
+      "channelTitle": "For My Lord's Glory",
+      "thumbnail": "https://i.ytimg.com/vi/mj49dBrowAU/hqdefault.jpg",
+      "publishedAt": "2026-10-23T08:56:44Z",
+      "durationSeconds": 2566,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:44.977Z",
+      "lastSeenAt": "2026-10-24T03:07:44.977Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LhxOYk08RW4",
+      "url": "https://www.youtube.com/watch?v=LhxOYk08RW4",
+      "title": "❤️ बागी राजकुमार और गरीबों की मसीहा राजकुमारी 👑#Hindi Kahani video story#love story#viral story ",
+      "description": "👑 बागी राजकुमार और गरीबों की मसीहा राजकुमारी ❤️\n\nएक ऐसी प्रेम कहानी, जहाँ एक राजकुमारी गरीबों की सेवा को अपना धर्म मानती है और एक राजकुमार अपनी शाही पहचान छिपाकर आम मुसाफिर बनकर उसकी जिंदगी में आता है। 💕\n\nराजकुमारी मृणालिनी को झूठ से सख्त नफरत है, लेकिन उसे क्या पता कि जिस मुसाफिर से उसका दिल जुड़ रहा है, वह कोई साधारण इंसान नहीं, बल्कि अवंतिका का युवराज वीर प्रताप है! 😱\n\nजब सामने आएगा उसकी असली पहचान का सच, तो क्या मृणालिनी अपने प्यार को स्वीकार करेगी या टूट जाएगा दोनों का रिश्ता? 💔 क्या उनका प्यार राजमहलों की साजिशों और नफरत के तूफानों के बीच जीत पाएगा?\n\nदेखिए प्यार, धोखे, राजसी रहस्य और बलिदान से भरी एक रोमांचक कहानी। ❤️👑\n\nवीडियो पसंद आए तो LIKE 👍 करें, CHANNEL को SUBSCRIBE 🔔 करें और कमेंट में बताएं—क्या सच्चा प्यार एक झूठ को माफ कर सकता है?\n\n#HindiLoveStory #Rajkumari #Rajkumar #RoyalLoveStory #HindiKahani #LoveStory",
+      "channelId": "UC4bVL4qN09kbevsXWxenK_Q",
+      "channelTitle": "AI Story Duniya",
+      "thumbnail": "https://i.ytimg.com/vi/LhxOYk08RW4/hqdefault.jpg",
+      "publishedAt": "2026-10-23T01:52:31Z",
+      "durationSeconds": 1904,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:44.977Z",
+      "lastSeenAt": "2026-10-24T03:07:44.977Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FxW-9cjF1FE",
+      "url": "https://www.youtube.com/watch?v=FxW-9cjF1FE",
+      "title": "Dada Ki Jaan – Fiza Ki Dard Bhari Kahani | Pakistani AI Drama | FULL 4K MOVIE #pakistaniai #aidrama ",
+      "description": "Dada Ki Jaan – Fiza Ki Dard Bhari Kahani | Pakistani AI Drama | FULL 4K MOVIE #pakistaniai #aidrama \n🌸 DADA KI JAAN — FIZA | FULL 4K MOVIE | PAKISTANI AI DRAMA @hoorainStudio02-v8t \n\nEk emotional Pakistani AI drama Dada Ki Jaan lekar aaya hai Fiza ki kahani, jahan rishton, mohabbat, jazbaat aur zindagi ke imtihaanon ka safar dekhne ko milega. ❤️💔\n\n🎬 Drama Name: Dada Ki Jaan\n🌸 Main Character: Fiza\n🎥 Video Type: Full Movie\n✨ Quality: 4K, if available in the uploaded video\n🇵🇰 Genre: Pakistani AI Drama | Family Drama | Emotional Drama | Romantic Drama\n\nAgar aapko Pakistani dramas, emotional family stories, romantic moments aur dil ko chhoo lene wali kahaniyan pasand hain, to Dada Ki Jaan dekhein aur apni rai comments mein zaroor share karein.\n\n💗 SUPPORT OUR CHANNEL\n👍 Video ko Like karein\n📲 Apne friends aur family ke saath Share karein\n💬 Comment mein batayein: Aapko Fiza ka character kaisa laga?\n🔔 Channel ko Subscribe karein aur notification bell on karein, taake aane wali videos miss na hon.\n\n📌 DISCLAIMER: This is an AI-created fictional drama made for entertainment. Characters, events and scenes are fictional. Any resemblance to real persons or events is coincidental.\n\n#DadaKiJaan #PakistaniAIDrama #Fiza\nDada Ki Jaan, Dada Ki Jaan drama, Fiza, Fiza drama, Pakistani AI Drama, Pakistani AI drama 4K, AI Pakistani drama, Pakistani drama, Urdu drama, emotional Pakistani drama, family drama, romantic Pakistani drama, AI movie, Pakistani AI movie, full 4K movie\n\n#DadaKiJaan #PakistaniAIDrama #Fiza #AIPakistaniDrama #PakistaniDrama #UrduDrama #AIMovie #EmotionalDrama #FamilyDrama #RomanticDrama #PakistaniAIMovie #Full4KMovie\nDada Ki Jaan, Dada Ki Jaan Fiza, Fiza drama, Dada Ki Jaan movie, Pakistani AI Drama, AI Pakistani Drama, Pakistani AI movie, Pakistani drama in Urdu, Urdu AI drama, emotional Pakistani drama, Pakistani family drama, romantic Pakistani drama, AI generated drama, realistic Pakistani AI drama, 4K Pakistani drama, full Pakistani AI movie, Fiza emotional story, Dada Ki Jaan full movie\nDada Ki Jaan, Dada Ki Jaan drama, Dada Ki Jaan Fiza, Fiza, Fiza drama, Pakistani AI Drama, AI Pakistani Drama, Pakistani drama, Pakistani AI movie, AI drama 4K, Urdu drama, Urdu AI drama, emotional drama, family drama, romantic drama, Pakistani full movie, 4K movie, AI generated movie, Hoorain AI drama",
+      "channelId": "UC3YxoLgjaGMnXrue73YKnqg",
+      "channelTitle": "Hoorain Studio 02 ",
+      "thumbnail": "https://i.ytimg.com/vi/FxW-9cjF1FE/hqdefault.jpg",
+      "publishedAt": "2026-10-19T14:00:07Z",
+      "durationSeconds": 3302,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:44.977Z",
+      "lastSeenAt": "2026-10-24T03:07:44.977Z",
+      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
       "unavailableAt": null
     }
   ]

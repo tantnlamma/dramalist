@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:13:53.249Z",
+  "generatedAt": "2026-10-24T03:08:05.377Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -189,7 +189,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -247,7 +247,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -344,7 +344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -401,7 +401,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:53.685Z",
       "lastSeenAt": "2026-10-19T03:05:53.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     },
     {
@@ -477,7 +477,26 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-10-23T03:13:53.249Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SxQ6s02Nfs4",
+      "url": "https://www.youtube.com/watch?v=SxQ6s02Nfs4",
+      "title": "Faça um FILME INTEIRO com IA grátis (1 clique)",
+      "description": "🟢Seja seu Chefe (Aprenda tudo que eu sei): https://www.williandesigner.com/seja-seu-chefe \n\n🔵 PACK Tudo em Um (Meu pack) Editores de vídeo, Designers: https://www.williandesigner.com/pack-tudo-em-um\n\n🚨 Atenção: Meu curso oficial está apenas no link da descrição. Qualquer anúncio fora disso é golpe. Não compre em links diferentes.\n\nTempo vídeo\n\nResultados: 00:00\nRequisitos Mínimos: 02:59\nProgramas no Windows: 05:49\nComfyUI portátil: 06:56\nCustom nodes, sem Manager: 09:00\nSageAttention e Triton (NVIDIA): 11:47\nModelos e arquivos: 12:28\nAbrir e configurar o workflow: 17:21\nComo usar na Prática: 19:51\nResolver erro do vermelho caso der: 28:39\nComo usar na Prática voltando: 29:55\n\n#ComfyUI #MiniMaxH3 #IAGratis #VideoComIA #FilmeComIA #InteligenciaArtificial #IAOpenSource #IALocal",
+      "channelId": "UCeh-h2oateK3IBBT7hSK6Zw",
+      "channelTitle": "Willian IA",
+      "thumbnail": "https://i.ytimg.com/vi/SxQ6s02Nfs4/hqdefault.jpg",
+      "publishedAt": "2026-10-16T22:28:25Z",
+      "durationSeconds": 2377,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:08:05.377Z",
+      "lastSeenAt": "2026-10-24T03:08:05.377Z",
+      "lastVerifiedAt": "2026-10-24T03:08:05.377Z",
       "unavailableAt": null
     }
   ]

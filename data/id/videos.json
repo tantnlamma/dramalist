@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:14:07.328Z",
+  "generatedAt": "2026-10-24T03:08:19.424Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -499,7 +499,7 @@
       "videoId": "2llxee0VlQs",
       "url": "https://www.youtube.com/watch?v=2llxee0VlQs",
       "title": "EXCEPTIONS - Atlas i3 Universe - AI Generated Sci-Fi film 4K",
-      "description": "EXCEPTIONS - ATLAS i3 Universe, is an AI-generated sci-fi short film exploring the future of AI filmmaking and cinematic visual effects.\n\nAI/3D Hybrid Technology study film\n\nCEA - Content created entirely artificially.\n\nATLAS i3 - AI Generated Sci-Fi film (Part 1) 4K link:\nhttps://www.youtube.com/watch?v=9NRk-oWZJB8&t=39s\n\n\nThe aim of this project is to explore new territories that go beyond traditional VFX techniques and support filmmaking processes, where AI can take on renewed roles.\n\nHow can it systematically track the shape and lighting conditions of locations, objects, and vehicles, and how can these be applied consistently within a story from cut to cut?\n\nWe also sought to map the relationship between AI technology and the traditional, emotion-driven, dialogue-centered, narrative portrayal of characters.\n\nThe question was how close the technology is to moving beyond the correction, replacement, or modification of generated backgrounds, and toward taking over certain scenes involving characters as well—thereby simplifying and accelerating production.\n\nCan AI-generated elements be used convincingly as extras, for supporting roles, for scene replacement, or even as fully independent characters?\n\nHow far are we from the point where, as a standalone genre, perhaps lower-budget B-category productions could become immersive and entertaining using this technology—not just for a scene or two, but over the duration of an entire story?\n\nFESTIVAL RECOGNITION\n\nAward Winner — World AI Cinema Festival Cannes / Best AI Feature Film 🏆\nFinalist — Neu Wave AI film festival Los Angeles ⭐        \nFinalist — AI London Film Festival ⭐  \nOfficial Selection — AI ZONE International AI Film Festival – 2nd Edition (2026) 🌿\nOfficial Selection — The Seattle AI Film Festival 2026 🌿 \nOfficial Selection — AI Filmfestival Biberach 🌿\n\n\nCREDITS & TECH STACK\nWritten, Directed, and AI-Engineered by Gregory Toth\nVisuals: Generated and enhanced using advanced AI/3D hybrid pipelines.\nResolution: Ultra HD 4K \n\nkimeraproduction.com",
+      "description": "EXCEPTIONS - ATLAS i3 Universe, is an AI-generated sci-fi short film exploring the future of AI filmmaking and cinematic visual effects.\n\nAI/3D Hybrid Technology study film\n\nCEA - Content created entirely artificially.\n\nATLAS i3 - AI Generated Sci-Fi film (Part 1) 4K link:\nhttps://www.youtube.com/watch?v=9NRk-oWZJB8&t=39s\n\n\nThe aim of this project is to explore new territories that go beyond traditional VFX techniques and support filmmaking processes, where AI can take on renewed roles.\n\nHow can it systematically track the shape and lighting conditions of locations, objects, and vehicles, and how can these be applied consistently within a story from cut to cut?\n\nWe also sought to map the relationship between AI technology and the traditional, emotion-driven, dialogue-centered, narrative portrayal of characters.\n\nThe question was how close the technology is to moving beyond the correction, replacement, or modification of generated backgrounds, and toward taking over certain scenes involving characters as well—thereby simplifying and accelerating production.\n\nCan AI-generated elements be used convincingly as extras, for supporting roles, for scene replacement, or even as fully independent characters?\n\nHow far are we from the point where, as a standalone genre, perhaps lower-budget B-category productions could become immersive and entertaining using this technology—not just for a scene or two, but over the duration of an entire story?\n\nFESTIVAL RECOGNITION\n\nAward Winner — World AI Cinema Festival Cannes / Best AI Feature Film 🏆\nAward Winner — Neu Wave AI film festival Los Angeles / Best Science Fiction Film 🏆        \nFinalist — AI London Film Festival ⭐  \nOfficial Selection — AI ZONE International AI Film Festival – 2nd Edition (2026) 🌿\nOfficial Selection — The Seattle AI Film Festival 2026 🌿 \nOfficial Selection — AI Filmfestival Biberach 🌿\n\n\nCREDITS & TECH STACK\nWritten, Directed, and AI-Engineered by Gregory Toth\nVisuals: Generated and enhanced using advanced AI/3D hybrid pipelines.\nResolution: Ultra HD 4K \n\nkimeraproduction.com",
       "channelId": "UCZIfFPTqRNQr0B4XUfP30ow",
       "channelTitle": "Kimera Production VFX ",
       "thumbnail": "https://i.ytimg.com/vi/2llxee0VlQs/hqdefault.jpg",
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -841,7 +841,7 @@
     {
       "videoId": "Tob38w83eaM",
       "url": "https://www.youtube.com/watch?v=Tob38w83eaM",
-      "title": "Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass",
+      "title": "How to Make AI Movies for FREE 🤯 | Full Guide",
       "description": "Want to create your own cinematic AI movie? 🎬 In this complete step-by-step tutorial, I’ll show you how I created a full AI short movie using AI tools — from the story and characters to cinematic images, AI video scenes and final editing.\n\n✅ You’ll learn the complete AI filmmaking workflow, including how to create consistent characters, generate cinematic scenes, turn images into AI videos and combine everything into a complete movie.\n\n✅ Important Link’s \n• Telegram -https://t.me/mktfamily\n• Prompts - https://docs.google.com/document/d/15CaxBARF1ZVARwQSL533MXupbuJUK-WLx5JfVhm0TPc/ edit?usp=drivesdk\n\n🔥 In this video, you’ll learn:\n• How to create an AI movie from scratch\n• How to create cinematic AI scenes\n• How to generate consistent AI characters\n• How to turn AI images into videos\n• How to create realistic AI movie scenes\n• How to create long-form AI videos\n• How to edit AI video scenes into a complete movie\n• Complete AI filmmaking workflow step-by-step\n• Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass \n• How to Make AI Movies for FREE 🤯 | Full Guide\n• How to Make AI Movies 🤯 | AI Filmmaking Tutorial\n• ai movie tutorial\n• how to make ai movie\n• how to create ai movies\n• ai filmmaking tutorial\n• ai movie making\n• ai movie kaise banaye\n• ai se movie kaise banaye\n• ai video tutorial\n• ai video kaise banaye\n• cinematic ai video\n• cinematic ai movie\n• ai film making\n• ai filmmaking\n• ai storytelling\n• ai short film\n• ai short film tutorial\n• ai movie creation\n• ai video generation\n• ai movie for youtube\n• how to make ai film\n• ai film tutorial\n• ai video editing\n• ai movie step by step\n• ai filmmaking tutorial hindi\n• ai movie tutorial hindi\n\n👉 If you want to create AI movies, AI short films or cinematic AI videos for YouTube, this tutorial will help you understand the complete process from start to finish. And make sure like this Video And Subscriber my Channel  for upcoming tutorial & share with you’re friends \n\n⚠️ AI DISCLAIMER:\nThe AI movie shown in this tutorial, including its visuals, scenes, characters, videos and other elements, has been created using Artificial Intelligence (AI). The remaining tutorial footage, including the screen recordings and my presentation, was personally recorded by me. This video is created for educational and entertainment purposes.\n\n©️ COPYRIGHT DISCLAIMER:\nThis video is created for educational, commentary, transformative and entertainment purposes. Any third-party music, sounds, trademarks, images or other materials used in this video belong to their respective owners. No copyright infringement is intended.\n\n✅ Chapters :-\n00:00 – How to Make AI Movies | AI Movie Tutorial\n00:48 – Complete AI Movie Made with Free AI Tools\n06:10 – Complete AI Movie Workflow | AI Filmmaking\n06:25 – AI Movie Story & Prompts Generation\n15:06 – AI Characters, Images & Video Generation\n28:31 – How to Remove Gemini Watermark for Free\n30:00 – How to Get Gemini & Google Flow Pro for Free\n31:10 – How to Edit AI Movie Videos\n\n#AIMovie #AIFilmmaking #AITutorial #AIVideo #AIMovies",
       "channelId": "UCeRJIYONwn9rcSaV0zTksBQ",
       "channelTitle": "Manni Ki Tech",
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -987,7 +987,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,26 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yJwNmV_bGqw",
+      "url": "https://www.youtube.com/watch?v=yJwNmV_bGqw",
+      "title": "[AI 로판] 푸른 반지의 신부 - 풀무비 | 전편 몰아보기",
+      "description": "죽은 줄 알았던 첫사랑이 다른 여자의 이름으로 돌아와 그의 아내가 되었다.\n\n어린 시절 서로를 기다리겠다고 약속했던 엘레나와 카시안.\n하지만 10년 뒤, 엘레나의 가문은 반역이라는 누명을 쓰고 몰락하고 그녀마저 죽은 사람으로 기록됩니다.\n\n가족을 잃고 살아남은 엘레나는 자신의 가문을 무너뜨린 사건에 카시안이 연루되어 있다고 의심합니다.\n진실을 밝히기 위해 ‘베아트리스 브란트’라는 새로운 신분을 만든 그녀는 결국 자신이 의심하던 남자, 카시안결혼하게 됩니다.\n\n하지만 카시안 역시 갑자기 나타난 아내를 왕비와 브란트 후작이 자신에게 심은 첩자라고 의심하고 있었습니다.\n\n남편을 원수라고 생각하는 여자.\n아내를 적이 보낸 첩자라고 생각하는 남자.\n\n서로를 감시하고 의심하며 시작된 결혼이었지만, 두 사람이 추적하던 진실은 조금씩 같은 곳을 향하기 시작합니다.\n\n사라진 왕실군 기록, 위조된 왕명, 비밀리에 오간 장부, 그리고 10년 동안 간직되어 온 푸른 반지.\n\n마침내 베아트리스의 진짜 정체와 과거의 진실이 밝혀지고, 서로를 적이라고 믿었던 두 사람은 가장 강력한 동맹이 되어 자신들의 모든 것을 빼앗아 간 거대한 음모와 맞섭니다.\n\n첫사랑과 배신, 위장 결혼, 정치적 음모와 복수, 그리고 다시 자신의 의지로 선택하는 사랑까지.\n\n《푸른 반지의 신부》 12부작 전체 이야기를 한 편으로 만나보세요.\n\n#RomanceVideo #RomanceFantasy #FantasyRomance #AIDrama #AIStory #DarkFantasy #FantasyShorts #youtubeshortsvideo #FullMovie #FantasyAdventure #DarkFantasy #AIFilm #AI cinematic #fantasy drama #FantasyMovie #RomanceFantasy #FantasyRomance #AIDrama #AIStory #DarkFantasy #FantasyShorts #youtubeshortsvideo",
+      "channelId": "UCxOcx_uXIaOKXBeXVN1FnZQ",
+      "channelTitle": "필름서랍 | The Film Drawer",
+      "thumbnail": "https://i.ytimg.com/vi/yJwNmV_bGqw/hqdefault.jpg",
+      "publishedAt": "2026-10-23T08:40:10Z",
+      "durationSeconds": 4458,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:08:19.424Z",
+      "lastSeenAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
       "unavailableAt": null
     }
   ]

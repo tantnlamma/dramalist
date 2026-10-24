@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:13:49.138Z",
+  "generatedAt": "2026-10-24T03:08:01.271Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -451,11 +451,11 @@
       "matchedKeywords": [
         "drama IA película completa"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-18T02:52:53.659Z",
       "lastSeenAt": "2026-10-18T02:52:53.659Z",
-      "lastVerifiedAt": "2026-10-21T03:09:49.257Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "unavailableAt": "2026-10-24T03:08:01.271Z"
     },
     {
       "videoId": "ENSU6b0jmEA",
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:49.138Z",
       "lastSeenAt": "2026-10-23T03:13:49.138Z",
-      "lastVerifiedAt": "2026-10-23T03:13:49.138Z",
+      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
       "unavailableAt": null
     }
   ]

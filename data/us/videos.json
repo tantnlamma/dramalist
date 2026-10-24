@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:13:26.840Z",
+  "generatedAt": "2026-10-24T03:07:39.246Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -281,11 +281,11 @@
         "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "w2DMN6EgXoM",
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -419,11 +419,11 @@
         "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "Dq2TCisXyLw",
@@ -457,11 +457,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "iV1l49OcYxw",
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -629,11 +629,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "aozJmnAFG_0",
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -768,7 +768,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -789,7 +789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -808,7 +808,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -828,7 +828,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -848,7 +848,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1019,7 +1019,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1039,7 +1039,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1058,7 +1058,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1112,11 +1112,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "Bg-a2MdhZiw",
@@ -1191,7 +1191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1229,7 +1229,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1267,7 +1267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1286,7 +1286,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1306,7 +1306,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1344,7 +1344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1363,7 +1363,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1382,7 +1382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1420,7 +1420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1572,7 +1572,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1667,7 +1667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1686,7 +1686,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1702,11 +1702,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": "2026-10-24T03:07:39.246Z"
     },
     {
       "videoId": "AAsls5HYogE",
@@ -1781,7 +1781,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1790,7 +1790,7 @@
       "title": "THE LAST SIGNAL 2 | Sci-Fi Mystery Thriller |Full Movie #uk #usa #india #pakistan #viral #viralvideo",
       "description": "Welcome to Durrani Films 🎬 | Where Every Story Comes to Life ❤️\n\nDurrani Films is a cinematic entertainment channel dedicated to bringing powerful stories, emotional dramas, AI movies, fantasy adventures, action-packed scenes, and unforgettable characters to life.\n\nFrom short cinematic stories to complete AI-generated movies, we create original entertainment designed to take you into a world of emotion, mystery, adventure, love, fantasy, and drama. 🌎✨\n\n🎥 What You’ll Find on Durrani Films:\n\nTHE LAST SIGNAL 🌊 | Sci-Fi Mystery Thriller | Full MovieA mysterious signal from the depths of the Atlantic Ocean. A team of scientists descends 4,000 meters to uncover its source — and discovers something that has been waiting for millions of years.Dr. Ethan Carter and Dr. Emily Reed must confront an ancient intelligence, a government cover-up spanning 26 years, and a choice that will decide humanity's fate.⏱️ Chapters:\nPart 1 — The Signal (0:00)\nPart 2 — The Descent (25:00)\nPart 3 — The Creature (50:00)\nPart 4 — The Last Choice (75:00)\n🎬 Produced by Durrani Films\n🌍 Made for US & UK audiences\n#TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie\n\n👉 Subscribe to Durrani Films and turn on 🔔 notifications so you never miss a new movie or Shorts!\n\nDurrani Films — Where Every Story Comes to Life. 🎬✨\n\n#DurraniFilms #AIMovies #AIFilms #CinematicStories #ShortFilms #Movies #Drama #Fantasy #ActionMovies #AIStorytelling #YouTubeShorts #ViralShorts #MovieLovers #Storytelling #Entertainment #TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie #ThrillerMovie #EnglishMovie #mustwatch",
       "channelId": "UCprLBVgcLqejRlHsMvy_5YQ",
-      "channelTitle": "DurraniFilms",
+      "channelTitle": "Durrani Films",
       "thumbnail": "https://i.ytimg.com/vi/Fh13zUTDHpY/hqdefault.jpg",
       "publishedAt": "2026-10-11T05:52:15Z",
       "durationSeconds": 6823,
@@ -1819,7 +1819,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1838,7 +1838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1896,7 +1896,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1934,7 +1934,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -1959,7 +1959,7 @@
     {
       "videoId": "Tob38w83eaM",
       "url": "https://www.youtube.com/watch?v=Tob38w83eaM",
-      "title": "Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass",
+      "title": "How to Make AI Movies for FREE 🤯 | Full Guide",
       "description": "Want to create your own cinematic AI movie? 🎬 In this complete step-by-step tutorial, I’ll show you how I created a full AI short movie using AI tools — from the story and characters to cinematic images, AI video scenes and final editing.\n\n✅ You’ll learn the complete AI filmmaking workflow, including how to create consistent characters, generate cinematic scenes, turn images into AI videos and combine everything into a complete movie.\n\n✅ Important Link’s \n• Telegram -https://t.me/mktfamily\n• Prompts - https://docs.google.com/document/d/15CaxBARF1ZVARwQSL533MXupbuJUK-WLx5JfVhm0TPc/ edit?usp=drivesdk\n\n🔥 In this video, you’ll learn:\n• How to create an AI movie from scratch\n• How to create cinematic AI scenes\n• How to generate consistent AI characters\n• How to turn AI images into videos\n• How to create realistic AI movie scenes\n• How to create long-form AI videos\n• How to edit AI video scenes into a complete movie\n• Complete AI filmmaking workflow step-by-step\n• Make a Full AI Movie in 30 Minutes 🤯 | FREE Masterclass \n• How to Make AI Movies for FREE 🤯 | Full Guide\n• How to Make AI Movies 🤯 | AI Filmmaking Tutorial\n• ai movie tutorial\n• how to make ai movie\n• how to create ai movies\n• ai filmmaking tutorial\n• ai movie making\n• ai movie kaise banaye\n• ai se movie kaise banaye\n• ai video tutorial\n• ai video kaise banaye\n• cinematic ai video\n• cinematic ai movie\n• ai film making\n• ai filmmaking\n• ai storytelling\n• ai short film\n• ai short film tutorial\n• ai movie creation\n• ai video generation\n• ai movie for youtube\n• how to make ai film\n• ai film tutorial\n• ai video editing\n• ai movie step by step\n• ai filmmaking tutorial hindi\n• ai movie tutorial hindi\n\n👉 If you want to create AI movies, AI short films or cinematic AI videos for YouTube, this tutorial will help you understand the complete process from start to finish. And make sure like this Video And Subscriber my Channel  for upcoming tutorial & share with you’re friends \n\n⚠️ AI DISCLAIMER:\nThe AI movie shown in this tutorial, including its visuals, scenes, characters, videos and other elements, has been created using Artificial Intelligence (AI). The remaining tutorial footage, including the screen recordings and my presentation, was personally recorded by me. This video is created for educational and entertainment purposes.\n\n©️ COPYRIGHT DISCLAIMER:\nThis video is created for educational, commentary, transformative and entertainment purposes. Any third-party music, sounds, trademarks, images or other materials used in this video belong to their respective owners. No copyright infringement is intended.\n\n✅ Chapters :-\n00:00 – How to Make AI Movies | AI Movie Tutorial\n00:48 – Complete AI Movie Made with Free AI Tools\n06:10 – Complete AI Movie Workflow | AI Filmmaking\n06:25 – AI Movie Story & Prompts Generation\n15:06 – AI Characters, Images & Video Generation\n28:31 – How to Remove Gemini Watermark for Free\n30:00 – How to Get Gemini & Google Flow Pro for Free\n31:10 – How to Edit AI Movie Videos\n\n#AIMovie #AIFilmmaking #AITutorial #AIVideo #AIMovies",
       "channelId": "UCeRJIYONwn9rcSaV0zTksBQ",
       "channelTitle": "Manni Ki Tech",
@@ -2068,7 +2068,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2087,7 +2087,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2144,7 +2144,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2182,7 +2182,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2201,7 +2201,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2220,7 +2220,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     },
     {
@@ -2240,6 +2240,139 @@
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
       "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "q_zFhdL-8UE",
+      "url": "https://www.youtube.com/watch?v=q_zFhdL-8UE",
+      "title": "One Soldier Fights An AI Killer Machine Army | Winter: Battleground | Full Sci-Fi Action Movie",
+      "description": "One Soldier Fights An AI Killer Machine Army | Winter: Battleground | Full Sci-Fi Action Movie - Hunted by an AI-controlled regime, a rogue soldier hiding in the forest must outfight elite assassins, cybernetic soldiers, and corrupted machines to stop an artificial intelligence from seizing total control of America.\n\nWinter: Battleground is a high-octane sci-fi action thriller set in a near-future America that has been seized by a ruthless artificial intelligence. Starring UFC veteran Donald 'Cowboy' Cerrone alongside Johnny Messner and Kayleigh Gilbert, the film follows a rogue soldier hiding deep in the forest after becoming a target of the AI-controlled regime. Hunted relentlessly, he must outfight elite assassins, cybernetic soldiers, and corrupted war machines in a desperate bid to stop the artificial intelligence from seizing total control of the country.\n\nPerfect for fans of man-vs-machine sci-fi action, full free action movies on YouTube, AI uprising thrillers, and high-octane survival films like Terminator, The Matrix, I Am Mother, and Upgrade, Winter: Battleground delivers relentless firefights, guerrilla survival tactics, and a desperate race against a rising artificial superintelligence.\n\nMovie: Winter: Battleground\nMovie Genre: Sci-Fi Action\nStarring: Donald \"Cowboy\" Cerrone, Johnny Messner, Kayleigh Gilbert\n*Licensed from Epic Pictures. All rights reserved.*\n\nWelcome to We Got Movies! Your destination for action, science fiction, and thrillers. Prepare yourself for continuous blockbuster excitement, featuring heart-pounding chases and gripping fight sequences! All movies are FREE!\n\nHit the bell icon so you never miss our latest movies. Like, Share, and Comment to tell us your favorite movie we release!\n\nYour support fuels our exploration! Help us uncover new stories and share diverse voices by donating to our channel through Super Thanks!\n\n***We Got Movies - Your Home for Free Action & Sci-Fi Movies***\n\nAll of the content on this channel is UNDER LEGAL LICENSE (We have written contracts) from various copyright holders and distributors. We ask you to please contact us if you believe there are any copyright issues via - rights@vamedianetwork.com\nWe Got Movies is owned and operated by VA Media Ltd. All rights reserved.\n\n#freeactionmovie #2026movies #fullfreemovies #actionscifimovie #2026actionmovie #actionthrillermovie #scifiactionmovie #2026scifimovie",
+      "channelId": "UCR0v_ZA8zKJwxpU9HpDq3fQ",
+      "channelTitle": "We Got Movies",
+      "thumbnail": "https://i.ytimg.com/vi/q_zFhdL-8UE/hqdefault.jpg",
+      "publishedAt": "2026-10-23T22:30:27Z",
+      "durationSeconds": 4997,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MBJLgDo4HQM",
+      "url": "https://www.youtube.com/watch?v=MBJLgDo4HQM",
+      "title": "DADDY’S EMPIRE | Full Movie 2026 | English Action Crime Thriller | Random Entertainments",
+      "description": "👑🔥 **DADDY’S EMPIRE | FULL MOVIE (2026)** 🔥👑\n\n**BUILT ON LOYALTY. BROKEN BY BETRAYAL.**\n\n**One Family. One Empire. Countless Enemies.**\n\nWelcome to the dangerous underworld of New York, where power is everything and loyalty comes at a deadly price.\n\n**Gopi**, a ruthless mafia kingpin, has built a powerful criminal empire through fear, wealth and control. Alongside his sons, trusted bodyguards and closest advisor, he believes his empire is untouchable.\n\nBut when mysterious explosions destroy his businesses, trusted relationships begin to collapse and an FBI investigation closes in, Gopi realizes that his greatest enemy may be closer than he thinks.\n\nAs love turns into tragedy, friendships are tested, and revenge takes over, one question remains:\n\n**WHO IS REALLY DESTROYING DADDY’S EMPIRE?**\n\nExperience a gripping story of crime, family, brotherhood, revenge, betrayal and justice.\n\n🎬 **DADDY’S EMPIRE**  \nAn English-language AI-generated crime-action thriller inspired by the powerful storytelling, character elevations and cinematic action of South Indian Telugu mass cinema.\n\n🔥 **OFFICIAL RELEASE: OCTOBER 22, 2026**  \n▶️ **EXCLUSIVELY ON YOUTUBE**\n\n---\n\n🎥 **OFFICIAL MOVIE CREDITS**\n\n🎬 **Production:** RANDOM ENTERTAINMENTS\n\n✍️ **Story, Screenplay, Dialogues & Direction:** MADHU SUDHAN\n\n🎞️ **Editing:** MADHU SUDHAN\n\n🎥 **Produced By:** MAHESH GUPTHA\n\n🎬 **Assistant Director:** SURYA\n\n⭐ **STARRING**\n\nMahesh Guptha  \nGanesh  \nPraveen  \nMonish  \nJaideep  \nGopi  \nSurya\n\n**Female Character:** Nisha (AI)\n\n---\n\n⚠️ **AI FILM DISCLAIMER**\n\nDADDY’S EMPIRE is an independent fictional film created using Artificial Intelligence technology.\n\nSome scenes may contain visual inconsistencies, lip-sync imperfections or continuity differences due to the limitations of AI filmmaking.\n\nWe sincerely appreciate your understanding and support as we explore new possibilities in cinematic storytelling.\n\nAll characters and events are fictional.\n\n© 2026 RANDOM ENTERTAINMENTS. Original production material. Third-party content remains subject to its respective owners' rights.\n\n---\n\n❤️ **SUPPORT OUR FIRST CINEMATIC JOURNEY!**\n\nIf you enjoyed DADDY’S EMPIRE:\n\n👍 LIKE the movie  \n💬 COMMENT your favorite character or scene  \n🔔 SUBSCRIBE to RANDOM ENTERTAINMENTS  \n📲 SHARE the movie with your friends and family\n\nYour support means everything to our team and encourages us to create more films.\n\n👑 **THE EMPIRE DOESN’T END HERE…**\n\n**RANDOM ENTERTAINMENTS — WHERE STORIES COME ALIVE.**\n\n#DaddysEmpire #RandomEntertainments #FullMovie #AIFilm #SouthIndianMassCinema #india #hollywood #latestmovies #newmovies #usa",
+      "channelId": "UC4KyMnAWYP5oYWNkqUqIPnA",
+      "channelTitle": "RANDOM ENTERTAINMENTS",
+      "thumbnail": "https://i.ytimg.com/vi/MBJLgDo4HQM/hqdefault.jpg",
+      "publishedAt": "2026-10-23T21:11:29Z",
+      "durationSeconds": 2355,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "A7qRGFy3hso",
+      "url": "https://www.youtube.com/watch?v=A7qRGFy3hso",
+      "title": "The Last Dance In Kippur Full Movie   فيلم حرب أكتوبر 1973   آخر رقصة في كيبور   كامل 4",
+      "description": "\"قالوا إن عبور قناة السويس يحتاج إلى 48 ساعة... لكن المصريين كان لهم رأي آخر.\"\n\nفي السادس من أكتوبر عام 1973، لم تكن مصر تستعد لخوض حرب فحسب، بل كانت تستعد لتغيير التاريخ.\n\nفي الوقت الذي وثقت فيه القيادة الإسرائيلية بحساباتها العسكرية وتقديرات أجهزتها الاستخباراتية، كان الجيش المصري يستعد لتنفيذ واحدة من أعظم المفاجآت الاستراتيجية والعسكرية في التاريخ الحديث.\n\n\"آخر رقصة في كيبور\" فيلم سينمائي يعيد إحياء الساعات الحاسمة التي سبقت اندلاع حرب أكتوبر المجيدة، كاشفًا عن الصراع بين التخطيط العسكري المصري والتقديرات الإسرائيلية، وصولًا إلى اللحظة التي انهارت فيها حسابات العدو أمام عبقرية التخطيط المصري وشجاعة المقاتل المصري.\n\nمن قصر الرئاسة المصرية إلى منزل جولدا مائير، ومن غرف العمليات ومراكز الاستخبارات إلى ضفاف قناة السويس وحصون خط بارليف، يأخذنا الفيلم في رحلة سينمائية مستوحاة من أحداث تاريخية موثقة.\n\nتجربة سينمائية صُنعت باستخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد شخصيات تاريخية وأحداث عسكرية برؤية بصرية ودرامية مستوحاة من السينما العالمية.**\n\nهذا العمل إهداء إلى أبطال القوات المسلحة المصرية، وإلى كل من خطط وقاتل وضحّى من أجل استعادة الأرض والكرامة.\n\nلم تكن المعجزة في عبور القناة وحدها... بل في عبور حدود ما اعتقد العدو أنه مستحيل.\n\nتحيا مصر\n\n\"THE LAST DANCE IN KIPPUR | OCTOBER 1973\"\n\nBASED ON TRUE EVENTS.\n\nTHEY BELIEVED CROSSING THE SUEZ CANAL WOULD TAKE AT LEAST 48 HOURS.\n\nON OCTOBER 6, 1973, THE EGYPTIAN ARMED FORCES CHALLENGED THOSE EXPECTATIONS AND CHANGED THE COURSE OF HISTORY.\n\nTHE LAST DANCE IN KIPPUR IS A CINEMATIC RECREATION OF THE CRITICAL HOURS LEADING UP TO THE OCTOBER WAR, EXPLORING MILITARY STRATEGY, INTELLIGENCE, DECEPTION, AND THE EXTRAORDINARY COURAGE OF THE EGYPTIAN SOLDIER.\n\nA HISTORICAL WAR FILM BROUGHT TO LIFE THROUGH ARTIFICIAL INTELLIGENCE.\n\nإخلاء مسؤولية | DISCLAIMER\n\nالفيلم مستوحى من أحداث تاريخية حقيقية وموثقة. تم استخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد الشخصيات التاريخية والمواقع والأحداث. بعض الحوارات والمواقف والتفاصيل الدرامية أُعيد بناؤها لخدمة الرؤية السينمائية، ولا تُعد تسجيلات أرشيفية أصلية.\n\nهذا العمل لا يمثل أي مؤسسة أو جهة رسمية أو غير رسمية، ولا يعبر إلا عن الرؤية الفنية والإبداعية لصُنّاع العمل والقائمين عليه.\n\nTHIS FILM IS BASED ON DOCUMENTED HISTORICAL EVENTS. HISTORICAL FIGURES, LOCATIONS, AND SCENES HAVE BEEN DIGITALLY RECREATED USING ARTIFICIAL INTELLIGENCE. CERTAIN DIALOGUE, INTERACTIONS, AND DRAMATIC DETAILS HAVE BEEN RECONSTRUCTED OR FICTIONALIZED FOR CINEMATIC PURPOSES AND DO NOT REPRESENT ORIGINAL ARCHIVAL RECORDINGS.\n\nTHIS FILM IS AN INDEPENDENT CREATIVE PRODUCTION AND DOES NOT REPRESENT, SPEAK ON BEHALF OF, OR REFLECT THE OFFICIAL POSITION OF ANY GOVERNMENT, INSTITUTION, OR ORGANIZATION. ALL CREATIVE AND ARTISTIC INTERPRETATIONS ARE SOLELY THOSE OF THE FILMMAKERS AND ITS PRODUCTION TEAM.\n---\n\n#آخر_رقصة_في_كيبور #TheLastDanceInKippur #حرب_أكتوبر #نصر_أكتوبر #حرب_1973 #الجيش_المصري #OctoberWar #October1973 #YomKippurWar #AIFilm #KareemAbdelwahab\nيستعرض هذا العمل الدرامي من إخراج كريم عبد الوهاب كواليس التوترات السياسية والعسكرية التي سبقت اندلاع حرب أكتوبر عام 1973. يتناول الفيلم جهود الاستخبارات والقرارات الاستراتيجية الحاسمة التي اتخذتها الأطراف المعنية في تلك الفترة المفصلية من تاريخ المنطقة، مسلطاً الضوء على دقة",
+      "channelId": "UC8KobpRfKnb9JFGDWW0L7Bg",
+      "channelTitle": "alvin",
+      "thumbnail": "https://i.ytimg.com/vi/A7qRGFy3hso/hqdefault.jpg",
+      "publishedAt": "2026-10-23T12:12:19Z",
+      "durationSeconds": 2090,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Blobd9jstQA",
+      "url": "https://www.youtube.com/watch?v=Blobd9jstQA",
+      "title": "The Mothers Monster Full Movie 4K",
+      "description": "Where artificial intelligence meets cinematic imagination.Translating code into canvas, and prompts into picture.The future of filmmaking isn't captured—it's generated.Framing tomorrow, one render at a time.Art at the intersection of human creativity and machine intelligence.\n\"Redefining reality through the visual output of AI.",
+      "channelId": "UC792ivdDK9yeiuF1dzx92Cw",
+      "channelTitle": "A.I.V.O",
+      "thumbnail": "https://i.ytimg.com/vi/Blobd9jstQA/hqdefault.jpg",
+      "publishedAt": "2026-10-23T08:11:35Z",
+      "durationSeconds": 3792,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Gpkh4AcYyFc",
+      "url": "https://www.youtube.com/watch?v=Gpkh4AcYyFc",
+      "title": "【FULL MOVIE】The Hidden Archmage's Contract Bride | Fantasy Drama",
+      "description": "【FULL MOVIE】The Hidden Archmage's Contract Bride | Fantasy Drama\n\n🎥 EXPERIENCE THE NEXT GENERATION OF CINEMA\n\nWelcome to \"Mythora Films AI\", where imagination meets cinematic innovation.\n\nStep into a visually stunning world of AI filmmaking, original concepts, extraordinary characters, and stories designed to transport you beyond the limits of reality.\n\nFrom massive cinematic landscapes and futuristic megacities to mythical creatures, supernatural forces, and breathtaking adventures, every creation explores new possibilities in digital filmmaking.\n\n🔥 DISCOVER OUR CINEMATIC WORLDS\n\n🎬 AI Cinematic Films — Experience original visual storytelling powered by artificial intelligence.\n\n🌍 Fantasy & Mythology — Explore legendary worlds, ancient secrets, powerful heroes, and mythical realms.\n\n🚀 Science Fiction — Travel to distant galaxies, advanced civilizations, and possible futures.\n\n🌑 Mystery & Suspense — Uncover hidden truths, unexpected twists, and worlds filled with secrets.\n\n✨ Visual Imagination — Witness ambitious creative visions brought to life through AI-assisted filmmaking.\n\n🎞️ MORE THAN A FILM. A NEW REALITY.\n\nAt \"Mythora Films AI\", we believe the future of storytelling belongs to those who dare to imagine differently. Our goal is to explore the creative potential of artificial intelligence and deliver memorable cinematic experiences for audiences around the world.\n\n🌟 BE PART OF THE STORY\n\nSubscribe to \"Mythora Films AI\" for more imaginative films, extraordinary adventures, and cinematic worlds waiting to be discovered.\n\n👍 Enjoyed the film? Leave a like.\n💬 What did you think of the story? Tell us in the comments.\n🔔 Turn on notifications to discover our next cinematic creation.\n\nThe future of cinema is being imagined today.\n\n\"Mythora Films AI\" — Imagine Beyond. Experience More.\n\n⚠️ CONTENT NOTICE: This production may include AI-generated or AI-assisted visuals, voices, characters, and environments. The film is created for entertainment and artistic purposes.\n\n#MythoraFilmsAI #AIcinema #AImovie #AIFilmmaking #CinematicFilms #ArtificialIntelligence #SciFiMovies #FantasyCinema",
+      "channelId": "UCNf58z-ktbiLTaA8TLcU5JA",
+      "channelTitle": "Mythora Films AI",
+      "thumbnail": "https://i.ytimg.com/vi/Gpkh4AcYyFc/hqdefault.jpg",
+      "publishedAt": "2026-10-22T11:00:21Z",
+      "durationSeconds": 4034,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JMWWejzZarM",
+      "url": "https://www.youtube.com/watch?v=JMWWejzZarM",
+      "title": "The Girl With the Golden Hand 👑✨ | Nollywood AI African Fantasy Full Movie",
+      "description": "THE GIRL WITH THE GOLDEN HAND 👑✨ | Nollywood AI African Fantasy Movie\n\nWhat if the very thing that made you different was the gift destined to save an entire kingdom? 😱✨\n\nAmara is a young woman who has endured rejection, humiliation, and suffering because of a mysterious secret she has struggled to hide. But when an ancient curse threatens to destroy her kingdom, Amara discovers that her golden hands hold a power greater than anyone could imagine.\n\nAs greed, betrayal, and dark forces rise against her, Amara must uncover an ancient prophecy, confront a terrifying Shadow King, and discover the truth about a mysterious prince whose identity has been kept secret for years.\n\nWith the fate of the kingdom hanging in the balance, will Amara find the courage to embrace her destiny, find true love, and save the people who once judged her?\n\nWatch this captivating Nollywood-inspired AI African fantasy movie filled with royal secrets, magic, romance, betrayal, suspense, and an unforgettable ending.\n\n❤️ LIFE LESSON: Never be ashamed of what makes you different. Sometimes, your greatest weakness in the eyes of others can become your greatest strength. True greatness comes from kindness, courage, forgiveness, and the way we use our gifts to help others.\n\n🎬 ABOUT AKASIBH AI DRAMA OFFICIAL\n\nWe create exciting AI-generated African drama movies, emotional stories, royal fantasies, family dramas, and powerful stories with meaningful life lessons.\n\nIf you love African movies, Nollywood-inspired stories, AI fantasy films, and surprising plot twists, make sure to:\n\n👍 LIKE this video\n💬 COMMENT on the lesson you learned from Amara's journey\n📲 SHARE this movie with your friends and family\n🔔 SUBSCRIBE to AKASIBH AI Drama Official and turn on notifications for more exciting movies.\n\nThank you for watching and supporting our channel!\n\n#TheGirlWithTheGoldenHand #NollywoodAI #AfricanFantasy #AIAfricanMovie #AfricanDrama #NollywoodMovie #AIDrama #FullMovie #AfricanStories #AKASIBHAIDramaOfficial",
+      "channelId": "UCsN6pq7M6s5Fwyr4dJP6TFA",
+      "channelTitle": "AKASIBH AI DRAMA OFFICIAL ",
+      "thumbnail": "https://i.ytimg.com/vi/JMWWejzZarM/hqdefault.jpg",
+      "publishedAt": "2026-10-21T13:18:44Z",
+      "durationSeconds": 1838,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_8xKT7zN088",
+      "url": "https://www.youtube.com/watch?v=_8xKT7zN088",
+      "title": "He Hid a Pregnant Alien From His Own Army — Now They're Both Hunted | Full Movie 4K#AIStory #AIMovie",
+      "description": "He was ordered to kill every alien survivor. Instead, he hid one — a pregnant alien woman — from his own army. Now they're both hunted.\n\nSAYA is a 40-minute original AI cinematic drama about Jack, a soldier on a desert mining colony, who finds Nova — a wounded, pregnant alien — in a crashed pod. The order is clear: no alien survivors. His choice is not. What follows is a story of trust built without a shared language, a birth in hiding, a friend forced to choose sides, and a final stand for one small family the world wants erased.\n\nCHAPTERS:\n00:00 Act 1 — Discovery (Scenes 1-8): The Patrol, The Signal, Inside the Pod, The Choice, The Water Station, First Light, No Common Tongue, The Names\n07:42 Act 2 — Bond (Scenes 9-16): Stolen Supplies, The Fever, Water Sense, The Colony, Sand Drawings, The Laugh, The Scan, Suspicion\n3. Tags (copy-paste into tag box)\nai movie, ai short film, ai drama, ai story, sci fi drama, alien movie, full movie 4k, ai generated movie, cinematic ai film, soldier story, survival drama, pregnant alien, ai animation movie, emotional ai story, ai film 2026\n4. Hashtags (first 3 show above title)\n#AIStory #AIMovie #SciFiDrama #AIFilm #FullMovie #AIDrama #EmotionalStory #Viral\n#AIStory #AIMovie #SciFiDrama #AIFilm #FullMovie #AIDrama #EmotionalStory #Viral   Disclosure: This video was created using AI-generated visuals and voiceover. All characters, storylines, and events are fictional and original.",
+      "channelId": "UCBczsKFs_Cx9N73YpSp3GuA",
+      "channelTitle": "ROMANCE REVERIE",
+      "thumbnail": "https://i.ytimg.com/vi/_8xKT7zN088/hqdefault.jpg",
+      "publishedAt": "2026-10-22T17:55:17Z",
+      "durationSeconds": 2071,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-24T03:07:39.246Z",
+      "lastSeenAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
       "unavailableAt": null
     }
   ]
