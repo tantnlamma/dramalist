@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:08:10.144Z",
+  "generatedAt": "2026-10-25T03:03:02.619Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -260,11 +260,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "unavailableAt": "2026-10-25T03:03:02.619Z"
     },
     {
       "videoId": "LZmRcQv6iVo",
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -588,7 +588,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -760,7 +760,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -798,7 +798,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -876,7 +876,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -896,7 +896,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-23T03:13:58.281Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-23T03:13:58.281Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1048,7 +1048,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1162,7 +1162,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1182,7 +1182,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     },
     {
@@ -1202,6 +1202,82 @@
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
       "lastVerifiedAt": "2026-10-24T03:08:10.144Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5X_jQ5T-jcQ",
+      "url": "https://www.youtube.com/watch?v=5X_jQ5T-jcQ",
+      "title": "Jungle Run | Film Complet | Thriller | ACE",
+      "description": "Amanda et Scott s’aventurent au cœur de la forêt amazonienne pour retrouver leur père, un archéologue porté disparu. Attaqués par les créatures les plus dangereuses de la jungle, ils doivent lutter pour survivre tout en poursuivant leurs recherches. Ils comprennent bientôt qu’une menace bien plus sinistre se cache derrière ce déchaînement de la nature.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Noah Luke\nAvec Richard Grieco, Alyson Gorske, Jack Pearson\n© ACE - Tous droits réservés\n\n#filmcomplet #filmaventure #jungle #survie #amazonie #action #thriller #filmcompletenfrançais\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/5X_jQ5T-jcQ/hqdefault.jpg",
+      "publishedAt": "2026-10-24T16:00:29Z",
+      "durationSeconds": 4939,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:02.619Z",
+      "lastSeenAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_tZXou01Mf4",
+      "url": "https://www.youtube.com/watch?v=_tZXou01Mf4",
+      "title": "Assaut sur l’Unité 33⎪Michael Jai White⎪Action⎪Film complet⎪ACE",
+      "description": "Jason Hill, ancien soldat d’élite, se rend dans l’hôpital militaire où travaille sa femme Jennifer.\n\nCe qui devait être une simple visite tourne au cauchemar lorsqu’une escouade de terroristes lourdement armés prend le contrôle du bâtiment.\n\nParmi les otages se trouvent Jennifer et le chef d’état-major de l’armée. Isolé à l’intérieur de l’hôpital, Jason comprend qu’il est leur seul espoir.\n\nPour sauver les otages, il devra retrouver ses réflexes de combattant, déjouer les assaillants et reprendre le bâtiment étage après étage.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Christopher Ray\nAvec Sean Patrick Flanery, Michael Jai White et Mark Dacascos\n© Tous droits réservés ACE\n\n#action #thriller #michaeljaiwhite",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/_tZXou01Mf4/hqdefault.jpg",
+      "publishedAt": "2026-10-24T13:00:24Z",
+      "durationSeconds": 5147,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:02.619Z",
+      "lastSeenAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "chV177V4-Uo",
+      "url": "https://www.youtube.com/watch?v=chV177V4-Uo",
+      "title": "Max⎪John Cusack⎪Aux origines d’un destin funeste⎪Drame⎪Guerre⎪Film complet⎪UC",
+      "description": "Allemagne, au lendemain de la Première Guerre mondiale. Un jeune homme rêve encore de devenir artiste. Quelques années plus tard, son nom changera le cours de l’Histoire.\n\nMax Rothman est un ancien soldat devenu marchand d’art.\n\nDans une Allemagne meurtrie par la guerre, il tente de retrouver sa place au cœur d’une scène artistique en pleine transformation.\n\nC’est dans cet univers qu’il croise la route d’un jeune vétéran autrichien frustré par son manque de reconnaissance : Adolf Hitler.\n\nÀ cette époque, celui-ci cherche encore à construire son avenir autour de la peinture.\n\nMax décèle chez lui une énergie qu’il tente d’orienter vers la création artistique. Une relation improbable se noue alors entre le marchand d’art et celui qui deviendra quelques années plus tard l’une des figures les plus destructrices du XXe siècle. Le film présente cette relation comme une construction fictionnelle.    page-2026-10-20-17-36-04\n\nMais dans l’Allemagne de l’après-guerre, la colère et les frustrations politiques gagnent du terrain.\n\nEt tandis que Max encourage son protégé à trouver sa voix sur une toile, celui-ci commence à découvrir une autre manière de transformer sa colère en influence.\n\nVotre prochaine découverte cinéma vous attend sur Ciné Select. Abonnez-vous 👉 https://shorturl.at/07Z5h\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Menno Meyjes\nAvec John Cusack, Noah Taylor, Leelee Sobieski et Molly Parker\n© Tous droits réservés UC",
+      "channelId": "UCoyWpYaeoykAso1qTNH7qng",
+      "channelTitle": "CINE SELECT",
+      "thumbnail": "https://i.ytimg.com/vi/chV177V4-Uo/hqdefault.jpg",
+      "publishedAt": "2026-10-20T18:30:04Z",
+      "durationSeconds": 6471,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:02.619Z",
+      "lastSeenAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "syxNaG1p46g",
+      "url": "https://www.youtube.com/watch?v=syxNaG1p46g",
+      "title": "Stella, une vie allemande⎪Berlin, 1944 : survivre à tout prix⎪Guerre⎪Film complet en français⎪ACE",
+      "description": "Stella Goldschlag est une jeune femme qui rêve de devenir chanteuse de jazz.\nMais dans l’Allemagne nazie, les persécutions bouleversent son existence et celle de sa famille.\nAlors que la répression s’intensifie, Stella est finalement contrainte de se cacher avec ses parents pour tenter d’échapper au régime.   \n\nLa jeune femme insouciante qui rêvait de musique découvre désormais une réalité où chaque rencontre peut représenter une menace et où survivre devient une lutte quotidienne.\n\nSon parcours va progressivement la confronter à des choix d’une extrême violence morale.\n\nQue reste-t-il de nos principes lorsque notre propre vie et celle de ceux que nous aimons sont menacées ?\n\nInspiré du destin controversé de Stella Goldschlag, le film explore une trajectoire qui brouille progressivement les frontières entre victime, survie et responsabilité.\n\n🎞️ Un max de films complets, juste pour vous !👉 https://bit.ly/37nichs 👈 ✨ Abonnez-vous pour ne rien manquer !\n\nUn film de Kilian Riedhof\nAvec Paula Beer, Jannis Niewöhner, Katja Riemann et Lukas Miko\n© Tous droits réservés ACE\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UC83ULFMJ5TNEQ9Mt8ePgzbw",
+      "channelTitle": "CINE STREAM",
+      "thumbnail": "https://i.ytimg.com/vi/syxNaG1p46g/hqdefault.jpg",
+      "publishedAt": "2026-10-18T13:45:04Z",
+      "durationSeconds": 7100,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:02.619Z",
+      "lastSeenAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
       "unavailableAt": null
     }
   ]

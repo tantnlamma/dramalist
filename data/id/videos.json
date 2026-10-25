@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:08:19.424Z",
+  "generatedAt": "2026-10-25T03:03:11.546Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -91,7 +91,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -499,7 +499,7 @@
       "videoId": "2llxee0VlQs",
       "url": "https://www.youtube.com/watch?v=2llxee0VlQs",
       "title": "EXCEPTIONS - Atlas i3 Universe - AI Generated Sci-Fi film 4K",
-      "description": "EXCEPTIONS - ATLAS i3 Universe, is an AI-generated sci-fi short film exploring the future of AI filmmaking and cinematic visual effects.\n\nAI/3D Hybrid Technology study film\n\nCEA - Content created entirely artificially.\n\nATLAS i3 - AI Generated Sci-Fi film (Part 1) 4K link:\nhttps://www.youtube.com/watch?v=9NRk-oWZJB8&t=39s\n\n\nThe aim of this project is to explore new territories that go beyond traditional VFX techniques and support filmmaking processes, where AI can take on renewed roles.\n\nHow can it systematically track the shape and lighting conditions of locations, objects, and vehicles, and how can these be applied consistently within a story from cut to cut?\n\nWe also sought to map the relationship between AI technology and the traditional, emotion-driven, dialogue-centered, narrative portrayal of characters.\n\nThe question was how close the technology is to moving beyond the correction, replacement, or modification of generated backgrounds, and toward taking over certain scenes involving characters as well—thereby simplifying and accelerating production.\n\nCan AI-generated elements be used convincingly as extras, for supporting roles, for scene replacement, or even as fully independent characters?\n\nHow far are we from the point where, as a standalone genre, perhaps lower-budget B-category productions could become immersive and entertaining using this technology—not just for a scene or two, but over the duration of an entire story?\n\nFESTIVAL RECOGNITION\n\nAward Winner — World AI Cinema Festival Cannes / Best AI Feature Film 🏆\nAward Winner — Neu Wave AI film festival Los Angeles / Best Science Fiction Film 🏆        \nFinalist — AI London Film Festival ⭐  \nOfficial Selection — AI ZONE International AI Film Festival – 2nd Edition (2026) 🌿\nOfficial Selection — The Seattle AI Film Festival 2026 🌿 \nOfficial Selection — AI Filmfestival Biberach 🌿\n\n\nCREDITS & TECH STACK\nWritten, Directed, and AI-Engineered by Gregory Toth\nVisuals: Generated and enhanced using advanced AI/3D hybrid pipelines.\nResolution: Ultra HD 4K \n\nkimeraproduction.com",
+      "description": "EXCEPTIONS - ATLAS i3 Universe, is an AI-generated sci-fi short film exploring the future of AI filmmaking and cinematic visual effects.\n\nAI/3D Hybrid Technology study film\n\nCEA - Content created entirely artificially.\n\nATLAS i3 - AI Generated Sci-Fi film (Part 1) 4K link:\nhttps://www.youtube.com/watch?v=9NRk-oWZJB8&t=39s\n\n\nThe aim of this project is to explore new territories that go beyond traditional VFX techniques and support filmmaking processes, where AI can take on renewed roles.\n\nHow can it systematically track the shape and lighting conditions of locations, objects, and vehicles, and how can these be applied consistently within a story from cut to cut?\n\nWe also sought to map the relationship between AI technology and the traditional, emotion-driven, dialogue-centered, narrative portrayal of characters.\n\nThe question was how close the technology is to moving beyond the correction, replacement, or modification of generated backgrounds, and toward taking over certain scenes involving characters as well—thereby simplifying and accelerating production.\n\nCan AI-generated elements be used convincingly as extras, for supporting roles, for scene replacement, or even as fully independent characters?\n\nHow far are we from the point where, as a standalone genre, perhaps lower-budget B-category productions could become immersive and entertaining using this technology—not just for a scene or two, but over the duration of an entire story?\n\nFESTIVAL RECOGNITION\n\nAward Winner — World AI Cinema Festival Cannes / Best AI Feature Film 🏆\nAward Winner — Neu Wave AI film festival Los Angeles / Best Science Fiction Film 🏆        \nFinalist — AI London Film Festival ⭐  \nOfficial Selection — AI ZONE International AI Film Festival – 2nd Edition (2026) 🌿\nOfficial Selection — The Seattle AI Film Festival 2026 🌿 \nOfficial Selection — CSFCCA International AI Film Festival Taiwan 🌿\nOfficial Selection — AI Filmfestival Biberach 🌿\n\n\nCREDITS & TECH STACK\nWritten, Directed, and AI-Engineered by Gregory Toth\nVisuals: Generated and enhanced using advanced AI/3D hybrid pipelines.\nResolution: Ultra HD 4K \n\nkimeraproduction.com",
       "channelId": "UCZIfFPTqRNQr0B4XUfP30ow",
       "channelTitle": "Kimera Production VFX ",
       "thumbnail": "https://i.ytimg.com/vi/2llxee0VlQs/hqdefault.jpg",
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-23T03:14:07.328Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     },
     {
@@ -1083,6 +1083,44 @@
       "discoveredAt": "2026-10-24T03:08:19.424Z",
       "lastSeenAt": "2026-10-24T03:08:19.424Z",
       "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2Ms9dAoTpFY",
+      "url": "https://www.youtube.com/watch?v=2Ms9dAoTpFY",
+      "title": "[몰아보기] \"SF 영화 빌런 실사판? 화성·AI·뉴럴링크\"...알고 보니 얘들은 '지구 버릴 각'을 잡는 중!? #과학기술 #일론머스크 #글로벌경제",
+      "description": "※채널에 가입하여 혜택을 누려보세요.\n[멤버십 가입클릭] https://www.youtube.com/channel/UCha7BwcF4itfzFr9DAUqdNw/join\n※ 후원: 054-053049-02-012(기업은행, 예금주: 김필재),  110-193-600694(신한은행, 예금주: 김필재)\n※ 해외후원-페이팔(PayPal): kimpjtv@gmail.com\n\n※ 동영상 우측 하단의 [구독]을 눌러 주시면 감사하겠습니다! \n\n※ 김필재tv는 세상만사를 쉽고 재미있게 풀어주는 교양 채널입니다.\n\n※ (홈페이지)\n-유튜브 구독: https://www.youtube.com/c/김필재TV-KPJTV\n\n※ (문의)\nE-mail: climb1@hanmail.net",
+      "channelId": "UCha7BwcF4itfzFr9DAUqdNw",
+      "channelTitle": "김필재 TV",
+      "thumbnail": "https://i.ytimg.com/vi/2Ms9dAoTpFY/hqdefault.jpg",
+      "publishedAt": "2026-10-24T05:30:10Z",
+      "durationSeconds": 4023,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:11.546Z",
+      "lastSeenAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "z056VT6mneA",
+      "url": "https://www.youtube.com/watch?v=z056VT6mneA",
+      "title": "My Husband Woke the Reaper#drama#ai#shortmax",
+      "description": "Watch more episodes! 👇\n🔗 Click here:\nhttps://cps-front.shorttv.live/app-api/sp/new/20261022R82rkidEZl\n📱 Or open shortmax\n🔍 Search: yep973\n\nRosa Moretti buried her deadly past for ten years to honor her mother’s dying wish. But after marrying Evan Shaw, she is humiliated, betrayed, and stripped of control over her own life. When Rosa discovers Evan’s affair and a deadly plot against the Moretti family, the woman once feared as “The Reaper” returns—ready to reclaim her power and make everyone who crossed her pay\n\n#BillionaireRomance #HiddenIdentity #RevengeDrama #StrongFemaleLead #ShortDrama\n\nChannel Statement:\nThis channel publishes officially licensed mini dramas for entertainment purposes. All stories are fictional, and we support the original creators and copyright holders.",
+      "channelId": "UCFVe52T5yql1PgJ37y7BNdQ",
+      "channelTitle": "ランプの下で ",
+      "thumbnail": "https://i.ytimg.com/vi/z056VT6mneA/hqdefault.jpg",
+      "publishedAt": "2026-10-23T04:10:19Z",
+      "durationSeconds": 3777,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:03:11.546Z",
+      "lastSeenAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
       "unavailableAt": null
     }
   ]

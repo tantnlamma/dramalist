@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:08:01.271Z",
+  "generatedAt": "2026-10-25T03:02:52.185Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -203,11 +203,11 @@
       "matchedKeywords": [
         "película completa inteligencia artificial"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-15T10:29:08.952Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
+      "unavailableAt": "2026-10-25T03:02:52.185Z"
     },
     {
       "videoId": "_DiUqQOMIWc",
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,64 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:49.138Z",
       "lastSeenAt": "2026-10-23T03:13:49.138Z",
-      "lastVerifiedAt": "2026-10-24T03:08:01.271Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i3lZ0j1yNrE",
+      "url": "https://www.youtube.com/watch?v=i3lZ0j1yNrE",
+      "title": "LUCIFER | Película Completa | La guerra en el cielo",
+      "description": "La historia completa de Lucifer, contada de principio a fin: el lucero del alba de Isaías, el querubín del Edén de Ezequiel, el satán acusador de Job, las caídas del Segundo libro de Enoc y de la Vida de Adán y Eva, los Vigilantes del monte Hermón, la tentación en el desierto, la guerra de Miguel contra el dragón en el Apocalipsis, la épica de Milton en El paraíso perdido y el Lucifer de hielo de Dante.\n\nEn esta película separamos siempre lo que dice el texto (la Biblia y otros libros antiguos, con su capítulo) de lo que cuenta la tradición, de la dramatización y de la interpretación. Respeto total a creyentes de cualquier fe. Guion original; citas bíblicas de la Reina-Valera 1909 o paráfrasis fiel; imágenes recreadas con inteligencia artificial.\n\nPreguntas que responde la película: ¿Lucifer es el nombre del diablo en la Biblia? ¿Por qué cayó el ángel más bello? ¿Cuándo fue la guerra en el cielo?\n\n🔔 Suscríbete a Dioses y Gigantes: nueva película cada semana. Próxima: el Mictlán, el viaje de los muertos de los mexicas.\n\n#Lucifer #GuerraEnElCielo #ÁngelesCaídos #ArcángelMiguel #PelículaCompleta #Apocalipsis #ParaísoPerdido #HistoriasDeLaBiblia\n\nNota: contenido alterado o sintético (imágenes y voz generadas con IA).",
+      "channelId": "UCLB1PuzWMjcn1FjA0M4Sp-w",
+      "channelTitle": "Dioses y Gigantes",
+      "thumbnail": "https://i.ytimg.com/vi/i3lZ0j1yNrE/hqdefault.jpg",
+      "publishedAt": "2026-10-24T16:00:08Z",
+      "durationSeconds": 3558,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:52.185Z",
+      "lastSeenAt": "2026-10-25T03:02:52.185Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Bl_bZE143Vs",
+      "url": "https://www.youtube.com/watch?v=Bl_bZE143Vs",
+      "title": "Yo, robot (2004) EN español Pelicula en Espanol - Will Smith, Alan Tudyk - Revisión y hechos",
+      "description": "Yo, robot (2004) EN español Pelicula en Espanol - Will Smith, Alan Tudyk - Revisión y hechos\n\n🎥 Bienvenido a FrameShift\nUn canal para amantes del cine que quieren entender la esencia de una película sin verla escena por escena. Aquí encontrarás resúmenes claros, análisis y comentarios pensados para disfrutar del cine en cualquier momento.\n\n🎬 Respeto a los creadores\nTodo el contenido se realiza con respeto hacia cineastas y narradores. Si existe algún problema relacionado con derechos de autor, contáctanos y lo resolveremos rápidamente.\n\n⚠️ Aviso importante\nEste canal tiene fines informativos y de entretenimiento. No promovemos conductas peligrosas ni ilegales. Algunas películas contienen escenas sensibles; se recomienda discreción y no imitar lo que se muestra.\n\n⭕ Únete a la comunidad\nSuscríbete para no perderte ningún análisis y comparte qué película te gustaría ver próximamente.",
+      "channelId": "UCCsl23PIUI3chJDa_hMp8Ww",
+      "channelTitle": "FrameShift",
+      "thumbnail": "https://i.ytimg.com/vi/Bl_bZE143Vs/hqdefault.jpg",
+      "publishedAt": "2026-10-23T23:00:11Z",
+      "durationSeconds": 6970,
+      "matchedKeywords": [
+        "película robot completa en español"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:52.185Z",
+      "lastSeenAt": "2026-10-25T03:02:52.185Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jlKkh0jOEvg",
+      "url": "https://www.youtube.com/watch?v=jlKkh0jOEvg",
+      "title": "【Subtítulos En Españo】Científico crea un robot que desarrolla una peligrosa conciencia propia！🤖",
+      "description": "🎉¡Hola a todos! ¡Bienvenidos a🔦 Cine Mundial TV\nTodo el contenido de este canal cuenta con autorización oficial.\n\n🔔¡Haz clic en Suscribirse para ver más películas emocionantes!\nhttp://www.youtube.com/@CineMundialTV\n\n🎬Título: Mujer Artificial\n\n🎥Género:Ciencia ficción / Thriller / Terror\n\n📺Sinopsis:Inspirada en el clásico chino de fantasía “Liaozhai”, la película cuenta la historia de un científico que crea un robot humanoide con inteligencia avanzada. Sin embargo, la máquina desarrolla conciencia propia y usurpa la identidad de una hermosa mujer para acercarse a su novio.Mientras un policía investiga una serie de misteriosos asesinatos, una peligrosa conspiración entre tecnología, deseo y humanidad comienza a revelarse.\n\n#dramachina #Crimen #terror  #Acción #pelicula #peliculas #peliculacompleta #películas\nJXHP",
+      "channelId": "UCSZZjhlqN7Fd7Y0GHG4p9DQ",
+      "channelTitle": "Cine Mundial TV",
+      "thumbnail": "https://i.ytimg.com/vi/jlKkh0jOEvg/hqdefault.jpg",
+      "publishedAt": "2026-08-04T12:45:18Z",
+      "durationSeconds": 5334,
+      "matchedKeywords": [
+        "película robot completa en español"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:52.185Z",
+      "lastSeenAt": "2026-10-25T03:02:52.185Z",
+      "lastVerifiedAt": "2026-10-25T03:02:52.185Z",
       "unavailableAt": null
     }
   ]

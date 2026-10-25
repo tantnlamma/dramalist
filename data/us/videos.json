@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T03:07:39.246Z",
+  "generatedAt": "2026-10-25T03:02:28.702Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -495,11 +495,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": "2026-10-25T03:02:28.702Z"
     },
     {
       "videoId": "srP2-ArJbk0",
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -768,7 +768,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -789,7 +789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -808,7 +808,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -828,7 +828,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -848,7 +848,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1019,7 +1019,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1058,7 +1058,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1191,7 +1191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1200,7 +1200,7 @@
       "title": "Azure Dragon Awakens! 😱 The Trapped Beast’s Final Battle | Full Movie",
       "description": "CAST\n\nDivine Guardians & Mythical Beasts\n\nAzure Dragon (Qinglong / 青龙)\n\nNine-Tailed Fox (Jiuweihu / 九尾狐)\n\nVermilion Bird (Zhuque / 朱雀)\n\nWhite Tiger (Baihu / 白虎)\n\nQilin (麒麟)\n\nWinged Golden Dragon (Yinglong / 应龙)\n\n\nDark Forces\n\nBlack Dragon Níðhöggr (黑龙·尼德霍格)\n\nCorrupted Giant Eagle\n\nWinged Shadow Panther / Dark Chimera\n\nArmored Spiked Boars & Behemoths\n\nSkull-Faced Shadow Wolves\n\n\nAbyssal Entity\n\nDeep-Sea Leviathan / Kraken\n\n\nKeywords::Azure Dragon, Azure Dragon battle, Trapped Beast, Trapped Beast movie, Trapped Beast awakens, Azure Dragon final battle, Azure Dragon vs Trapped Beast, battle of the trapped beast, battle of the trapped beasts, trapped beast full movie, Azure Dragon full movie, dragon battle, monster battle, mythical beast, ancient beast, Chinese mythology, Chinese dragon, legendary dragon, fantasy monster movie, beast movie, dragon movie, cinematic monster battle, AI monster movie, AI generated movie, mythical creatures, epic dragon fight\n\n\n\n---\n\nDESCRIPTION\n\nFull Fight: Azure Dragon vs Níðhöggr — The Mythological Battle\n\nAn epic battle unfolds in an industrial quarry as the Azure Dragon (Qinglong) and Nine-Tailed Fox (Jiuweihu) fight against an army of corrupted mythical beasts commanded by the terrifying Black Dragon Níðhöggr.\n\nThe battle begins with a massive ambush as armored behemoths, spiked boars, shadow wolves, and flying beasts overwhelm the quarry. The Nine-Tailed Fox fights back with powerful red energy beams while the Azure Dragon battles the invading forces.\n\nThen Níðhöggr arrives.\n\nThe multi-eyed Black Dragon unleashes devastating purple energy and overwhelms the defenders. As the Azure Dragon is pinned down and Níðhöggr prepares to deliver the finishing blow, the Nine-Tailed Fox intervenes.\n\nThe battle turns when the Vermilion Bird (Zhuque) descends from a fiery vortex, followed by the arrival of the White Tiger (Baihu) and Qilin. The Divine Guardians launch a powerful counterattack, forcing Níðhöggr into the skies.\n\nThe fight becomes an intense aerial battle between the Azure Dragon, Vermilion Bird, and Níðhöggr.\n\nBut when Níðhöggr reaches the upper atmosphere, the legendary Winged Golden Dragon (Yinglong) appears above the clouds and unleashes a massive pillar of celestial light, sending the defeated Black Dragon crashing into the ocean.\n\nDeep beneath the waves, a colossal Deep-Sea Leviathan emerges from the abyss and drags Níðhöggr into the darkness. The Azure Dragon follows into the depths for one final attack.\n\nORIGINAL CREATOR / CREDIT\n\nOriginal Creator: Art One\nDouyin ID: EXE242\nOriginal Series: “The Battle of the Trapped Beast”\n\nThis video was originally created and published by Art One on Douyin. Full credit goes to the original creator for the original video and creative work.\n\nOriginal Video: [Douyin — Original Video](https://v.douyin.com/mcnN7V9VBKw/?utm_source=chatgpt.com)\n\nI do not claim ownership of the original video. All rights belong to the original creator.\n\n#AIAnimation #AIFilm #AIFilmmaking #AzureDragon #Qinglong #Nidhogg #ChineseMythology #NorseMythology #MythicalCreatures #Yinglong #Qilin #Baihu #Zhuque #CinematicAI #AIShortFilm #Mythology #Fantasy #TheBattleOfTheTrappedBeast",
       "channelId": "UC_bhIq4_F1onXNqDCj_ILKw",
-      "channelTitle": "RAVYXEN GAMING ",
+      "channelTitle": "Anime blitz vfx Ai",
       "thumbnail": "https://i.ytimg.com/vi/wcPPTSgikC8/hqdefault.jpg",
       "publishedAt": "2026-09-13T03:01:43Z",
       "durationSeconds": 2003,
@@ -1226,11 +1226,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": "2026-10-25T03:02:28.702Z"
     },
     {
       "videoId": "pb3pa99oE5E",
@@ -1267,7 +1267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1306,7 +1306,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1344,7 +1344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1360,11 +1360,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": "2026-10-25T03:02:28.702Z"
     },
     {
       "videoId": "ONuwQgGV2BQ",
@@ -1382,7 +1382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1420,7 +1420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1572,7 +1572,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1686,7 +1686,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1781,7 +1781,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1838,7 +1838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1896,7 +1896,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1934,7 +1934,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -1972,7 +1972,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2068,7 +2068,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2144,7 +2144,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2182,7 +2182,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2201,7 +2201,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2220,7 +2220,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2239,7 +2239,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2258,7 +2258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2277,7 +2277,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2296,7 +2296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2315,7 +2315,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2334,7 +2334,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2353,7 +2353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     },
     {
@@ -2373,6 +2373,120 @@
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
       "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8JRj7cmoRMM",
+      "url": "https://www.youtube.com/watch?v=8JRj7cmoRMM",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/8JRj7cmoRMM/hqdefault.jpg",
+      "publishedAt": "2026-10-24T13:46:13Z",
+      "durationSeconds": 9493,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WQTiCdzJkos",
+      "url": "https://www.youtube.com/watch?v=WQTiCdzJkos",
+      "title": "【FULL MOVIE】5YO Magic Boss 👑 She Only Wanted Food… But Accidentally Defeated the DEMON KING! 🔥",
+      "description": "🎥 EXPERIENCE THE NEXT GENERATION OF CINEMA\n\nWelcome to \"Mythora Films AI\", where imagination meets cinematic innovation.\n\nStep into a visually stunning world of AI filmmaking, original concepts, extraordinary characters, and stories designed to transport you beyond the limits of reality.\n\nFrom massive cinematic landscapes and futuristic megacities to mythical creatures, supernatural forces, and breathtaking adventures, every creation explores new possibilities in digital filmmaking.\n\n🔥 DISCOVER OUR CINEMATIC WORLDS\n\n🎬 AI Cinematic Films — Experience original visual storytelling powered by artificial intelligence.\n\n🌍 Fantasy & Mythology — Explore legendary worlds, ancient secrets, powerful heroes, and mythical realms.\n\n🚀 Science Fiction — Travel to distant galaxies, advanced civilizations, and possible futures.\n\n🌑 Mystery & Suspense — Uncover hidden truths, unexpected twists, and worlds filled with secrets.\n\n✨ Visual Imagination — Witness ambitious creative visions brought to life through AI-assisted filmmaking.\n\n🎞️ MORE THAN A FILM. A NEW REALITY.\n\nAt \"Mythora Films AI\", we believe the future of storytelling belongs to those who dare to imagine differently. Our goal is to explore the creative potential of artificial intelligence and deliver memorable cinematic experiences for audiences around the world.\n\n🌟 BE PART OF THE STORY\n\nSubscribe to \"Mythora Films AI\" for more imaginative films, extraordinary adventures, and cinematic worlds waiting to be discovered.\n\n👍 Enjoyed the film? Leave a like.\n💬 What did you think of the story? Tell us in the comments.\n🔔 Turn on notifications to discover our next cinematic creation.\n\nThe future of cinema is being imagined today.\n\n\"Mythora Films AI\" — Imagine Beyond. Experience More.\n\n⚠️ CONTENT NOTICE: This production may include AI-generated or AI-assisted visuals, voices, characters, and environments. The film is created for entertainment and artistic purposes.\n\n#MythoraFilmsAI #AIcinema #AImovie #AIFilmmaking #CinematicFilms #ArtificialIntelligence #SciFiMovies #FantasyCinema",
+      "channelId": "UCNf58z-ktbiLTaA8TLcU5JA",
+      "channelTitle": "Mythora Films AI",
+      "thumbnail": "https://i.ytimg.com/vi/WQTiCdzJkos/hqdefault.jpg",
+      "publishedAt": "2026-10-24T11:00:06Z",
+      "durationSeconds": 3072,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i9d8H296ByM",
+      "url": "https://www.youtube.com/watch?v=i9d8H296ByM",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/i9d8H296ByM/hqdefault.jpg",
+      "publishedAt": "2026-10-23T10:45:12Z",
+      "durationSeconds": 8027,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vHJVXblKEOA",
+      "url": "https://www.youtube.com/watch?v=vHJVXblKEOA",
+      "title": "Mission Pandora: The Stone Spider | Full AI Sci-Fi Series (Episodes 44–52)",
+      "description": "On an iron moon, Ari finds a machine carved into the rock twelve thousand years ago, and it looks exactly like her little spider Kilo. Then the ark learns it is not flying alone.\n\nEpisodes 44–52 in one film.\n\n0:00 Episode 44. Two of Every Kind\n3:34 Episode 45. The Maze\n6:51 Episode 46. The Stone Spider\n10:06 Episode 47. The Next Shift\n14:43 Episode 48. The Manual\n18:26 Episode 49. Day Off\n22:39 Episode 50. Tailed\n25:30 Episode 51. The Forge\n28:33 Episode 52. The Break\n\nMission Pandora is a sci-fi series made with AI: the images, video, voices and music are generated. The story, direction and editing are ours.",
+      "channelId": "UCNJXg4qt2kp53fzx-4xZOdQ",
+      "channelTitle": "Mission Pandora",
+      "thumbnail": "https://i.ytimg.com/vi/vHJVXblKEOA/hqdefault.jpg",
+      "publishedAt": "2026-10-22T18:31:12Z",
+      "durationSeconds": 1906,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-5ijpBEuI2Q",
+      "url": "https://www.youtube.com/watch?v=-5ijpBEuI2Q",
+      "title": "Mission Pandora: Off Route | Full AI Sci-Fi Series (Episodes 29–36)",
+      "description": "Ari flies on an ark with forty thousand people, and her spider Kilo has a new body and a secret. Then the ark's first jump goes off route, to a place where someone has been long before them.\n\nEpisodes 29–36 in one film.\n\n0:00 Episode 29. On the Carpet\n3:08 Episode 30. The Same Stars\n7:40 Episode 31. New Skin\n12:05 Episode 32. Spare Parts\n15:30 Episode 33. Real Paper\n17:56 Ari's Dream. Harmonium Dust\n21:44 Episode 34. Off Route\n27:15 Episode 35. The Gap\n30:31 Episode 36. Iron Moon\n\nMission Pandora is a sci-fi series made with AI: the images, video, voices and music are generated. The story, direction and editing are ours.",
+      "channelId": "UCNJXg4qt2kp53fzx-4xZOdQ",
+      "channelTitle": "Mission Pandora",
+      "thumbnail": "https://i.ytimg.com/vi/-5ijpBEuI2Q/hqdefault.jpg",
+      "publishedAt": "2026-10-17T17:30:21Z",
+      "durationSeconds": 2114,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MJuwtSmQato",
+      "url": "https://www.youtube.com/watch?v=MJuwtSmQato",
+      "title": "MYTHFALL | Aliens Learned Every Human Strategy / Alien Invasion, AI Movie | Sci-Fi | Full Movie | 4K",
+      "description": "👽 Every time humanity wins, the enemy learns how to defeat them next.\n\nEarth has been selected by the AVRATHI, an advanced alien civilization that has no intention of destroying humanity quickly. Instead, they unleash the MYTH ENGINE — an adaptive war system capable of studying human fear, military tactics, broadcasts, and battlefield behavior, then transforming Earth’s own glass, steel, concrete, and machines into new alien weapons.\n\nColonel Nera Kass leads humanity’s resistance against Glass Hounds, Ash Riders, Sky Lancers, Mirror Infantry, and an enemy that becomes more dangerous after every battle. But when captured AVRATHI soldier Vaeris reveals the truth, Nera discovers that Earth is not the final battlefield.\n\nIt is a laboratory.\n\nAs humanity’s greatest military victory becomes its greatest weakness, Nera must abandon everything she believes about command, prediction, and control. To defeat an enemy that can learn every strategy, humanity may have to become something no machine can fully predict.\n\nMYTHFALL: THE WAR FOR EARTH is a feature-length AI sci-fi action movie combining alien invasion, military science fiction, apocalyptic warfare, massive battlefield destruction, psychological conflict, alien technology, and cinematic 4K visuals.\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more feature-length AI movies, cinematic sci-fi worlds, alien wars, epic action, and 4K experimental films.\n\nHashtags\n\n#MYTHFALL #TheWarForEarth  #SciFiMovie #AlienInvasion #AlienMovie  #ScienceFiction #SciFiAction #MilitarySciFi #AlienWar",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/MJuwtSmQato/hqdefault.jpg",
+      "publishedAt": "2026-08-31T23:58:38Z",
+      "durationSeconds": 4578,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-25T03:02:28.702Z",
+      "lastSeenAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
       "unavailableAt": null
     }
   ]
