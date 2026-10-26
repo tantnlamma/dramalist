@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:03:11.546Z",
+  "generatedAt": "2026-10-26T03:02:17.400Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -145,11 +145,11 @@
       "matchedKeywords": [
         "film fiksi ilmiah AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
+      "unavailableAt": "2026-10-26T03:02:17.400Z"
     },
     {
       "videoId": "dkztxFNl7Ro",
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -766,7 +766,7 @@
       "videoId": "zS6Q7qTlS4M",
       "url": "https://www.youtube.com/watch?v=zS6Q7qTlS4M",
       "title": "How To Make Micro Drama with Ai - (FULL Guide)",
-      "description": "Try OpenArt Here: \nhttps://tolt.link/stephenfinance\n\nTry CapCut - (Try Pro for 7 days for FREE):\nhttps://capcutaffiliateprogram.pxf.io/stephenfinance01\n\nAt $9 Join my Patreon Membership Community\n1. 🎬Access the full detailed video tutorial for this specific video along with every future YouTube Videos\n2. 💬Get 1-on-1 Chat Help \n3.🎥 Occasional Live Streams for Members\n4.🛡️100% ad-free experience\nLink: https://www.patreon.com/stephenfinance?utm_campaign=creatorshare_creator\n\n\n\nMaster Prompt:\nhttps://docs.google.com/document/d/1whhJwTeBRnxmEr9gcpy-DFEWY_mzqV2VVk-O6pdSBII/edit?usp=sharing\n\n\n\nHop on a Phone call with me:\nhttps://buymeacoffee.com/stephenfinance/e/445225\n\n\n\n?DISCLAIMER: The content in this channel is for informational, educational and entertainment purposes only and should not be considered professional financial advice. Some links in this description may be affiliate links in which we may receive a commission for. There is absolutely no additional charge to you. Thanks for supporting our channel and helping us to continue to create free content.",
+      "description": "Try OpenArt Ai and Get up to %30 off this Halloween:\nhttps://tolt.link/stephenfinance\n\nTry CapCut - (Try Pro for 7 days for FREE):\nhttps://capcutaffiliateprogram.pxf.io/stephenfinance01\n\nAt $9 Join my Patreon Membership Community\n1. 🎬Access the full detailed video tutorial for this specific video along with every future YouTube Videos\n2. 💬Get 1-on-1 Chat Help \n3.🎥 Occasional Live Streams for Members\n4.🛡️100% ad-free experience\nLink: https://www.patreon.com/stephenfinance?utm_campaign=creatorshare_creator\n\n\n\nMaster Prompt:\nhttps://docs.google.com/document/d/1whhJwTeBRnxmEr9gcpy-DFEWY_mzqV2VVk-O6pdSBII/edit?usp=sharing\n\n\n\nHop on a Phone call with me:\nhttps://buymeacoffee.com/stephenfinance/e/445225\n\n\n\n?DISCLAIMER: The content in this channel is for informational, educational and entertainment purposes only and should not be considered professional financial advice. Some links in this description may be affiliate links in which we may receive a commission for. There is absolutely no additional charge to you. Thanks for supporting our channel and helping us to continue to create free content.",
       "channelId": "UCNXYBYAjs13KEAbXQ1UzfOg",
       "channelTitle": "Stephen Finance ",
       "thumbnail": "https://i.ytimg.com/vi/zS6Q7qTlS4M/hqdefault.jpg",
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     },
     {
@@ -1120,7 +1120,83 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aJB4vBI7aVo",
+      "url": "https://www.youtube.com/watch?v=aJB4vBI7aVo",
+      "title": "HOW TO TRAIN YOUR HUMANOID ROBOT — PART ONE | AI SCI-FI MOVIE",
+      "description": "How to Train Your Humanoid Robot — Part One | AI Sci-Fi Movie\nWhen brilliant but reserved AI engineer Apple is assigned to work with an extraordinary humanoid robot known only as 101, she expects to train a machine—not connect with someone who seems increasingly human.\nAs 101 begins to learn, question, feel, and develop a personality of his own, Apple discovers that there is far more to him than the company has revealed. Their growing connection draws the attention of people determined to keep his past—and the secrets behind his creation—hidden.\nBut when 101's forgotten memories begin to surface and a mysterious threat emerges, Apple and those closest to him are pulled into a dangerous mystery that reaches far beyond the laboratory.\nWhat is 101 really hiding? And who is coming for him?\nThe story continues in Part Two.#Robot101 #HumanoidRobot #AI2026 #SciFiMovie #AIFilm",
+      "channelId": "UCVO3hariTDXRm6emaXWN5sg",
+      "channelTitle": "Between Realities ",
+      "thumbnail": "https://i.ytimg.com/vi/aJB4vBI7aVo/hqdefault.jpg",
+      "publishedAt": "2026-10-09T16:00:03Z",
+      "durationSeconds": 2717,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:17.400Z",
+      "lastSeenAt": "2026-10-26T03:02:17.400Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JEFxdG6P_3g",
+      "url": "https://www.youtube.com/watch?v=JEFxdG6P_3g",
+      "title": "CorHearts: Between Hate & Love - Episode 11 | AI Drama Korea",
+      "description": "💌✨ CORTIS × Hearts2Hearts ✨💌\n\nCorHearts: Between Hate & Love - Episode 11 | AI Drama Korea\n\nThis is purely a fictional drama/AU made for fun and storytelling. None of the events or portrayals are real or connected to the actual artists. Thank you for watching and keeping the comment section respectful!\n\nVideo ini merupakan fictional story yang dibuat untuk hiburan. Cerita, hubungan antar karakter, dialog, maupun kejadian di dalam video sepenuhnya fiksi dan tidak menggambarkan kehidupan pribadi, hubungan nyata, atau kejadian sebenarnya yang melibatkan member CORTIS maupun Hearts2Hearts.\n\n⚠️ Disclaimer\nPenggunaan nama/wajah idol dalam video hanya sebagai referensi untuk membangun karakter dalam cerita fiksi. Mohon tidak menganggap alur atau pairing dalam video ini sebagai fakta.\n\nVideo ini dibuat dengan bantuan teknologi AI. Mohon maaf apabila masih terdapat hasil AI yang kurang sempurna, seperti ekspresi wajah, gerakan, lip-sync, detail visual, transisi, atau beberapa bagian yang mungkin terlihat sedikit aneh.\n\nTerima kasih sudah menonton dan harap bijak dalam berkomentar ✨\n\n#Cortis #Hearts2Hearts #하츠투하츠 #Kpop #KDrama #KDramaEdit #AIVideo #AIContent #FYP #ForYou #Trending #Viral #KpopFYP #KpopStan #GG #BoyGroup #GirlGroup #ShortDrama #DramaKorea #James #Juhoon #Martin #Seonghyeon #Keonho #Carmen #Jiwoo #Yuha #Stella #Juun #Ana #Ian #Yeon #H2H #CorHearts #CORTISxHearts2Hearts #CORTISShip #KpopStory #KpopEdit",
+      "channelId": "UCwJ6cHiWEur3J5k8cv52i-w",
+      "channelTitle": "Aqilah Rush",
+      "thumbnail": "https://i.ytimg.com/vi/JEFxdG6P_3g/hqdefault.jpg",
+      "publishedAt": "2026-10-24T16:55:14Z",
+      "durationSeconds": 3143,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:17.400Z",
+      "lastSeenAt": "2026-10-26T03:02:17.400Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NszQE9aeY_E",
+      "url": "https://www.youtube.com/watch?v=NszQE9aeY_E",
+      "title": "FULL DRAMA | I Faked Amnesia To Escape An Arranged Marriage...Woke Up Married!",
+      "description": "She ran from her own wedding. He told her she was already his wife.\n\nClara fakes amnesia to escape an arranged marriage to a ruthless billionaire she has never met. But when she wakes up in the hospital, her father and the stranger tell her they are already married. She knows it's a lie, and she can't say so without exposing her own.\n\nNow two liars share one penthouse, a charming cousin keeps \"helping\" them, and someone has been sabotaging Julian's life for years. Ducks, a llama, a terrible opera and a very real kiss later, who is lying to whom?\n\nIf you love fake marriage, enemies-to-lovers and billionaire romance with a dose of comedy, this one is for you.\n\n🎬 Find all my Links here:\nhttps://avelia-langmere.kit.com/ai-drama-series\n\nFollow our favorite dark romance writer Avelia Langmere. Her Amazon Author Page:\n👉 https://bit.ly/4s0O96z \n\n© 2026 The AI Drama Series. All rights reserved.\nThis original film, including its video, story, characters, visuals, audio and editing, is protected by copyright. No part of this film may be reproduced, re-uploaded, distributed, or used commercially without prior written permission.\nUnauthorised re-uploads may be reported to YouTube for copyright removal.\n\n\nNew movies every week. Subscribe so you don't miss the next one!\n\nThis movie was made with AI tools. All characters and events are fictional.\n\n#aimovie #fakemarriage #billionaireromance #romcom #dramaseries",
+      "channelId": "UCKOIP9u0Xyid8eLYXkuwOyQ",
+      "channelTitle": "AI Drama Series",
+      "thumbnail": "https://i.ytimg.com/vi/NszQE9aeY_E/hqdefault.jpg",
+      "publishedAt": "2026-10-20T14:00:36Z",
+      "durationSeconds": 3011,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:17.400Z",
+      "lastSeenAt": "2026-10-26T03:02:17.400Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rqVmU5sjoD0",
+      "url": "https://www.youtube.com/watch?v=rqVmU5sjoD0",
+      "title": "Ksatria Naga | Sihir Naga Dragon Knight Full Movie Part 1 Sub Indo (Sulih Suara)",
+      "description": "Hallo Guys Berikut Versi Sulih Suara Sub Indo nya 🔥\nTelenovela Kesatria Naga Full Movie AI 2026 Part 1| My royal guard is secretly a dragon knight\n\nLanjut Cerita nya : Kael Kevin, Rahasia Kesatria Naga Pelindung yang menyimpan asal usul misterius, menyelamatkan Eva Evelyn dan menggulingkan perebut takhta dengan sihir naga. Saat konspirasi untuk menghancurkan Ironwood terungkap, Demi melindungi Putri Eva Evelyn ia harus menjadi Pengawal dan menghadapi para kesatria, Kekuatan sejati Kael Kevin dianggap sihir dan pada akhirnya terungkap, menentukan nasib dan menyelamatkan kerajaan Sterling.\nEpisode selanjut nya Kael Kevin Menghadapi Adipati Brandon anak buah dari kerjaan Ayah Kael Kevin dan Diam diam Terungkap Kael Kevin Adalah Sang Ksatria Naga.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️\n\n#movie #drama #ai #dragon #naga #film #action #love",
+      "channelId": "UCZyg67AK1lbTkwN3otFitsw",
+      "channelTitle": "Reynold Bronson Official",
+      "thumbnail": "https://i.ytimg.com/vi/rqVmU5sjoD0/hqdefault.jpg",
+      "publishedAt": "2026-10-10T02:36:30Z",
+      "durationSeconds": 4209,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:17.400Z",
+      "lastSeenAt": "2026-10-26T03:02:17.400Z",
+      "lastVerifiedAt": "2026-10-26T03:02:17.400Z",
       "unavailableAt": null
     }
   ]

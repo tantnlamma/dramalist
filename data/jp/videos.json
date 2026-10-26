@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:02:43.550Z",
+  "generatedAt": "2026-10-26T03:01:45.742Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -75,7 +75,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +95,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +115,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +214,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -330,7 +330,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -426,7 +426,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-24T03:07:52.685Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -485,7 +485,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -504,7 +504,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -518,12 +518,13 @@
       "publishedAt": "2026-09-20T02:00:19Z",
       "durationSeconds": 6377,
       "matchedKeywords": [
+        "AI ドラマ 映画",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -619,7 +620,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -697,7 +698,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -754,7 +755,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -773,7 +774,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +793,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     },
     {
@@ -812,7 +813,123 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:43.550Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "L9Ft3gEnhQg",
+      "url": "https://www.youtube.com/watch?v=L9Ft3gEnhQg",
+      "title": "He Never Expected His Wife to Walk Away | Season 4 |  Full AI Movie 2026",
+      "description": "Maria’s marriage to Ben has been filled with pain, disappointment, and struggles that have tested her strength. After everything she has endured, she once hoped Ben had changed, only to realize that the man she returned to was still the same person who hurt her. Now, Maria is reaching a breaking point, and Ben is desperately trying to stop her from walking away. Will she finally choose her peace, or will she give their marriage another chance?\n\nWatch this emotional Nigerian AI movie filled with marriage struggles, relationship drama, family secrets, and difficult choices.\n\n\nNigerian AI movie, full AI movie 2026, Nigerian movie 2026, AI Nigerian movie, Nollywood AI movie, Nigerian family drama, marriage drama, emotional Nigerian movie, abusive marriage story, husband and wife drama, African AI movie, Nigerian love story, full Nigerian movie, relationship drama, emotional family movie, Kovamediah TV\n\n#AIMovie #FullAIMovie #NigerianMovie #Nollywood #NigerianDrama #AfricanMovie #FamilyDrama #MarriageStory #AIFilm #KovamediahTV\n\nWorkflow :\nScript and ideas : me assisted by ChatGPT\nImage generation : ChatGPT \nVideo generation : flow Ai \nSong: YouTube library \nVideo editing app : KwaiCut",
+      "channelId": "UC34l8brdMcqAyf95yDlPCPg",
+      "channelTitle": "Kovamediah Tv",
+      "thumbnail": "https://i.ytimg.com/vi/L9Ft3gEnhQg/hqdefault.jpg",
+      "publishedAt": "2026-10-25T20:00:28Z",
+      "durationSeconds": 2367,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dLyIQ7QirnQ",
+      "url": "https://www.youtube.com/watch?v=dLyIQ7QirnQ",
+      "title": "How to Create Cinematic AI MOVIES STEP BY STEP | Full Nollywood AI Movie Tutorial",
+      "description": "In this video, I’ll show you **step by step how I created a full cinematic AI movie in Nollywood style using just one AI video tool.\n\nWe’ll go from the initial story idea all the way to creating consistent characters, cinematic scenes, dialogue, acting, camera movements, and a complete AI-generated movie.\n\nFor this tutorial, I created a Nigerian story about a mother and her daughter and transformed the story into a cinematic movie with realistic Nigerian characters and environments.\n\n🔥 **WHAT YOU’LL LEARN IN THIS VIDEO:**\n\n✅ How to create a cinematic AI movie from scratch  \n✅ How to structure your story into different scenes  \n✅ How to create consistent AI characters  \n✅ How to create realistic Nigerian/Nollywood characters  \n✅ How to generate cinematic movie scenes  \n✅ How to maintain character consistency across scenes  \n✅ How to create realistic Nigerian environments  \n✅ How to create AI-generated dialogue  \n✅ How to generate realistic character conversations  \n✅ How to create natural lip-sync  \n✅ How to create cinematic camera movements  \n✅ How to make AI characters walk, talk, cook and interact naturally  \n✅ How to create realistic restaurant and home scenes  \n✅ How to turn still images into cinematic AI videos  \n✅ How to create a full-length AI movie workflow  \n✅ How to achieve a professional Nollywood-style cinematic look  \n\nJoin Our KlassBase Community To Master everything about AI\nhttps://klassbase.com/community/ai-mastery-class-big-johnab/about\n\nTHE AI MOVIE\n\nThe demonstration follows a Nigerian mother and her daughter through a simple family story that develops across multiple cinematic scenes.\n\nFrom the mansion establishing shot, to the mother-and-daughter conversation, cooking Nigerian jollof rice, the daughter's journey through the city, and her meeting with a young Nigerian man at a restaurant.\n\nThe goal is to show you how you can take a simple story and turn it into a professional-looking cinematic AI movie.\n\nWHO THIS VIDEO IS FOR\n\nThis tutorial is perfect for:\n\n• AI filmmakers  \n• Content creators  \n• YouTubers  \n• Nollywood filmmakers  \n• Storytellers  \n• Video editors  \n• AI video creators  \n• Beginners interested in AI filmmaking  \n• Anyone who wants to create movies with AI  \n\nIf you've ever wanted to create your own movie without a traditional film crew, expensive cameras, actors or a large production budget, this tutorial will show you the workflow I used.\n\nWATCH UNTIL THE END\n\nI’ll take you through the process step by step so you can understand how each part of the movie was created and how the different scenes were put together.\n\nIf you enjoy the tutorial, LIKE the video, SUBSCRIBE to BIG JOHNAB, and turn on notifications 🔔 so you don't miss the next AI filmmaking tutorial.\n\nCOMMENT BELOW:\nWould you watch a full Nollywood movie created entirely with AI?\n\n#AIFilmmaking #AIMovies #Nollywood #AIVideo #AIVideoGeneration #GoogleFlow #CinematicAI #AIFilm #NollywoodMovies #AIContentCreation #BIGJOHNAB",
+      "channelId": "UCo8aJFeIlf6k8bYeXOMBq4A",
+      "channelTitle": "BIG JOHNAB",
+      "thumbnail": "https://i.ytimg.com/vi/dLyIQ7QirnQ/hqdefault.jpg",
+      "publishedAt": "2026-10-24T16:00:22Z",
+      "durationSeconds": 2741,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BRKHZMaFaqA",
+      "url": "https://www.youtube.com/watch?v=BRKHZMaFaqA",
+      "title": "Everyone Thought the Blacksmith Was a Fool—Until He Forged a Weapon for Every Girl at the Academy",
+      "description": "CONTINUATION - https://www.patreon.com/cw/KNKStudioOfficial\n\n🔔 SUBSCRIBE for more full-length anime movies!\n👍 LIKE if this anime blew your mind!\n💬 COMMENT your favorite scene or character below!\n🔗 SHARE with someone who loves anime!\n\nThis production is an AI-powered anime experiment exploring new possibilities in digital animation. The story, direction, and creative vision are human-led. All characters, locations, and events are entirely fictional.\n\n#AnimeMovie #FullAnimeMovie #Anime2026 #OriginalAnime #AIAnime\n\n📌 HASHTAGS\n\n#AnimeMovie #FullAnimeMovie #Anime2026 #OriginalAnime #AIAnime #AnimeFilm #AnimeFeatureFilm #AnimeStory #AnimeAdventure #AnimeWorld #AnimeCharacters #AnimeArt #AnimeAnimation #AnimeStyle #AnimeFans #AnimeCommunity #AnimeLovers #AnimeCinema #CinematicAnime #AnimatedMovie #AnimatedFilm #AnimatedFeature #IndependentAnimation #DigitalAnimation #AIAnimation #AIGeneratedAnime #AIFilm #AIStorytelling #CinematicExperiment #FutureOfAnimation",
+      "channelId": "UCB6aT6W2WiPGeWpbJ4U_RlQ",
+      "channelTitle": "KNK Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/BRKHZMaFaqA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T20:00:37Z",
+      "durationSeconds": 4034,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rLzAcFz30-M",
+      "url": "https://www.youtube.com/watch?v=rLzAcFz30-M",
+      "title": "The Last Dragon Queen | Part III - AI Short Film by ReelixBox",
+      "description": "🐉 As ancient Titan Vorakh returns and the forgotten power of Titan Fire threatens to ignite a new war, Lyra, Ash, and Serath are caught between divided dragons and a human force determined to turn Dragonkind into weapons. Ash must decide what kind of leader he will become when his power can influence the fate of every dragon. #FantasyMovie #DragonMovie #MedievalFantasy #EpicFantasy #cinematicadventure \n\n🎬 Reelix Box is your destination for original AI Film and cinematic storytelling. Discover every Short Film crafted with imagination, emotion, and cutting-edge AI. From thrilling AI Movie experiences to unforgettable Short Movie adventures, each Cinematic Story is created to entertain, surprise, and transport you into new worlds.\n#shortfilm  #shortmovie  #cinematic  #movie  #film \n#AIFilm #ShortFilm #AIMovie #ShortMovie #CinematicStory",
+      "channelId": "UCyqv38P-f76u8mcuPtH7SNQ",
+      "channelTitle": "ReelixBox",
+      "thumbnail": "https://i.ytimg.com/vi/rLzAcFz30-M/hqdefault.jpg",
+      "publishedAt": "2026-10-21T10:04:47Z",
+      "durationSeconds": 1846,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zcapmWjJyEI",
+      "url": "https://www.youtube.com/watch?v=zcapmWjJyEI",
+      "title": "【名作映画】脳内ニューヨーク | Synecdoche, New York (人間ドラマ, ブラックコメディ, 洋画, 無料フル,字幕)",
+      "description": "🎦 映画ファン必見！名作＆話題作を、フルで毎週公開中！https://bit.ly/MoviedomeJP-SUB\n🍿 人生を丸ごと舞台で再現しようとした天才演出家が、愛と孤独、老いと死、そして現実と幻想の迷宮に迷い込んでいく異色のヒューマンドラマ。\n\n脳内ニューヨーク (2008)\n原題: Synecdoche, New York\n出演: Philip Seymour Hoffman（フィリップ・シーモア・ホフマン）Samantha Morton（サマンサ・モートン）Michelle Williams（ミシェル・ウィリアムズ）\n監督: Charlie Kaufman（チャーリー・カウフマン）\n年齢制限: R\n\n概要: ニューヨークで活動する舞台演出家ケイデン・コタードは、仕事で成功を収めながらも、妻とのすれ違いや原因不明の体調不良に悩まされていた。やがて妻と娘が彼のもとを去り、孤独を深めたケイデンは、巨額の助成金を手に入れ、人生そのものを再現する壮大な舞台作品の制作に着手する。巨大な倉庫の中にニューヨークの街を再現し、自分自身を演じる俳優まで雇い始めるが、現実と演劇の境界は次第に崩壊。愛する人々との関係、過ぎ去る時間、避けられない死――人生の意味を追い求める男がたどり着く真実とは。\n\n#MoviedomeJP #フルムービー #洋画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC_RKuoBMRI_Ut0SCOcBIaoQ",
+      "channelTitle": "Moviedome JP みんなのホームエンタメ ",
+      "thumbnail": "https://i.ytimg.com/vi/zcapmWjJyEI/hqdefault.jpg",
+      "publishedAt": "2026-10-25T00:00:25Z",
+      "durationSeconds": 7361,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "111Iy4ZXwEQ",
+      "url": "https://www.youtube.com/watch?v=111Iy4ZXwEQ",
+      "title": "マネー・ショート 華麗なる大逆転 | The Big Short (吹き替え, ブラッド・ピット, 実話, 金融危機, 投資, リーマンショック, 無料フル)",
+      "description": "🥷 男性必見！アクション＆スリラー映画をフルで毎週公開!　https://bit.ly/DzangoJP-SUB\n🚀 \n\nマネー・ショート 華麗なる大逆転 (2015)\n原題: The Big Short\n出演: Christian Bale（クリスチャン・ベール） / Steve Carell（スティーヴ・カレル） / Ryan Gosling（ライアン・ゴズリング）\n監督: Adam McKay（アダム・マッケイ）\n年齢制限: 0\n\n概要: 2005年、アメリカ。金融市場が好景気に沸く中、風変わりな投資家マイケル・バーリは住宅ローン市場に潜む巨大な危機を発見する。誰もが住宅価格の上昇を信じる中、彼は市場の崩壊を予測し、巨額の資金を投じて空売りを仕掛ける。その異常な取引に気づいた投資家たちも、ウォール街の銀行が隠し続ける金融システムの闇を知っていく。やがて世界経済を揺るがすリーマンショックが迫る中、彼らの大胆な賭けは想像を絶する結末へ。金融界の常識に挑んだ男たちの実話を描く衝撃の社会派ドラマ。\n\n#フルムービー #無料映画 #ザンゴシネマ\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCrmi03_ySjmuZ-hNnqIF_gw",
+      "channelTitle": "Dzango Cinema | ザンゴ・シネマ ",
+      "thumbnail": "https://i.ytimg.com/vi/111Iy4ZXwEQ/hqdefault.jpg",
+      "publishedAt": "2026-10-24T01:30:20Z",
+      "durationSeconds": 7825,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:45.742Z",
+      "lastSeenAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
       "unavailableAt": null
     }
   ]

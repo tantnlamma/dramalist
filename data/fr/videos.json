@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:03:02.619Z",
+  "generatedAt": "2026-10-26T03:02:04.450Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -455,7 +455,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +512,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +550,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -760,7 +760,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -779,7 +779,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-23T03:13:58.281Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -798,7 +798,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -876,7 +876,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -896,7 +896,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1005,12 +1005,13 @@
       "publishedAt": "2026-10-21T16:00:34Z",
       "durationSeconds": 6466,
       "matchedKeywords": [
+        "drame IA film complet",
         "film complet intelligence artificielle"
       ],
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1030,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1048,7 +1049,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1073,7 +1074,7 @@
     {
       "videoId": "zsNuin5hfEA",
       "url": "https://www.youtube.com/watch?v=zsNuin5hfEA",
-      "title": "Amour ancré | Saison 1 (Intégrale) : Il pensait ne plus jamais aimer",
+      "title": "Elle a su dompter le cœur de cet homme | Amour ancré (Saison 1 - Film complet)",
       "description": "Amour ancré | Saison 1 (Intégrale) : Il pensait ne plus jamais aimer\n\nBlessé par son passé et convaincu de devoir fermer son cœur, Daryl Snip s'était juré de ne plus jamais aimer. Lorsque sa route croise celle de Tacha Forest, une femme guidée par sa foi et sa détermination à avancer malgré les épreuves, toutes ses certitudes vacillent. Au fil de leurs échanges, une complicité profonde et bouleversante s'installe, réveillant des espoirs qu'ils croyaient perdus à jamais. La sincérité de leurs sentiments suffira-t-elle à guérir les blessures d'autrefois et à leur offrir un nouveau départ ?\n\nDans cette vidéo : La puissance de la foi, la guérison intérieure, le pardon et la force d'un amour capable de restaurer ce qui semblait brisé.\n\n📺 Regarder la Saison 2 (Intégrale) : https://www.youtube.com/watch?v=HcWvZeUOizs\n\n🎬 COULISSES DE CRÉATION  \nÉcriture et scénario : Carole Logbo – fiction originale  \nRéalisation et direction artistique : Carole Logbo  \nIntrigue de cet épisode : Deux âmes marquées par les épreuves apprennent à faire confiance à nouveau et découvrent que l'amour peut renaître là où tout semblait éteint.  \nPersonnages : Daryl Snip, Tacha Forest.  \nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\nCarole Logbo – Le cinéma qui vous ressemble.  \nPour toute demande de partenariat : carolelogbopartenariat@gmail.com  \nAbonnez-vous et activez la cloche 🔔 pour ne manquer aucun épisode.\n\n#AmourAncré #CaroleLogboCinéma #FilmComplet #Romance",
       "channelId": "UCwAwT46iTY80pI0WuA8SyPA",
       "channelTitle": "Carole Logbo Cinéma",
@@ -1105,7 +1106,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1125,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1144,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1157,12 +1158,13 @@
       "publishedAt": "2026-10-23T16:00:06Z",
       "durationSeconds": 5579,
       "matchedKeywords": [
+        "drame IA film complet",
         "film complet intelligence artificielle"
       ],
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1182,7 +1184,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1220,7 +1222,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1239,7 +1241,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     },
     {
@@ -1278,6 +1280,159 @@
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
       "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CuMpCaUr5ys",
+      "url": "https://www.youtube.com/watch?v=CuMpCaUr5ys",
+      "title": "Destination love | Film Complet | Romance | Anna Hutchinson & Josh McKenzie | M6+ Films & Séries",
+      "description": "Madison s'enlise dans la routine de son travail d'organisatrice d'événements à San Francisco.\nElle retrouve goût à sa passion lorsque ses deux meilleurs amis annoncent leurs fiançailles. E\nlle se voit confier l'organisation du mariage et dégote un forfait clé en main dans un vignoble\nchampêtre de Nouvelle-Zélande, propriété du charmant David Westhaven. Madison collabore\nétroitement avec lui pour réinventer l’événement et y ajouter une touche fantaisiste.\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nDESTINATION LOVE (DESTINATION LOVE)\nRéalisation : Aidee Walker\nDistribution : Anna Hutchinson, Josh Mckenzie, Jen Van Epps, Tim Carlsen, Michelle Ang\n© INCENDO MEDIA INC - 2013 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/CuMpCaUr5ys/hqdefault.jpg",
+      "publishedAt": "2026-10-25T18:00:06Z",
+      "durationSeconds": 5184,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "z-j5bQbMi0w",
+      "url": "https://www.youtube.com/watch?v=z-j5bQbMi0w",
+      "title": "Fort du Fou | Film Complet | Jacques Harden | Alain Saury | Jean Rochefort | Drame & Guerre | PF",
+      "description": "Durant les derniers mois de la guerre d’Indochine, le capitaine Noyelles commande un fort isolé où des civils vietnamiens ont trouvé refuge sous la protection des troupes françaises. Bientôt encerclée, la petite garnison doit résister aux assauts ennemis ainsi qu’à une redoutable campagne de guerre psychologique destinée à diviser les officiers.\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de Léo Joannon\nAvec Jacques Harden, Alain Saury, Jean Rochefort\n© Pathé Films - Tous droits réservés\n\n#filmdeguerre #indochine #cinemaclassique #filmfrancais #jeanrochefort #filmvintage #cinemahistorique\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/z-j5bQbMi0w/hqdefault.jpg",
+      "publishedAt": "2026-10-25T17:00:31Z",
+      "durationSeconds": 5446,
+      "matchedKeywords": [
+        "drame IA film complet",
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2bEZTILEgvo",
+      "url": "https://www.youtube.com/watch?v=2bEZTILEgvo",
+      "title": "Le Dernier Exorcisme | Film Complet | Horreur | ACE",
+      "description": "Face à la possession démoniaque de sa fille, un père désespéré fait appel à trois spécialistes de l’exorcisme. Réunis pour combattre l’entité qui la tourmente, ils découvrent que le démon n’est que le gardien d’un mal beaucoup plus puissant. S’ils échouent, une force infernale pourrait être libérée sur Terre.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Jose Prendes\nAvec Doug Bradley, Kate Hodge, Kayla Fields\n© ACE - Tous droits réservés\n\n#filmcomplet #filmhorreur #exorcisme #possession #demon #surnaturel #thriller #filmcompletenfrançais\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/2bEZTILEgvo/hqdefault.jpg",
+      "publishedAt": "2026-10-25T17:00:16Z",
+      "durationSeconds": 4895,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6YTyQOiq0cA",
+      "url": "https://www.youtube.com/watch?v=6YTyQOiq0cA",
+      "title": "Les Grands Fonds | Film Complet | Nick Nolte | Jacqueline Bisset | Aventure & Thriller | SPF",
+      "description": "En vacances aux Bermudes, David et Gail découvrent au cours d’une plongée l’épave d’un navire contenant des ampoules de morphine et les vestiges d’un ancien trésor. Aidés par l’aventurier Romer Treece, ils se lancent dans une périlleuse exploration sous-marine. Mais leur découverte attire bientôt un dangereux trafiquant, prêt à tout pour s’emparer de la cargaison engloutie.\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de Peter Yates\nAvec Robert Shaw, Jacqueline Bisset, Nick Nolte\n© Sony Pictures France - Tous droits réservés\n\n#LesGrandsFonds #TheDeep #PeterYates #cinemaclassique #filmdaventure #thriller #chasseautrésor #plongéesousmarine #filmvintage #cinemaamericain\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/6YTyQOiq0cA/hqdefault.jpg",
+      "publishedAt": "2026-10-24T16:00:00Z",
+      "durationSeconds": 7163,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ds1ong1fWtU",
+      "url": "https://www.youtube.com/watch?v=Ds1ong1fWtU",
+      "title": "Les Prisonniers de la Casbah | Film Complet | Gloria Grahame | Cesar Romero | Aventure | SPF",
+      "description": "À Alger, au XVIIIe siècle, la princesse Nadja et Ahmed, capitaine de la garde, sont enlevés sur ordre du perfide vizir Firouz, qui convoite le trône. Après leur évasion, ils trouvent refuge dans la casbah et se font passer pour des voleurs afin d’obtenir la protection de Marouf, le redoutable chef des hors-la-loi.\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de Richard L. Bare\nAvec Gloria Grahame, Cesar Romero, Turhan Bey\n© Sony Pictures France - Tous droits réservés\n\n#LesPrisonniersDeLaCasbah #GloriaGrahame #CesarRomero #TurhanBey #filmaventure #cinemaclassique #filmvintage #filmculte\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/Ds1ong1fWtU/hqdefault.jpg",
+      "publishedAt": "2026-10-23T16:00:26Z",
+      "durationSeconds": 4495,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QiZFnkp4bzY",
+      "url": "https://www.youtube.com/watch?v=QiZFnkp4bzY",
+      "title": "La Mégère Apprivoisée | Film Complet | Elizabeth Taylor | Richard Burton | Romance | SPF",
+      "description": "À Padoue, Baptista refuse de marier sa fille cadette tant que l’aînée, la fougueuse Catharina, n’aura pas trouvé d’époux. Attiré par sa dot, Petruchio, un gentilhomme désargenté au caractère tout aussi impétueux, accepte de relever le défi. Entre affrontements, provocations et sentiments naissants, leur rencontre donne lieu à une mémorable bataille des volontés.\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de Franco Zeffirelli\nAvec Elizabeth Taylor, Richard Burton, Cyril Cusack\n© Sony Pictures France - Tous droits réservés\n\n#LaMegereApprivoisee #ElizabethTaylor #RichardBurton #FrancoZeffirelli #Shakespeare #comedie #romance #cinemaclassique #filmvintage #filmculte\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/QiZFnkp4bzY/hqdefault.jpg",
+      "publishedAt": "2026-10-22T16:00:09Z",
+      "durationSeconds": 7008,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LJkYOTkafGI",
+      "url": "https://www.youtube.com/watch?v=LJkYOTkafGI",
+      "title": "L'Or de MacKenna | Film Complet | Gregory Peck | Omar Sharif | Western | SPF",
+      "description": "Dans l’Arizona des années 1870, le shérif MacKenna découvre le secret d’un fabuleux trésor apache. Capturé par Colorado, un redoutable hors-la-loi persuadé qu’il connaît la route du légendaire Cañon del Oro, il est contraint de guider sa bande vers l’or. Mais tandis que chercheurs de fortune, soldats et aventuriers se joignent à l’expédition, la convoitise transforme bientôt cette quête périlleuse en une lutte sans merci.\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de J. Lee Thompson\nAvec Gregory Peck, Omar Sharif, Telly Savalas\n© Sony Pictures France - Tous droits réservés\n\n#western #aventure #LOrDeMacKenna #GregoryPeck #OmarSharif #cinemaclassique #filmvintage #filmculte\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/LJkYOTkafGI/hqdefault.jpg",
+      "publishedAt": "2026-10-21T16:00:09Z",
+      "durationSeconds": 7387,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HcWvZeUOizs",
+      "url": "https://www.youtube.com/watch?v=HcWvZeUOizs",
+      "title": "Amour ancré | Saison 2 (Film complet) : Il ne peut plus se passer d'elle",
+      "description": "Amour ancré | Saison 2 (Intégrale) : Resteront-ils ensemble ?\n\nAlors que Daryl Snip et Tacha Forest tentent de bâtir leur avenir ensemble, les fantômes du passé refont surface. Entre le retour inattendu de Théo Kodjo, l'ex de Tacha, et la présence troublante d'Iris Castelle, l'ex de Daryl, les malentendus et la jalousie menacent leur équilibre. Face aux doutes et aux pièges tendus, leur amour et leur foi seront-ils assez forts pour résister à la tempête ?\n\nDans cette vidéo : La persévérance dans l'épreuve, la foi face aux doutes, la loyauté et le combat pour protéger son couple.\n\n📺 Regarder la Saison 3, Partie 1 : https://www.youtube.com/watch?v=NMANtA37z\\_8\n\n🎬 COULISSES DE CRÉATION  \nÉcriture et scénario : Carole Logbo – fiction originale  \nRéalisation et direction artistique : Carole Logbo  \nIntrigue de cet épisode : Confrontés au retour inattendu de leurs ex et aux doutes qui s'immiscent, Daryl et Tacha doivent se battre pour préserver leur amour.  \nPersonnages : Daryl Snip, Tacha Forest, Théo Kodjo, Iris Castelle.  \nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\nCarole Logbo – Le cinéma qui vous ressemble.  \nPour toute demande de partenariat : carolelogbopartenariat@gmail.com  \nAbonnez-vous et activez la cloche 🔔 pour ne manquer aucun épisode.\n\n#AmourAncré #CaroleLogboCinéma #SérieAfricaine #Romance #CinémaAfricain #FilmComplet",
+      "channelId": "UCwAwT46iTY80pI0WuA8SyPA",
+      "channelTitle": "Carole Logbo Cinéma",
+      "thumbnail": "https://i.ytimg.com/vi/HcWvZeUOizs/hqdefault.jpg",
+      "publishedAt": "2026-10-03T06:54:57Z",
+      "durationSeconds": 6184,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:02:04.450Z",
+      "lastSeenAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
       "unavailableAt": null
     }
   ]

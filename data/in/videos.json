@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:02:35.702Z",
+  "generatedAt": "2026-10-26T03:01:37.007Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -146,11 +146,11 @@
       "matchedKeywords": [
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-15T10:28:59.257Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "unavailableAt": "2026-10-26T03:01:37.007Z"
     },
     {
       "videoId": "otRUp5alrRc",
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -532,12 +532,13 @@
       "publishedAt": "2026-10-11T12:00:30Z",
       "durationSeconds": 2309,
       "matchedKeywords": [
-        "AI movie full hindi"
+        "AI movie full hindi",
+        "artificial intelligence hindi movie full"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-21T03:09:32.634Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +558,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -728,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -747,7 +748,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -880,7 +881,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -918,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -992,11 +993,11 @@
         "AI drama movie hindi full",
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-20T03:14:34.393Z",
       "lastSeenAt": "2026-10-20T03:14:34.393Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "unavailableAt": "2026-10-26T03:01:37.007Z"
     },
     {
       "videoId": "4rP7XKsTHVI",
@@ -1033,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1052,7 +1053,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1109,7 +1110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-23T03:13:32.983Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1205,7 +1206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1243,7 +1244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-24T03:07:44.977Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1262,7 +1263,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1281,7 +1282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     },
     {
@@ -1300,7 +1301,45 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6ZlPVGKG5MQ",
+      "url": "https://www.youtube.com/watch?v=6ZlPVGKG5MQ",
+      "title": "अनजाना हमसफर। जब सफर में मिल गया हमसफर। Love story | Hindi story | kahaniya #kahaniya #lovestory",
+      "description": "अनजाना हमसफर। जब सफर में मिल गया हमसफर। Love story | Hindi story | kahaniya #kahaniya #lovestory\n\n\nक्या होगा जब एक लड़की अपने जीवन की सबसे यादगार यात्रा पर निकले… और उसी सफर में उसकी मुलाकात एक ऐसे लड़के से हो जाए, जिससे शुरुआत में उसे बिल्कुल नफरत हो जाए? ❤️\n\nपूरी कहानी जानने के लिए वीडियो को अंत तक जरूर देखें। ❤️\n\n\n💬 कमेंट करके बताइए — अगर आपकी जिंदगी में भी ऐसी कोई कहानी होती, तो क्या आप पहली मुलाकात में किसी को गलत समझने के बाद उसे दूसरा मौका देते?\n\n#hindistory #lovestory #romanticstory #emotionalstory #hindikahani #lovestoryinhindi #couplestory #pyaarkikahani #hearttouchingstory #gyanvicharkahani #storytelling #hindistories #moralstory #relationshipstory #siyavarun \n\n\nGyan Vichar Kahani पर आपको मिलती हैं दिल को छू लेने वाली Emotional, Family, Love, Motivational और Moral Hindi Stories, जो मनोरंजन के साथ-साथ जीवन और रिश्तों से जुड़ी एक खूबसूरत सीख भी देती हैं।\n\n━━━━━━━━━━━━━━━━━━\n\n🔹 इस कहानी के बारे में\n\n━━━━━━━━━━━━━━━━━━\n\nइंदु अपने परिवार की इच्छा के खिलाफ नहीं, बल्कि अपनी जिंदगी को समझने और कुछ खूबसूरत पल जीने के लिए अकेले टूर पर निकलती है। लेकिन सफर की शुरुआत में ही उसकी मुलाकात होती है विशाल से, जो पहली ही मुलाकात में उसे परेशान करने लगता है। दोनों के बीच छोटी-छोटी बातों पर झगड़े होते हैं, नोकझोंक होती है और देखते ही देखते पूरा सफर एक-दूसरे को चिढ़ाने में बीतने लगता है।\n\nलेकिन इस सफर में कुछ ऐसा भी होता है, जिसकी इंदु और विशाल दोनों ने कभी कल्पना नहीं की थी। धीरे-धीरे नफरत के पीछे छिपी एक अनकही भावना प्यार में बदलने लगती है। ❤️\n\n━━━━━━━━━━━━━━━━━━\n\n🔍 SEARCH KEYWORDS\n\n━━━━━━━━━━━━━━━━━━\n\nGyan Vichar Kahani,\nHindi Stories,\nHindi Kahani,\nEmotional Story,\nअजनबी हमसफर कहानी,\nHindi Story,\nHeart Touching Story,\nHindi Kahaniya,\nRomantic story,\nStory in Hindi,\nLovestory,\nMotivational Story,\nMoral Kahani,\nTour wali love story,\nSooraj chandini की कहानी,\nEmotional Kahani,\nMotivational Story in Hindi,\nIndian Story,\nइंदु और विशाल की कहानी,\nAI Stories,\nStory Time,\nAI Long Story,\nMotivational Hindi Story,\nFamily Story,\nGyanvardhak Kahani,\nKahaniyan Hindi Me,\nLove Story,\nKatha,\nFamily Stories,\nDharmik Kahaniya Hindi,\nMoral Story,\nInspirational Hindi Story\n\n━━━━━━━━━━━━━━━━━━\n\n🏷️ HASHTAGS\n\n━━━━━━━━━━━━━━━━━━\n\n#HindiStory #LoveStory #RomanticStory #CuteLoveStory #PatiPatni #HindiKahani #GyanVicharKahani #EmotionalStory #CoupleStory #HindiStories\n#Storytelling #BestMotivationalStories #Story #BhaktiStory #DharmikKahani #GyanVicharKahani #MoralStory #Kahaniyan #Kahani #DharmikKatha #Motivational #Dharmik #Katha #Motivation #HindiKahani #MotivationalVideo #PauranikKatha #Pauranik #DharmikStory #MoralLessons #Bhakti\n\n━━━━━━━━━━━━━━━━━━\n\n🎬 हमारी अन्य कहानियां\n\n━━━━━━━━━━━━━━━━━━\n\n🔸 अजनबी — तकदीर की कहानी | Taqdeer | Motivational Story | Hindi Story\n\n🔸 धर्म की परीक्षा — राजा-रानी की अनोखी कहानी\n\n🔸 विश्वासघात — दो बहनों के षड्यंत्र की कहानी\n\n🔸 तकदीर — एक अनाथ लड़की की कहानी | Gyan Vichar Kahani | Dharmik Story\n\n🔸 नसीब — जीवन का संघर्ष | Motivational Story | Hindi Story\n\n🔸 गंगा — विधवा और समाज | Gyan Vichar Kahani | Moral Story | Motivational Story\n\n🔸 चारधाम यात्रा — सोमवार व्रत कथा | Somvar Vrat Katha\n\n🔸 अंतिम यात्रा — मरणोपरांत रहस्य\n\n━━━━━━━━━━━━━━━━━━\n\n⚠️ DISCLAIMER\n\n━━━━━━━━━━━━━━━━━━\n\nDisclaimer:\n\nThis video has been created using AI-generated visuals and content.\nIt is intended solely for entertainment and storytelling purposes.\nThis is a work of fiction — all characters, names, and events depicted \nare imaginary and created for narrative purposes only.\nAny resemblance to actual persons, living or dead, or real events \nis purely coincidental.\nAll visuals are AI-generated and should be viewed as creative, \nimaginative representations, not as real footage or events.\n\n━━━━━━━━━━━━━━━━━━\n\n🙏 Thanks for Watching 🙏\n\n❤️ Like | Share | Subscribe ❤️\n\n\n@Gyanvicharkahani",
+      "channelId": "UCbVPPQHTwOhRxKKPwahr1Uw",
+      "channelTitle": "Gyan Vichar Kahani",
+      "thumbnail": "https://i.ytimg.com/vi/6ZlPVGKG5MQ/hqdefault.jpg",
+      "publishedAt": "2026-10-21T16:15:49Z",
+      "durationSeconds": 5492,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:37.007Z",
+      "lastSeenAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CX7zwyuAN5I",
+      "url": "https://www.youtube.com/watch?v=CX7zwyuAN5I",
+      "title": "दूसरी लड़की के प्यार में अंधा हुआ करोड़पति, गरीब पत्नी की जिंदगी बर्बाद कर दी! Hindi emotional story",
+      "description": "मजबूरी में गरीब लड़की से की शादी, फिर गर्भवती पत्नी को घर से निकाल दिया! 💔 | Hindi emotional kahani😭\n\n\n\n\n\nYour Queries:\nKarodpati Ki Gareeb Patni\nGareeb Patni Ki Kahani\nMajboori Mein Shaadi\nHindi Emotional Story\nHeart Touching Hindi Story\nHusband Wife Emotional Story\nPregnant Wife Story Hindi\nRich Husband Poor Wife Story\nGareeb Ladki Ki Kahani\nSad Love Story Hindi\nHindi Family Drama\nEmotional Hindi Kahani\nAI Hindi Story\nAI Generated Hindi Story\nAI Story Video Hindi\nHindi AI Kahani\nHindi Story 2026\nHindi Moral Story\nHindi Motivational Story\nIndian Family Drama\nPoor Wife Emotional Story\nHusband Wife Love Story\nHeart Touching Story Hindi\nFamily Emotional Story\nOld Hindi Stories\nPurane Zamane Ki Kahani\nOld Time Hindi Kahani\nHistorical Hindi Story\nTraditional Indian Stories\nVillage Life Story Hindi\nIndian Village Story\nDesi Family Drama\nHindi Kahaniyan\nHindi Story\nHindi Moral Kahani\nHindi Motivational Kahani\nHindi Sad Story\nHindi Love Story\nHindi Family Story\nEmotional Family Kahani\nHindi Drama Story\nAI Kahani Hindi\nAI Generated Kahani\nAI Hindi Story Video\nHindi Animation Story\nHindi Kahaniyan 2026\nPurani Kahaniyan\nRaja Rani Ki Kahani\nRaja Maharaja Ki Kahani\nDadi Nani Ki Kahani\nMoral Stories in Hindi\nLife Lesson Story Hindi\nInspirational Hindi Story\nगरीब पत्नी की कहानी\nकरोड़पति की गरीब पत्नी\nपुराने ज़माने की कहानी\nपुरानी हिंदी कहानियाँ\nहिंदी कहानियाँ\nहिंदी स्टोरी\nहिंदी मोटिवेशनल कहानी\nहिंदी नैतिक कहानी\nहिंदी पारिवारिक कहानी\nहिंदी इमोशनल कहानी\nहिंदी प्रेम कहानी\nराजा रानी की कहानी\nराजा महाराजा की कहानी\nदादी नानी की कहानी\nगाँव की कहानी\nगरीब लड़की की कहानी\nअमीर और गरीब की कहानी\nपति पत्नी की कहानी\nदिल छू लेने वाली कहानी\nप्रेरणादायक हिंदी कहानी\nसीख देने वाली कहानी\nएआई हिंदी कहानी\nएआई से बनी कहानी\n\n\n\n⚠️ Disclaimer:\nयह कहानी केवल मनोरंजन और नैतिक संदेश के उद्देश्य से प्रस्तुत की गई है। इसमें दिखाए गए सभी पात्र, घटनाएं और परिस्थितियां काल्पनिक हैं। किसी वास्तविक व्यक्ति, स्थान या घटना से इसका संबंध नहीं है। यदि किसी वास्तविक व्यक्ति या घटना से समानता दिखाई देती है, तो वह मात्र संयोग है।\n\n\n\n\n#HindiKahani #HindiStories #HindiStory #HindiKahaniya #EmotionalStory #HindiEmotionalStory #HeartTouchingStory #SadStory #SadLoveStory #LoveStoryHindi #FamilyDrama #HindiDrama #GareebPatni #GareebLadkiKiKahani #KarodpatiKiGareebPatni #GareebBiwi #AmeerGaribKiKahani #GaribAurAmeer #HusbandWifeStory #PatiPatniKiKahani #ShaadiKiKahani #EmotionalKahani #DardBhariKahani #RulaDeneWaliKahani #DilChhuLeneWaliKahani #HindiSadStory #HindiLoveStory #FamilyEmotionalStory #MarriageStory #PregnantWifeStory #PoorWifeStory #RichHusbandPoorWife #BetrayalStory #HusbandWifeDrama #LifeStoryHindi #HindiMoralStory #MotivationalStory #InspirationalStory #AIStory #AIStoryHindi #AIGeneratedStory #AIHindiKahani #AIHindiStory #AIStoryVideo #HindiStoryVideo #HindiKahaniyan #NewHindiStory #LatestHindiStory #HindiKahani2026 #EmotionalVideo #HeartTouchingStoryHindi",
+      "channelId": "UCKemk421mTVp9_q9Bs8qVsw",
+      "channelTitle": "Story By Ansar Hindi ",
+      "thumbnail": "https://i.ytimg.com/vi/CX7zwyuAN5I/hqdefault.jpg",
+      "publishedAt": "2026-10-21T03:12:36Z",
+      "durationSeconds": 3272,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:37.007Z",
+      "lastSeenAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
       "unavailableAt": null
     }
   ]

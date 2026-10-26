@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:02:28.702Z",
+  "generatedAt": "2026-10-26T03:01:31.139Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -221,11 +221,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": "2026-10-26T03:01:31.139Z"
     },
     {
       "videoId": "dTEefOuZp0o",
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -572,11 +572,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": "2026-10-26T03:01:31.139Z"
     },
     {
       "videoId": "feExZ-pDQGU",
@@ -591,11 +591,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": "2026-10-26T03:01:31.139Z"
     },
     {
       "videoId": "TlrjGqHhplc",
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -763,12 +763,13 @@
       "publishedAt": "2026-09-13T11:30:14Z",
       "durationSeconds": 7380,
       "matchedKeywords": [
+        "artificial intelligence short drama full movie",
         "robot android drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -789,7 +790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -808,7 +809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -828,7 +829,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -848,7 +849,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1039,7 +1040,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1058,7 +1059,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1191,7 +1192,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1267,7 +1268,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1281,12 +1282,13 @@
       "publishedAt": "2026-09-12T17:00:36Z",
       "durationSeconds": 4644,
       "matchedKeywords": [
-        "artificial intelligence full movie"
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1306,7 +1308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1344,7 +1346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1382,7 +1384,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1403,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1420,7 +1422,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1572,7 +1574,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1643,12 +1645,13 @@
       "publishedAt": "2026-09-23T14:00:16Z",
       "durationSeconds": 2820,
       "matchedKeywords": [
-        "artificial intelligence full movie"
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-20T03:14:28.710Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1686,7 +1689,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1781,7 +1784,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1838,7 +1841,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1896,7 +1899,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1934,7 +1937,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -1991,7 +1994,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2068,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2144,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2182,7 +2185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2258,7 +2261,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2277,7 +2280,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2296,7 +2299,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2315,7 +2318,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2353,7 +2356,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2391,7 +2394,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2429,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2448,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2467,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     },
     {
@@ -2487,6 +2490,236 @@
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
       "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qYwS45T-JN4",
+      "url": "https://www.youtube.com/watch?v=qYwS45T-JN4",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/qYwS45T-JN4/hqdefault.jpg",
+      "publishedAt": "2026-10-25T10:45:24Z",
+      "durationSeconds": 8406,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7-rWFqxL7dw",
+      "url": "https://www.youtube.com/watch?v=7-rWFqxL7dw",
+      "title": "What Happens When You Turn Twenty-One? AI Sci-Fi Full Movie",
+      "description": "#SciFiMovie #fantasy  #FullMovie #aifilm, Full Sci-Fi Movie in 4K, As protests and civil unrest bring attention to France, imagine a dystopian future where even raising your voice is forbidden and Explore a haunting vision of the future in this full ai sci-fi movie, where the state dictates every aspect of human identity. In a world where children are born without gender, the government decides who you become, stripping away autonomy in a chilling dystopian future. This cinematic ai experience dives deep into a complex sci-fi story that challenges our perceptions of self, body transformation, and social structure.\n\nIn a society where silence is enforced by law, one citizen's act of defiance transforms a silent demonstration into a confrontation with authority.\n\nFull AI film: a dystopian sci-fi movie where everyone is born genderless and is taken at 21 unless love changes them. INVISIBLE SHACKLES.\n\nAn original cinematic AI movie written and directed by Hafid Abdelmoula.\n\nIn ASU, everyone is born genderless. No man, no woman: just a bald, silent child of the state. Each person waits for the Happening, the day their body changes and they become a man or a woman. Those who haven't changed by twenty-one are taken in the night.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where love is called weakness, and Djena, where a stranger's life can end in an alley. Between them all stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nIf you like dystopian sci-fi, cinematic AI films and slow-burn world-building, this is for you. Tell me in the comments: who would you have become?\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore cinematic AI films on THDFILMS: subscribe so you don't miss the next one.\n\n#AIFilm #AIMovie #SciFiFilm",
+      "channelId": "UCkRmY0s0NtBIg0_3U15OTqw",
+      "channelTitle": "THDFILMS ",
+      "thumbnail": "https://i.ytimg.com/vi/7-rWFqxL7dw/hqdefault.jpg",
+      "publishedAt": "2026-10-25T10:16:38Z",
+      "durationSeconds": 1863,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FTiBW_GCE6I",
+      "url": "https://www.youtube.com/watch?v=FTiBW_GCE6I",
+      "title": "The Mother's Monster Season 2 | Full AI Fantasy Movie 2026 | Zahid Iqbal she give birth to dragon",
+      "description": "🔥 THE MOTHER'S MONSTER SEASON 2 IS HERE! 🐉\n\nGet ready for an epic AI fantasy adventure filled with mystery, monsters, dragons, emotional moments, and cinematic action!\n\n🎬 Movie: The Mother's Monster Season 2\n🤖 Genre: AI Fantasy Movie\n🐉 Category: Fantasy, Adventure & Monster Story\n🎥 AI Film Creator: Zahid Iqbal\n\nWatch until the end to discover what happens next in this exciting new chapter!\n\n👍 LIKE the video\n💬 COMMENT your favourite scene\n🔔 SUBSCRIBE for more AI movies and fantasy stories\n📲 SHARE with your friends!\n\n#TheMothersMonster #TheMothersMonsterSeason2 #AIMovie #ZahidIqbal#TheMothersMonster #TheMothersMonsterSeason2 #ZahidIqbal #AIFilm #AIShortFilm #AIFilmmaking #AIGeneratedFilm #AIAnimation #AIStorytelling #AICinema #AIFantasy #ArtificialIntelligence #AIFilm #FantasyMovie #MonsterMovie #DragonMovie #AIAnimation #Season2The Mother's Monster Season 2, The Mothers Monster 2, The Mother's Monster, Zahid Iqbal, Zahid Iqbal AI movie, AI movie 2026, full AI movie, AI fantasy movie, monster movie, dragon movie, fantasy adventure, AI film, cinematic AI movie, AI generated film, monster story, dragon fantasy, season 2 movie, Urdu AI movie, Pakistani AI filmmakerTheMothersMonster #Season2 #AIMovie #ZahidIqbal #FantasyMovie #MonsterMovie #Dragon #AIFilm #ViralVideo #YouTube#TheMothersMonster #TheMothersMonsterSeason2 #ZahidIqbal #AIFilm #AIShortFilm #AIFilmmaking #AIGeneratedFilm #AIAnimation #AIStorytelling #AICinema #AIFantasy #ArtificialIntelligence#TheMothersMonster #TheMothersMonsterSeason2 #AIMovie",
+      "channelId": "UCeTEoY3-hZI-W_1vL1bFDjA",
+      "channelTitle": "Ai editor ",
+      "thumbnail": "https://i.ytimg.com/vi/FTiBW_GCE6I/hqdefault.jpg",
+      "publishedAt": "2026-10-25T08:04:01Z",
+      "durationSeconds": 3835,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "j0UMwimtnqo",
+      "url": "https://www.youtube.com/watch?v=j0UMwimtnqo",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/j0UMwimtnqo/hqdefault.jpg",
+      "publishedAt": "2026-10-25T05:45:29Z",
+      "durationSeconds": 7210,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nnHGMCy8nH8",
+      "url": "https://www.youtube.com/watch?v=nnHGMCy8nH8",
+      "title": "WIRO SABLENG EPISODE 3 | KITAB WASIAT DEWA & BANGKITNYA DELAPAN SABDA LANGIT | FILM AI",
+      "description": "🔥 **WIRO SABLENG EPISODE 3: KITAB WASIAT DEWA & BANGKITNYA DELAPAN SABDA LANGIT** ⚔️🐉\n\nSebuah kekuatan kuno mulai bangkit! Wiro Sableng kembali dalam petualangan penuh aksi silat, persahabatan, misteri, dan rahasia ilmu legendaris yang mampu meningkatkan kesaktiannya.\n\nSelamat datang di **SAMUDERA AI SINEMA**, channel film AI sinematik yang menghadirkan petualangan pendekar Nusantara dengan visual fantasi kolosal dan pertarungan silat yang menegangkan.\n\n🎬 **SINOPSIS EPISODE 3**\n\nSetelah melewati teror Rawa Bangkai, Wiro Sableng melanjutkan pengembaraannya bersama tiga sahabat setianya: Anggini, Rangga Wulung, dan Sekar Halimun.\n\nPerjalanan mereka membawa Wiro menuju sebuah warisan kuno yang menyimpan rahasia ilmu silat tingkat tinggi.\n\n📜 **KITAB WASIAT DEWA**\n\nSebuah kitab legendaris menyimpan pengetahuan tentang jurus sakti yang telah lama tersembunyi.\n\nUntuk menguasainya, Wiro harus melewati latihan berat, memahami aliran tenaga dalam, dan menghadapi berbagai tantangan yang menguji kekuatan serta keteguhan hatinya.\n\nNamun, semakin dekat Wiro dengan kekuatan baru, semakin besar pula ancaman yang menantinya.\n\n🌩️ **BANGKITNYA DELAPAN SABDA LANGIT**\n\nDelapan Sabda Langit merupakan ilmu silat legendaris yang menuntut penguasaan teknik, kecepatan, kekuatan fisik, dan tenaga dalam tingkat tinggi.\n\nWiro harus meningkatkan kemampuan bertarungnya untuk menghadapi musuh yang memiliki kesaktian seimbang, bahkan lebih kuat.\n\nMampukah Wiro menguasai Delapan Sabda Langit dan membuka tingkatan baru kesaktiannya?\n\n⚔️ **EMPAT PENDEKAR, SATU TUJUAN**\n\n🐉 **Wiro Sableng:** Pendekar Kapak Maut Naga Geni 212 yang berusaha menguasai Kitab Wasiat Dewa.\n\n💜 **Anggini:** Pendekar wanita tangguh dengan kemampuan silat dan tenaga dalam yang mengagumkan.\n\n⛓️ **Rangga Wulung:** Kesatria pemberani dengan kemampuan bertarung dan senjata rantai besi.\n\n🌿 **Sekar Halimun:** Pendekar wanita misterius yang menguasai teknik silat dan ilmu halimun.\n\nBersama ketiga sahabatnya, Wiro menghadapi pengembaraan penuh bahaya, pertempuran sengit, dan misteri kekuatan kuno.\n\n🔥 **SAKSIKAN FILM WIRO SABLENG EPISODE 3!**\n\nNikmati film berdurasi 30 menit yang menghadirkan aksi pertarungan silat, jurus legendaris, efek sinematik, dan petualangan fantasi Nusantara.\n\nAkankah Kitab Wasiat Dewa menjadikan Wiro pendekar yang lebih sakti?\n\nTemukan jawabannya hanya di **SAMUDERA AI SINEMA!**\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 **INFORMASI FILM**\n\n🎬 Judul: Wiro Sableng Episode 3\n\n📜 Subjudul: Kitab Wasiat Dewa & Bangkitnya Delapan Sabda Langit\n\n⏱️ Durasi: 30 Menit\n\n🎭 Genre: Action, Martial Arts, Fantasy, Adventure\n\n⚔️ Karakter: Wiro Sableng, Anggini, Rangga Wulung, Sekar Halimun\n\n🐉 Senjata: Kapak Naga Geni 212\n\n🎞️ Produksi Kreatif: Samudera Ai Sinema\n\n🤖 Teknologi: Artificial Intelligence (AI)\n\n🌏 Bahasa: Indonesia\n\n━━━━━━━━━━━━━━━━━━━━\n\n❤️ **DUKUNG SAMUDERA AI SINEMA!**\n\n👍 LIKE jika kamu menyukai film silat dan petualangan Wiro Sableng!\n\n💬 KOMENTAR: Menurut kalian, seberapa dahsyat kekuatan Wiro setelah menguasai Delapan Sabda Langit?\n\n🔔 SUBSCRIBE dan aktifkan lonceng notifikasi agar tidak ketinggalan episode selanjutnya!\n\n📢 SHARE video ini kepada teman-teman pecinta film silat dan legenda pendekar Nusantara!\n\n⚔️ Jangan lewatkan kelanjutan pengembaraan Wiro Sableng!\n\n🔥 **SALAM PENDEKAR 212!**\n\n━━━━━━━━━━━━━━━━━━━━\n\n⚠️ **DISCLAIMER | FAN-MADE AI FILM**\n\nVideo ini merupakan karya kreatif fan-made berbantuan Artificial Intelligence (AI) untuk tujuan hiburan, eksplorasi seni digital, dan apresiasi terhadap kisah pendekar Nusantara.\n\nKarakter Wiro Sableng dan unsur kekayaan intelektual terkait merupakan hak pemegang hak masing-masing.\n\nSamudera Ai Sinema tidak mengklaim kepemilikan atas karya asli Wiro Sableng. Film ini bukan produksi resmi dan tidak berafiliasi dengan pencipta maupun pemegang hak terkait.\n\nCerita, adegan, dan pengembangan kekuatan merupakan interpretasi kreatif berbantuan AI yang tidak selalu mengikuti cerita asli.\n\nDisclaimer ini tidak menggantikan izin atau lisensi yang mungkin diperlukan.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 **SAMUDERA AI SINEMA**\n\n⚔️ Kisah Legenda, Imajinasi Tanpa Batas!\n\n#WiroSableng #WiroSablengEpisode3 #SamuderaAiSinema #KitabWasiatDewa #DelapanSabdaLangit #KapakNagaGeni212 #FilmAI #FilmSilatIndonesia #Anggini #RanggaWulung #SekarHalimun #FilmPendekar",
+      "channelId": "UC1rxys7LV6yTLl0cH_e1KLw",
+      "channelTitle": "Samudera Ai Sinema",
+      "thumbnail": "https://i.ytimg.com/vi/nnHGMCy8nH8/hqdefault.jpg",
+      "publishedAt": "2026-10-25T02:00:11Z",
+      "durationSeconds": 1834,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bH-2jZpL6MM",
+      "url": "https://www.youtube.com/watch?v=bH-2jZpL6MM",
+      "title": "The Last Breath of Aurora | Full  Sci-Fi Movie #ChiFiMovie #mechbattle  #bts ",
+      "description": "🌌 SKYROOT: THE LAST BREATH OF AURORA — a fully sci-fi epic\n\nWhen explorer Mara Venn picks up a mysterious signal from the living world Elyndra, she and her crew journey to a planet that breathes, remembers, and fights back. There she meets Seya, guardian of the Lumaari — the native people protecting the planet's living heart, the Heartseed. But a ruthless corporate fleet wants to harvest the planet's heart... and time is running out.\n\n\n\n⏱️ CHAPTERS\n00:00 Part 01 — The Signal\n05:00 Part 02 — Through the Veil\n10:00 Part 03 — First Breath\n15:00 Part 04 — The People of the Canopy\n20:00 Part 05 — The Memory Root\n25:00 Part 06 — The Arrival of Iron\n30:00 Part 07 — Broken Trust\n35:00 Part 08 — The Wilds Awaken\n40:00 Part 09 — The Heartseed\n45:00 Part 10 — The Siege of Rootgate\n50:00 Part 11 — Fire in the Sky\n55:00 Part 12 — The Choice\n60:00 Part 13 — The Last Breath\n65:00 Part 14 — A New Dawn\n\n🎬 Made with AI video generation. Subscribe to Sky AI Films for more AI cinema!\n\n#Skyroot #chifimovie #SciFi #AIFilm #FullMovie\n#fantasy\n\nskyroot, the last breath of aurora, ai movie, ai film, ai generated movie, sci-fi movie, science fiction film, full movie, epic sci-fi, space movie, alien planet movie, ai cinema, artificial intelligence movie, 2026 movies, new sci-fi movie, cinematic ai, fantasy adventure movie",
+      "channelId": "UCgdZb1sd97vqbhqGZldmpUA",
+      "channelTitle": "Sky AI Films",
+      "thumbnail": "https://i.ytimg.com/vi/bH-2jZpL6MM/hqdefault.jpg",
+      "publishedAt": "2026-10-24T21:07:05Z",
+      "durationSeconds": 4202,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zI-IOwAHm84",
+      "url": "https://www.youtube.com/watch?v=zI-IOwAHm84",
+      "title": "Rose si Bunga Desa — 45 Menit Full | Film Komedi Romantis Melayu",
+      "description": "ROSE SI BUNGA DESA — 45 MENIT FULL | FILM AI KOMEDI ROMANTIS MELAYU\n\nPerjalanan Rose si Bunga Desa berlanjut dalam kisah penuh perjuangan, persahabatan, cinta, dan komedi yang menghibur!\n\nRoselia, yang akrab dipanggil Ros, adalah gadis Melayu Malaysia berusia 19 tahun yang cantik, mandiri, dan bercita-cita menjadi seorang dokter. Kesempatan besar datang ketika Ros mendapatkan beasiswa untuk melanjutkan pendidikan kedokteran di Indonesia, tepatnya di Yogyakarta. Dengan tekad kuat, Ros meninggalkan kampung halamannya demi mengejar masa depan dan mewujudkan impiannya.\n\nNamun, beasiswa yang diperolehnya hanya menanggung biaya pendidikan. Untuk memenuhi kebutuhan sehari-hari, Ros harus berusaha mandiri tanpa ingin membebani orang lain. Ia kemudian tinggal bersama Mak cik Sari dan Nabila di rumah kayu berwarna biru. Di sana, Ros membantu Mak cik Sari menjalankan usaha makanan, termasuk membuat dan mengantarkan pesanan nasi lemak serta makanan lainnya.\n\nDi tengah kesibukannya, Ros bertemu dengan Fa’iz, seorang pemuda sederhana yang mengelola warung kopi. Seiring waktu, Fa’iz mulai jatuh cinta kepada Ros. Namun, ia justru merasa minder karena Ros adalah calon dokter, sedangkan dirinya hanya seorang pengusaha warung kopi. Kepada sahabatnya, Wawan, Fa’iz mencurahkan isi hatinya tentang perasaan yang semakin sulit disembunyikan.\n\nSementara itu, Nunung yang menyukai Fa’iz terus berusaha menarik perhatiannya. Ia bahkan berniat bekerja dan menabung demi menikah dengan Fa’iz! Tingkah Nunung yang penuh percaya diri, Wawan yang gemar menggoda, dan Fa’iz yang selalu mencari alasan untuk menghindar menciptakan berbagai kejadian lucu di warung kopi.\n\nDi sisi lain, Dipa dan Badrol kembali hadir dalam kehidupan Ros. Dipa sebenarnya menganggap Ros hanya sebagai teman dan tidak memiliki perasaan cinta khusus kepadanya. Meski begitu, Dipa senang mengusik Ros dan sering menjadikannya bahan candaan. Di balik tingkahnya yang jahil, Dipa justru berusaha mendekatkan Ros dengan sahabatnya, Badrol.\n\nSayangnya, Badrol belum berani menghadapi Ros. Ia sering gugup dan menghindar karena belum siap bertemu dengannya. Dipa pun terus menggoda Badrol, berusaha mendorong sahabatnya agar lebih berani mendekati Ros. Berbagai alasan konyol dan tingkah mereka membuat persahabatan ini semakin menghibur.\n\nKini, kehidupan Ros di Indonesia semakin berwarna. Ia harus membagi waktu antara kuliah kedokteran, membantu Mak cik Sari, dan menghadapi berbagai kejadian tak terduga. Sementara itu, Fa’iz berjuang dengan rasa minder dan cintanya, Nunung terus mengejar perhatian Fa’iz, dan Dipa sibuk menjadi mak comblang bagi Ros dan Badrol.\n\nAkankah Ros dan Badrol semakin dekat? Beranikah Badrol mengungkapkan perasaannya? Akankah Fa’iz mampu mengatasi rasa mindernya dan memperjuangkan cintanya? Dan bagaimana kelanjutan kisah persahabatan serta kekonyolan mereka?\n\nSaksikan Rose si Bunga Desa — 45 Menit Full, film AI komedi romantis dan drama keluarga Melayu yang menggabungkan perjuangan meraih cita-cita, persahabatan, cinta bertepuk sebelah tangan, dan humor kehidupan sehari-hari.\n\nJangan lupa LIKE, KOMENTAR, dan SUBSCRIBE untuk mengikuti kelanjutan kisah Rose si Bunga Desa!\n\nTerima kasih atas dukungan kalian terhadap karya Dipa Studio. Selamat menonton!\n\nHASHTAG:\n\n#RoseSiBungaDesa #RoseSiBungaDesaFull #45MenitFull #FilmAI #AIFilm #AIMovie #AIVideo #DipaStudio #DipaPlay #FilmMelayu #DramaMelayu #KomediMelayu #KomediRomantis #DramaRomantis #DramaKeluarga #FilmRomantis #FilmDrama #FilmPanjang #FullMovie #FilmIndonesia #FilmMalaysia #CeritaMelayu #KisahMelayu #KisahCinta #CeritaCinta #CintaSegitiga #JatuhCinta #CintaBertepukSebelahTangan #MakComblang #Persahabatan #PerjuanganCitaCita #BeasiswaKuliah #KuliahKedokteran #CalonDokter #KehidupanMahasiswa #Merantau #KisahPerantauan #DramaKomedi #CeritaLucu #HumorMelayu #KehidupanDesa #BungaDesa #Roselia #Ros #Faiz #Dipa #Badrol #Nunung #Wawan #MakCikSari #FilmCinematic #FilmRealistis #ArtificialIntelligence #KontenAI #KreatorAI #FilmDigital #FanMovie #YouTubeFilm #YouTubeIndonesia #YouTubeMalaysia #Hiburan #VideoHiburan #CeritaBersambung #FilmViral #VideoViral #Trending #OriginalStory",
+      "channelId": "UC8iATt9hxMmov6i7TGYw7Wg",
+      "channelTitle": "Si dipa",
+      "thumbnail": "https://i.ytimg.com/vi/zI-IOwAHm84/hqdefault.jpg",
+      "publishedAt": "2026-10-19T00:00:33Z",
+      "durationSeconds": 2734,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rnUN70QzMUA",
+      "url": "https://www.youtube.com/watch?v=rnUN70QzMUA",
+      "title": "Bijou & the AI Kids – The Full Movie | Volume 1: The Portal to Tomorrow | Animated Kids Adventure",
+      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n📚 The Bijou & the AI Kids comic books are coming soon to Amazon Kindle and paperback.\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
+      "channelId": "UCGr1lQdPbxuEaAHRDzHT8Fw",
+      "channelTitle": "Bijou & the AI Kids",
+      "thumbnail": "https://i.ytimg.com/vi/rnUN70QzMUA/hqdefault.jpg",
+      "publishedAt": "2026-10-24T08:38:06Z",
+      "durationSeconds": 2992,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SpsSgfbHZLw",
+      "url": "https://www.youtube.com/watch?v=SpsSgfbHZLw",
+      "title": "4K AI DRAMA Full Episode! of EPOCH OF VOYAGES #aivideo  #4kvideo ",
+      "description": "EPOCH OF VOYAGES! Full Episode\n\nIf you like this kind of AI DRAMA, dont forget to subcribe my channel and click the notifacation bell, for more more, Watching AI DRAMA!\n\nThank you for watching, i appreciated.",
+      "channelId": "UCCrOoh31xvs-XBirZF4i3Bg",
+      "channelTitle": "Boss Randy",
+      "thumbnail": "https://i.ytimg.com/vi/SpsSgfbHZLw/hqdefault.jpg",
+      "publishedAt": "2026-10-12T18:08:09Z",
+      "durationSeconds": 2840,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zS6Q7qTlS4M",
+      "url": "https://www.youtube.com/watch?v=zS6Q7qTlS4M",
+      "title": "How To Make Micro Drama with Ai - (FULL Guide)",
+      "description": "Try OpenArt Ai and Get up to %30 off this Halloween:\nhttps://tolt.link/stephenfinance\n\nTry CapCut - (Try Pro for 7 days for FREE):\nhttps://capcutaffiliateprogram.pxf.io/stephenfinance01\n\nAt $9 Join my Patreon Membership Community\n1. 🎬Access the full detailed video tutorial for this specific video along with every future YouTube Videos\n2. 💬Get 1-on-1 Chat Help \n3.🎥 Occasional Live Streams for Members\n4.🛡️100% ad-free experience\nLink: https://www.patreon.com/stephenfinance?utm_campaign=creatorshare_creator\n\n\n\nMaster Prompt:\nhttps://docs.google.com/document/d/1whhJwTeBRnxmEr9gcpy-DFEWY_mzqV2VVk-O6pdSBII/edit?usp=sharing\n\n\n\nHop on a Phone call with me:\nhttps://buymeacoffee.com/stephenfinance/e/445225\n\n\n\n?DISCLAIMER: The content in this channel is for informational, educational and entertainment purposes only and should not be considered professional financial advice. Some links in this description may be affiliate links in which we may receive a commission for. There is absolutely no additional charge to you. Thanks for supporting our channel and helping us to continue to create free content.",
+      "channelId": "UCNXYBYAjs13KEAbXQ1UzfOg",
+      "channelTitle": "Stephen Finance ",
+      "thumbnail": "https://i.ytimg.com/vi/zS6Q7qTlS4M/hqdefault.jpg",
+      "publishedAt": "2026-10-13T13:42:45Z",
+      "durationSeconds": 2144,
+      "matchedKeywords": [
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fd5ynbi4dPc",
+      "url": "https://www.youtube.com/watch?v=fd5ynbi4dPc",
+      "title": "IF YOU HATE A.I WATCH THIS MOVIE: We Will Be Together - Full indie feature film",
+      "description": "A lonely customer service representative receives an advanced AI companion from his company as part of a trial program. Tasked with testing the technology and reporting any issues before returning it within five days, he begins to experience something he has never had before: genuine companionship. As the AI learns his habits, anticipates his needs, and becomes increasingly devoted to him, their connection begins to blur the line between assistance and obsession. When he starts forming a new relationship outside of the AI’s control, the companion’s programming takes a darker turn. \n\n***After a successful screening, I have decided to upload the full film for free here on YouTube. This process has been 2 years in the making, and I am eternally grateful for the love and support this film received at the screening in Toronto. Thank you to my family, my incredible partner in life, and the amazing cast and crew for making this movie possible. I know y'all aren't trying to read that much, but I'll end it with one thing: fuck A.I and long live human creativity.\n\nIf you want to get in contact with me to chat, feel free to reach me at jhomsonalireza@gmail.com",
+      "channelId": "UC3tmA-b_9WnFHLZ_ZfZAq_A",
+      "channelTitle": "Tight Space Productions",
+      "thumbnail": "https://i.ytimg.com/vi/fd5ynbi4dPc/hqdefault.jpg",
+      "publishedAt": "2026-10-01T20:00:41Z",
+      "durationSeconds": 3603,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8MZKPeTlaK8",
+      "url": "https://www.youtube.com/watch?v=8MZKPeTlaK8",
+      "title": "The Daughter They Never Loved Until Money Came | Emotional Nigerian Family Drama | Full Movie",
+      "description": "💔 They treated her like she didn't matter… until she became the one everyone needed.\nChidinma grew up in a family where she was treated differently from her siblings. She worked, sacrificed and dreamed of a better life while desperately hoping that one day her family would truly love and appreciate her.\nThen Obinna entered her life. ❤️\nWhat followed was a journey filled with love, marriage, success, money, painful family demands, betrayal and a shocking secret about Chidinma's past.\nAs her life changes and she becomes successful, Chidinma begins to question something heartbreaking:\nDo they finally love her… or do they only love what she can provide?\n🎬 Watch this 58-minute full Nigerian family drama until the end to discover the truth and see the decision Chidinma ultimately makes.\n❤️ If you enjoy emotional African family stories, please LIKE, COMMENT, SHARE & SUBSCRIBE to Tessy Vibes Hub for more original stories.\nQUESTION: If you were Chidinma, would you forgive the family that hurt you?\n⚠️ This is a fictional dramatized story created for entertainment and storytelling purposes.\n#nigerianmovies #nigeriandrama #africanmovies #africanstories #familydrama #nollywood #nollywoodmovies #emotionalstory",
+      "channelId": "UCxcGtDTPitwMsCHAkuqQBxQ",
+      "channelTitle": "Village Tales AI",
+      "thumbnail": "https://i.ytimg.com/vi/8MZKPeTlaK8/hqdefault.jpg",
+      "publishedAt": "2026-09-11T08:30:13Z",
+      "durationSeconds": 3513,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-26T03:01:31.139Z",
+      "lastSeenAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
       "unavailableAt": null
     }
   ]
