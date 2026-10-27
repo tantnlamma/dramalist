@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:01:37.007Z",
+  "generatedAt": "2026-10-27T03:33:42.284Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -51,11 +51,11 @@
       "matchedKeywords": [
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-18T02:52:36.184Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "unavailableAt": "2026-10-27T03:33:42.284Z"
     },
     {
       "videoId": "NhdRwP0Qvuw",
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -538,7 +538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -558,7 +558,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -748,7 +748,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1110,7 +1110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1129,7 +1129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1138,7 +1138,7 @@
       "title": "Dragon mother full movie hindi dubbed | she gave birth to a dragon and then...",
       "description": "Dragon mother full movie hindi dubbed | she gave birth to a dragon and then...\n\n\n\nShe’d Burn a Kingdom to Save Her Dragon Children 🔥 | THE DRAGON MOTHER 🐉\n\n🔥 *SHE’D BURN A KINGDOM TO SAVE HER DRAGON CHILDREN.*\n\n*THE DRAGON MOTHER: FLAMES OF ETERNITY* is an epic cinematic dark fantasy film about a mother, three legendary dragons, an icy tyrant, and an ancient power that was never meant to awaken.\n\nWhen Elara Veyne discovers that her destiny is bound to the First Flame, she must protect her three dragon children — Ignaris, Aurelia, and Vesper — from Lord Malrec Vorthane, a ruthless ruler determined to control the power of dragons.\n\nAs an ancient secret emerges beneath a war-torn fortress, fire and ice collide in a battle that will change their world forever. But when a mother loses everything she loves, one question remains:\n\n*HOW FAR WOULD YOU GO TO SAVE YOUR CHILDREN?*\n\n🐉 *ENTER A WORLD OF FIRE, ICE, AND ANCIENT DRAGONS*\n\nExperience a cinematic fantasy adventure featuring:\n\n🔥 Three extraordinary dragons with unique abilities  \n❄️ An ancient Heart of Ice and a kingdom consumed by war  \n⚔️ Epic medieval battles, siege warfare, and collapsing fortresses  \n❤️ A powerful story of motherhood, sacrifice, courage, and family  \n🌑 A mysterious ancient presence hidden beneath the ruins  \n✨ A dramatic finale that opens the door to a greater legend  \n\n\nWhich dragon is your favorite — Ignaris, Aurelia, or Vesper?\n\nAnd if you were Elara, would you risk everything to save your missing child? Tell us your answer in the comments.\n\n👍 Like the film if you love epic fantasy, dragons, emotional adventures, and cinematic storytelling. Subscribe for more original fantasy worlds, legendary creatures, and AI-assisted cinematic productions.\n\n⚠️ This is an original fictional fantasy production. Any resemblance to actual persons or events is coincidental.\n\n#TheDragonMother​ #DragonMovie​ #FantasyMovie​ #AivoraFilms​\n\nAivora Films, The Dragon Mother, The Dragon Mother Flames of Eternity, dragon movie, dragon fantasy movie, fantasy movie, epic fantasy film, dark fantasy movie, dragon film, dragons, dragon mother, AI fantasy film, cinematic fantasy, medieval fantasy, dragon battle, fire and ice, mother and dragons, epic dragon battle, fantasy adventure, original fantasy movie, Ignaris, Aurelia, Vesper, Elara Veyne, First Dragon King, full fantasy movie, 4K fantasy film, cinematic AI movie",
       "channelId": "UCFiAFKL6K8Xz24LGBmuNxzg",
-      "channelTitle": "Movies 01",
+      "channelTitle": "Movies & Drama  01",
       "thumbnail": "https://i.ytimg.com/vi/aNAAccEhIjk/hqdefault.jpg",
       "publishedAt": "2026-10-13T14:05:26Z",
       "durationSeconds": 4029,
@@ -1168,7 +1168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1206,7 +1206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-25T03:02:35.702Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1244,7 +1244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1282,7 +1282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1301,7 +1301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1320,7 +1320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     },
     {
@@ -1340,6 +1340,82 @@
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
       "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2B2zTkHmDHw",
+      "url": "https://www.youtube.com/watch?v=2B2zTkHmDHw",
+      "title": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥",
+      "description": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥\n\n\nThe Mermaid \nThe Mermaid Love Story\njalpari love story",
+      "channelId": "UCVpZvCzbjskqR952NyYkjbg",
+      "channelTitle": "Mr Akram",
+      "thumbnail": "https://i.ytimg.com/vi/2B2zTkHmDHw/hqdefault.jpg",
+      "publishedAt": "2026-10-26T14:02:09Z",
+      "durationSeconds": 2665,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:42.284Z",
+      "lastSeenAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JpngggzKmbo",
+      "url": "https://www.youtube.com/watch?v=JpngggzKmbo",
+      "title": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie",
+      "description": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie\n\n🤖⚡ **AI ने भगवान को Challenge किया** — जब इंसान की बनाई हुई AI अपनी intelligence की सारी सीमाएँ पार कर देती है, तब वह सीधे भगवान को चुनौती दे देती है!\n\nक्या AI सच में भगवान से ज्यादा शक्तिशाली हो सकती है?\nक्या इंसान technology पर इतना भरोसा कर सकता है कि वह ईश्वर को ही चुनौती दे दे?\n\nदेखिए एक ऐसी **cinematic Hindi sci-fi movie** जिसमें Artificial Intelligence, इंसानी ambition और divine power के बीच एक जबरदस्त टकराव देखने को मिलेगा। 🔥\n\n🎬 **Movie:** AI ने भगवान को Challenge किया\n🤖 **Genre:** Sci-Fi | Thriller | Fantasy | Drama\n🇮🇳 **Language:** Hindi\n🎥 **Quality:** 4K Cinematic\n⚡ **Concept:** AI vs Bhagwan\n\nअगर आपको **AI movies, futuristic stories, sci-fi movies, Indian fantasy movies और cinematic stories** पसंद हैं, तो यह movie आपके लिए है।\n\n👍 Like करें\n💬 Comment में बताएं — **क्या AI कभी भगवान को challenge कर सकती है?**\n🔔 ऐसी cinematic AI movies के लिए Channel को Subscribe करें।\n\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie #HindiMovie #SciFiMovie #IndianSciFi #SciFiFilm #AIFilm #FutureTechnology #ArtificialIntelligence #Bhagwan #CinematicMovie #4KMovie #HindiSciFi #AIStory #ViralMovie #NewMovie #FantasyMovie #ThrillerMovie #AIvsGod\nAI ne bhagwan ko challenge kiya\nAI vs bhagwan\nAI vs God\nAI movie\nAI movie hindi\nHindi sci fi movie\nHindi sci fi film\nIndian sci fi movie\nIndian AI movie\nartificial intelligence movie\nAI story\nAI film\nfuturistic movie\nfuture technology\nAI vs human\ntechnology vs God\nbhagwan movie\nHindi fantasy movie\nsci fi thriller\nviral AI movie\nnew movie\nnew Hindi movie\nnew sci fi movie\n4K movie\ncinematic movie\nAI challenge\nAI vs God movie\nfull movie hindi\nIndian futuristic movie\nviral movie\nnew movie 2026\nAI technology\nfuture world\nsci fi movie\nscience fiction movie\nAI story hindi",
+      "channelId": "UCWWfW94v6ORa7RYU_tTvjzg",
+      "channelTitle": "Power Vikram",
+      "thumbnail": "https://i.ytimg.com/vi/JpngggzKmbo/hqdefault.jpg",
+      "publishedAt": "2026-10-09T13:30:28Z",
+      "durationSeconds": 1836,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:42.284Z",
+      "lastSeenAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lI4ZGDoIXmw",
+      "url": "https://www.youtube.com/watch?v=lI4ZGDoIXmw",
+      "title": "Hazrat Sulaiman AS Full Story in Urdu  Islamic AI Movie  Miracles of Prophet Solomon  Mrashiqaliai",
+      "description": "Hazrat Sulaiman AS Full Story in Urdu | Islamic AI Movie | Miracles of Prophet Solomon | Mrashiqaliai\n\nDiscover the amazing story of Hazrat Sulaiman (AS), Prophet Solomon, in this cinematic Islamic AI Movie presented by Mrashiqaliai.\n\nThis AI-generated Islamic movie explores the inspiring story of Prophet Sulaiman (AS), his wisdom, his kingdom, the miracles granted to him by Allah, his understanding of animals and birds, and the famous story of the Queen of Sheba (Bilqis), as described in the Holy Quran.\n\nExperience a powerful Islamic historical story brought to life through AI movie creation, cinematic visuals, storytelling, and an immersive atmosphere. This video is created for educational, historical, and storytelling purposes, with respect for Islamic teachings.\n\n🎬 Movie Topics: Hindi movies \n\n- Hazrat Sulaiman AS Full Story\n- Prophet Solomon Islamic Story\n- Hazrat Sulaiman AS Miracles\n- Prophet Sulaiman and the Queen of Sheba\n- Bilqis and Prophet Sulaiman AS\n- Hazrat Sulaiman AS and the Kingdom\n- Islamic History and Quranic Stories\n- Islamic AI Movie in Urdu\n- AI Generated Historical Movie\n- Prophet Stories in Urdu\n- Islamic Cinematic Storytelling\n- Artificial Intelligence Movie Creation\n\nIf you enjoy Islamic stories, AI-generated movies, historical films, and Quranic storytelling, subscribe to Mrashiqaliai for more AI movies, inspiring stories, and cinematic creations.\n\n👍 Like the video, share it with others, and subscribe to Mrashiqaliai for more content.\n\nDisclaimer: This is an AI-generated cinematic interpretation of a religious and historical story. AI-generated scenes may be artistic representations and should not be treated as exact historical records. Please refer to the Holy Quran and authentic Islamic sources for religious details.\nHazrat Sulaiman AS, Hazrat Sulaiman story, Prophet Sulaiman, Prophet Solomon, Hazrat Suleman AS, Suleman Alaihissalam, Sulaiman AS full story, Hazrat Sulaiman movie, Islamic AI movie, AI movie Urdu, Islamic movie, Islamic stories in Urdu, Quran stories, stories of prophets, Prophet stories, Hazrat Sulaiman miracles, Queen of Sheba, Queen Bilqis, Bilqis story, Islamic history, Islamic historical movie, AI generated movie, AI cinematic movie, Urdu AI movie, Islamic documentary, historical AI film, Solomon story, Muslim history, Mrashiqaliai, Mrashiq Ali AI, AI film\n#HazratSulaiman #ProphetSulaiman #IslamicMovie #AIMovie #Mrashiqaliai #IslamicHistory #ProphetSolomon #QuranStories #IslamicStories #AIHistory #UrduMovie #IslamicAI #QueenOfSheba #Bilqis #AIGeneratedMovie",
+      "channelId": "UC3qxcQJmqL08gVperX9f4QQ",
+      "channelTitle": "Mr Ashiq Ali Ai",
+      "thumbnail": "https://i.ytimg.com/vi/lI4ZGDoIXmw/hqdefault.jpg",
+      "publishedAt": "2026-10-20T05:15:54Z",
+      "durationSeconds": 7461,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:42.284Z",
+      "lastSeenAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tufei3aPM6o",
+      "url": "https://www.youtube.com/watch?v=tufei3aPM6o",
+      "title": " | Ring Ka Raja | Korean Drama in Hindi | Romantic Korean Drama | Hindi Dubbed",
+      "description": "रिंग का राजा 👑💍 — एक ऐसी Korean Drama कहानी जिसमें प्यार, किस्मत, रिश्ते और रहस्य का शानदार मेल देखने को मिलेगा। ❤️‍🔥\n\nअगर आपको Korean Drama in Hindi, Romantic Korean Drama और Hindi Dubbed Drama पसंद हैं, तो यह कहानी आपको जरूर पसंद आएगी।\n\nवीडियो पसंद आए तो Like 👍 | Share 🔄 | Subscribe 🔔 जरूर करें और ऐसे ही Korean Drama की नई कहानियों के लिए हमारे चैनल से जुड़े रहें।\n\n\nAI responses may include mistakes.",
+      "channelId": "UCmb6oie1AM5j1jcMyyM32kQ",
+      "channelTitle": "Mind Fresh produxtions",
+      "thumbnail": "https://i.ytimg.com/vi/tufei3aPM6o/hqdefault.jpg",
+      "publishedAt": "2026-09-21T14:38:15Z",
+      "durationSeconds": 4636,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:42.284Z",
+      "lastSeenAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
       "unavailableAt": null
     }
   ]

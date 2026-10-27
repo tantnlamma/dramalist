@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:01:31.139Z",
+  "generatedAt": "2026-10-27T03:33:36.755Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -50,11 +50,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "unavailableAt": "2026-10-27T03:33:36.755Z"
     },
     {
       "videoId": "NhdRwP0Qvuw",
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -790,7 +790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -809,7 +809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -829,7 +829,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -849,7 +849,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -887,7 +887,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1040,7 +1040,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1059,7 +1059,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1192,7 +1192,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1268,7 +1268,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1308,7 +1308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1346,7 +1346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1384,7 +1384,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1403,7 +1403,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1574,7 +1574,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1600,7 +1600,7 @@
       "videoId": "Ae-W3iqKz-I",
       "url": "https://www.youtube.com/watch?v=Ae-W3iqKz-I",
       "title": "YOUNG BILLIONAIRE PRETENDS TO BE A BEGGAR TO FIND A WIFE - THEN THIS HAPPENED",
-      "description": "David, heir to the Peterside oil empire, begs at a Diobu junction to find a woman who will choose him without his surname. Nengi Briggs, the woman his father's partner has promised him to, humiliates him in mud at a mall. Amaka, a rice seller, kneels beside him with her towel. Nengi discovers who he is and keeps it secret. A demolition notice lands on Amaka's stall and her brother Kelechi is sent home for fees. David reaches for his phone and Amaka stops him: \"I do not take what I did not sweat for.\"\n\nYoung Billionaire Pretends To Be A Beggar To Find A Wife - Then This Happened\n\nAi movies, ai full movies, latest Nigerian movies, latest Nollywood movies 2026, ai movie, ai Nigerian movies, latest Nigerian movie 2026\n\n#aimovie #aifilm #nollywoodmovie #aivideo #nollywooddrama",
+      "description": "​📌 STAND WITH ME & GET MY NEW STORY BOOK (PDF/EPUB) HERE:\n👉 https://donsol.gumroad.com/l/Latwwk\n\n\nDavid, heir to the Peterside oil empire, begs at a Diobu junction to find a woman who will choose him without his surname. Nengi Briggs, the woman his father's partner has promised him to, humiliates him in mud at a mall. Amaka, a rice seller, kneels beside him with her towel. Nengi discovers who he is and keeps it secret. A demolition notice lands on Amaka's stall and her brother Kelechi is sent home for fees. David reaches for his phone and Amaka stops him: \"I do not take what I did not sweat for.\"\n\nYoung Billionaire Pretends To Be A Beggar To Find A Wife - Then This Happened\n\nAi movies, ai full movies, latest Nigerian movies, latest Nollywood movies 2026, ai movie, ai Nigerian movies, latest Nigerian movie 2026\n\n#aimovie #aifilm #nollywoodmovie #aivideo #nollywooddrama",
       "channelId": "UCfCow8tAuM3Atf5Zp3vvYIA",
       "channelTitle": "TIMELESS TALES TV ",
       "thumbnail": "https://i.ytimg.com/vi/Ae-W3iqKz-I/hqdefault.jpg",
@@ -1612,7 +1612,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1689,7 +1689,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1784,7 +1784,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1899,7 +1899,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -1937,7 +1937,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2185,7 +2185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2299,7 +2299,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2356,7 +2356,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2394,7 +2394,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2432,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2508,7 +2508,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2528,7 +2528,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2544,11 +2544,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "unavailableAt": "2026-10-27T03:33:36.755Z"
     },
     {
       "videoId": "j0UMwimtnqo",
@@ -2566,7 +2566,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2623,14 +2623,14 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
       "videoId": "rnUN70QzMUA",
       "url": "https://www.youtube.com/watch?v=rnUN70QzMUA",
       "title": "Bijou & the AI Kids – The Full Movie | Volume 1: The Portal to Tomorrow | Animated Kids Adventure",
-      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n📚 The Bijou & the AI Kids comic books are coming soon to Amazon Kindle and paperback.\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
+      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n📖 Get the book (paperback graphic novel): https://www.amazon.com/dp/B0HPC1HJZY\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
       "channelId": "UCGr1lQdPbxuEaAHRDzHT8Fw",
       "channelTitle": "Bijou & the AI Kids",
       "thumbnail": "https://i.ytimg.com/vi/rnUN70QzMUA/hqdefault.jpg",
@@ -2642,7 +2642,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2661,7 +2661,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2681,7 +2681,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     },
     {
@@ -2720,6 +2720,64 @@
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
       "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-IyW9vwiAkE",
+      "url": "https://www.youtube.com/watch?v=-IyW9vwiAkE",
+      "title": "THE GLASS SEA (2026) | Full AI Fantasy Movie",
+      "description": "THE GLASS SEA — When The Ocean Turned To Stone\n\nOne night, the Veyra Sea turned to glass. A disgraced tide-priestess and a deserting captain must drag a boat across the silent glass desert to relight the Heart of the Sea — before the Ashen Empire's fleet crushes the last free harbor.\n\nAn AI-generated dark epic fantasy film from AI Film Lab. 65 minutes. 390 shots. One unbroken story.\n\nCHAPTERS\n00:00 Cold Open — The Sea Turns to Glass\n03:00 Chaos at Serath Harbor\n07:00 The Lockdown\n15:00 Act II — Descent to the Heart Chamber\n22:30 The Glass Storm and the Truth\n30:00 The Heat-Siphon Roots\n37:30 The Capture\n45:00 Act III — Beneath the Glass: The Keeper\n52:00 Sera Faces Voss\n58:00 The Water Returns\n63:00 Dawn — The Sea Remembers\n\n\"The sea remembers.\"\n\n#TheGlassSea #AIFilm #DarkFantasy #EpicFantasy #AIFilmmaking #FullMovie",
+      "channelId": "UC6xDDA_r0JDBld7z8aN0v7Q",
+      "channelTitle": "AI Film Lab",
+      "thumbnail": "https://i.ytimg.com/vi/-IyW9vwiAkE/hqdefault.jpg",
+      "publishedAt": "2026-10-25T06:51:40Z",
+      "durationSeconds": 3901,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:36.755Z",
+      "lastSeenAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "V6Gd2o0DcyI",
+      "url": "https://www.youtube.com/watch?v=V6Gd2o0DcyI",
+      "title": "AI Unleashes Tornadoes Across Britain ... | Full Sci-Fi Action Movie",
+      "description": "When AI-induced tornadoes ravage the UK, a storm-chasing couple races to stop the devastation as mercenaries move to steal the technology behind it. Mega Twister delivers a full-length sci-fi disaster thriller where extreme weather and dangerous ambition collide.\n\n#movie #freemovie #fullmovie #action #scifi",
+      "channelId": "UCiNGM5xDYwE_hc1DHmCmh1A",
+      "channelTitle": "Cinema Base — Backyard",
+      "thumbnail": "https://i.ytimg.com/vi/V6Gd2o0DcyI/hqdefault.jpg",
+      "publishedAt": "2026-10-20T19:52:53Z",
+      "durationSeconds": 4529,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:36.755Z",
+      "lastSeenAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JpngggzKmbo",
+      "url": "https://www.youtube.com/watch?v=JpngggzKmbo",
+      "title": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie",
+      "description": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie\n\n🤖⚡ **AI ने भगवान को Challenge किया** — जब इंसान की बनाई हुई AI अपनी intelligence की सारी सीमाएँ पार कर देती है, तब वह सीधे भगवान को चुनौती दे देती है!\n\nक्या AI सच में भगवान से ज्यादा शक्तिशाली हो सकती है?\nक्या इंसान technology पर इतना भरोसा कर सकता है कि वह ईश्वर को ही चुनौती दे दे?\n\nदेखिए एक ऐसी **cinematic Hindi sci-fi movie** जिसमें Artificial Intelligence, इंसानी ambition और divine power के बीच एक जबरदस्त टकराव देखने को मिलेगा। 🔥\n\n🎬 **Movie:** AI ने भगवान को Challenge किया\n🤖 **Genre:** Sci-Fi | Thriller | Fantasy | Drama\n🇮🇳 **Language:** Hindi\n🎥 **Quality:** 4K Cinematic\n⚡ **Concept:** AI vs Bhagwan\n\nअगर आपको **AI movies, futuristic stories, sci-fi movies, Indian fantasy movies और cinematic stories** पसंद हैं, तो यह movie आपके लिए है।\n\n👍 Like करें\n💬 Comment में बताएं — **क्या AI कभी भगवान को challenge कर सकती है?**\n🔔 ऐसी cinematic AI movies के लिए Channel को Subscribe करें।\n\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie #HindiMovie #SciFiMovie #IndianSciFi #SciFiFilm #AIFilm #FutureTechnology #ArtificialIntelligence #Bhagwan #CinematicMovie #4KMovie #HindiSciFi #AIStory #ViralMovie #NewMovie #FantasyMovie #ThrillerMovie #AIvsGod\nAI ne bhagwan ko challenge kiya\nAI vs bhagwan\nAI vs God\nAI movie\nAI movie hindi\nHindi sci fi movie\nHindi sci fi film\nIndian sci fi movie\nIndian AI movie\nartificial intelligence movie\nAI story\nAI film\nfuturistic movie\nfuture technology\nAI vs human\ntechnology vs God\nbhagwan movie\nHindi fantasy movie\nsci fi thriller\nviral AI movie\nnew movie\nnew Hindi movie\nnew sci fi movie\n4K movie\ncinematic movie\nAI challenge\nAI vs God movie\nfull movie hindi\nIndian futuristic movie\nviral movie\nnew movie 2026\nAI technology\nfuture world\nsci fi movie\nscience fiction movie\nAI story hindi",
+      "channelId": "UCWWfW94v6ORa7RYU_tTvjzg",
+      "channelTitle": "Power Vikram",
+      "thumbnail": "https://i.ytimg.com/vi/JpngggzKmbo/hqdefault.jpg",
+      "publishedAt": "2026-10-09T13:30:28Z",
+      "durationSeconds": 1836,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:36.755Z",
+      "lastSeenAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:01:45.742Z",
+  "generatedAt": "2026-10-27T03:33:49.966Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -69,13 +69,14 @@
       "publishedAt": "2026-10-10T00:45:15Z",
       "durationSeconds": 5918,
       "matchedKeywords": [
+        "AI ドラマ 映画",
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -95,7 +96,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -115,7 +116,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -194,7 +195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -214,7 +215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -234,7 +235,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -253,7 +254,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -272,7 +273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -291,7 +292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -310,7 +311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -330,7 +331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -426,7 +427,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -485,7 +486,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -504,7 +505,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -524,7 +525,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -620,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -698,7 +699,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -755,7 +756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -774,7 +775,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -793,7 +794,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -813,7 +814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -833,7 +834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -853,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -872,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -891,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -910,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     },
     {
@@ -929,7 +930,64 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-26T03:01:45.742Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i2cdf3hl4OA",
+      "url": "https://www.youtube.com/watch?v=i2cdf3hl4OA",
+      "title": "Telur Naga Tertinggi Di Tangannya Full Movie Drama AI",
+      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Supreme Dragon Egg in His Hand - Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
+      "channelId": "UCZyg67AK1lbTkwN3otFitsw",
+      "channelTitle": "Reynold Bronson Official",
+      "thumbnail": "https://i.ytimg.com/vi/i2cdf3hl4OA/hqdefault.jpg",
+      "publishedAt": "2026-10-20T05:33:03Z",
+      "durationSeconds": 2859,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:49.966Z",
+      "lastSeenAt": "2026-10-27T03:33:49.966Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Sqaa4_33Ado",
+      "url": "https://www.youtube.com/watch?v=Sqaa4_33Ado",
+      "title": "The Mother’s Monster | Full Fantasy Movie 4K | Ai Movie",
+      "description": "The Mother’s Monster | Full Fantasy Movie 4K | Pakistani AI Movie 🐉🔥\n\nEnter a mysterious fantasy world where powerful creatures, hidden secrets, and unexpected dangers come together in The Mother’s Monster! 🌑🐲\n\nThis Pakistani AI fantasy movie takes you on a cinematic adventure filled with mystery, emotion, suspense, and extraordinary creatures. As the story unfolds, unexpected events challenge the characters and reveal a world where nothing is quite as it seems.\n\n🐉 WHAT TO EXPECT\n\nAn original fantasy adventure created with AI\n\nMysterious monsters and extraordinary creatures\n\nSuspenseful moments and unexpected twists\n\nCinematic fantasy visuals in 4K\n\nAn imaginative story full of mystery and adventure\n\n🎥 Watch the full movie and immerse yourself in this unique Pakistani AI fantasy experience!\n\nIf you enjoy AI-generated movies, fantasy adventures, monster stories, and cinematic storytelling, LIKE 👍, COMMENT 💬, and SUBSCRIBE 🔔 for more exciting AI movies.\n\n💬 Question for viewers: What would you do if you came face-to-face with the Mother’s Monster?\n\n#TheMothersMonster #PakistaniAIMovie #AIMovie #FantasyMovie #MonsterMovie #AIFilm #FantasyAdventure #4KMovie #PakistaniMovie #CinematicStory",
+      "channelId": "UC1QLokN7h9iLDs8rzvKztGw",
+      "channelTitle": "Bold Dossier",
+      "thumbnail": "https://i.ytimg.com/vi/Sqaa4_33Ado/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:36:45Z",
+      "durationSeconds": 3449,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:49.966Z",
+      "lastSeenAt": "2026-10-27T03:33:49.966Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PSZSO7FL8Bw",
+      "url": "https://www.youtube.com/watch?v=PSZSO7FL8Bw",
+      "title": "💘吹き替え💘 ホワイト・プリンセス | First Daughter (恋愛, 洋画, ラブコメ, 青春, コメディ, 無料フル)",
+      "description": "💕 忙しい日々に、ほっとひと息。映画で心を満たしませんか？https://bit.ly/TokimekiSUB\n🌼 大統領の娘だって普通の恋がしたい――自由を夢見る女子大生と秘密を抱えた青年の恋を描く青春ラブコメディ。\n\nホワイト・プリンセス (2004)\n原題: First Daughter\n出演: Katie Holmes（ケイティ・ホームズ）Marc Blucas（マーク・ブルカス）Michael Keaton（マイケル・キートン）\n監督: Forest Whitaker（フォレスト・ウィテカー）\n年齢制限: PG\n\n概要: アメリカ大統領の一人娘サマンサは、常にシークレットサービスに囲まれる窮屈な生活から抜け出し、普通の女子大生として青春を楽しむことを夢見て大学へ進学する。そこで出会った魅力的な青年ジェームズと惹かれ合い、初めて自由な恋を知っていくサマンサ。しかし、彼には彼女に明かせない重大な秘密があった。恋、友情、大学生活、そして大統領の娘という逃れられない立場。ようやく手に入れた幸せは、ジェームズの正体を知った瞬間、大きく揺らぎ始める。\n\n#フルムービー #トキメキフィルム #映画フル\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC2h-o-QMib_ecaMWeuFWD5w",
+      "channelTitle": "Tokimeki Cinema | トキメキ・シネマ",
+      "thumbnail": "https://i.ytimg.com/vi/PSZSO7FL8Bw/hqdefault.jpg",
+      "publishedAt": "2026-10-24T01:00:05Z",
+      "durationSeconds": 6377,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:33:49.966Z",
+      "lastSeenAt": "2026-10-27T03:33:49.966Z",
+      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
       "unavailableAt": null
     }
   ]

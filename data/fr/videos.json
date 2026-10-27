@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:02:04.450Z",
+  "generatedAt": "2026-10-27T03:34:06.549Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -450,12 +450,13 @@
       "publishedAt": "2026-09-02T10:02:04Z",
       "durationSeconds": 6539,
       "matchedKeywords": [
+        "film complet intelligence artificielle",
         "film robot complet français"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -474,7 +475,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -493,7 +494,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -512,7 +513,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +532,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -550,7 +551,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -760,7 +761,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -779,7 +780,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -798,7 +799,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +857,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -876,7 +877,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -896,7 +897,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -972,7 +973,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-22T03:08:24.073Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1030,7 +1031,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1049,7 +1050,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1074,8 +1075,8 @@
     {
       "videoId": "zsNuin5hfEA",
       "url": "https://www.youtube.com/watch?v=zsNuin5hfEA",
-      "title": "Elle a su dompter le cœur de cet homme | Amour ancré (Saison 1 - Film complet)",
-      "description": "Amour ancré | Saison 1 (Intégrale) : Il pensait ne plus jamais aimer\n\nBlessé par son passé et convaincu de devoir fermer son cœur, Daryl Snip s'était juré de ne plus jamais aimer. Lorsque sa route croise celle de Tacha Forest, une femme guidée par sa foi et sa détermination à avancer malgré les épreuves, toutes ses certitudes vacillent. Au fil de leurs échanges, une complicité profonde et bouleversante s'installe, réveillant des espoirs qu'ils croyaient perdus à jamais. La sincérité de leurs sentiments suffira-t-elle à guérir les blessures d'autrefois et à leur offrir un nouveau départ ?\n\nDans cette vidéo : La puissance de la foi, la guérison intérieure, le pardon et la force d'un amour capable de restaurer ce qui semblait brisé.\n\n📺 Regarder la Saison 2 (Intégrale) : https://www.youtube.com/watch?v=HcWvZeUOizs\n\n🎬 COULISSES DE CRÉATION  \nÉcriture et scénario : Carole Logbo – fiction originale  \nRéalisation et direction artistique : Carole Logbo  \nIntrigue de cet épisode : Deux âmes marquées par les épreuves apprennent à faire confiance à nouveau et découvrent que l'amour peut renaître là où tout semblait éteint.  \nPersonnages : Daryl Snip, Tacha Forest.  \nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\nCarole Logbo – Le cinéma qui vous ressemble.  \nPour toute demande de partenariat : carolelogbopartenariat@gmail.com  \nAbonnez-vous et activez la cloche 🔔 pour ne manquer aucun épisode.\n\n#AmourAncré #CaroleLogboCinéma #FilmComplet #Romance",
+      "title": "Elle attendait un signe, il est arrivé | Amour ancré (Saison 1 - Film complet)",
+      "description": "Film complet en français · Fiction originale écrite et réalisée par Carole Logbo\nDaryl Snip s'était juré de ne plus jamais aimer. Blessé par son passé, il a fermé son cœur. Lorsque sa route croise celle de Tacha Forest, une femme guidée par sa foi et sa détermination à avancer malgré les épreuves, toutes ses certitudes vacillent. Une complicité profonde s'installe, réveillant des espoirs qu'ils croyaient perdus.\nLa sincérité de leurs sentiments suffira-t-elle à guérir les blessures d'autrefois ?\n🎬 CRÉATION\nÉcriture et scénario : Carole Logbo — fiction originale\nRéalisation et direction artistique : Carole Logbo\nPersonnages : Daryl Snip, Tacha Forest\nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\n📺 Voir la suite — Saison 2 (Film complet) : https://www.youtube.com/watch?v=HcWvZeUOizs\nCarole Logbo — Le cinéma qui vous ressemble.\nPartenariats : carolelogbopartenariat@gmail.com\nAbonnez-vous et activez la cloche 🔔\n#AmourAncré #FilmCompletEnFrançais #CaroleLogboCinéma #HistoireAfricaine #Romance",
       "channelId": "UCwAwT46iTY80pI0WuA8SyPA",
       "channelTitle": "Carole Logbo Cinéma",
       "thumbnail": "https://i.ytimg.com/vi/zsNuin5hfEA/hqdefault.jpg",
@@ -1106,7 +1107,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1115,7 +1116,7 @@
       "title": "TROIS FEMMES, UN DESTIN INATTENDU | FILM COMPLET",
       "description": "Nadia, Amara et Zara sont trois jeunes femmes qui ne se connaissent pas et qui mènent chacune une vie très différente. Un jour, leurs chemins se croisent à la suite d’une invitation inattendue qui va bouleverser leur existence.\nCe qui commence comme une incroyable opportunité va progressivement révéler des secrets liés à leurs familles, un héritage inattendu et une mission qui changera complètement leur vision de la réussite.\nEntre ambition, confiance, doutes, révélations et nouveaux départs, elles devront apprendre à avancer ensemble et à faire leurs propres choix.\n✨ Une histoire de drama nigérian, de réussite, de famille, de secrets et de transformation.\n💬 Quelle leçon retenez-vous de cette histoire ?\n👍 Si vous avez aimé le film, pensez à liker.\n🔔 Abonnez-vous à IA VISION DRAMA pour découvrir d’autres histoires.\n#FilmComplet #DramaNigérian #IAStory #IAVisonDrama #Histoire #FilmAfricain #Drama #NollywoodInspired",
       "channelId": "UCT-AyqKMevOEE7Vmtnu7Vgg",
-      "channelTitle": "    IA Drama Vision",
+      "channelTitle": "    IA  Vision Drama",
       "thumbnail": "https://i.ytimg.com/vi/M_c-IBoNd_A/hqdefault.jpg",
       "publishedAt": "2026-09-30T10:19:30Z",
       "durationSeconds": 1858,
@@ -1144,7 +1145,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1164,7 +1165,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1184,7 +1185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1222,7 +1223,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1241,7 +1242,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1279,7 +1280,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-25T03:03:02.619Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1298,7 +1299,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1318,7 +1319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1337,7 +1338,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1356,7 +1357,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1375,7 +1376,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1394,7 +1395,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
@@ -1413,14 +1414,14 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     },
     {
       "videoId": "HcWvZeUOizs",
       "url": "https://www.youtube.com/watch?v=HcWvZeUOizs",
-      "title": "Amour ancré | Saison 2 (Film complet) : Il ne peut plus se passer d'elle",
-      "description": "Amour ancré | Saison 2 (Intégrale) : Resteront-ils ensemble ?\n\nAlors que Daryl Snip et Tacha Forest tentent de bâtir leur avenir ensemble, les fantômes du passé refont surface. Entre le retour inattendu de Théo Kodjo, l'ex de Tacha, et la présence troublante d'Iris Castelle, l'ex de Daryl, les malentendus et la jalousie menacent leur équilibre. Face aux doutes et aux pièges tendus, leur amour et leur foi seront-ils assez forts pour résister à la tempête ?\n\nDans cette vidéo : La persévérance dans l'épreuve, la foi face aux doutes, la loyauté et le combat pour protéger son couple.\n\n📺 Regarder la Saison 3, Partie 1 : https://www.youtube.com/watch?v=NMANtA37z\\_8\n\n🎬 COULISSES DE CRÉATION  \nÉcriture et scénario : Carole Logbo – fiction originale  \nRéalisation et direction artistique : Carole Logbo  \nIntrigue de cet épisode : Confrontés au retour inattendu de leurs ex et aux doutes qui s'immiscent, Daryl et Tacha doivent se battre pour préserver leur amour.  \nPersonnages : Daryl Snip, Tacha Forest, Théo Kodjo, Iris Castelle.  \nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\nCarole Logbo – Le cinéma qui vous ressemble.  \nPour toute demande de partenariat : carolelogbopartenariat@gmail.com  \nAbonnez-vous et activez la cloche 🔔 pour ne manquer aucun épisode.\n\n#AmourAncré #CaroleLogboCinéma #SérieAfricaine #Romance #CinémaAfricain #FilmComplet",
+      "title": "Amour ancré | Saison 2 (Film complet) : L'ex de Daryl est revenue",
+      "description": "Film complet en français · Fiction originale écrite et réalisée par Carole Logbo\nDaryl et Tacha tentent de bâtir leur avenir ensemble, mais les fantômes du passé refont surface. Le retour de Théo Kodjo, l'ex de Tacha, et la présence troublante d'Iris Castelle, l'ex de Daryl, font naître malentendus et jalousie. Des pièges sont tendus.\nLeur amour et leur foi seront-ils assez forts pour résister à la tempête ?\n\n🎬 CRÉATION\nÉcriture et scénario : Carole Logbo — fiction originale\nRéalisation et direction artistique : Carole Logbo\nPersonnages : Daryl Snip, Tacha Forest, Théo Kodjo, Iris Castelle\nImages, voix et musiques créées avec des outils d'intelligence artificielle, sous ma direction, au service d'un scénario que j'ai écrit.\n\n📺 Saison 1 (Film complet) : https://www.youtube.com/watch?v=zsNuin5hfEA\n📺 Saison 3, Partie 1 : https://www.youtube.com/watch?v=NMANtA37z_8\n\nCarole Logbo — Le cinéma qui vous ressemble.\nPartenariats : carolelogbopartenariat@gmail.com\nAbonnez-vous et activez la cloche 🔔\n\n#AmourAncré #FilmCompletEnFrançais #CaroleLogboCinéma #HistoireAfricaine #Romance",
       "channelId": "UCwAwT46iTY80pI0WuA8SyPA",
       "channelTitle": "Carole Logbo Cinéma",
       "thumbnail": "https://i.ytimg.com/vi/HcWvZeUOizs/hqdefault.jpg",
@@ -1432,7 +1433,45 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-26T03:02:04.450Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i1WNDHSE0ig",
+      "url": "https://www.youtube.com/watch?v=i1WNDHSE0ig",
+      "title": "Sirop d'amour | Film Complet | Romance | Brooke Nevin & Carlos Marks | M6+ Films & Séries",
+      "description": "Rachelle se bat pour maintenir l'entreprise familiale réputée pour le sirop d'érable qu'elle produit. Mais les chiffres continuent de baisser et Rachelle fait appel au Dr Derek Spears, professeur d'arboriculture, pour soigner le verger et redresser l'affaire. L'urgence est grande car que le Festival du sirop d’érable approche. Ils mettent en commun leurs connaissances respectives et il s'avère que leur relation professionnelle pourrait bien connaître une conclusion plus douce...\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nSIROP D'AMOUR (SWEET AS MAPLE SYRUP)\nRéalisation : Caroline LABRÈCHE\nDistribution : Brooke Nevin, Carlo Marks, John McLaren, Angela Galuppo, Kareem Tristan Alleyne et Felicia Shulman\n© INCENDO MEDIA INC - 2021 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/i1WNDHSE0ig/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:00:22Z",
+      "durationSeconds": 5122,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:34:06.549Z",
+      "lastSeenAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "j7FTIUcqW7U",
+      "url": "https://www.youtube.com/watch?v=j7FTIUcqW7U",
+      "title": "Shark Bay | Film Complet | Thriller | OF",
+      "description": "Après une nuit de fête sur les plages du Mexique, un groupe d’étudiants vole des jet-skis et s’aventure en pleine mer. Une violente collision les laisse immobilisés à plusieurs kilomètres de la côte, avec l’un des leurs grièvement blessé. Attiré par le sang, un redoutable prédateur rôde sous la surface et transforme leur retour en une lutte désespérée pour survivre.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de James Nunn\nAvec Holly Earl, Jack Trueman, Catherine Hannay\n© Originals Factory - Tous droits réservés\n\n#filmcomplet #filmrequin #survie #thriller #horreur #ocean #sharkmovie #filmcompletenfrançais #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/j7FTIUcqW7U/hqdefault.jpg",
+      "publishedAt": "2026-10-26T17:00:31Z",
+      "durationSeconds": 5005,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-27T03:34:06.549Z",
+      "lastSeenAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
       "unavailableAt": null
     }
   ]
