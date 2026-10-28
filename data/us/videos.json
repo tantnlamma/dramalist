@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:33:36.755Z",
+  "generatedAt": "2026-10-28T03:50:01.095Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -790,7 +790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -809,7 +809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -829,7 +829,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -849,7 +849,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -887,7 +887,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "title": "IRONHOLD — Full Movie | Action Thriller 2026 (No Way Out) | Hollywood AI",
       "description": "🔒 Trapped in the prison no one escapes from… one man plans the impossible.\n\nElias Kane was framed and thrown into Ironhold — a maximum-security fortress run by the ruthless Warden Voss. With the help of Mara and Drake, Kane risks everything on one night, one storm, one escape. If he fails, he dies inside. Would YOU take the chance? Comment YES or NO 👇\n\n🎬 IRONHOLD is a full-length AI-generated action feature film (1h 12m) from Rever AI Films.\n\n⏱ CHAPTERS\n00:00 Intro\n00:20 The Prison\n12:00 The Plan\n24:00 No Way Out\n36:00 The Riot\n48:00 The Escape\n60:00 Freedom or Death\n\n👍 LIKE if Kane should escape\n💬 COMMENT YES or NO — would you survive Ironhold?\n🔔 SUBSCRIBE for a new AI movie every week\n\nStarring: Elias Kane • Warden Voss • Mara • Drake\nAn AI Action Film by Rever AI Films\n\nThis film was created with AI-generated visuals, voices and music.\n\n#Ironhold #FullMovie #AIMovie #hollywood #2026movies #2025 #watch",
       "channelId": "UCIa6ui3SHCtD9AJNhRwHzRA",
-      "channelTitle": "Travel with Lioness",
+      "channelTitle": "Travel with Lioness • 6.3M Views • 7 Day ago",
       "thumbnail": "https://i.ytimg.com/vi/X3jg9JO1bwA/hqdefault.jpg",
       "publishedAt": "2026-10-06T13:46:26Z",
       "durationSeconds": 4341,
@@ -1001,7 +1001,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1059,7 +1059,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1192,7 +1192,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1268,7 +1268,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1308,7 +1308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1346,7 +1346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1384,7 +1384,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1403,7 +1403,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1612,7 +1612,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1689,7 +1689,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1784,14 +1784,14 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
       "videoId": "Fh13zUTDHpY",
       "url": "https://www.youtube.com/watch?v=Fh13zUTDHpY",
-      "title": "THE LAST SIGNAL 2 | Sci-Fi Mystery Thriller |Full Movie #uk #usa #india #pakistan #viral #viralvideo",
-      "description": "Welcome to Durrani Films 🎬 | Where Every Story Comes to Life ❤️\n\nDurrani Films is a cinematic entertainment channel dedicated to bringing powerful stories, emotional dramas, AI movies, fantasy adventures, action-packed scenes, and unforgettable characters to life.\n\nFrom short cinematic stories to complete AI-generated movies, we create original entertainment designed to take you into a world of emotion, mystery, adventure, love, fantasy, and drama. 🌎✨\n\n🎥 What You’ll Find on Durrani Films:\n\nTHE LAST SIGNAL 🌊 | Sci-Fi Mystery Thriller | Full MovieA mysterious signal from the depths of the Atlantic Ocean. A team of scientists descends 4,000 meters to uncover its source — and discovers something that has been waiting for millions of years.Dr. Ethan Carter and Dr. Emily Reed must confront an ancient intelligence, a government cover-up spanning 26 years, and a choice that will decide humanity's fate.⏱️ Chapters:\nPart 1 — The Signal (0:00)\nPart 2 — The Descent (25:00)\nPart 3 — The Creature (50:00)\nPart 4 — The Last Choice (75:00)\n🎬 Produced by Durrani Films\n🌍 Made for US & UK audiences\n#TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie\n\n👉 Subscribe to Durrani Films and turn on 🔔 notifications so you never miss a new movie or Shorts!\n\nDurrani Films — Where Every Story Comes to Life. 🎬✨\n\n#DurraniFilms #AIMovies #AIFilms #CinematicStories #ShortFilms #Movies #Drama #Fantasy #ActionMovies #AIStorytelling #YouTubeShorts #ViralShorts #MovieLovers #Storytelling #Entertainment #TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie #ThrillerMovie #EnglishMovie #mustwatch",
+      "title": "The Signal Is Back — The Last Signal 2 (2026) | Full Sci-Fi Mystery Movie",
+      "description": "What if the signal from the deep was only the beginning? The Last Signal 2 returns to the mystery 4,000 meters down — where an ancient intelligence, a 26-year cover-up, and a choice that will decide humanity's fate are still waiting.\n\nWelcome to Durrani Films 🎬 | Where Every Story Comes to Life ❤️\n\nDurrani Films is a cinematic entertainment channel dedicated to bringing powerful stories, emotional dramas, AI movies, fantasy adventures, action-packed scenes, and unforgettable characters to life.\n\nFrom short cinematic stories to complete AI-generated movies, we create original entertainment designed to take you into a world of emotion, mystery, adventure, love, fantasy, and drama. 🌎✨\n\n🎥 What You'll Find on Durrani Films:\n\nTHE LAST SIGNAL 🌊 | Sci-Fi Mystery Thriller | Full Movie\nA mysterious signal from the depths of the Atlantic Ocean. A team of scientists descends 4,000 meters to uncover its source — and discovers something that has been waiting for millions of years. Dr. Ethan Carter and Dr. Emily Reed must confront an ancient intelligence, a government cover-up spanning 26 years, and a choice that will decide humanity's fate.\n\n⏱️ Chapters:\nPart 1 — The Signal (0:00)\nPart 2 — The Descent (25:00)\nPart 3 — The Creature (50:00)\nPart 4 — The Last Choice (75:00)\n\n🎬 Produced by Durrani Films\n🌍 Made for US & UK audiences\n\n👉 Subscribe to Durrani Films and turn on 🔔 notifications so you never miss a new movie or Shorts!\n\nDurrani Films — Where Every Story Comes to Life. 🎬✨\n\n© 2026 Durrani Films. All rights reserved.\n\n#TheLastSignal2 #TheLastSignal #SciFiMovie #MysteryThriller #FullMovie #DurraniFilms #SciFiThriller #AlienMovie #ThrillerMovie #EnglishMovie #SciFiMovie2026 #FullSciFiMovie #OceanMystery #AIMovie #AIMovies #AIFilms #CinematicStories #MovieLovers #Storytelling #Entertainment #mustwatch",
       "channelId": "UCprLBVgcLqejRlHsMvy_5YQ",
       "channelTitle": "Durrani Films",
       "thumbnail": "https://i.ytimg.com/vi/Fh13zUTDHpY/hqdefault.jpg",
@@ -1899,7 +1899,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -1937,7 +1937,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2185,7 +2185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2356,7 +2356,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2508,7 +2508,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2528,7 +2528,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2566,7 +2566,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2623,7 +2623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2642,7 +2642,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2661,7 +2661,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2681,7 +2681,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2739,7 +2739,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2758,7 +2758,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     },
     {
@@ -2777,7 +2777,102 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "GYno_Ol720k",
+      "url": "https://www.youtube.com/watch?v=GYno_Ol720k",
+      "title": "The Mother's Son of Dragon 2 | Full Fantasy AI Movie 2026 | Free Movie in English [4K] #4kvideo ",
+      "description": "The Mother's Son of Dragon Part 2 - Watch Free Full Fantasy AI Movie 2026\n\nAfter the fall of the Dragon Mother, her son must rise. A young half-dragon, half-human warrior discovers his true power and faces an ancient enemy that threatens both humans and dragons.\n\nWill he become the savior or the destroyer?\n\n🎬 Movie Details:\nMovie: The Mother's Son of Dragon - Part 2\nGenre: Fantasy / Action / Adventure / Drama\nYear: 2026\nQuality: 4K Ultra HD\nLanguage: English\nType: AI Generated Movie | AI Fantasy Film\n\nThis is a fully AI-generated movie. All characters, story, and visuals are created using Artificial Intelligence for entertainment.\n\n🔔 Subscribe for Part 3: [Apna Channel Link Yaha Dal Do]\n▶️ Watch Part 1: [Part 1 ka Link Yaha Dal Do]\n\n#sonofdragon #motherofdragon #aimovie #fantasymovie #fullmovie\n\n---\n⚠️ DISCLAIMER: This is a work of fiction created with AI. No real actors. Made for entertainment purposes only.",
+      "channelId": "UCAzFSIOaV1JDzvGgLJmIRsA",
+      "channelTitle": "FilmyAi",
+      "thumbnail": "https://i.ytimg.com/vi/GYno_Ol720k/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:41:46Z",
+      "durationSeconds": 3835,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:01.095Z",
+      "lastSeenAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ES-6WV0-W00",
+      "url": "https://www.youtube.com/watch?v=ES-6WV0-W00",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": ".#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/ES-6WV0-W00/hqdefault.jpg",
+      "publishedAt": "2026-10-27T11:45:23Z",
+      "durationSeconds": 6498,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:01.095Z",
+      "lastSeenAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4VtKXzZzTWs",
+      "url": "https://www.youtube.com/watch?v=4VtKXzZzTWs",
+      "title": "【FULL MOVIE】 The Ledgent of Bible: NOAH The Doomsday Ark | Fantasy Film",
+      "description": "【FULL MOVIE】 The Ledgent of Bible: NOAH The Doomsday Ark | Fantasy Film\n\n🎥 EXPERIENCE THE NEXT GENERATION OF CINEMA\n\nWelcome to \"Mythora Films AI\", where imagination meets cinematic innovation.\n\nStep into a visually stunning world of AI filmmaking, original concepts, extraordinary characters, and stories designed to transport you beyond the limits of reality.\n\nFrom massive cinematic landscapes and futuristic megacities to mythical creatures, supernatural forces, and breathtaking adventures, every creation explores new possibilities in digital filmmaking.\n\n🔥 DISCOVER OUR CINEMATIC WORLDS\n\n🎬 AI Cinematic Films — Experience original visual storytelling powered by artificial intelligence.\n\n🌍 Fantasy & Mythology — Explore legendary worlds, ancient secrets, powerful heroes, and mythical realms.\n\n🚀 Science Fiction — Travel to distant galaxies, advanced civilizations, and possible futures.\n\n🌑 Mystery & Suspense — Uncover hidden truths, unexpected twists, and worlds filled with secrets.\n\n✨ Visual Imagination — Witness ambitious creative visions brought to life through AI-assisted filmmaking.\n\n🎞️ MORE THAN A FILM. A NEW REALITY.\n\nAt \"Mythora Films AI\", we believe the future of storytelling belongs to those who dare to imagine differently. Our goal is to explore the creative potential of artificial intelligence and deliver memorable cinematic experiences for audiences around the world.\n\n🌟 BE PART OF THE STORY\n\nSubscribe to \"Mythora Films AI\" for more imaginative films, extraordinary adventures, and cinematic worlds waiting to be discovered.\n\n👍 Enjoyed the film? Leave a like.\n💬 What did you think of the story? Tell us in the comments.\n🔔 Turn on notifications to discover our next cinematic creation.\n\nThe future of cinema is being imagined today.\n\n\"Mythora Films AI\" — Imagine Beyond. Experience More.\n\n⚠️ CONTENT NOTICE: This production may include AI-generated or AI-assisted visuals, voices, characters, and environments. The film is created for entertainment and artistic purposes.\n\n#MythoraFilmsAI #AIcinema #AImovie #AIFilmmaking #CinematicFilms #ArtificialIntelligence #SciFiMovies #FantasyCinema",
+      "channelId": "UCNf58z-ktbiLTaA8TLcU5JA",
+      "channelTitle": "Mythora Films AI",
+      "thumbnail": "https://i.ytimg.com/vi/4VtKXzZzTWs/hqdefault.jpg",
+      "publishedAt": "2026-10-27T11:00:23Z",
+      "durationSeconds": 6536,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:01.095Z",
+      "lastSeenAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tpfG7KmOWYE",
+      "url": "https://www.youtube.com/watch?v=tpfG7KmOWYE",
+      "title": "O.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/tpfG7KmOWYE/hqdefault.jpg",
+      "publishedAt": "2026-10-27T10:45:37Z",
+      "durationSeconds": 7413,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:01.095Z",
+      "lastSeenAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DAUMLVx8VTs",
+      "url": "https://www.youtube.com/watch?v=DAUMLVx8VTs",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": "🎬AI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/DAUMLVx8VTs/hqdefault.jpg",
+      "publishedAt": "2026-10-26T10:45:00Z",
+      "durationSeconds": 6776,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:01.095Z",
+      "lastSeenAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
       "unavailableAt": null
     }
   ]

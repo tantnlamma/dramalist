@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:34:06.549Z",
+  "generatedAt": "2026-10-28T03:50:33.137Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -225,7 +225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -436,7 +436,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -456,7 +456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -475,7 +475,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -494,7 +494,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -513,7 +513,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -532,7 +532,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -551,7 +551,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -719,11 +719,11 @@
       "matchedKeywords": [
         "drame IA film complet"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-19T03:05:58.743Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": "2026-10-28T03:50:33.137Z"
     },
     {
       "videoId": "B6eJLT2eCsY",
@@ -761,7 +761,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -780,7 +780,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -799,7 +799,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -838,7 +838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -857,7 +857,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -877,7 +877,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -897,7 +897,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1031,7 +1031,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1107,7 +1107,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1145,7 +1145,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1165,7 +1165,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1185,7 +1185,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1223,7 +1223,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1237,19 +1237,20 @@
       "publishedAt": "2026-10-24T13:00:24Z",
       "durationSeconds": 5147,
       "matchedKeywords": [
+        "drame IA film complet",
         "film complet intelligence artificielle"
       ],
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
       "videoId": "chV177V4-Uo",
       "url": "https://www.youtube.com/watch?v=chV177V4-Uo",
-      "title": "Max⎪John Cusack⎪Aux origines d’un destin funeste⎪Drame⎪Guerre⎪Film complet⎪UC",
-      "description": "Allemagne, au lendemain de la Première Guerre mondiale. Un jeune homme rêve encore de devenir artiste. Quelques années plus tard, son nom changera le cours de l’Histoire.\n\nMax Rothman est un ancien soldat devenu marchand d’art.\n\nDans une Allemagne meurtrie par la guerre, il tente de retrouver sa place au cœur d’une scène artistique en pleine transformation.\n\nC’est dans cet univers qu’il croise la route d’un jeune vétéran autrichien frustré par son manque de reconnaissance : Adolf Hitler.\n\nÀ cette époque, celui-ci cherche encore à construire son avenir autour de la peinture.\n\nMax décèle chez lui une énergie qu’il tente d’orienter vers la création artistique. Une relation improbable se noue alors entre le marchand d’art et celui qui deviendra quelques années plus tard l’une des figures les plus destructrices du XXe siècle. Le film présente cette relation comme une construction fictionnelle.    page-2026-10-20-17-36-04\n\nMais dans l’Allemagne de l’après-guerre, la colère et les frustrations politiques gagnent du terrain.\n\nEt tandis que Max encourage son protégé à trouver sa voix sur une toile, celui-ci commence à découvrir une autre manière de transformer sa colère en influence.\n\nVotre prochaine découverte cinéma vous attend sur Ciné Select. Abonnez-vous 👉 https://shorturl.at/07Z5h\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Menno Meyjes\nAvec John Cusack, Noah Taylor, Leelee Sobieski et Molly Parker\n© Tous droits réservés UC",
+      "title": "Max⎪John Cusack⎪Aux origines d’un destin funeste⎪Drame⎪Guerre⎪Film complet⎪PF",
+      "description": "Allemagne, au lendemain de la Première Guerre mondiale. Un jeune homme rêve encore de devenir artiste. Quelques années plus tard, son nom changera le cours de l’Histoire.\n\nMax Rothman est un ancien soldat devenu marchand d’art.\n\nDans une Allemagne meurtrie par la guerre, il tente de retrouver sa place au cœur d’une scène artistique en pleine transformation.\n\nC’est dans cet univers qu’il croise la route d’un jeune vétéran autrichien frustré par son manque de reconnaissance : Adolf Hitler.\n\nÀ cette époque, celui-ci cherche encore à construire son avenir autour de la peinture.\n\nMax décèle chez lui une énergie qu’il tente d’orienter vers la création artistique. Une relation improbable se noue alors entre le marchand d’art et celui qui deviendra quelques années plus tard l’une des figures les plus destructrices du XXe siècle. Le film présente cette relation comme une construction fictionnelle.    page-2026-10-20-17-36-04\n\nMais dans l’Allemagne de l’après-guerre, la colère et les frustrations politiques gagnent du terrain.\n\nEt tandis que Max encourage son protégé à trouver sa voix sur une toile, celui-ci commence à découvrir une autre manière de transformer sa colère en influence.\n\nVotre prochaine découverte cinéma vous attend sur Ciné Select. Abonnez-vous 👉 https://shorturl.at/07Z5h\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n\nUn film de Menno Meyjes\nAvec John Cusack, Noah Taylor, Leelee Sobieski et Molly Parker\n© Tous droits réservés PF",
       "channelId": "UCoyWpYaeoykAso1qTNH7qng",
       "channelTitle": "CINE SELECT",
       "thumbnail": "https://i.ytimg.com/vi/chV177V4-Uo/hqdefault.jpg",
@@ -1299,7 +1300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1319,7 +1320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1338,7 +1339,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1357,7 +1358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1376,7 +1377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1395,7 +1396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1414,7 +1415,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1433,7 +1434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1452,7 +1453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     },
     {
@@ -1471,7 +1472,122 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-10-27T03:34:06.549Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IuiM-iF6NY8",
+      "url": "https://www.youtube.com/watch?v=IuiM-iF6NY8",
+      "title": "FILM COMPLET: Mama Doit Goûter  (Parties 1–10) | Drame Nigérian",
+      "description": "Chaque soir, Amara prépare le repas de son mari. Mais sa belle-mère impose une règle : « Mama doit goûter. » Quand Emeka tombe malade, tous les regards se tournent vers sa femme…\n\nUne épouse accusée, un fils aveuglé par sa confiance et une voisine décidée à découvrir la vérité. Retrouvez les 10 parties dans ce film nigérian doublé en français, avec sous-titres anglais.\n\nCHAPITRES\n00:00 Partie 1 — La règle de Mama\n03:05 Partie 2 — Les soupçons\n06:05 Partie 3 — Deux marmites\n09:05 Partie 4 — À l’hôpital\n12:05 Partie 5 — Le résultat\n15:05 Partie 6 — L’arrivée de Joy\n18:05 Partie 7 — La caméra cachée\n21:05 Partie 8 — L’échantillon\n24:05 Partie 9 — La réunion de famille\n27:05 Partie 10 — Le final\n\nLe contrôle et la violence familiale ne sont pas de l’amour. Votre sécurité compte.\n\nÀ quel moment Emeka aurait-il dû écouter Amara ? Dites-le en commentaire.\n\nSuivez @moviesbyafp et @fdsunnex sur IG\nA Fidelis Production.\nChaîne : French Movies by AFP\n\nCette histoire est une fiction créée avec des outils d’intelligence artificielle. Les personnages et les événements sont fictifs.\n\n#FrenchMoviesByAFP #MamaDoitGoûter #Nollywood #FilmEnFrançais #Drame",
+      "channelId": "UClXwHZ9XkboBBC2lUiE7BHw",
+      "channelTitle": "French Movies by AFP",
+      "thumbnail": "https://i.ytimg.com/vi/IuiM-iF6NY8/hqdefault.jpg",
+      "publishedAt": "2026-10-27T21:00:08Z",
+      "durationSeconds": 1814,
+      "matchedKeywords": [
+        "drame IA film complet",
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "v_SCOgtNZ24",
+      "url": "https://www.youtube.com/watch?v=v_SCOgtNZ24",
+      "title": "The Only Child⎪Horreur⎪Sci-Fi⎪Film complet en français⎪ACE",
+      "description": "Sarah s’installe avec son jeune fils Chris dans une maison isolée de la campagne irlandaise, près d’une immense forêt. Lorsqu’elle découvre un mystérieux gouffre dissimulé au milieu des bois, puis remarque d’étranges changements dans le comportement de son fils, une terrible inquiétude commence à l’envahir.\n\nPlus Chris devient méconnaissable, plus Sarah doute de ce qu’elle voit et de sa propre raison. Une question impossible finit alors par s’imposer : l’enfant revenu de la forêt est-il vraiment son fils ?\n\n🎞️ Un max de films complets, juste pour vous !👉 https://bit.ly/37nichs 👈 ✨ Abonnez-vous pour ne rien manquer !\n\nUn film de Lee Cronin\nAvec Seána Kerslake, James Quinn Markey, Kati Outinen et James Cosmo\n© Tous droits réservés ACE\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UC83ULFMJ5TNEQ9Mt8ePgzbw",
+      "channelTitle": "CINE STREAM",
+      "thumbnail": "https://i.ytimg.com/vi/v_SCOgtNZ24/hqdefault.jpg",
+      "publishedAt": "2026-10-27T18:45:06Z",
+      "durationSeconds": 5193,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "B7g01sJQ4Xk",
+      "url": "https://www.youtube.com/watch?v=B7g01sJQ4Xk",
+      "title": "Mon Noël en Alaska | Film Complet | Romance | Noël | Ashley Williams| M6+ Films & Séries",
+      "description": "Zoey Hathaway, pilote d'avion à Seattle, rêve de créer sa propre compagnie aérienne charter.\nÀ quelques jours de Noël, elle hérite d'un ranch en Alaska. Zoey se rend sur place pour le vendre le plus rapidement possible afin de réaliser son rêve. Ses plans sont vite contrariés quand elle fait la connaissance d'Alec Wynn, l'homme qui s'occupe de l'entretien du ranch…\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1 \n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nMON NOËL EN ALASKA (NORTHERN LIGHTS OF CHRISTMAS)\nRéalisation : Jonathan Wright\nDistribution : Ashley Williams, Jefferson Brown, Genelle Williams, Laura Miyata, Art Hindle, Corey Sevier\n© SEVEN. ONE STUDIOS INTERNATIONAL GMBH - 2018 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/B7g01sJQ4Xk/hqdefault.jpg",
+      "publishedAt": "2026-10-27T18:00:08Z",
+      "durationSeconds": 4865,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1ZT6m6Oryd8",
+      "url": "https://www.youtube.com/watch?v=1ZT6m6Oryd8",
+      "title": "Mojin, l'expédition maudite⎪Action⎪Aventure⎪Film complet⎪ACE",
+      "description": "Un trésor légendaire repose au fond de l’océan… mais personne n’était prêt à ce qu’ils allaient découvrir.\n\nLorsque Hu Bayi et son équipe partent en mer de Chine méridionale à la recherche de précieuses perles, leur expédition prend une tournure inattendue après la découverte d’anciennes ruines englouties.\n\nEntre pièges mortels, créatures mystérieuses et secrets oubliés depuis des siècles, les aventuriers devront affronter les dangers des profondeurs pour espérer mettre la main sur un trésor perdu.\n\nUne aventure spectac\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nUn film de Hesheng Xiang et Qiuliang Xiang\navec Yezhou Han, Nita Lei et Tat-Wah Lok\n© Tous droits réservés ACE\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/1ZT6m6Oryd8/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:00:07Z",
+      "durationSeconds": 6311,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3lMoKtpSvCg",
+      "url": "https://www.youtube.com/watch?v=3lMoKtpSvCg",
+      "title": "Le Robot sauvage (2024) Film Complet en Français | Critique et Faits",
+      "description": "Le Robot sauvage (2024) : notre critique du film complet en français, de l'accident qui lie Roz à Joli-Bec au choix qui bouleverse leur famille. Ce récit commenté retrace toute l'histoire et examine comment une mission de survie devient une décision intime.\n\nÉchouée sur une île où les animaux la voient comme un monstre, Roz détruit accidentellement un nid et recueille le seul œuf intact. Avec Escobar, le renard qui s'improvise expert en oies, elle doit aider Joli-Bec à manger, nager puis voler avant la migration. Mais lorsque l'oison apprend qui a causé la mort de sa famille, la confiance patiemment construite se brise. Le départ des bernaches et l'hiver font alors de cette maternité improbable un véritable combat pour l'autonomie.\n\nL'analyse suit la confrontation au bord du lac, le rôle de Long-Cou, la trêve entre prédateurs et proies et le retour des machines envoyées par Universal Dynamics. Nous expliquons le sacrifice de Roz, son départ volontaire et les retrouvailles finales : pourquoi accepter de partir peut-il être une preuve d'amour ? Le commentaire aborde aussi l'adaptation du livre de Peter Brown, les textures picturales choisies par Chris Sanders et la partition de Kris Bowers.\n\nCette vidéo est une critique narrative originale en français consacrée au film entier, et non la diffusion du long-métrage d'origine. Et toi, quel choix de Roz te semble le plus courageux ?\n\n#LeRobotSauvage #TheWildRobot #CritiqueFilm #AnalyseFilm #FinExpliquee #FilmAnimation #Longmetria",
+      "channelId": "UCjXrQBVlPxErU3cPMFRWT0g",
+      "channelTitle": "Longmétria",
+      "thumbnail": "https://i.ytimg.com/vi/3lMoKtpSvCg/hqdefault.jpg",
+      "publishedAt": "2026-10-27T13:31:20Z",
+      "durationSeconds": 6735,
+      "matchedKeywords": [
+        "film robot complet français"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Z9p3y52h4Ew",
+      "url": "https://www.youtube.com/watch?v=Z9p3y52h4Ew",
+      "title": "Le 7ème Juré - Film Complet - Drame - Jean-Pierre DARRUSSIN - GP",
+      "description": "Au début des années 60, Grégoire Duval, un respectable pharmacien de province, ôte la vie à une jeune femme dans un moment de folie. \n\n✋ les meilleurs téléfilms et séries TV, c’est ici 👉 https://bit.ly/2Uh5Hgq 👈 Abonnez vous ! 🙏\n\nPersonne ne l'ayant vu commettre son crime, il décide de garder le silence tandis que Khader Boualam, le dernier amant de la jeune femme, est accusé du crime à sa place. Ironie du destin, Grégoire Duval est alors nommé juré au procès de Khader Boualam, avec la charge de juger un crime qu'il a commis lui-même. Bouleversé par le sort de l'ouvrier arabe, un coupable idéal aux yeux de la bonne société de la ville dont le racisme est exacerbé par la fin de la guerre d'Algérie, Grégoire va alors s'engager sur le chemin de la rédemption. En cherchant à innocenter Khader, il dérange cependant l'ordre social. Et souvent, l'ordre importe plus que la vérité...\n\nAvec :\nJean-Pierre DARRUSSIN\nIsabelle HABIAGUE\nPascal ELSO\n\nRéalisateur : Edouard NIERMANS\nAuteurs : Francis DIDELOT et Didier LE PÊCHEUR\n\n© Droits Réservés\n\n#films #streaming #policier \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKqmnQFF2PgokPDdX-L2fwQ",
+      "channelTitle": "Stream TV ",
+      "thumbnail": "https://i.ytimg.com/vi/Z9p3y52h4Ew/hqdefault.jpg",
+      "publishedAt": "2026-10-27T18:00:09Z",
+      "durationSeconds": 5243,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:33.137Z",
+      "lastSeenAt": "2026-10-28T03:50:33.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:33:58.202Z",
+  "generatedAt": "2026-10-28T03:50:24.573Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +759,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:55.530Z",
       "lastSeenAt": "2026-10-26T03:01:55.530Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     },
     {
@@ -798,6 +798,102 @@
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
       "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9Mmoyo10dEk",
+      "url": "https://www.youtube.com/watch?v=9Mmoyo10dEk",
+      "title": "HORIZONTE DE SUCESOS 🌌 | Película completa de ciencia ficción hecha en Blender (1 hora)",
+      "description": "HORIZONTE DE SUCESOS — Película completa\n\nAño 2187. La nave ODISEA-7 y su inteligencia artificial ARIA llevan el último mensaje de la humanidad hacia un agujero negro... y lo que encuentran del otro lado lo cambia todo.\n\n🎬 Película de ciencia ficción de 1 hora hecha 100 % en Blender.\n🎵 Música y efectos de sonido originales.\n\nCapítulos:\n0:00 La huida\n0:40 El horizonte\n1:55 Dentro de la estructura\n9:55 La batalla del hangar\n17:55 La ciudad flotante\n25:55 La huida herida\n33:55 La gran sala del núcleo\n41:55 El mensaje\n49:55 La onda de luz\n57:55 El otro lado\n\nSi te gustó, suscríbete al canal GainsAspect y deja tu comentario.\nTikTok: tiktok.com/@gains_aspect\n\n#pelicula #cienciaficcion #blender #animacion #agujeronegro",
+      "channelId": "UCpD4aZ1PBR_GKr2hArUz0jQ",
+      "channelTitle": "GainsAspect",
+      "thumbnail": "https://i.ytimg.com/vi/9Mmoyo10dEk/hqdefault.jpg",
+      "publishedAt": "2026-10-27T15:46:49Z",
+      "durationSeconds": 3956,
+      "matchedKeywords": [
+        "película completa inteligencia artificial",
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:24.573Z",
+      "lastSeenAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dM-tmZR7vDo",
+      "url": "https://www.youtube.com/watch?v=dM-tmZR7vDo",
+      "title": "Encontró el último huevo de dragón y el rey quiso robárselo | LA HIJA DEL DRAGÓN | Película fantasía",
+      "description": "Encontró el último huevo de dragón… y el rey quiso robárselo. “La hija del dragón” es una película completa de fantasía épica y aventuras, ambientada en Kaelmor, un reino de valles verdes y montañas volcánicas donde hace cien años el rey mató al último dragón.\n\nNora, la joven curandera del pueblo de Valcendra, tiene en las manos unas extrañas cicatrices de quemaduras que nadie sabe explicar. Un día, la montaña se abre y descubre un templo olvidado de los antiguos guardianes de dragones… y en su altar, un huevo que todavía late. De él nace Brasa, una pequeña dragona de escamas color cobre a la que Nora cría en secreto.\n\nPero los dragones crecen deprisa. Cuando el rey Aldemar descubre que un dragón vuelve a volar sobre el reino, envía al capitán Ronan a capturarla, y se lleva a la abuela de Nora como cebo. Ahora Nora tendrá que descubrir quién es en realidad: la última guardiana de dragones.\n\nUna historia original de dragones, magia y valor, al estilo de las grandes películas de fantasía medieval.\n\n⏱️ CAPÍTULOS\n0:00 El huevo\n5:00 La cría\n10:00 La dragona crece\n15:00 El cebo\n20:00 Las cadenas\n25:00 La batalla\n30:50 La guardiana\n\n💬 ¿Qué crees que saldrá del huevo negro? Te leo en los comentarios.\n🔔 Suscríbete para ver la parte 2.\n\nEsta película es una historia original y contiene imágenes y voces generadas con inteligencia artificial.\n\n#dragones #peliculacompleta #fantasia #peliculadedragones #lahijadeldragon",
+      "channelId": "UC6ZANyAnAYGVRiB8-syXAVA",
+      "channelTitle": "Lunaris Films",
+      "thumbnail": "https://i.ytimg.com/vi/dM-tmZR7vDo/hqdefault.jpg",
+      "publishedAt": "2026-10-21T21:59:29Z",
+      "durationSeconds": 2101,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:24.573Z",
+      "lastSeenAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KdlFjngvUy8",
+      "url": "https://www.youtube.com/watch?v=KdlFjngvUy8",
+      "title": "CRONOS: MI MÁQUINA DEL TIEMPO | Película de ciencia ficción creada con IA",
+      "description": "CRONOS: MI MÁQUINA DEL TIEMPO | Película de ciencia ficción creada con IA\n\n¿Y si pudieras viajar a través del tiempo y descubrir que el futuro esconde un peligro capaz de cambiar toda la historia de la humanidad?\n\n🚀 CRONOS: Mi máquina del tiempo es una película original de ciencia ficción, aventura, acción y misterio, creada con inteligencia artificial.\n\nAcompaña a Pedro en una aventura extraordinaria a través de distintas épocas, desde el pasado hasta un futuro dominado por una poderosa organización que pretende controlar el tiempo.\n\n⚡ Viajes temporales, persecuciones, tecnología futurista, secretos ocultos y una misión que podría cambiar el destino de la humanidad.\n\n🎬 Sobre esta producción: Esta es una película original creada utilizando herramientas de inteligencia artificial. La apariencia visual del protagonista puede cambiar entre escenas debido a la generación de imágenes y videos con IA; sin embargo, la intención de la historia es que sea el mismo personaje durante toda la aventura.\n\nEsta es mi primera película después de crear documentales y contar historias. Un nuevo paso en mi camino como creador independiente.\n\n🙏 Gracias por ver mi trabajo. Si disfrutas la ciencia ficción, la aventura y los viajes en el tiempo, suscríbete al canal, comparte esta película y deja tu comentario.\n\n¿A qué época viajarías si tuvieras una máquina del tiempo?\n\n© Pedro Andrade. Historia y producción original.\n\n#CRONOS #PeliculaDeCienciaFiccion #InteligenciaArtificial #ViajesEnElTiempo #PeliculasEnEspañol",
+      "channelId": "UCeK7sNuV41Dl9Wf8IjxO-GQ",
+      "channelTitle": "Pedro Andr",
+      "thumbnail": "https://i.ytimg.com/vi/KdlFjngvUy8/hqdefault.jpg",
+      "publishedAt": "2026-10-27T16:00:06Z",
+      "durationSeconds": 2862,
+      "matchedKeywords": [
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:24.573Z",
+      "lastSeenAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NATElH4VT8Y",
+      "url": "https://www.youtube.com/watch?v=NATElH4VT8Y",
+      "title": "WALL-E PELICULA COMPLETA EN ESPAÑOL LATINO - Disney Pixar Walle Animación (Película del Juego)",
+      "description": "WALL-E PELICULA COMPLETA EN ESPAÑOL LATINO - Disney Pixar Walle Animación (Película del Juego)\n\nDisfruta de la emocionante aventura de WALL-E, un pequeño robot encargado de limpiar una Tierra abandonada. Su vida cambia cuando conoce a EVE, una moderna robot exploradora que llega con una importante misión. Juntos emprenderán un viaje lleno de aventuras, amistad, descubrimientos y momentos inolvidables.\n\nWALL-E es una historia de ciencia ficción, aventura y animación que invita a reflexionar sobre el futuro de nuestro planeta, el cuidado del medio ambiente y la importancia de la conexión entre las personas.\n\n*Este video es contenido original creado íntegramente por mí. Yo mismo grabo la partida, capturo todas las imágenes y edito manualmente el video completo, de principio a fin.\n\nCada video conlleva varias horas de grabación, edición y posproducción. El material se basa en mi propia partida y guía de juego, y el video final cuenta con mi propia edición y presentación.\n\nEste contenido no es una resubida ni una recopilación de imágenes de otros creadores; ha sido grabado, editado y producido por mí de forma independiente.",
+      "channelId": "UCcgAmbRpTu3pgOy2u3bYn0w",
+      "channelTitle": "Towstoe",
+      "thumbnail": "https://i.ytimg.com/vi/NATElH4VT8Y/hqdefault.jpg",
+      "publishedAt": "2026-10-02T09:48:28Z",
+      "durationSeconds": 5800,
+      "matchedKeywords": [
+        "película robot completa en español"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:24.573Z",
+      "lastSeenAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uZrod2Tib48",
+      "url": "https://www.youtube.com/watch?v=uZrod2Tib48",
+      "title": "Súplica de amor - Película completa en español ",
+      "description": "Súplica de amor\n\n\nGuion original: AnanovelasTV\n\n​Música y ambientación: Creadas con IA exclusivamente para este canal.\n\n​Imágenes y efectos visuales: Producción audiovisual con asistencia de IA para AnanovelasTV.\n\n​💬 Déjanos en los comentarios tu opinión. \n\n​🔔 ¡Suscríbete y activa la campanita para no perderte el gran final de esta apasionante historia!",
+      "channelId": "UCanpwG77NrPgVjFKHxErPvQ",
+      "channelTitle": "AnanovelasTV",
+      "thumbnail": "https://i.ytimg.com/vi/uZrod2Tib48/hqdefault.jpg",
+      "publishedAt": "2026-10-23T17:36:00Z",
+      "durationSeconds": 3403,
+      "matchedKeywords": [
+        "drama IA película completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:24.573Z",
+      "lastSeenAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
       "unavailableAt": null
     }
   ]

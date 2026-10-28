@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:33:46.997Z",
+  "generatedAt": "2026-10-28T03:50:12.177Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -188,7 +188,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-15T10:29:02.264Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -209,7 +209,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -267,7 +267,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -286,7 +286,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -306,7 +306,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -326,7 +326,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -346,7 +346,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -404,7 +404,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -423,7 +423,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -443,7 +443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -463,7 +463,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -483,7 +483,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -502,7 +502,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -522,7 +522,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -542,7 +542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -679,7 +679,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -717,7 +717,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -736,7 +736,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -755,7 +755,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -813,7 +813,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -947,7 +947,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -966,7 +966,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -985,7 +985,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1064,7 +1064,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1083,14 +1083,14 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
       "videoId": "7dXSZtFe11U",
       "url": "https://www.youtube.com/watch?v=7dXSZtFe11U",
       "title": "(10화~14화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
-      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 10화\n10:01 11화\n16:56 12화\n27:17 13화\n33:52 14화",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n'몰아보기'의 재생 목록은 2개가 있으니 편한 대로 시청해주세요.\n\n[재생 목록; 통합본]\n\n1화~14화 (약1시간 50분) https://youtu.be/nGdlAVI0iTI\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n[재생 목록; '굿바이, 경성!' 1화부터 몰아 보기.]\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 10화\n10:01 11화\n16:56 12화\n27:17 13화\n33:52 14화",
       "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
       "channelTitle": "AI 드라마 by JooBin",
       "thumbnail": "https://i.ytimg.com/vi/7dXSZtFe11U/hqdefault.jpg",
@@ -1102,14 +1102,14 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
       "videoId": "dYB41yGUl04",
       "url": "https://www.youtube.com/watch?v=dYB41yGUl04",
       "title": "(5화~9화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
-      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 05화\n05:50 06화\n10:18 07화\n17:40 08화\n24:39 09화",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n한번에 몰아보기입니다.^^\n'몰아보기'의 재생 목록은 2개가 있으니 편한 대로 시청해주세요.\n\n[재생 목록; 통합본]\n\n1화~14화 (약1시간 50분) https://youtu.be/nGdlAVI0iTI\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n[재생 목록; '굿바이, 경성!' 1화부터 몰아 보기.]\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 05화\n05:50 06화\n10:18 07화\n17:40 08화\n24:39 09화",
       "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
       "channelTitle": "AI 드라마 by JooBin",
       "thumbnail": "https://i.ytimg.com/vi/dYB41yGUl04/hqdefault.jpg",
@@ -1128,7 +1128,7 @@
       "videoId": "WTj0LtYCjDU",
       "url": "https://www.youtube.com/watch?v=WTj0LtYCjDU",
       "title": "(1화~4화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
-      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 01화\n09:46 02화\n16:50 03화\n26:42 04화",
+      "description": "기존 통합본(1화~14화)의 시청 시간(약 1시간 50분)이 길어서 부담이었던 분들께  핵심 구간 별로 나누어 공개합니다.^^\n\n한번에 몰아보기입니다.^^\n'몰아보기'의 재생 목록은 2개가 있으니 편한 대로 시청해주세요.\n\n[재생 목록; 통합본]\n\n1화~14화 (약1시간 50분) https://youtu.be/nGdlAVI0iTI\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n[재생 목록; '굿바이, 경성!' 1화부터 몰아 보기.]\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n\n타임 스탬프\n\n00:00 인트로\n00:05 01화\n09:46 02화\n16:50 03화\n26:42 04화",
       "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
       "channelTitle": "AI 드라마 by JooBin",
       "thumbnail": "https://i.ytimg.com/vi/WTj0LtYCjDU/hqdefault.jpg",
@@ -1140,7 +1140,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-10-26T03:01:42.351Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1159,7 +1159,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1178,7 +1178,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1197,7 +1197,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1217,7 +1217,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1236,7 +1236,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1255,7 +1255,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1274,7 +1274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1351,7 +1351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1409,7 +1409,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:40.760Z",
       "lastSeenAt": "2026-10-25T03:02:40.760Z",
-      "lastVerifiedAt": "2026-10-25T03:02:40.760Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1428,7 +1428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:40.760Z",
       "lastSeenAt": "2026-10-25T03:02:40.760Z",
-      "lastVerifiedAt": "2026-10-25T03:02:40.760Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1466,7 +1466,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1485,7 +1485,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1504,7 +1504,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1542,7 +1542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1561,7 +1561,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:46.997Z",
       "lastSeenAt": "2026-10-27T03:33:46.997Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1580,7 +1580,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:46.997Z",
       "lastSeenAt": "2026-10-27T03:33:46.997Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
@@ -1599,13 +1599,13 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:46.997Z",
       "lastSeenAt": "2026-10-27T03:33:46.997Z",
-      "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     },
     {
       "videoId": "lqOCMYU3a-s",
       "url": "https://www.youtube.com/watch?v=lqOCMYU3a-s",
-      "title": "[Ai 드라마] 혼인신고를 서두르던 남자, 제 집을 팔지 않겠다고 하자 연락이 끊겼습니다 #황혼이혼 #이혼 #복수끝집 #복수드라마 #복수 #사이다 #Ai드라마",
+      "title": "혼인신고를 서두르던 남자, 제 집을 팔지 않겠다고 하자 연락이 끊겼습니다 #황혼이혼 #이혼 #복수끝집 #복수드라마 #복수 #사이다 #Ai드라마",
       "description": "",
       "channelId": "UC8Yc2-dc0aoCpKwKa4Y9u2g",
       "channelTitle": "복수끝집",
@@ -1619,6 +1619,82 @@
       "discoveredAt": "2026-10-27T03:33:46.997Z",
       "lastSeenAt": "2026-10-27T03:33:46.997Z",
       "lastVerifiedAt": "2026-10-27T03:33:46.997Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oBHuXHCIxBo",
+      "url": "https://www.youtube.com/watch?v=oBHuXHCIxBo",
+      "title": "월야극장 24시간 연속 상영 | AI 사주·야담 드라마 (녹화본) · 매주 새 이야기",
+      "description": "월야극장의 AI 사주·야담 오디오드라마를 24시간 이어서 상영합니다(녹화본). 편 사이에 월야극장이 운영하는 서비스 안내가 잠깐 나옵니다.\n\n▶ 월야극장 구독 https://www.youtube.com/@wolya_theater?sub_confirmation=1\n▶ 바로사주 — 무료 사주풀이·궁합 https://wolyasindang.vercel.app (재미로 보시는 곳입니다 · 상담사는 AI 캐릭터입니다)\n▶ 야담 https://yadam.co.kr\n\n[AI 고지] 영상·인물·목소리는 AI로 만든 창작물이며 실존 인물·사건과 무관합니다. 극 중 사주 이야기는 재미로 봐 주세요. 의료·법률·투자 판단을 대신하지 않습니다.\n#월야극장 #AI드라마 #야담 #사주 #오디오드라마",
+      "channelId": "UCLfeHdRYp_BI4fUUEdW5zbQ",
+      "channelTitle": "월야극장",
+      "thumbnail": "https://i.ytimg.com/vi/oBHuXHCIxBo/hqdefault.jpg",
+      "publishedAt": "2026-10-27T17:24:29Z",
+      "durationSeconds": 42898,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:12.177Z",
+      "lastSeenAt": "2026-10-28T03:50:12.177Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lXaNnsQKYs4",
+      "url": "https://www.youtube.com/watch?v=lXaNnsQKYs4",
+      "title": "(21화~25화 몰아보기) AI 드라마 '굿바이, 경성!'#AI드라마#K-DRAMA#경성#후회남#선결혼 후연애",
+      "description": "한번에 몰아보기입니다.^^\n'몰아보기'의 재생 목록은 2개가 있으니 편한 대로 시청해주세요.\n\n[재생 목록; 통합본]\n\n1화~14화 (약1시간 50분) https://youtu.be/nGdlAVI0iTI\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n[재생 목록; '굿바이, 경성!' 1화부터 몰아 보기.]\n\n1화~4화 (약 32분) https://youtu.be/WTj0LtYCjDU\n5화~9화 (약 35분) https://youtu.be/dYB41yGUl04\n10화~14화 (약 43분) https://youtu.be/7dXSZtFe11U\n15화~20화 (약 52분) https://youtu.be/BzrGVGJu-4c\n21화~25화 (약 45분) https://youtu.be/lXaNnsQKYs4\n\n\n타임 스탬프\n\n00:00 인트로\n00:02  21화 \n08:25  22화 \n17:41  23화\n27:45  24화\n37:07  25화",
+      "channelId": "UCbH9De2gZJ_gytZgrChvZyg",
+      "channelTitle": "AI 드라마 by JooBin",
+      "thumbnail": "https://i.ytimg.com/vi/lXaNnsQKYs4/hqdefault.jpg",
+      "publishedAt": "2026-10-27T08:00:22Z",
+      "durationSeconds": 2757,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:12.177Z",
+      "lastSeenAt": "2026-10-28T03:50:12.177Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QafPK0QR6Cg",
+      "url": "https://www.youtube.com/watch?v=QafPK0QR6Cg",
+      "title": "조선에 떨어진 현대 물건들?! 😂 만복주막 시즌1 1~10화 몰아보기 | 시간순삭 AI 드라마",
+      "description": "🤣 조선시대 주막에 현대 물건들이 나타났다?!\n\n찬바람이 나오는 괴상한 궤짝부터 혼자 움직이는 요상한 기계까지!\n\n냉장고, 선풍기, 로봇청소기, 전기밥솥…\n처음 보는 현대 문물에 만복, 연화, 돌쇠는 하루도 조용할 날이 없습니다. 😂\n\n🏮 만복주막 1~10화 조선편 몰아보기!\n\n그동안 만복주막에서 벌어진 기상천외한 사건들을 한 편으로 모았습니다.\n\n평범했던 조선의 작은 주막이 어떻게 뒤집어졌는지 지금부터 함께 만나보세요!\n\n⏳ 그런데 이들의 이야기는 여기서 끝이 아닙니다.\n\n조선을 떠나 현대에 도착한 만복 일행!\n과연 앞으로 어떤 일이 벌어질까요?\n\n🏙️ 다음 이야기, 11화 아파트편도 놓치지 마세요!\n\n✨타임라인\n[0:00] 인트로\n[0:25] 1화 냉장고\n[3:12] 2화 선풍기\n[5:18] 3화 로봇청소기\n[7:57] 4화 전기밥솥\n[11:12] 5화 시내버스\n[14:24] 6화 내비게이션\n[17:59] 7화 안마의자\n[21:18] 8화 텔레비전(TV)\n[24:37] 9화 세탁기\n[29:09] 10화 지하철\n[32:59] 쿠키 영상\n\n🎬 만복주막은 직접 기획하고 대본을 집필하며, AI 기술을 활용해 캐릭터 연출부터 영상 편집까지 제작하는 오리지널 AI 드라마입니다.\n\n❤️ 가장 재미있었던 에피소드를 댓글로 알려주세요!\n구독과 좋아요는 다음 이야기를 만드는 데 큰 힘이 됩니다.\n\n#만복주막 #AI드라마 #조선시대AI #타임슬립 #몰아보기",
+      "channelId": "UCQB5unL-ThRW_XOXnY2ig_A",
+      "channelTitle": "AI별별극장",
+      "thumbnail": "https://i.ytimg.com/vi/QafPK0QR6Cg/hqdefault.jpg",
+      "publishedAt": "2026-10-23T09:00:37Z",
+      "durationSeconds": 2025,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:12.177Z",
+      "lastSeenAt": "2026-10-28T03:50:12.177Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "m2GVe-iUeAU",
+      "url": "https://www.youtube.com/watch?v=m2GVe-iUeAU",
+      "title": "MEDUSA | She Was Reborn as Medusa Drama Films | FULL MOVIE | 4K AI Film",
+      "description": "MEDUSA | She Was Reborn as Medusa Drama Films | FULL MOVIE | 4K AI Film.\nMEDUSA THE CURSE OF LOVE is a beautiful Greek mythology fantasy movie about Medusa, Poseidon, and a timeless love that lasts for thousands of years.\n\nWhen a kind young woman begins remembering a mysterious past, she discovers an extraordinary connection with a stranger who feels strangely familiar. Together, they uncover an ancient secret and a love story that time could never erase.\n\n#Medusa #Poseidon #FantasyMovie #FullMovie #FantasyRomance #EpicFantasy #drama",
+      "channelId": "UCARXlCEp7SZCto6YxkAR7XQ",
+      "channelTitle": "THG Films",
+      "thumbnail": "https://i.ytimg.com/vi/m2GVe-iUeAU/hqdefault.jpg",
+      "publishedAt": "2026-10-15T14:49:53Z",
+      "durationSeconds": 2041,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:12.177Z",
+      "lastSeenAt": "2026-10-28T03:50:12.177Z",
+      "lastVerifiedAt": "2026-10-28T03:50:12.177Z",
       "unavailableAt": null
     }
   ]

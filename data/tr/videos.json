@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:34:13.890Z",
+  "generatedAt": "2026-10-28T03:50:40.363Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-27T03:34:13.890Z",
+      "lastVerifiedAt": "2026-10-28T03:50:40.363Z",
       "unavailableAt": null
     },
     {
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-27T03:34:13.890Z",
+      "lastVerifiedAt": "2026-10-28T03:50:40.363Z",
       "unavailableAt": null
     },
     {
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-10-27T03:34:13.890Z",
+      "lastVerifiedAt": "2026-10-28T03:50:40.363Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,26 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-10-27T03:34:13.890Z",
+      "lastVerifiedAt": "2026-10-28T03:50:40.363Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lLgajqFMrNI",
+      "url": "https://www.youtube.com/watch?v=lLgajqFMrNI",
+      "title": "Yapay Zekâ İnsanlığa Karşı! - Kuantum Üstünlüğü | Bilim Kurgu ve Aksiyon | Türkçe Dublajlı | 4K",
+      "description": "Daha fazla Türkçe dublaj ve altyazılı yabancı filmler için kanalımıza abone olun: https://www.youtube.com/channel/UCvNxKFu5Yv04TfeZxcKam7Q?sub_confirmation=1\n\nYapay Zekâ İnsanlığa Karşı! - Kuantum Üstünlüğü | Bilim Kurgu ve Aksiyon | Türkçe Dublajlı | 4K\n\n📌 Filmin Konusu:\nİnsanlığın kontrolden çıkmış robotlar ve her şeye gücü yeten acımasız bir yapay zekâ tarafından yok edilme tehdidiyle karşı karşıya kaldığı karanlık bir gelecekte, Kaptan Monroe ve cesur mürettebatı yaklaşan bu felaketi engellemek için zamana karşı amansız bir yarışa girer. Evrenin ve insan ırkının kaderini belirleyecek olan bu ölümcül mücadelede, üstün teknolojiye karşı sadece cesaret, zekâ ve hayatta kalma arzusu galip gelebilecektir.\n\n✨ Yapay zekâ savaşlarını, distopik gelecek kurgularını ve nefes kesen bilim kurgu maceralarını izlemek için doğru yerdesiniz! Bu epik hayatta kalma mücadelesini [4K] kalitesinde deneyimleyin.\n\n✨ Oyuncular: Richie Ammons, Michael Ayiotis, Art Brown\n🎥 Yönetmen: Jesse Baget\n✍ Yazar: Steven Barton\n🎭 Tür: Bilim Kurgu, Aksiyon, Macera\n\n⏱️ Zaman Çizelgesi:\n00:00 Başlangıç\n02:30 İlk Yarı\n45:00 İkinci Yarı\n1:17:38 Filmin Sonu\n\n💬 Düşüncelerinizi yorumlarda paylaşın: İnsanlığın hayatta kalmasının tamamen sizin elinizde olduğu ve her şeye gücü yeten, üstün zekâlı bir yapay zekâya karşı savaşmak zorunda kalsaydınız, dünyayı kurtarmak için ilk hamleniz ne olurdu?\n\nİyi seyirler! 🍿🎬\n#KuantumÜstünlüğü #YapayZeka #BilimKurgu #TürkçeDublaj #TekParça #4K #YabanciSinema\n\n\n\nDaha fazla yabancı film izlemek için abone olun: 👉\nhttps://www.youtube.com/@YabancSinema",
+      "channelId": "UCvNxKFu5Yv04TfeZxcKam7Q",
+      "channelTitle": "Yabancı Sinema",
+      "thumbnail": "https://i.ytimg.com/vi/lLgajqFMrNI/hqdefault.jpg",
+      "publishedAt": "2026-10-27T15:00:06Z",
+      "durationSeconds": 4658,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:40.363Z",
+      "lastSeenAt": "2026-10-28T03:50:40.363Z",
+      "lastVerifiedAt": "2026-10-28T03:50:40.363Z",
       "unavailableAt": null
     }
   ]

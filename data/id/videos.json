@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:34:15.486Z",
+  "generatedAt": "2026-10-28T03:50:42.137Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-25T03:03:11.546Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1006,7 +1006,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1120,7 +1120,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1234,7 +1234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,64 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "U3imrI4IjJo",
+      "url": "https://www.youtube.com/watch?v=U3imrI4IjJo",
+      "title": "TUTORIAL LENGKAP MEMBUAT FILM DRAKOR DRAMA KOREA PAKAI AI GRATISAN DURASI PANJANG",
+      "description": "TUTORIAL LENGKAP MEMBUAT FILM DRAKOR DRAMA KOREA PAKAI AI GRATISAN DURASI PANJANG\n\n\n\nPada tutorial kali ini, kita akan belajar membuat FILM DRAKOR (DRAMA KOREA) yang super keren dan menarik hanya pakai AI gratisan, kita akan memanfaatkan Google Flow dengan menggunakan model Omni Flash. Semoga Bermanfaat. \n\nKURSUS ONLINE AI. Berikut ini Informasi lengkapnya : \n\nhttps://www.youtube.com/watch?v=XQYK_cyjwgg\n\nJUAL VIDEO TUTORIAL KURSUS AI. Di bawah ini informasi lengkapnya :\n\nhttps://www.youtube.com/watch?v=uf6cl_ctdDk&t=10s\n\n\nSITUS AI YANG DIPAKAI : \n\nhttps://chatgpt.com/\n\nhttps://flow.google.com/about\n\n\n\n\nPROMPT YANG SAYA PAKAI :\n\nhttps://docs.google.com/document/d/1X-c_UCg7mNWp5AheUL5GYyn_9lMVcwHg/edit?usp=sharing&ouid=108506334380279112302&rtpof=true&sd=true\n\n\n\n\n#ai  #tutorial  #tutorialai   #filmdrakor  #drakor   #filmdrakorai  #dramakorea",
+      "channelId": "UCWZIAXT5Dk9keVP3oaxQHRw",
+      "channelTitle": "Azkia Rafifah",
+      "thumbnail": "https://i.ytimg.com/vi/U3imrI4IjJo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T00:11:18Z",
+      "durationSeconds": 1827,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:42.137Z",
+      "lastSeenAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "t8itw0aFx88",
+      "url": "https://www.youtube.com/watch?v=t8itw0aFx88",
+      "title": " Full Movie ll ♥️ Do Behne Aur Ek Mohabbat 💔 | AI Love Story ll Sirf Tum ll 💔 Heart Touching Story ",
+      "description": "Do behne aur ek Mohbbat ❤️\n\nDaniyal apni model cousin se mohabbat karta hai, lekin woh uski mohabbat ki qadar nahi karti aur shaadi ke din ghar se bhaag jaati hai. Majboori mein Daniyal ko uski seedhi-saadhi behen se shaadi karni padti hai. Waqt ke saath dono ke beech mohabbat paida ho jaati hai, lekin tabhi model behen wapas aakar unki zindagi mein toofan le aati hai. 💔\n\nKya Daniyal apni purani mohabbat ko chunta hai ya apni biwi ka saath nibhata hai? Jaanne ke liye dekhiye yeh dilchasp love story! ❤️✨\n\npuri kahani janne ke liye video ko end Tak zarur dekhen agar aap naye hai to hamare channel ko subscribe kijiye \n\n\n#aistory #aivideos #urdustory #hindistories #lovestory #inspiration #youtubestory #cousinlovestory #emotionalstory #emotionalaistory #hearttouchingstory #pakistanidrama #urdustory #urdukahanyan #Hindistory#sistersister #couainlovestory#familydrama #pakistanidramastory  #EmotionalAIStory #HindiLoveStory #UrduLoveStory #PakistaniDramaStory #FamilyDrama #CousinLoveStory #SisterStory #HindiStory #UrduKahani #HeartTouchingKahani #LoveAndMarriage #AIStorytelling #HindiKahaniyan #UrduHindiKahani #TrendingStory #ViralStory #YouTubeStory",
+      "channelId": "UC-FWyubNSMpb449s0ikoyww",
+      "channelTitle": "“Beautiful Kahaniyan",
+      "thumbnail": "https://i.ytimg.com/vi/t8itw0aFx88/hqdefault.jpg",
+      "publishedAt": "2026-10-25T12:36:13Z",
+      "durationSeconds": 1843,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:42.137Z",
+      "lastSeenAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KQ9-RKmzVL0",
+      "url": "https://www.youtube.com/watch?v=KQ9-RKmzVL0",
+      "title": "တန်ဖိုးစစ် (စဆုံး) 💔 | အချစ်၊ သစ္စာဖောက်မှုနဲ့ ပေးဆပ်ခြင်း | Myanmar AI Drama Full Movie (EP 1–4)",
+      "description": "🎬 **တန်ဖိုးစစ် (စဆုံး) | Myanmar AI Drama Full Movie | Episode 1–4**\n\n💔 တန်ဖိုးစစ်ဆိုတာ ငွေကြေးနဲ့ တိုင်းတာလို့ရတဲ့အရာ မဟုတ်ပါဘူး...\n\nအချစ်၊ သစ္စာဖောက်မှု၊ မာန၊ လောဘနဲ့ အဆုံးစွန်ဆုံး ပေးဆပ်ခြင်းတွေကြားမှာ လူတစ်ယောက်ရဲ့ တန်ဖိုးစစ်ကို ဘယ်လိုသက်သေပြနိုင်မလဲ။\n\nရိုးရာပိုးထည်လက်ရာကို အသက်နဲ့ရင်းပြီး ချစ်မြတ်နိုးတဲ့ ချစ်သက်...\n\nသူမရဲ့ အိပ်မက်နဲ့ နောက်ဆုံးဆန္ဒကို အကောင်အထည်ဖော်ပေးဖို့ ကြိုးစားနေတဲ့ ဘုန်းမြတ်...\n\nသူတို့ရဲ့ ဘဝကို ဖျက်ဆီးဖို့ ကြိုးစားကြတဲ့ လောဘနဲ့ မာနကြီးသူတွေ...\n\nနောက်ဆုံးမှာ အနိုင်ရသွားတာက ငွေကြေးလား၊ အာဏာလား၊ ဒါမှမဟုတ် အချစ်စစ်နဲ့ ရိုးသားတဲ့လက်ရာတွေလား။\n\n🥀 **ချစ်သက်ရဲ့ နောက်ဆုံးဆန္ဒက ဘုန်းမြတ်အတွက် ဘယ်တော့မှ မမေ့နိုင်တဲ့ အမှတ်တရတစ်ခု ဖြစ်လာခဲ့တယ်။**\n\nဒီဗီဒီယိုမှာ တန်ဖိုးစစ် ဇာတ်လမ်း Episode 1 ကနေ Episode 4 အထိ တစ်ဆက်တည်း ကြည့်ရှုနိုင်ပါတယ်။\n\n🎭 **ဇာတ်လမ်းအမျိုးအစား**\nMyanmar Romantic Drama | Family Drama | Emotional Story | Traditional Silk Weaving | AI Movie\n\n🎥 **Created by Anna's Ai Movies**\n\nဒီဇာတ်လမ်းကို AI နည်းပညာအသုံးပြုပြီး ဖန်တီးတင်ဆက်ထားပါတယ်။ ဇာတ်ကောင်များနှင့် ဖြစ်ရပ်များသည် စိတ်ကူးယဉ်ဇာတ်လမ်းအတွက် ဖန်တီးထားခြင်းဖြစ်ပါသည်။\n\n❤️ ဇာတ်လမ်းကို ကြိုက်နှစ်သက်တယ်ဆိုရင် Like လုပ်ပေးပါ။\n💬 ဘယ်ဇာတ်ကောင်ရဲ့ သရုပ်ဖော်မှုကို အကြိုက်ဆုံးလဲ Comment မှာ ပြောပြပေးပါ။\n🔔 နောက်ထပ် မြန်မာ AI ဇာတ်လမ်းအသစ်တွေ ကြည့်ရှုဖို့ Subscribe လုပ်ထားပေးပါ။\n\n#တန်ဖိုးစစ် #MyanmarAIDrama #MyanmarFullMovie #AnnasAiMovies #မြန်မာဇာတ်လမ်း #AIShortFilm #MyanmarDrama #BurmeseDrama #AIStorytelling #LoveAndSacrifice #မြန်မာAIဇာတ်ကား #FullMovie",
+      "channelId": "UCloJoimx3dy7cnoEV7w4Bdg",
+      "channelTitle": "Anna’s Ai Movies ",
+      "thumbnail": "https://i.ytimg.com/vi/KQ9-RKmzVL0/hqdefault.jpg",
+      "publishedAt": "2026-10-23T12:30:08Z",
+      "durationSeconds": 3118,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-28T03:50:42.137Z",
+      "lastSeenAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
       "unavailableAt": null
     }
   ]
