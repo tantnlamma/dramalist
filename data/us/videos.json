@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:50:01.095Z",
+  "generatedAt": "2026-10-29T04:12:43.182Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -790,7 +790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -809,7 +809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -829,7 +829,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -849,7 +849,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1001,7 +1001,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1040,7 +1040,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1059,7 +1059,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1170,11 +1170,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "unavailableAt": "2026-10-29T04:12:43.182Z"
     },
     {
       "videoId": "_IVr26gU22s",
@@ -1192,7 +1192,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1268,7 +1268,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1288,7 +1288,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1303,12 +1303,13 @@
       "durationSeconds": 2709,
       "matchedKeywords": [
         "AI science fiction drama full movie",
-        "artificial intelligence full movie"
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1346,7 +1347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1384,7 +1385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1403,7 +1404,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1612,7 +1613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1651,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1689,7 +1690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1784,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1899,7 +1900,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -1937,7 +1938,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2072,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2185,7 +2186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2299,7 +2300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2356,7 +2357,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:39.246Z",
       "lastSeenAt": "2026-10-24T03:07:39.246Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2452,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2585,7 +2586,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2630,7 +2631,7 @@
       "videoId": "rnUN70QzMUA",
       "url": "https://www.youtube.com/watch?v=rnUN70QzMUA",
       "title": "Bijou & the AI Kids – The Full Movie | Volume 1: The Portal to Tomorrow | Animated Kids Adventure",
-      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n📖 Get the book (paperback graphic novel): https://www.amazon.com/dp/B0HPC1HJZY\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
+      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n📚 Get the books on Amazon (Kindle & paperback):\n📖 Vol 1 – The Portal to Tomorrow: https://www.amazon.com/dp/B0HPC1HJZY\n📖 Vol 2 – The City That Forgot Tomorrow: https://www.amazon.com/dp/B0HPH4W6WD\n📖 Vol 3 – The Black Route: https://www.amazon.com/dp/B0HPGFSKJM\n📖 Vol 4 – The Silent Courier: https://www.amazon.com/dp/B0HPGNFVV3\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
       "channelId": "UCGr1lQdPbxuEaAHRDzHT8Fw",
       "channelTitle": "Bijou & the AI Kids",
       "thumbnail": "https://i.ytimg.com/vi/rnUN70QzMUA/hqdefault.jpg",
@@ -2661,7 +2662,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2700,7 +2701,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2739,7 +2740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2758,7 +2759,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2777,7 +2778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2796,7 +2797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2815,7 +2816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2834,7 +2835,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     },
     {
@@ -2873,6 +2874,101 @@
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
       "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SDGsNLAaXbo",
+      "url": "https://www.youtube.com/watch?v=SDGsNLAaXbo",
+      "title": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie",
+      "description": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie\n\n⚔️ WELCOME:\nExperience epic full-length cinematic movies crafted with advanced Artificial Intelligence. From ancient mythologies and historical sagas to breathtaking fantasy realms, we bring imagination to life through AI cinema.\n\n🔔 SUBSCRIBE for more cinematic AI films:\n\n✨ SUPPORT & CONNECT / تواصل معنا:\n• Business Inquiries: []\n• Follow our journey and share your thoughts in the comments!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ Disclaimer: This video is a creative cinematic project generated and enhanced using Artificial Intelligence tools for storytelling, entertainment, and educational exploration of history and folklore.\n\n#AIFilm #FullMovie #FantasyMovie #HistoricalEpic #Mythology #AlaaEzz #CinematicAI",
+      "channelId": "UCGGVwYaMVBNIxzTrpnrdFvA",
+      "channelTitle": "ALAA EZZ",
+      "thumbnail": "https://i.ytimg.com/vi/SDGsNLAaXbo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T21:15:57Z",
+      "durationSeconds": 1844,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:43.182Z",
+      "lastSeenAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "q7xcNNYV0Bg",
+      "url": "https://www.youtube.com/watch?v=q7xcNNYV0Bg",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/q7xcNNYV0Bg/hqdefault.jpg",
+      "publishedAt": "2026-10-28T10:44:08Z",
+      "durationSeconds": 6342,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:43.182Z",
+      "lastSeenAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_pra6q7pvSY",
+      "url": "https://www.youtube.com/watch?v=_pra6q7pvSY",
+      "title": "THE AUREN PRINCIPLE – The Discovery That Changed Everything | Full Sci-Fi Movie",
+      "description": "Written, directed, produced, and published by Alay Demir. Created with limited AI-assisted production support.\n\nTHE AUREN PRINCIPLE – The Discovery That Changed Everything | Full Sci-Fi Movie\n\nWhat if the greatest discovery in human history was hiding inside something the world had already learned to take for granted?\n\nIn the year 2384, humanity lives in an extraordinary future. Intelligent machines have taken over the burden of labor, and people are free to spend their lives pursuing whatever gives them meaning.\n\nBut beneath this seemingly perfect civilization lies a mystery no one has truly understood.\n\nDr. Jonah Merrick, an independent scientist living beside a remote northern sea, begins questioning the technology that has transformed human civilization. His investigation into the mysterious Auren Core leads him toward a discovery that challenges everything science believes about intelligence, identity, and life itself.\n\nWith Iona, a remarkably human-like android, and Tavi, an experimental artificial intelligence, Jonah ventures into territory where scientific possibility and moral responsibility become impossible to separate.\n\nAnd as the answers begin to emerge, one question becomes increasingly difficult to ignore:\n\nWhat happens when humanity discovers something it may not be ready to understand?\n\nTHE AUREN PRINCIPLE is an original, thought-provoking science-fiction feature exploring artificial consciousness, human connection, extraordinary scientific discoveries, freedom, sacrifice, and the choices that define our future.\n\nA mystery that begins with one scientist could change the meaning of life for an entire civilization.\n\nFull Movie Runtime: 1 Hour 4 Minutes (64 Minutes)\n\nPRODUCTION INFORMATION\n\nThis film was created with approximately 25–30% support from artificial intelligence. The original idea, research, subject, creative direction, story, and final decisions were developed through human thought and imagination. Artificial intelligence was used only as a supporting production tool.\n\nFilm Duration: 1 hour 4 minutes (64 minutes)\n\nPRODUCTION CREDITS\n\nStory, concept, screenplay, narrative design, creative direction, and editing: Alay Demir\n\nWritten, directed, produced, and published by: Alay Demir\n\nVideo production: Flow and VideoExpress\n\nStory organization, scene planning, prompt development, and production assistance: Bionic Platform\n\nArtificial intelligence was used only to support selected stages of visual production, prompt preparation, scene planning, and workflow organization. All final creative decisions, story development, direction, editing, and publishing were completed by Alay Demir.\n\n#TheAurenPrinciple #SciFiMovie #FullSciFiMovie #ScienceFiction #OriginalSciFi #ArtificialIntelligence #SciFiDrama #FutureTechnology #Androids #Consciousness #SciFiFilm #FuturisticWorld #AIFilm #SciFiStory #FullMovie",
+      "channelId": "UCE17RazHyHfZ5D6XlgalvxA",
+      "channelTitle": "Future Stories by AI",
+      "thumbnail": "https://i.ytimg.com/vi/_pra6q7pvSY/hqdefault.jpg",
+      "publishedAt": "2026-10-27T18:59:24Z",
+      "durationSeconds": 3853,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:43.182Z",
+      "lastSeenAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fLl4GXJWU84",
+      "url": "https://www.youtube.com/watch?v=fLl4GXJWU84",
+      "title": "The Aliens Had Been Watching Us | AI Sci-Fi Series | Under the Black Sun Ep. 7",
+      "description": "The enemy was inside the palace. The aliens had been watching. And Veilara was hiding a secret of its own.\n\nWatch Under the Black Sun — Episode 7, an original AI sci-fi series from Nebula Forge Studio, where royal betrayal, alien first contact, and ancient mysteries collide.\n\nRen and his crew return to Eridana with Eliana to expose a conspiracy threatening her family and the throne. Behind the palace walls, ambition and the secretive Meridian organization have turned trusted allies into enemies. But uncovering the truth may be easier than accepting it—and freeing someone from darkness does not erase every choice they made.\n\nMeanwhile, the mining ship ARKTOR encounters three unidentified alien warships. What begins as a possible threat becomes an opportunity for first contact with the Orru. As Lira Veyn meets diplomat Vaari Nesh, a surprising revelation changes the meaning of their arrival: these strangers already know more about Veilara than anyone expected.\n\nWith new allies and a growing colony, Ren begins planning for a future beyond survival. Trade, shared knowledge, and a proposed early-warning station could help protect their home. Somewhere beyond their borders, however, the threat of the Ash’Rai remains.\n\nAnd deep in Veilara’s unexplored jungles, a research expedition discovers ancient ruins that have kept their secrets for hundreds of thousands of years. One touch is about to change that.\n\nThis science fiction adventure brings together interstellar diplomacy, political intrigue, family conflict, and the search for a better future among the stars.\n\nWould you trust the Orru? What do you think is hidden in Veilara’s ancient ruins? Share your theories in the comments.\n\nSubscribe to Nebula Forge Studio for the next episode of Under the Black Sun and more original AI-created films and series. Like the episode and share it with someone who loves space adventures and alien mysteries.\n\n#UnderTheBlackSun #SciFiSeries #ScienceFiction #AISciFi #SpaceAdventure",
+      "channelId": "UCeGKV_VXD7UykeYlb385d9g",
+      "channelTitle": "NEBULA FORGE STUDIO",
+      "thumbnail": "https://i.ytimg.com/vi/fLl4GXJWU84/hqdefault.jpg",
+      "publishedAt": "2026-10-22T17:00:08Z",
+      "durationSeconds": 2462,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:43.182Z",
+      "lastSeenAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "72nMxm1Y650",
+      "url": "https://www.youtube.com/watch?v=72nMxm1Y650",
+      "title": "فيلم جنات(film complet) ",
+      "description": "",
+      "channelId": "UCEpHIRWjBw6bYP6skKx09ag",
+      "channelTitle": "kawtar Ai",
+      "thumbnail": "https://i.ytimg.com/vi/72nMxm1Y650/hqdefault.jpg",
+      "publishedAt": "2026-10-07T20:56:20Z",
+      "durationSeconds": 3197,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:43.182Z",
+      "lastSeenAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
       "unavailableAt": null
     }
   ]

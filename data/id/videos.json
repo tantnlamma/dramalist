@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:50:42.137Z",
+  "generatedAt": "2026-10-29T04:13:23.836Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1082,7 +1082,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:19.424Z",
       "lastSeenAt": "2026-10-24T03:08:19.424Z",
-      "lastVerifiedAt": "2026-10-24T03:08:19.424Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1120,7 +1120,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1215,7 +1215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1234,7 +1234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1253,7 +1253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     },
     {
@@ -1329,7 +1329,45 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nQyNSaTcfnk",
+      "url": "https://www.youtube.com/watch?v=nQyNSaTcfnk",
+      "title": "AETHER WARS (2026) – Full Sci-Fi Fantasy Movie in 4K | Epic Alien War",
+      "description": "An ancient power awakens, triggering an unstoppable war between humanity and powerful alien civilizations across mysterious worlds.\n\nAs legendary warriors rise and dark forces threaten the universe, one battle will determine the fate of every civilization.\n\nWatch AETHER WARS (2026), a 1-hour epic sci-fi fantasy full movie featuring alien worlds, futuristic battles, powerful warriors, and cinematic action in 4K.\n\n#SciFiMovie #FullMovie #AetherWars\n\nAETHER WARS, AETHER WARS 2026, sci fi full movie, sci fi movie 2026, sci fi fantasy movie, full sci fi movie 4K, epic science fiction movie, alien war movie, fantasy action movie, space war movie, science fiction full movie, alien invasion movie, futuristic action movie, epic fantasy movie, AI sci fi movie, cinematic sci fi film, 4K full movie, new sci fi movie 2026, alien civilization, space fantasy adventure",
+      "channelId": "UCvtJdhYubyFBxhfxrI2dVbA",
+      "channelTitle": "Vokri Studios",
+      "thumbnail": "https://i.ytimg.com/vi/nQyNSaTcfnk/hqdefault.jpg",
+      "publishedAt": "2026-10-27T19:04:06Z",
+      "durationSeconds": 4261,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:13:23.836Z",
+      "lastSeenAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5mLfuULlnpk",
+      "url": "https://www.youtube.com/watch?v=5mLfuULlnpk",
+      "title": "A Lonely Christmas | A BL Love Story — Full Season 1 (AI Drama) by Dantemaro ",
+      "description": "",
+      "channelId": "UCVk8nWin2phOX9vDR0GITng",
+      "channelTitle": "Maria Bulionse ",
+      "thumbnail": "https://i.ytimg.com/vi/5mLfuULlnpk/hqdefault.jpg",
+      "publishedAt": "2026-10-27T18:49:00Z",
+      "durationSeconds": 2215,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:13:23.836Z",
+      "lastSeenAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
       "unavailableAt": null
     }
   ]

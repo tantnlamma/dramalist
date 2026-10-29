@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:50:24.573Z",
+  "generatedAt": "2026-10-29T04:13:06.322Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +740,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:55.530Z",
       "lastSeenAt": "2026-10-26T03:01:55.530Z",
-      "lastVerifiedAt": "2026-10-27T03:33:58.202Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +759,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:55.530Z",
       "lastSeenAt": "2026-10-26T03:01:55.530Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +817,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -874,7 +874,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     },
     {
@@ -893,7 +893,45 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-28T03:50:24.573Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-t1aDAFrNe8",
+      "url": "https://www.youtube.com/watch?v=-t1aDAFrNe8",
+      "title": "EL GALLERO DEL DIABLO 😈 | Pelicula Completa de EL COMPA CAMARON | Mi Gallo 2 - Accion y Narcos",
+      "description": "🐓🔥 EL GALLERO DEL DIABLO | EPISODIO 1\nEL COMIENZO DE LA MALDICIÓN\n\n🎬 Una serie original de ROG FILMS ENTERTAINMENT.\n\n¿Hasta dónde estarías dispuesto a llegar para cambiar tu destino? ¿Y qué pasaría si el precio fuera tu propia alma?\n\nEn las calles y palenques de Culiacán, Sinaloa, durante los años 90, vive un hombre conocido como DON CAMARÓN.\n\nUn gallero que ha dedicado su vida a las peleas de gallos, pero cuya suerte parece estar condenada al fracaso.\n\nLas derrotas, las humillaciones y la desesperación comienzan a destruir su orgullo.\n\nEn casa lo esperan su esposa Yara y sus tres hijos, sin imaginar que el destino de toda la familia está a punto de cambiar.\n\nPero cuando un hombre misterioso aparece con una propuesta imposible de rechazar, Don Camarón descubrirá que algunas victorias tienen un precio que el dinero jamás podrá pagar.\n\n😈 EL DIABLO NO SIEMPRE VIENE A QUITARTE ALGO... A VECES VIENE A OFRECERTE TODO.\n\n🔥 Una historia de ambición, miedo, familia, traición y fuerzas sobrenaturales.\n\n🎥 EL GALLERO DEL DIABLO\nUna producción cinematográfica de ROG FILMS ENTERTAINMENT.\n\nCreada por Rubén Ozuna Gallardo.\n\nUna serie realizada con tecnología de inteligencia artificial y dirección creativa cinematográfica.\n\n📺 EPISODIO 1 — EL COMIENZO DE LA MALDICIÓN\n\n🔔 SUSCRÍBETE y activa la campanita para no perderte los próximos episodios.\n\n👍 Dale LIKE si quieres que continúe esta historia.\n\n💬 CUÉNTANOS EN LOS COMENTARIOS:\n\n¿TÚ HARÍAS UN PACTO CON EL DIABLO PARA CAMBIAR TU DESTINO?\n\n🔥 Esto apenas comienza...\n\n#ElGalleroDelDiablo #DonCamaron #ROGFilms #SeriesMexicanas #TerrorMexicano #CineMexicano #InteligenciaArtificial #SeriesDeTerror #Culiacan #PactoConElDiablo\n\n\n\nÚnete a este canal para acceder a sus beneficios:\nhttps://www.youtube.com/channel/UCydMDTtiEHzchxmeGPssLvA/join",
+      "channelId": "UCydMDTtiEHzchxmeGPssLvA",
+      "channelTitle": "Loz Lopez Casas TV",
+      "thumbnail": "https://i.ytimg.com/vi/-t1aDAFrNe8/hqdefault.jpg",
+      "publishedAt": "2026-10-28T19:00:07Z",
+      "durationSeconds": 2266,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:13:06.322Z",
+      "lastSeenAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uEvJkM3w9pU",
+      "url": "https://www.youtube.com/watch?v=uEvJkM3w9pU",
+      "title": "Hambruna: Alimento a Mi Familia EP1-101 (ANIMACIÓN COMPLETA 2026) En Español （ANIME DE IA）",
+      "description": "**¿Quieres Motion Comic de alta calidad? ¡Aquí tienes todas series originales con licencia completa, con escenas clásicas que no dejan de desarrollarse!**\n\nLuchar por un amigo, desafiar al destino, levantarse desde una situación desesperada...\n\nCada episodio ofrece tramas apasionantes que no puedes dejar de ver, imposibles de soltar.",
+      "channelId": "UCnjmS-TKzh3J_ztS5KzOEPQ",
+      "channelTitle": "Hongguo Studio de Dramas",
+      "thumbnail": "https://i.ytimg.com/vi/uEvJkM3w9pU/hqdefault.jpg",
+      "publishedAt": "2026-10-25T03:00:34Z",
+      "durationSeconds": 10595,
+      "matchedKeywords": [
+        "drama IA película completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:13:06.322Z",
+      "lastSeenAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
       "unavailableAt": null
     }
   ]

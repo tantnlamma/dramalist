@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:50:15.199Z",
+  "generatedAt": "2026-10-29T04:12:56.778Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -76,7 +76,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -96,7 +96,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -116,7 +116,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -195,7 +195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -215,7 +215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -235,7 +235,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -254,7 +254,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -273,7 +273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -292,7 +292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -311,7 +311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -331,7 +331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -350,7 +350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -388,7 +388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -407,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -427,7 +427,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -486,7 +486,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -525,7 +525,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-27T03:33:49.966Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -621,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -699,7 +699,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -756,7 +756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -775,7 +775,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -794,7 +794,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -814,7 +814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -834,7 +834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -873,7 +873,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:49.966Z",
       "lastSeenAt": "2026-10-27T03:33:49.966Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:49.966Z",
       "lastSeenAt": "2026-10-27T03:33:49.966Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -1007,7 +1007,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     },
     {
@@ -1046,7 +1046,26 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ji_Sr9dzLlU",
+      "url": "https://www.youtube.com/watch?v=ji_Sr9dzLlU",
+      "title": "The Perfect AI Boyfriend I Found After Catching Him Cheating 🔥 | Full Movie 2026",
+      "description": "The Perfect AI Boyfriend I Found After Catching Him Cheating 🔥 | Full Movie 2026\n\n🔥 The Perfect AI Boyfriend I Found After Catching Him Cheating | Full Movie English Subtitles 2026!\n\n💔 What happens when betrayal changes everything and an unexpected AI boyfriend enters the picture? Discover a dramatic story filled with romance, heartbreak, shocking twists, and unexpected surprises!\n\n🎬 Watch this full movie with English subtitles and enjoy an engaging romantic drama experience.\n\n❤️ If you enjoy romantic movies, AI love stories, relationship dramas, and emotional plot twists, don't forget to LIKE, COMMENT, and SUBSCRIBE for more movie updates!\n\n📌 Follow our channel group to get the latest movie updates.\n\n#ThePerfectAIBoyfriend #FullMovie #EnglishSubtitles #RomanceDrama #AIBoyfriend #ChineseDrama #RomanticMovie #LoveStory #Drama2026 #MovieUpdates#ThePerfectAIBoyfriend\n#FullMovie2026\n#EnglishSubtitles\n#AIBoyfriend\n#RomanticDrama\n#ChineseDrama\n#LoveStory\n#RelationshipDrama\n#BetrayalStory\n#RomanceMovie\n#EmotionalDrama\n#ShortDrama\n#DramaMovies\n#FullMovieEnglishSub\n#MovieUpdates\n\nThe Perfect AI Boyfriend, The Perfect AI Boyfriend Full Movie, I Found After Catching Him Cheating, full movie English subtitles 2026, AI boyfriend movie, cheating boyfriend drama, romantic drama full movie, Chinese romance drama, English sub movie, AI love story, betrayal love story, relationship drama, romantic movies 2026, emotional love story, Chinese short drama, full movie English sub, latest drama updates, romance movie full episode",
+      "channelId": "UC7NU3It9oX06l91Vn0-kc5Q",
+      "channelTitle": "veer editz 2.2",
+      "thumbnail": "https://i.ytimg.com/vi/ji_Sr9dzLlU/hqdefault.jpg",
+      "publishedAt": "2026-10-28T00:16:21Z",
+      "durationSeconds": 5168,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-29T04:12:56.778Z",
+      "lastSeenAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
       "unavailableAt": null
     }
   ]
