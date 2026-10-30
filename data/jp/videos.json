@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:12:56.778Z",
+  "generatedAt": "2026-10-30T04:12:39.755Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -76,7 +76,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -96,7 +96,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -116,7 +116,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -195,7 +195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -215,7 +215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -235,7 +235,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -254,7 +254,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -273,7 +273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -292,7 +292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -311,7 +311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -331,7 +331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -350,7 +350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -407,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -427,7 +427,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -486,7 +486,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -525,7 +525,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -621,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -699,7 +699,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -756,7 +756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -775,7 +775,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -794,7 +794,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -814,7 +814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -834,7 +834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -1007,7 +1007,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -1046,7 +1046,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     },
     {
@@ -1065,7 +1065,26 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:56.778Z",
       "lastSeenAt": "2026-10-29T04:12:56.778Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SDGsNLAaXbo",
+      "url": "https://www.youtube.com/watch?v=SDGsNLAaXbo",
+      "title": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie",
+      "description": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie\n\n⚔️ WELCOME:\nExperience epic full-length cinematic movies crafted with advanced Artificial Intelligence. From ancient mythologies and historical sagas to breathtaking fantasy realms, we bring imagination to life through AI cinema.\n\n🔔 SUBSCRIBE for more cinematic AI films:\n\n✨ SUPPORT & CONNECT / تواصل معنا:\n• Business Inquiries: []\n• Follow our journey and share your thoughts in the comments!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ Disclaimer: This video is a creative cinematic project generated and enhanced using Artificial Intelligence tools for storytelling, entertainment, and educational exploration of history and folklore.\n\n#AIFilm #FullMovie #FantasyMovie #HistoricalEpic #Mythology #AlaaEzz #CinematicAI",
+      "channelId": "UCGGVwYaMVBNIxzTrpnrdFvA",
+      "channelTitle": "ALAA EZZ",
+      "thumbnail": "https://i.ytimg.com/vi/SDGsNLAaXbo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T21:15:57Z",
+      "durationSeconds": 1844,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:12:39.755Z",
+      "lastSeenAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
       "unavailableAt": null
     }
   ]

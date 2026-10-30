@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:13:23.836Z",
+  "generatedAt": "2026-10-30T04:13:04.947Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -186,7 +186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +968,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-27T03:34:15.486Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1041,11 +1041,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "unavailableAt": "2026-10-30T04:13:04.947Z"
     },
     {
       "videoId": "deC2NZMPJHQ",
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1234,7 +1234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1253,7 +1253,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1329,7 +1329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,45 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SDGsNLAaXbo",
+      "url": "https://www.youtube.com/watch?v=SDGsNLAaXbo",
+      "title": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie",
+      "description": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie\n\n⚔️ WELCOME:\nExperience epic full-length cinematic movies crafted with advanced Artificial Intelligence. From ancient mythologies and historical sagas to breathtaking fantasy realms, we bring imagination to life through AI cinema.\n\n🔔 SUBSCRIBE for more cinematic AI films:\n\n✨ SUPPORT & CONNECT / تواصل معنا:\n• Business Inquiries: []\n• Follow our journey and share your thoughts in the comments!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ Disclaimer: This video is a creative cinematic project generated and enhanced using Artificial Intelligence tools for storytelling, entertainment, and educational exploration of history and folklore.\n\n#AIFilm #FullMovie #FantasyMovie #HistoricalEpic #Mythology #AlaaEzz #CinematicAI",
+      "channelId": "UCGGVwYaMVBNIxzTrpnrdFvA",
+      "channelTitle": "ALAA EZZ",
+      "thumbnail": "https://i.ytimg.com/vi/SDGsNLAaXbo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T21:15:57Z",
+      "durationSeconds": 1844,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:13:04.947Z",
+      "lastSeenAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ch0Epb2houY",
+      "url": "https://www.youtube.com/watch?v=Ch0Epb2houY",
+      "title": "AETHER WARS: The Final Conflict Begins | Epic Sci-Fi Fantasy Movie",
+      "description": "The final battle for the universe begins! ⚔️🌌 Enter a world of alien warriors, powerful kingdoms, futuristic armies, and an epic war that will decide the fate of the galaxy.\n\nExperience an epic sci-fi fantasy adventure filled with spectacular battles, mysterious powers, and cinematic visuals.\n\n🤖 AI Content Disclaimer: This video features AI-generated content, including visuals and cinematic elements. It is created for entertainment purposes.\n\n#AetherWars #SciFiMovie #AlienInvasion #EpicFantasy #ScienceFiction\n\nAether Wars, Aether Wars movie, Aether Wars full movie, sci fi fantasy movie, epic sci fi movie, alien war movie, alien invasion movie, space war movie, futuristic war, epic fantasy film, science fiction movie, cinematic sci fi, intergalactic war, alien warriors, space battle, fantasy action movie, AI generated movie, AI movie, AI sci fi film, epic space adventure, galactic battle, futuristic civilization, cosmic war, fantasy adventure film, 2026 sci fi movie",
+      "channelId": "UCX6rm_GRrGiK1PLTVm1uX8Q",
+      "channelTitle": "Cinadoee",
+      "thumbnail": "https://i.ytimg.com/vi/Ch0Epb2houY/hqdefault.jpg",
+      "publishedAt": "2026-10-29T04:09:11Z",
+      "durationSeconds": 4261,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:13:04.947Z",
+      "lastSeenAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:13:06.322Z",
+  "generatedAt": "2026-10-30T04:12:47.855Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -130,7 +130,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -683,7 +683,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +817,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -874,7 +874,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -893,7 +893,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     },
     {
@@ -932,6 +932,25 @@
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
       "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Kak743ZbUoI",
+      "url": "https://www.youtube.com/watch?v=Kak743ZbUoI",
+      "title": "EL PACTO PROHIBIDO | Película completa | Enoc y el juramento de Semjaza que selló la condena",
+      "description": "EL PACTO PROHIBIDO | Película completa | Enoc y el juramento secreto de los ángeles caídos 4K\n\nSemjaza reunió a los ángeles y les hizo jurar que no se detendrían. Envidia, deseo y un juramento de silencio llevaron a los vigilantes a enseñar secretos prohibidos y a unirse con las hijas de los hombres. Enoc escucha su súplica y sube a las montañas a buscar la respuesta del Creador.\n\nEn este video:\n0:00 El juramento de Semjaza y los vigilantes\n1:37 La encomienda de vigilar a los hombres\n7:31 Memorias grabadas como fuego en la piedra\n10:30 La falsedad crece en silencio\n13:31 Los relatos tejidos sobre Enoc\n18:03 La alabanza deforma el corazón\n21:03 La belleza de las hijas de los hombres\n24:00 El deseo se vuelve carne y realidad\n27:02 Los gigantes devoraban la tierra\n30:06 La caída empezó con la propia voluntad\n33:05 Juzgar qué límites acatarse\n37:31 La presencia y la voz del Creador\n40:30 Enoc lleva la respuesta a los vigilantes\n42:03 Los vigilantes escuchan el veredicto\n46:31 Enoc se despide de los vigilantes\n48:01 La misma elección ante cada generación\n52:30 Conocimiento sin sabiduría y deseo como justificación\n54:02 La compasión no esconde la verdad\n\nCon Enoc, Creador y Asael.\n\nInspirada en la Biblia, textos apócrifos y tradiciones antiguas, con licencia poética.\n\nAviso importante:\nEste video tiene fines de entretenimiento y reflexión. Las historias y narraciones basadas en la Biblia, textos antiguos y tradiciones apócrifas son representaciones libres y no deben tomarse como interpretaciones literales, históricas o doctrinales.\n\nCreación: guion, imágenes y voz elaborados con herramientas de inteligencia artificial.\n\n👉 Suscríbete para no perderte la próxima película completa basada en la Biblia y los textos apócrifos.\n💬 Cuéntame en los comentarios qué momento te impactó más.\n\n#Enoc #AngelesCaidos #PeliculaCompleta",
+      "channelId": "UCqjwWPEC-EcXhm-TiEfPEgQ",
+      "channelTitle": "ApócrifaStudios",
+      "thumbnail": "https://i.ytimg.com/vi/Kak743ZbUoI/hqdefault.jpg",
+      "publishedAt": "2026-10-29T04:50:54Z",
+      "durationSeconds": 2926,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:12:47.855Z",
+      "lastSeenAt": "2026-10-30T04:12:47.855Z",
+      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
       "unavailableAt": null
     }
   ]

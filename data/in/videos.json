@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:12:49.065Z",
+  "generatedAt": "2026-10-30T04:12:31.727Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -227,7 +227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -385,7 +385,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1110,7 +1110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1129,7 +1129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1207,7 +1207,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1474,7 +1474,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1493,7 +1493,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1531,7 +1531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:49.065Z",
       "lastSeenAt": "2026-10-29T04:12:49.065Z",
-      "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     },
     {
@@ -1551,6 +1551,44 @@
       "discoveredAt": "2026-10-29T04:12:49.065Z",
       "lastSeenAt": "2026-10-29T04:12:49.065Z",
       "lastVerifiedAt": "2026-10-29T04:12:49.065Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wjtAhUEsaIM",
+      "url": "https://www.youtube.com/watch?v=wjtAhUEsaIM",
+      "title": "HINDI NA AKO ANG API [] FULL EPISODE",
+      "description": "Mula sa isang babaeng minamaliit, pinahiya, at pinagkaitan ng pagkakataon… hanggang sa araw na mapatunayan niyang hindi habang-buhay siyang magpapatalo. 💔👑\n\nSi Althea Ramirez ay nawalan ng trabaho at dignidad dahil sa kasinungalingan at pang-aapi ng mga taong akala nila ay kaya nilang kontrolin ang kanyang buhay.\n\nPero hindi nila alam, may isang lalaking handang tumindig para sa kanya—si Sebastian Villareal, isang makapangyarihang lalaki na unti-unting natutong makita ang tunay na halaga ni Althea. ❤️\n\nSa likod ng mga luha, pagtataksil, at masasakit na pangyayari, matutuklasan ni Althea na ang tunay na paghihiganti ay hindi ang gumanti ng kasamaan, kundi ang bumangon, lumaban, at patunayang hindi siya basta-basta kayang yurakan.\n\n💬 Sino ang pinakanakakainis na kontrabida sa story?\n\n❤️ Kung nagustuhan mo ang kwento, LIKE, COMMENT, at SUBSCRIBE para sa mas marami pang nakakaadik na AI drama!\n\n#HindiNaAkoAngApi #FullEpisode #FilipinoDrama #AIStory #RevengeDrama #RomanceDrama #PinoyDrama #DramaSeries #Kdrama #AIStory #AIMovie",
+      "channelId": "UC_X-Uj8Gz7yp21-fOmyKmKg",
+      "channelTitle": "Ceej Film ☕︎",
+      "thumbnail": "https://i.ytimg.com/vi/wjtAhUEsaIM/hqdefault.jpg",
+      "publishedAt": "2026-10-28T09:44:28Z",
+      "durationSeconds": 2569,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:12:31.727Z",
+      "lastSeenAt": "2026-10-30T04:12:31.727Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CoBkZocHtkg",
+      "url": "https://www.youtube.com/watch?v=CoBkZocHtkg",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/CoBkZocHtkg/hqdefault.jpg",
+      "publishedAt": "2026-10-29T12:30:32Z",
+      "durationSeconds": 6961,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-30T04:12:31.727Z",
+      "lastSeenAt": "2026-10-30T04:12:31.727Z",
+      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
       "unavailableAt": null
     }
   ]
