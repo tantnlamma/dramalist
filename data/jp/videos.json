@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:12:39.755Z",
+  "generatedAt": "2026-10-31T03:54:39.683Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -76,7 +76,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -96,7 +96,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -116,7 +116,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -195,7 +195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -215,7 +215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -235,7 +235,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -254,7 +254,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -273,7 +273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -311,7 +311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -331,7 +331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -350,7 +350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -407,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -427,7 +427,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -446,7 +446,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-19T03:05:40.648Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -621,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -756,7 +756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -775,7 +775,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -794,7 +794,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -814,7 +814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -834,7 +834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     },
     {
@@ -1062,11 +1062,11 @@
       "matchedKeywords": [
         "AI 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-29T04:12:56.778Z",
       "lastSeenAt": "2026-10-29T04:12:56.778Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "unavailableAt": "2026-10-31T03:54:39.683Z"
     },
     {
       "videoId": "SDGsNLAaXbo",
@@ -1084,7 +1084,27 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "A7Hzk_ZzZzU",
+      "url": "https://www.youtube.com/watch?v=A7Hzk_ZzZzU",
+      "title": "BROKEN VOW: NEW BEGINNING 💔 | FULL AI MOVIE | Betrayal, Love & Second Chances | Nollywood 2026",
+      "description": "💔 BROKEN VOW: NEW BEGINNING — FULL NOLLYWOOD MOVIE 2026 ❤️\n\nA broken promise. A painful betrayal. A new chance at love.\n\nAdesewa's life takes an unexpected turn when love, betrayal, jealousy, and difficult choices threaten everything she once believed in.\n\nAs secrets unfold and relationships are tested, Adesewa must decide whether to remain trapped in her painful past or embrace a future filled with love, happiness, and new beginnings.\n\nBut when the past refuses to stay buried, will she finally find the happiness she deserves?\n\nExperience this emotional Nigerian Nollywood drama filled with romance, heartbreak, family conflict, forgiveness, unexpected twists, and second chances.\n\n🎬 FULL MOVIE — ALL 8 EPISODES COMBINED\n\n❤️ Watch until the end to discover how Adesewa's story unfolds.\n\n💬 QUESTION: Do you believe someone can find true love again after betrayal? Share your thoughts in the comments!\n\n👍 LIKE this movie if you enjoyed it.\n\n💬 COMMENT your favorite scene.\n\n🔔 SUBSCRIBE to Adejoke Studio for more emotional Nigerian Nollywood movies, romantic dramas, and unforgettable stories.\n\n❤️ Thank you for watching and supporting Adejoke Studio!\n\n© Adejoke Studio. All rights reserved.\n\n#BrokenVowNewBeginning #NollywoodMovies2026 #FullNollywoodMovie #AdejokeStudio #NigerianMovies #NollywoodDrama #AfricanMovies #LoveAndBetrayal #RomanticDrama #NewNollywoodMovies #SecondChanceLove #EmotionalMovies #FullMovie",
+      "channelId": "UCovPKyp7aBhSttygyYZ6T4g",
+      "channelTitle": "Adejoke Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/A7Hzk_ZzZzU/hqdefault.jpg",
+      "publishedAt": "2026-10-13T20:52:10Z",
+      "durationSeconds": 3585,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:39.683Z",
+      "lastSeenAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
       "unavailableAt": null
     }
   ]

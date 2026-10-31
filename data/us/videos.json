@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:12:26.529Z",
+  "generatedAt": "2026-10-31T03:54:24.298Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -785,12 +785,13 @@
       "matchedKeywords": [
         "AI future movie full film",
         "AI science fiction drama full movie",
-        "artificial intelligence full movie"
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -809,7 +810,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -829,7 +830,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -849,7 +850,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -887,7 +888,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1020,7 +1021,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1040,7 +1041,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1059,7 +1060,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1187,12 +1188,13 @@
       "publishedAt": "2026-10-15T11:42:25Z",
       "durationSeconds": 4295,
       "matchedKeywords": [
+        "AI future movie full film",
         "AI science fiction drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1208,11 +1210,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-19T03:05:27.685Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": "2026-10-31T03:54:24.298Z"
     },
     {
       "videoId": "oiFW3Uou4wE",
@@ -1268,7 +1270,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1288,7 +1290,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1309,7 +1311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1329,7 +1331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1400,12 +1402,13 @@
       "publishedAt": "2026-09-02T23:38:51Z",
       "durationSeconds": 4290,
       "matchedKeywords": [
-        "AI science fiction drama full movie"
+        "AI science fiction drama full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1691,7 +1694,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1786,7 +1789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1901,7 +1904,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -1939,7 +1942,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2073,7 +2076,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2187,7 +2190,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2453,7 +2456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2587,7 +2590,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2644,7 +2647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2663,7 +2666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2721,7 +2724,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2741,7 +2744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2893,7 +2896,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2950,7 +2953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -2988,7 +2991,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -3007,7 +3010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -3023,11 +3026,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": "2026-10-31T03:54:24.298Z"
     },
     {
       "videoId": "CoBkZocHtkg",
@@ -3045,7 +3048,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     },
     {
@@ -3083,7 +3086,197 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1IXyyWvCbFo",
+      "url": "https://www.youtube.com/watch?v=1IXyyWvCbFo",
+      "title": "DIBALIK ASAP, TUNANGANKU MELAMAR SEPUPUKU | FULL MOVIE",
+      "description": "Bayangkan, setelah bertahun-tahun bekerja keras di dapur rumah makan peninggalan ayah sendiri, Kinanti justru menyaksikan tunangannya melamar sepupunya di depan keluarga. Belum cukup dengan pengkhianatan itu, ia bahkan diusir dari tempat yang selama ini menjadi rumahnya.\n\nNamun, siapa sangka perempuan sederhana yang pernah mereka hina itu justru akan bangkit dan membuat semua orang yang meremehkannya menyesal?\n\n🎬 Di Balik Asap, Tunanganku Melamar Sepupuku | FULL MOVIE\n\nSebuah film drama romantis Indonesia tentang pengkhianatan cinta, konflik keluarga, perjuangan hidup, rahasia warisan, dan ketulusan seorang lelaki yang hadir ketika dunia seakan meninggalkan segalanya.\n\nKinanti adalah perempuan muda berhijab yang menghabiskan bertahun-tahun hidupnya bekerja di dapur arang. Sejak kepergian ayahnya, ia berusaha mempertahankan resep keluarga dan rumah makan yang menyimpan begitu banyak kenangan.\n\nIa percaya kesetiaan dan kerja keras akan membawa kebahagiaan.\n\nNamun, semuanya hancur ketika Bram, lelaki yang selama ini ia cintai dan percayai sebagai calon suami, justru memilih Bella, sepupu Kinanti sendiri.\n\nPengkhianatan itu menjadi semakin menyakitkan ketika Pakde Sastro, orang yang selama ini dipercaya mengelola rumah makan peninggalan ayah Kinanti, justru berpihak kepada mereka.\n\nKinanti kehilangan pekerjaan, tempat tinggal, dan masa depan yang selama ini ia perjuangkan.\n\nDengan hati hancur, ia pergi hanya membawa cobek batu tua, buku catatan resep peninggalan ayahnya, serta keberanian untuk memulai hidup dari nol.\n\nTetapi di tengah keterpurukan itu, takdir mempertemukannya dengan Damar.\n\nDamar bukan lelaki kaya yang menjanjikan kehidupan mewah. Ia hanyalah seorang pemasok hasil pertanian yang sederhana, pekerja keras, dan memiliki prinsip kuat dalam menjalani hidup.\n\nBerbeda dari Bram, Damar tidak memandang Kinanti berdasarkan harta maupun kedudukannya.\n\nIa melihat sesuatu yang tidak pernah dihargai oleh keluarga Kinanti: ketulusan, kemampuan, dan harga diri seorang perempuan yang tidak pernah menyerah.\n\nDari dapur kecil, lapak sarapan sederhana, hingga pesanan katering yang semakin besar, Kinanti dan Damar perlahan membangun harapan baru.\n\nNamun, perjalanan mereka jauh dari kata mudah.\n\nKetika usaha Kinanti mulai berkembang, orang-orang dari masa lalunya kembali membawa masalah.\n\nSabotase, fitnah, persaingan usaha, hingga pencurian buku resep warisan ayahnya membuat Kinanti harus menghadapi luka yang belum sepenuhnya sembuh.\n\nDi saat bersamaan, kedatangan Clara, seorang perempuan sukses dari masa lalu Damar, membawa tawaran kehidupan baru yang hampir memisahkan mereka.\n\nKinanti kembali dihadapkan pada pertanyaan yang selama ini menghantuinya.\n\nApakah dirinya benar-benar pantas dicintai, atau pada akhirnya akan ditinggalkan sekali lagi?\n\nDan ketika sebuah kompetisi memasak bernilai besar mempertemukannya kembali dengan Bella, rahasia yang selama bertahun-tahun tersimpan di balik sampul buku resep tua mulai terungkap.\n\nRahasia itu bukan hanya tentang masakan.\n\nMelainkan tentang perjuangan seorang ayah, hak yang selama ini disembunyikan, serta kenyataan yang dapat mengubah kehidupan Kinanti untuk selamanya.\n\nMampukah Kinanti mendapatkan kembali kehormatan dan hak peninggalan ayahnya?\n\nAkankah Bram, Bella, dan Pakde Sastro menerima akibat dari pengkhianatan mereka?\n\nDan setelah melewati begitu banyak penderitaan, apakah Kinanti akhirnya menemukan cinta sejati bersama Damar?\n\nTulis pendapat kalian di kolom komentar. Kami senang membaca cerita, pandangan, dan pesan yang kalian dapatkan dari film ini.\n\n❤️ LIKE jika perjuangan Kinanti menyentuh hati kalian.\n\n🔔 SUBSCRIBE untuk menikmati film drama romantis Indonesia, drama keluarga, kisah perjuangan hidup, dan cerita penuh pesan kehidupan lainnya.\n\n⚠️ DISCLAIMER — KARYA FIKSI & ARTIFICIAL INTELLIGENCE (AI)\n\nFilm ini merupakan karya drama fiksi yang dibuat untuk tujuan hiburan, penyampaian cerita, dan pesan moral tentang kehidupan, keluarga, perjuangan, cinta, serta pentingnya menghargai orang lain.\n\nSeluruh nama karakter, hubungan antartokoh, dialog, lokasi, perusahaan, konflik, dan peristiwa yang digambarkan dalam film merupakan bagian dari cerita fiksi. Kesamaan dengan individu, organisasi, atau kejadian nyata bersifat tidak disengaja.\n\nFilm ini dibuat dengan bantuan teknologi Artificial Intelligence (AI) dalam proses kreatif dan produksi audiovisual, termasuk pengembangan cerita, visualisasi karakter, pembuatan adegan sinematik, serta elemen pendukung audiovisual.\n\nKarakter, interaksi, dan peristiwa yang terlihat realistis merupakan penggambaran dramatik dalam karya fiksi, bukan dokumentasi kejadian nyata.\n\nPenggambaran proses hukum, dokumen warisan, kepemilikan usaha, dan penyelesaian konflik keluarga merupakan bagian dari alur cerita dan tidak dimaksudkan sebagai nasihat hukum.\n\nFilm ini tidak dimaksudkan untuk merendahkan, menyerang, atau menyudutkan individu maupun kelompok tertentu.\n\nTerima kasih telah menyaksikan kisah lengkap Kinanti dan Damar.",
+      "channelId": "UCJ4Y0wJ23VB5I8tbq_gw5NQ",
+      "channelTitle": "Luth AZQ",
+      "thumbnail": "https://i.ytimg.com/vi/1IXyyWvCbFo/hqdefault.jpg",
+      "publishedAt": "2026-10-30T22:19:16Z",
+      "durationSeconds": 8881,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FhClKBcXcXk",
+      "url": "https://www.youtube.com/watch?v=FhClKBcXcXk",
+      "title": "🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/FhClKBcXcXk/hqdefault.jpg",
+      "publishedAt": "2026-10-30T11:45:27Z",
+      "durationSeconds": 6888,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PVnBkRcbUEY",
+      "url": "https://www.youtube.com/watch?v=PVnBkRcbUEY",
+      "title": "The Billionaire Who Never Loved | Full Nigerian Movie",
+      "description": "🎬 THE BILLIONAIRE WHO NEVER LOVED\nA Full Nigerian AI Movie | AMA TALES\n\nDamilare Adebayo is a billionaire who believes money matters more than love. But when he meets Nneka Okoro, a hardworking roadside food seller, his cold heart begins to change.\n\nTheir love faces family secrets, betrayal, and a painful injustice. Will Damilare choose his empire or fight for the woman he loves?\n\n❤️ WATCH UNTIL THE END!\n\n💬 Can love survive betrayal? Would you choose love over wealth? Share your thoughts below!\n\n👍 Like, comment, and subscribe to AMA TALES — Every Story Comes Alive for more emotional Nigerian movies and African romance dramas.\n\n#TheBillionaireWhoNeverLoved #NigerianMovies #AfricanMovies #NollywoodMovies #AfricanRomance #AIMovie #AmaTales\n\n🎬 DISCLAIMER: This is a fictional story created for entertainment using AI-generated content. All characters and events are fictional.\n\n© AMA TALES. All rights reserved.",
+      "channelId": "UCeO0IJpo-WCED33Blbi2LYg",
+      "channelTitle": "AmaTales🌙",
+      "thumbnail": "https://i.ytimg.com/vi/PVnBkRcbUEY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:00:56Z",
+      "durationSeconds": 2353,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Usd1moZxgfE",
+      "url": "https://www.youtube.com/watch?v=Usd1moZxgfE",
+      "title": "WIRO SABLENG EPISODE 4 | HUTAN KABUT BERBISIK & SEGEL BATU PERTAMA | FILM SILAT AI",
+      "description": "🔥 WIRO SABLENG EPISODE 4: HUTAN KABUT BERBISIK & SEGEL BATU PERTAMA 🔥\n\nPENDEKAR KAPAK MAUT NAGA GENI 212 KEMBALI BERAKSI!\n\nPetualangan Wiro Sableng kembali berlanjut! Kali ini, Wiro dan para sahabatnya harus menghadapi ancaman yang jauh lebih berbahaya demi menghancurkan Segel Batu Pertama, salah satu pengunci pertahanan gaib Benteng Kawah Hitam milik Mahesa Birawa.\n\nSetelah memperoleh Kitab Wasiat Dewa, Wiro bersama Anggini, Rangga Wulung, dan Sekar Halimun memasuki Hutan Kabut Berbisik, sebuah hutan misterius yang menyimpan berbagai ancaman mematikan.\n\nDi tengah perjalanan, mereka bertemu Bujang Gila Tapak Sakti, pendekar bertubuh gendut dengan kemampuan silat luar biasa. Pertemuan yang awalnya penuh pertarungan justru membawa mereka menjadi sahabat seperjuangan.\n\nNamun, perjalanan semakin berbahaya!\n\nSeekor Siluman Laba-Laba Akar Darah raksasa menghadang mereka di Jembatan Akar Gantung. Setelah melewati pertarungan sengit, kelima pendekar akhirnya tiba di Pelataran Segel Batu Pertama.\n\nDi sana, Ki Luwak Ireng dan Nyi Roro Kembang Bangkai sudah menunggu untuk menghentikan langkah mereka.\n\n⚔️ PERTARUNGAN SPEKTAKULER EPISODE 4:\n\n🔥 Wiro Sableng vs Bujang Gila Tapak Sakti\n\n🕷️ Lima Pendekar vs Siluman Laba-Laba Akar Darah\n\n⚔️ Anggini & Sekar Halimun vs Nyi Roro Kembang Bangkai\n\n🐉 Wiro Sableng vs Ki Luwak Ireng\n\n💥 Wiro Sableng vs Senopati Kala Baja\n\nDengan kekuatan Kapak Maut Naga Geni 212 dan Jurus 8 Sabda Dewa dari Kitab Wasiat Dewa, Wiro menghadapi pertarungan yang semakin berat.\n\nMampukah Wiro menghancurkan Segel Batu Pertama dan membuka jalan menuju Benteng Kawah Hitam?\n\nAkankah Wiro berhasil membebaskan gurunya, Sinto Gendeng, dari kekuasaan Mahesa Birawa?\n\nSAKSIKAN FILM LENGKAPNYA HANYA DI SAMUDERA AI SINEMA!\n\n🎬 INFORMASI FILM\n\nJudul: Wiro Sableng Episode 4\n\nSubjudul: Hutan Kabut Berbisik & Segel Batu Pertama\n\nGenre: Action, Fantasy, Martial Arts, Adventure\n\nDurasi: ±30 Menit\n\nBahasa: Indonesia\n\nChannel: Samudera Ai Sinema\n\nProduksi: Film Fantasi Silat Berbasis Artificial Intelligence (AI)\n\n❤️ DUKUNG SAMUDERA AI SINEMA!\n\n👍 LIKE jika kalian menikmati aksi pertarungan Wiro Sableng!\n\n💬 KOMENTAR: Menurut kalian, pertarungan siapa yang paling seru di Episode 4? Wiro vs Ki Luwak Ireng atau Wiro vs Senopati Kala Baja?\n\n🔔 SUBSCRIBE dan aktifkan lonceng notifikasi agar tidak ketinggalan kelanjutan petualangan Wiro Sableng!\n\n📢 SHARE video ini kepada teman dan keluarga yang menyukai film silat Indonesia!\n\nDukungan kalian menjadi semangat bagi kami untuk terus menghadirkan karya film AI yang lebih menarik, sinematik, dan menghibur.\n\n🔥 COMING NEXT: WIRO SABLENG EPISODE 5!\n\nPetualangan akan berlanjut menuju Lembah Kapur Putih, tempat Segel Batu Kedua berada.\n\nDi sana, Datuk Lembah Hantu dan Monster Lipan Besi Raksasa telah menanti kedatangan Wiro dan para sahabatnya!\n\nJangan lewatkan kelanjutannya!\n\n⚠️ DISCLAIMER / PENAFIAN\n\nVideo ini merupakan karya hiburan fan-made yang dibuat dengan bantuan teknologi Artificial Intelligence (AI) dan terinspirasi dari karakter serta dunia cerita Wiro Sableng karya Bastian Tito.\n\nKonten ini bukan produksi resmi dan tidak berafiliasi dengan pemegang hak cipta, penerbit, maupun pihak produksi film Wiro Sableng.\n\nSeluruh hak atas karakter, nama, dan unsur cerita asli tetap menjadi milik pemegang hak yang sah.\n\nCerita, visual, animasi, dan pengembangan adegan dalam video ini merupakan interpretasi kreatif untuk tujuan hiburan.\n\nVideo ini tidak dimaksudkan sebagai adaptasi resmi atau pengganti karya aslinya.\n\n🎥 SAMUDERA AI SINEMA\n\nMenghadirkan film aksi, petualangan, fantasi, dan kisah sinematik melalui kreativitas serta teknologi Artificial Intelligence.\n\nTERIMA KASIH SUDAH MENONTON!\n\nSALAM PENDEKAR 212! ⚔️🔥\n\n#WiroSableng #WiroSableng212 #WiroSablengEpisode4 #SamuderaAiSinema #FilmSilatIndonesia #FilmAI #KapakMautNagaGeni212 #KitabWasiatDewa #HutanKabutBerbisik #SegelBatuPertama #FilmActionIndonesia #FilmFantasi #Pendekar212 #FilmSilat #FilmAIIndonesia",
+      "channelId": "UC1rxys7LV6yTLl0cH_e1KLw",
+      "channelTitle": "Samudera Ai Sinema",
+      "thumbnail": "https://i.ytimg.com/vi/Usd1moZxgfE/hqdefault.jpg",
+      "publishedAt": "2026-10-26T01:00:09Z",
+      "durationSeconds": 1973,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NU2M-e5NUyI",
+      "url": "https://www.youtube.com/watch?v=NU2M-e5NUyI",
+      "title": "A Soldier Gave Birth to an Alien — 48 Hours Later, Her Baby Was 8 Years Old | Survival Movie 4K",
+      "description": "A Soldier Gave Birth to an Alien — a full-length sci-fi survival movie from Lumz Cinema (2026, English, 4K). Watch the complete film free.\n\nStranded on a frozen alien planet, a human soldier gives birth alone at the bottom of an ice crevasse — fighting off monsters with a stone in her hand. Her daughter is half human, half alien. By the next morning she has doubled in size. Forty-eight hours later, she is eight years old.\n\nNow her father's clan wants the child. Her own army wants the child. And the only way out is through a waking volcano, across a frozen sea — to a land no one has ever returned from.\n\nOne mother. One impossible child. Survive — or lose her forever.\n\n⏱️ CHAPTERS\n00:00 - Born in the Ice\n04:10 - The Lake\n07:30 - Kael\n11:30 - Ash Storm\n14:55 - Growing Up\n18:30 - The Deal\n22:55 - The Eruption\n26:55 - River of Lava\n29:45 - Old Enemies\n36:00 - The Warm Land\n\n\nFull Movie 2026 | English | Sci-Fi | Survival | Alien | 4K\n\n#AlienMovie #SurvivalMovie #FullMovie #SciFiMovie #AlienChild #SciFiSurvival #AIMovie #FullMovieEnglish\n\n⚠️ This is a fictional movie. All characters and events are imaginary.\n\nsurvival movie, sci-fi survival, alien movie, full movie, alien child, half alien, soldier gave birth, alien baby, mother of the unknown, frozen planet, alien planet survival, volcano survival, sci-fi full movie 2026, full movie english, sci-fi drama, alien mother, survival story, AI movie, AI film, monster movie, 4K movie, Lumz Cinema, movies, ai movies, ai movie full movie, his alien son, hollywood movie free, hollywood movies, best hollywood movies\n\n#AlienMovie #SurvivalMovie #FullMovie #SciFiMovie #AlienChild #SciFiSurvival #AIMovie #FullMovieEnglish",
+      "channelId": "UCGVr1y96AYgNJ5IA3JqcBow",
+      "channelTitle": "Hidden Truth Tales",
+      "thumbnail": "https://i.ytimg.com/vi/NU2M-e5NUyI/hqdefault.jpg",
+      "publishedAt": "2026-10-29T19:19:48Z",
+      "durationSeconds": 4379,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "O2N9v6mOSpo",
+      "url": "https://www.youtube.com/watch?v=O2N9v6mOSpo",
+      "title": "Blood & Snow ❄️ | Arctic Survival Horror | Watch Full Movie In English",
+      "description": "Blood & Snow ❄️ | Arctic Survival Horror | Watch Full Movie In English\n\n🔥 Watch full action movies for free – subscribe to DZANGO now: https://bit.ly/DzangoMovies-SUB\n💥 A mysterious meteorite discovery leaves one Arctic scientist dead and another infected. When a remote research station shelters the survivor, the team begins to suspect that she may no longer be human.\n\nBLOOD & SNOW (2023)\nOriginal Title: Blood and Snow\nStarring: Anne-Carolyne Binette, Michael Swatton, Vernon Wells, Simon Phillips, Brooke Chamberlain\nDirector: Jesse Palangio\nRating: R\n\nSYNOPSIS:\nDeep in the Arctic tundra, two scientists discover a meteorite impact site. Their investigation takes a deadly turn: one researcher is killed, while the other, Marie, survives with a mysterious infection. A nearby research team brings her back to its isolated station, hoping to understand what happened.\nAs a fierce storm cuts the station off from the outside world, Marie begins behaving strangely. When members of the team turn up dead, suspicion falls on the woman they rescued. Is she carrying an unknown virus, or has something far more dangerous taken hold of her?\nFear divides the scientists as they debate whether to isolate Marie or take more drastic action. With help out of reach and trust breaking down, their investigation becomes a desperate struggle for survival against a threat that may not be of this world.\n#freemovies #englishmovies #dzango\n\nCOPYRIGHT:\nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\nPLAION PICTURES GmbH is a serious and legal video-on-demand (VOD) company located in München, Germany. We are holding a proper license for all movies published on YouTube. For any questions please contact: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCpCsyAxj3C_52bc9J8r2Org",
+      "channelTitle": "Dzango Movies – Heavy on Action. Light on Drama.",
+      "thumbnail": "https://i.ytimg.com/vi/O2N9v6mOSpo/hqdefault.jpg",
+      "publishedAt": "2026-10-07T12:00:36Z",
+      "durationSeconds": 6927,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MN6Tz6YYN2Q",
+      "url": "https://www.youtube.com/watch?v=MN6Tz6YYN2Q",
+      "title": "Dying Wife Gets Her Mind Transferred Into a Robot | Sci-Fi Romance | Full Movie | Amelia 2.0",
+      "description": "Desperate to save his dying wife, a husband agrees to an unprecedented experiment that transfers her consciousness into a robotic replica designed to preserve her memories, personality, and identity. Amelia awakens in an artificial body, but her apparent second chance at life ignites a battle over whether she is still human and whether she has the right to exist. This award-winning science-fiction romance explores artificial intelligence, consciousness transfer, mind uploading and human identity, with veteran stars Ed Begley Jr., Battlestar Galactica's Kate Vernon, and Ocean's Eleven actor Eddie Jemison.\n\n2017 American Sci-Fi Romance Movie\n\nDirector: Adam Orton\nStars: Ed Begley Jr., Kate Vernon, Eddie Jemison\n\nAlternative Titles:\nRussian - Амелия 2.0\nEnglish - The Summerland Project\n\nLights, camera, FlixFling! 🍿 Kick back and discover your next movie night favorite—from action-packed adventures and edge-of-your-seat thrillers to comedy, romance, horror, and more.\n\n► Subscribe to @FlixFling for full movies, unforgettable stories, hidden gems, and hours of entertainment. All in one place. 🎬\n\n#FlixFling #FullMovies #FreeMovies #WatchMovies #TheStream #MovieNight #scifimovie #romancemovie",
+      "channelId": "UCqOAiQQByGGACqUz4_fVgeg",
+      "channelTitle": "Flixfling",
+      "thumbnail": "https://i.ytimg.com/vi/MN6Tz6YYN2Q/hqdefault.jpg",
+      "publishedAt": "2026-10-02T16:30:36Z",
+      "durationSeconds": 5555,
+      "matchedKeywords": [
+        "robot android drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "U3p5We6Qpgk",
+      "url": "https://www.youtube.com/watch?v=U3p5We6Qpgk",
+      "title": "OPUS (2026) | Documentary Film",
+      "description": "What happens when intelligence outgrows the species that built it?\n\nOPUS is a documentary film about intelligence, consciousness, artificial intelligence and the futures we choose. From cells and animal minds to machines that learn, it asks what remains human when intelligence is no longer ours alone.\n\nhttps://bit.ly/4zXfqdv\n\n🔔 Subscribe & Stay Tuned\nDon’t miss new Videos—hit that Subscribe button and ring the bell!\n\n👍 Like & Share\nIf this brightened your day, give it a thumbs up and share with friends.\n\nPart of MIRRORWORK, a documentary film series by Vaultkeeper.\nWatch MACHINE next: https://youtu.be/Hz7DFrJ9DlQ\nExplore PERSONA: https://youtu.be/bQi13rzFnb4\n\nSubscribe for more documentary films about the mind, identity and the systems shaping our lives.\nJoin the conversation: If machines could do everything we do, what would you still choose to do?\n\nCHAPTERS\n0:00 The animal that asks\n3:33 Before a brain\n8:25 Other minds\n15:10 The animal between us\n19:57 The external mind\n30:32 The work that improves the worker\n38:23 The road\n44:51 Who gets to choose?\n49:19 What if it works?\n56:44 The things we wanted\n1:02:25 Where intelligence happened\n\n💬 Join the Conversation\nWhat’s your favorite part? Drop a comment below!\n\n🌐 Connect with Vaultkeeper\n►X: https://www.twitter.com/VaultkeeperIRL\n►Instagram: https://www.instagram.com/vaultkeeperirl\n\n#Documentary #ArtificialIntelligence #Consciousness 🎮 Play my FREE game on Steam — WARMACHINE: RogueScout!\nhttps://store.steampowered.com/app/5006180/Warmachine_RogueScout/\nIt's free. It's on Steam. And yes, I actually made it.",
+      "channelId": "UCipFA44baGAto6nLJ7jd11A",
+      "channelTitle": "Vaultkeeper",
+      "thumbnail": "https://i.ytimg.com/vi/U3p5We6Qpgk/hqdefault.jpg",
+      "publishedAt": "2026-10-08T10:38:56Z",
+      "durationSeconds": 4122,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "XSK6Iw_CT9o",
+      "url": "https://www.youtube.com/watch?v=XSK6Iw_CT9o",
+      "title": "LOVE FOUND AMARACHI | FULL MOVIE | Chidera & Amarachi Love Story | Nigerian Romantic Movie",
+      "description": "LOVE FOUND AMARACHI – FULL MOVIE ❤️\n\nWatch the complete love story of Chidera and Amarachi in one unforgettable movie. This full movie combines Part 1, Part 2, and Part 3 of their emotional journey—from their first meeting in the village to the challenges, sacrifices, family struggles, and beautiful moments that changed their lives forever.\n\nChidera never expected that one visit to the village would lead him to Amarachi, the woman who would completely change his heart. What begins as a simple meeting slowly grows into a powerful love story filled with romance, heartbreak, family expectations, difficult choices, forgiveness, and hope.\n\nVisit our website: https://sites.google.com/view/peaceplaymovies-ai-video-class/home\n\nWill their love survive everything standing between them?\n\nWatch LOVE FOUND AMARACHI from beginning to end and experience the complete story of Chidera and Amarachi.\n\n❤️ If you enjoyed this movie, please LIKE, COMMENT, SHARE and SUBSCRIBE for more Nigerian and African love stories.\n\n🔔 Turn on notifications so you don’t miss our next movie.\n\nThis is the complete movie combining Parts 1, 2 & 3.\n\n#LoveFoundAmarachi #NigerianMovie #NollywoodMovie #AfricanMovie #LoveStory #RomanticMovie #FullMovie #VillageLoveStory #NigerianLoveStory #ChideraAndAmarachi",
+      "channelId": "UCeUJ-9iE-cxJ1rWbyxf9ygQ",
+      "channelTitle": "Peaceplaymovie1",
+      "thumbnail": "https://i.ytimg.com/vi/XSK6Iw_CT9o/hqdefault.jpg",
+      "publishedAt": "2026-08-30T16:00:39Z",
+      "durationSeconds": 10013,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kE09cr2_nQI",
+      "url": "https://www.youtube.com/watch?v=kE09cr2_nQI",
+      "title": "He Was A Trapped Prince Until She…CINDERELLA (Full Dark Fantasy Film)",
+      "description": "In this dark fantasy reimagining of Cinderella, Genevieve must navigate a treacherous manor, a stepmother and stepsisters with wicked souls, and a prince who is as much a prisoner of his crown as she is of her cellar. When a desperate pact is made with an ancient entity, the clock doesn't just strike midnight, it demands a life for a life. \n\nLocked away in the cellar of her own father's manor and reduced to a maid, Genevieve’s only escape is the midnight woods, where she encounters Prince Sebastian, a man as trapped by his golden crown as she is by her chains. But when Lady Beatrice’s cruelty pushes Genevieve to the brink, a pact is made with an ancient entity of the abyss. \n\nAs the Grand Ball begins, the masks of the aristocracy slip to reveal a kingdom built on greed, bankrupt alliances, and hidden prisoners. Will Genevieve reclaim her father's legacy and save Sebastian from the abyss, or will the midnight curse finally claim its due?\n\nIndependent films like this take hundreds of hours and thousands of edits to make. If you want to help support the next story by bringing it to life, help fund the production directly.\n\n🎵 Download ALL original songs from the channel\n\n⏳ Get Early Access to new videos\n\n✨ Unlock Exclusive, Patron-only content\nUnlock everything on Patreon for just $3!\n\nJoin here: patreon.com/cw/OneLoveEmpire\n\n🎬 Created & Directed by One Love Empire: Every frame is a directed work of fantasy art, meticulously crafted with live-action realism, custom-scored audio, and high-fidelity cinematography to immerse you in a vast world of magic and danger.\n\n⚔️ Genre: Cinematic Fantasy · Dark Fantasy Romance · AI Fantasy  \n🎥 Format: 4K Cinematic Fantasy Movie\n\nIf you enjoyed this dark romantasy reimagining, subscribe to One Love Empire for more epic cinematic stories.\n\n#CinematicFantasy #FantasyFilm #cinderella #RomanticFantasy #cinematicai  #cinematicstory #DarkFantasy #DarkRomantasy #EpicFantasyMovie #AICinema #FullMovie #FairytaleReimagining #GothicRomance #VirtualProduction #2026Movies #Cinema #HDMovie #4KMovie #AIMovie #AIFilm #OneLoveEmpire",
+      "channelId": "UCVVxIpSgFnLkpgaIWajNQ-w",
+      "channelTitle": "One Love Empire",
+      "thumbnail": "https://i.ytimg.com/vi/kE09cr2_nQI/hqdefault.jpg",
+      "publishedAt": "2026-08-27T15:00:39Z",
+      "durationSeconds": 4261,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:24.298Z",
+      "lastSeenAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
       "unavailableAt": null
     }
   ]

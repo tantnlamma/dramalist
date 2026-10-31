@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:12:51.651Z",
+  "generatedAt": "2026-10-31T03:54:52.587Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -515,7 +515,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -534,7 +534,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -553,7 +553,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -572,7 +572,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     },
     {
@@ -591,7 +591,45 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-30T04:12:51.651Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KdlFjngvUy8",
+      "url": "https://www.youtube.com/watch?v=KdlFjngvUy8",
+      "title": "CRONOS: MI MÁQUINA DEL TIEMPO | Película de ciencia ficción creada con IA",
+      "description": "CRONOS: MI MÁQUINA DEL TIEMPO | Película de ciencia ficción creada con IA\n\n¿Y si pudieras viajar a través del tiempo y descubrir que el futuro esconde un peligro capaz de cambiar toda la historia de la humanidad?\n\n🚀 CRONOS: Mi máquina del tiempo es una película original de ciencia ficción, aventura, acción y misterio, creada con inteligencia artificial.\n\nAcompaña a Pedro en una aventura extraordinaria a través de distintas épocas, desde el pasado hasta un futuro dominado por una poderosa organización que pretende controlar el tiempo.\n\n⚡ Viajes temporales, persecuciones, tecnología futurista, secretos ocultos y una misión que podría cambiar el destino de la humanidad.\n\n🎬 Sobre esta producción: Esta es una película original creada utilizando herramientas de inteligencia artificial. La apariencia visual del protagonista puede cambiar entre escenas debido a la generación de imágenes y videos con IA; sin embargo, la intención de la historia es que sea el mismo personaje durante toda la aventura.\n\nEsta es mi primera película después de crear documentales y contar historias. Un nuevo paso en mi camino como creador independiente.\n\n🙏 Gracias por ver mi trabajo. Si disfrutas la ciencia ficción, la aventura y los viajes en el tiempo, suscríbete al canal, comparte esta película y deja tu comentario.\n\n¿A qué época viajarías si tuvieras una máquina del tiempo?\n\n© Pedro Andrade. Historia y producción original.\n\n#CRONOS #PeliculaDeCienciaFiccion #InteligenciaArtificial #ViajesEnElTiempo #PeliculasEnEspañol",
+      "channelId": "UCeK7sNuV41Dl9Wf8IjxO-GQ",
+      "channelTitle": "Pedro Andr",
+      "thumbnail": "https://i.ytimg.com/vi/KdlFjngvUy8/hqdefault.jpg",
+      "publishedAt": "2026-10-27T16:00:06Z",
+      "durationSeconds": 2862,
+      "matchedKeywords": [
+        "filme de ficção científica IA completo"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:52.587Z",
+      "lastSeenAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wrYpox4fwlI",
+      "url": "https://www.youtube.com/watch?v=wrYpox4fwlI",
+      "title": "Astro Boy (2009) 🧨 Filme Completo Dublado 🧨 Filme de Ficção Científica | Alta Tensão",
+      "description": "🔔 Inscreva-se já no Alta Tensão! https://www.youtube.com/c/AltaTens%C3%A3oFilmes?sub_confirmation=1\n\n💥🥊 Alta Tensão é um canal de filmes de aventura e ação para assistir quando e onde quiser. Todos os filmes são licenciados e têm alta qualidade de som e vídeo. Não perca tempo!! Prepare a pipoca, pois você não conseguirá desgrudar da tela.\nE não se esqueça de se inscrever agora mesmo para ficar sabendo das novidades na hora exata que entram no ar. \n\n\n🔥𝙎𝙞𝙣𝙤𝙥𝙨𝙚: Situado no futurista Metro City, Astro Boy é sobre um jovem robô com incríveis poderes criados por um cientista brilhante chamado Tenma. Alimentado pela energia positiva -  azul -, Astro Boy é dotado de super força, visão de raio X, velocidade inacreditável e capacidade de voar. Saindo em uma jornada em busca de aceitação, Astro Boy encontra muitos outros personagens diferentes ao longo do caminho. Através de suas aventuras, aprende as alegrias e emoções de ser humano e ganha a força para abraçar seu destino. Em última análise, sabendo que seus amigos e familiares estão em perigo, o Astro Boy reúne seus incríveis superpoderes e retorna a Metro City em um valente esforço para salvar tudo o que importa e entender o que é preciso para ser um herói.\n\n💥 𝙉𝙤𝙢𝙚 𝙙𝙤 𝙁𝙞𝙡𝙢𝙚: Astro Boy \n💣𝙏𝙞́𝙩𝙪𝙡𝙤 𝙊𝙧𝙞𝙜𝙞𝙣𝙖𝙡: Astro Boy \n🔮𝘼𝙣𝙤: 2009\n\n💬​​Comente usando '@AltaTensão’ no YouTube e nas redes sociais!\n\n#filmes #filme #filmecompleto #filemcompletodublado #filmegrátis #filmedeação #filmesdeação #ação #altatensão #aventura #filmedeaventura\n\nID: LIO.423685 PT\nscripted content",
+      "channelId": "UC8L4Qu7R0S1MHpVWjO6xx9A",
+      "channelTitle": "Alta Tensão",
+      "thumbnail": "https://i.ytimg.com/vi/wrYpox4fwlI/hqdefault.jpg",
+      "publishedAt": "2026-10-01T21:00:09Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:52.587Z",
+      "lastSeenAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
       "unavailableAt": null
     }
   ]

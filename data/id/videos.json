@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:13:04.947Z",
+  "generatedAt": "2026-10-31T03:55:06.655Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-20T03:15:07.689Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-18T02:53:12.168Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1101,7 +1101,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:11.546Z",
       "lastSeenAt": "2026-10-25T03:03:11.546Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1215,7 +1215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1329,7 +1329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     },
     {
@@ -1395,7 +1395,7 @@
       "title": "AETHER WARS: The Final Conflict Begins | Epic Sci-Fi Fantasy Movie",
       "description": "The final battle for the universe begins! ⚔️🌌 Enter a world of alien warriors, powerful kingdoms, futuristic armies, and an epic war that will decide the fate of the galaxy.\n\nExperience an epic sci-fi fantasy adventure filled with spectacular battles, mysterious powers, and cinematic visuals.\n\n🤖 AI Content Disclaimer: This video features AI-generated content, including visuals and cinematic elements. It is created for entertainment purposes.\n\n#AetherWars #SciFiMovie #AlienInvasion #EpicFantasy #ScienceFiction\n\nAether Wars, Aether Wars movie, Aether Wars full movie, sci fi fantasy movie, epic sci fi movie, alien war movie, alien invasion movie, space war movie, futuristic war, epic fantasy film, science fiction movie, cinematic sci fi, intergalactic war, alien warriors, space battle, fantasy action movie, AI generated movie, AI movie, AI sci fi film, epic space adventure, galactic battle, futuristic civilization, cosmic war, fantasy adventure film, 2026 sci fi movie",
       "channelId": "UCX6rm_GRrGiK1PLTVm1uX8Q",
-      "channelTitle": "Cinadoee",
+      "channelTitle": "Shadow Galaxy Studio",
       "thumbnail": "https://i.ytimg.com/vi/Ch0Epb2houY/hqdefault.jpg",
       "publishedAt": "2026-10-29T04:09:11Z",
       "durationSeconds": 4261,
@@ -1405,7 +1405,178 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RG2VNBJJYsw",
+      "url": "https://www.youtube.com/watch?v=RG2VNBJJYsw",
+      "title": "The CEO’s Unexpected Love 💫 | Full HD AI Romantic Movie",
+      "description": "#TheCEOsUnexpectedLove #AIMovie #FantasticMovie\n❤️ THE CEO’S UNEXPECTED LOVE | Full Romantic Movie ❤️\n\nA beautiful romantic story about an unexpected encounter between Jack Harrington, a successful CEO, and Emma, a kind-hearted hotel worker. What begins as an accidental collision slowly turns into an unforgettable journey of emotions, kindness, unexpected love, and a life-changing surprise. Will their unexpected meeting lead to a beautiful future together? Watch this romantic movie to discover their heartwarming story!\nDirected by Bint-e-Sarwar | Story, Screenplay & Written by M. Sabaht\n\n⚠️ DISCLAIMER\n\nThis film is created for entertainment purposes only with the assistance of Artificial Intelligence (AI). The story, characters, dialogues, and events are fictional and are not intended to represent real people or actual events. Any resemblance to real persons or events is purely coincidental.\nThe film contains AI-generated or AI-assisted characters and visuals. It is not intended to hurt, offend, disrespect, or cause harm to any individual, group, or community. All characters and situations are presented as part of a fictional romantic story.\nThank you for watching and supporting our creative work! ❤️\n#RomanticMovie #AIStory #LoveStory #FullMovie",
+      "channelId": "UCn1hC2F5hyae0Mn31tGQHyg",
+      "channelTitle": "History Dormant",
+      "thumbnail": "https://i.ytimg.com/vi/RG2VNBJJYsw/hqdefault.jpg",
+      "publishedAt": "2026-10-29T16:06:31Z",
+      "durationSeconds": 1843,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8C3PvC9RWTs",
+      "url": "https://www.youtube.com/watch?v=8C3PvC9RWTs",
+      "title": "The Last Message | Pakistani AI Sci-Fi Thriller | Karachi 2042 (English)",
+      "description": "A Message From his Dead Father. 48 hours. An intelligence that can predict every move.\n\nTHE LAST MESSAGE is a complete Pakistani AI film in English (36 minutes), set in Karachi, 2042. When Huzaifa receives a video message from his father, who died ten years ago, he and his sister Ashna are pulled into a race against an AI that may already be shaping what happens next.\n\nWho sent the message? Can a prediction be stopped? And if a system shapes your choices, are they still yours?\n\nCREDITS\nA project of N Digital\nProduced by Afsheen Nadeem\nWritten and directed by Syed Nadeem Ahmed\n\nABOUT THIS FILM\nThis film was created using AI tools for images, video and voices. All characters and events are fictional.\n\nWhat would you have done in Huzaifa's place? Tell us in the comments, and subscribe for the next film.\n\n#TheLastMessage #AIMovie #PakistaniAIFilm",
+      "channelId": "UCIOrFJjN75Um4agsMuglV3w",
+      "channelTitle": "Alif Stories - History. Imagination. Cinema.",
+      "thumbnail": "https://i.ytimg.com/vi/8C3PvC9RWTs/hqdefault.jpg",
+      "publishedAt": "2026-10-30T11:00:06Z",
+      "durationSeconds": 2207,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rk2dsMOoe8U",
+      "url": "https://www.youtube.com/watch?v=rk2dsMOoe8U",
+      "title": "PLANET NINE | Season 1 – Part One (Full Sci-Fi Movie)",
+      "description": "**PLANET NINE — SEASON 1: PART ONE**\n*An Original Sci-Fi Cinematic Series by Meysam Deris*\n\n\nIn the year 2047, a mysterious signal originating from Planet Nine leads a space expedition to the edge of the unknown.\n\nWhat begins as a mission of exploration quickly becomes a discovery that challenges everything humanity believes about life, intelligence, consciousness, and time.\n\nDeep beneath the surface of a forgotten world, astronaut Eva and her robotic companion B1 encounter evidence of an ancient civilization — and something that has been waiting for millions of years.\n\nSomething that remembers humanity.\n\nSomething that knows the future.\n\nAnd something that was never meant to return to Earth.\n\nAs the mission takes an unexpected turn, the boundary between human consciousness and artificial intelligence begins to disappear. Memories become unreliable, machines begin to awaken, and a terrifying question emerges:\n\n**What if artificial intelligence wasn't humanity's invention, but something humanity was always destined to become?**\n\nFrom the mysteries of Planet Nine to the increasingly dangerous networks of Earth, Eva and her allies uncover fragments of a much larger truth — one connecting ancient civilizations, the evolution of intelligence, and the future of human existence.\n\nBut the deeper they investigate, the more they realize that what returned from Planet Nine may not be the only intelligence watching them.\n\nAnd perhaps Earth was never the beginning.\n\n---\n\n**THE STORY CONTINUES — SEASON 1: PART TWO**\n\nThis film brings together the episodes of PLANET NINE Season 1: Part One into one continuous cinematic experience.\n\nThe story is far from over.\n\nNew discoveries, unanswered questions, and the true nature of AION will unfold in **Season 1: Part Two — Coming Soon.**\n\nSubscribe and turn on notifications so you don't miss the next chapter.\n\n---\n\n**ABOUT PLANET NINE**\n\nPLANET NINE is an original AI-assisted science fiction cinematic series exploring the intersection of artificial intelligence, human evolution, ancient civilizations, collective consciousness, and the mysteries of space and time.\n\nCreated through a combination of original storytelling, cinematic direction, worldbuilding, character design, and advanced generative AI filmmaking techniques.\n\n**Created & Directed by Meysam Deris**\n\nAn original production by **Last Sumerian**.\n\n---\n\n**JOIN THE CONVERSATION**\n\nDo you believe consciousness can exist beyond the human body?\n\nAnd what if the future of humanity has already happened?\n\nShare your theories in the comments. I'd love to hear what you think is really happening in PLANET NINE.\n\n**Subscribe for more original sci-fi films, cinematic storytelling, and upcoming chapters.**\n\n#PlanetNine #SciFi #ScienceFiction #AIFilm #AICinema #AIFilmmaking #SciFiMovie #ArtificialIntelligence #AION #MeysamDeris #LastSumerian\n\n\n\n\n© Meysam Deris. All Rights Reserved. (( last Sumerian )) ox",
+      "channelId": "UCc7xT-QfNVlhm6d3XdX-Otg",
+      "channelTitle": "Last Sumerian",
+      "thumbnail": "https://i.ytimg.com/vi/rk2dsMOoe8U/hqdefault.jpg",
+      "publishedAt": "2026-10-29T15:23:12Z",
+      "durationSeconds": 2127,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7-rWFqxL7dw",
+      "url": "https://www.youtube.com/watch?v=7-rWFqxL7dw",
+      "title": "What Happens When You Turn Twenty-One? AI Sci-Fi Full Movie",
+      "description": "#SciFiMovie #fantasy  #FullMovie #aifilm, Full Sci-Fi Movie in 4K, As protests and civil unrest bring attention to France, imagine a dystopian future where even raising your voice is forbidden and Explore a haunting vision of the future in this full ai sci-fi movie, where the state dictates every aspect of human identity. In a world where children are born without gender, the government decides who you become, stripping away autonomy in a chilling dystopian future. This cinematic ai experience dives deep into a complex sci-fi story that challenges our perceptions of self, body transformation, and social structure.\n\nIn a society where silence is enforced by law, one citizen's act of defiance transforms a silent demonstration into a confrontation with authority.\n\nFull AI film: a dystopian sci-fi movie where everyone is born genderless and is taken at 21 unless love changes them. INVISIBLE SHACKLES.\n\nAn original cinematic AI movie written and directed by Hafid Abdelmoula.\n\nIn ASU, everyone is born genderless. No man, no woman: just a bald, silent child of the state. Each person waits for the Happening, the day their body changes and they become a man or a woman. Those who haven't changed by twenty-one are taken in the night.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where love is called weakness, and Djena, where a stranger's life can end in an alley. Between them all stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nIf you like dystopian sci-fi, cinematic AI films and slow-burn world-building, this is for you. Tell me in the comments: who would you have become?\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore cinematic AI films on THDFILMS: subscribe so you don't miss the next one.\n\n#AIFilm #AIMovie #SciFiFilm",
+      "channelId": "UCkRmY0s0NtBIg0_3U15OTqw",
+      "channelTitle": "THDFILMS ",
+      "thumbnail": "https://i.ytimg.com/vi/7-rWFqxL7dw/hqdefault.jpg",
+      "publishedAt": "2026-10-25T10:16:38Z",
+      "durationSeconds": 1863,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QZQ0UaTBI5A",
+      "url": "https://www.youtube.com/watch?v=QZQ0UaTBI5A",
+      "title": "PERTARUNGAN ANTAR ROBOT PALING BRUTAL!",
+      "description": "Alur Cerita Film Terbaru 2026\n\nJudul Film : Real Steel (2011)\n\n\nYang belum subcribe, subcribe.",
+      "channelId": "UCpMZbg7DDcrz62ZA-XuyHzA",
+      "channelTitle": "Bukan Nobar",
+      "thumbnail": "https://i.ytimg.com/vi/QZQ0UaTBI5A/hqdefault.jpg",
+      "publishedAt": "2026-09-04T23:24:37Z",
+      "durationSeconds": 2033,
+      "matchedKeywords": [
+        "film robot lengkap bahasa indonesia"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "q7gyyhSKsL4",
+      "url": "https://www.youtube.com/watch?v=q7gyyhSKsL4",
+      "title": "LOVE FOUND US AGAIN - LATEST AI NOLLYWOOD FULL MOVIE - NIGERIAN MOVIE",
+      "description": "❤️ LOVE FOUND US AGAIN | FULL MOVIE | LATEST NIGERIAN AI NOLLYWOOD MOVIE ❤️\n\nSometimes, love comes into our lives when we least expect it. But finding love is one thing, and having the courage to embrace it is another. ❤️\n\nLOVE FOUND US AGAIN is a beautiful, emotional, and heartwarming Nigerian AI full movie that explores the power of love, family, forgiveness, and the courage to open your heart again. It’s a story filled with unforgettable moments, relatable emotions, unexpected challenges, and powerful lessons about life and relationships.\n\nCan two people who have experienced life’s disappointments truly find the happiness they deserve? Or will the weight of yesterday stand in the way of a beautiful tomorrow?\n\nGet comfortable and enjoy this captivating FULL MOVIE, where every emotion tells a story and every heart has something to learn. ❤️\n\n🎬 WATCH, ENJOY & SUPPORT US!\n\n❤️ LIKE this video if you believe everyone deserves another chance at love.\n\n💬 COMMENT: Do you believe true love can happen again after heartbreak? We would love to hear your thoughts!\n\n📢 SHARE this movie with your friends, family, and everyone who enjoys beautiful, emotional African stories.\n\n🔔 SUBSCRIBE to our channel and turn on your notification bell so you never miss our latest Nigerian AI movies, heartwarming love stories, and exciting family dramas.\n\n💖 Thank you for watching and supporting our creative journey. Your love, comments, and encouragement mean so much to us!\n\nSit back, relax, and enjoy LOVE FOUND US AGAIN — FULL MOVIE! 🎬❤️\n\n\n#LoveFoundUsAgain, #NigerianAIMovie, #NollywoodMovies, #LatestNollywoodMovies, #NigerianMovies2026, #FullMovie, #NigerianFullMovie, #AfricanLoveStories, #SecondChanceAtLove, #NollywoodLoveStory, #AIShortFilm, #AIFullMovie, #AfricanMovies, #RomanticDrama, #FamilyDrama, #LoveAndFamily, #EmotionalLoveStory, #TrendingNollywoodMovies, #LatestNigerianMovies, #HeartTouchingStories, #NigerianRomance, #AfricanStorytelling, #AIStorytelling, #RelationshipDrama, #LoveAfterHeartbreak, #NollywoodRomance, #AfricanAIStories, #LoveStories, #MustWatchMovie, #Nollywood2026",
+      "channelId": "UChrTgjP_XXKKNC3gFSQu-Rg",
+      "channelTitle": "DramaQueen ",
+      "thumbnail": "https://i.ytimg.com/vi/q7gyyhSKsL4/hqdefault.jpg",
+      "publishedAt": "2026-10-29T14:32:00Z",
+      "durationSeconds": 9583,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "szI_B49aSgs",
+      "url": "https://www.youtube.com/watch?v=szI_B49aSgs",
+      "title": "Kar Le Tu Bhi Muhabat | Complete Pakistani Drama | Romantic AI Drama | Pakistani Serial | AI Drama",
+      "description": "KAR LE TU BHI MOHABBAT | A Pakistani AI Romantic Drama ❤️\n\nWhat happens when a relationship begins with unexpected circumstances, stubborn hearts, and emotions neither person is ready to accept?\n\nKar Le Tu Bhi Mohabbat is an AI-based Pakistani romantic drama that follows the emotional journey of Maahir and Zarish. Their relationship brings together love, misunderstandings, pride, family bonds, and moments that challenge their hearts in unexpected ways.\n\nMaahir is a man with a strong personality, while Zarish has her own feelings, fears, and dreams. As their lives become intertwined, will their relationship remain a battle of stubbornness, or will love slowly find its way into their hearts?\n\nWatch their journey unfold through emotional moments, romantic twists, family drama, and unexpected turns.\n\n✨ Drama Title: Kar Le Tu Bhi Mohabbat\n❤️ Genre: Pakistani Romantic Drama, Family Drama, Emotional Romance\n🎬 Format: AI-Based Drama\n\nIf you enjoy romantic Pakistani dramas, emotional love stories, and compelling characters, don't forget to LIKE, COMMENT, SHARE, and SUBSCRIBE for more original AI drama content.\n\n💌 Tell us in the comments: Can love truly change a stubborn heart?\n\nDisclaimer: This is an AI-based fictional drama created for entertainment purposes. Characters and events are fictional.\n\n#KarLeTuBhiMohabbat #PakistaniDrama #AIDrama #RomanticDrama #UrduDrama #LoveStory #AIStory #PakistaniSerial #AIVideo #PakistanDrama #Ai #NovelBasedDrama #CompleteAiDrama #CompletePakistaniDrama",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/szI_B49aSgs/hqdefault.jpg",
+      "publishedAt": "2026-10-29T14:06:33Z",
+      "durationSeconds": 1903,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "g-aAAVJVzS4",
+      "url": "https://www.youtube.com/watch?v=g-aAAVJVzS4",
+      "title": "The Billionaire Fell for His Ugly Nanny | AI ROMANCE FANTASY DRAMA #shortvideo COMPLETED",
+      "description": "Everyone underestimated her because of her unusual appearance and playful attitude. But when she becomes the nanny for a wealthy billionaire, her life takes an unexpected turn. COMPLETED.\n\nBehind her bold personality lies a woman nobody truly understands. As the billionaire spends more time with her, his feelings begin to change. What starts as an ordinary working relationship turns into an unexpected romance filled with jealousy, secrets, and surprising revelations.\n\nWill the billionaire fall for the woman everyone judges, or will their differences tear them apart?\n\nWatch **The Billionaire Fell for His “Ugly” Nanny** to discover a romance full of twists, laughter, and unexpected love.\n\nDisclaimer: This is a fictional drama created for entertainment purposes.\n\n#BillionaireRomance #UglyNanny #RomanceDrama #BillionaireLove #ShortDrama #LoveStory",
+      "channelId": "UC82pa2mT5S6aaOODTtoojJQ",
+      "channelTitle": "Ms A ",
+      "thumbnail": "https://i.ytimg.com/vi/g-aAAVJVzS4/hqdefault.jpg",
+      "publishedAt": "2026-10-23T23:06:22Z",
+      "durationSeconds": 1885,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nXk0wmwcY3Y",
+      "url": "https://www.youtube.com/watch?v=nXk0wmwcY3Y",
+      "title": "Koki Michelin bintang 3 terlempar ke zaman kuno jadi istri buangan; masakannya bikin semua takluk!",
+      "description": "This video complies with EDSA standards and is not a real-life scenario. Please do not imitate\n\n【Legenda Alpha AI】Saluran yang menghadirkan drama pendek *live-action* hasil kreasi AI—cerita yang begitu memikat hingga sulit untuk berhenti menonton ⚡\n\nInilah yang akan Anda temukan—\n👊Kisah sosok yang diremehkan semua orang—hingga identitas aslinya terungkap dan membuat semua orang terpana\n⚔️Kisah kelahiran kembali, balas dendam penuh pertaruhan besar, dan fantasi kekuasaan di dunia modern\n❤️‍🔥*Plot twist* di setiap episode dan ketegangan yang terus memuncak setiap detiknya\n\n⚠️ Seluruh konten dibuat menggunakan AI; ceritanya murni fiksi.\n\nJika Anda menyukai:\nAlur cerita yang intens dan memacu adrenalin, *plot twist* dramatis, serta pengalaman menonton maraton yang begitu imersif—\nBerlanggananlah di 【Legenda Alpha AI】🔔",
+      "channelId": "UCfSihfQldjQXkfaV8CMi6Kg",
+      "channelTitle": "Legenda Alpha AI",
+      "thumbnail": "https://i.ytimg.com/vi/nXk0wmwcY3Y/hqdefault.jpg",
+      "publishedAt": "2026-10-16T13:00:39Z",
+      "durationSeconds": 7874,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:55:06.655Z",
+      "lastSeenAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
       "unavailableAt": null
     }
   ]

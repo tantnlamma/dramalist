@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:12:44.605Z",
+  "generatedAt": "2026-10-31T03:54:44.626Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -224,7 +224,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-29T04:13:02.844Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-29T04:13:02.844Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -376,7 +376,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-29T04:13:02.844Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -395,7 +395,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-29T04:13:02.844Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -433,7 +433,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-24T03:07:58.114Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -452,7 +452,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -510,7 +510,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -568,7 +568,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -587,7 +587,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -606,7 +606,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -625,7 +625,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -664,7 +664,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -678,12 +678,13 @@
       "publishedAt": "2026-08-19T12:44:21Z",
       "durationSeconds": 2610,
       "matchedKeywords": [
-        "人工智能 剧情电影"
+        "人工智能 剧情电影",
+        "人工智能 电影 完整版"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +722,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-29T04:13:02.844Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +741,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +760,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -835,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +931,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -968,7 +969,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -987,7 +988,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1025,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1045,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1082,7 +1083,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1310,7 +1311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1387,7 +1388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1502,7 +1503,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:45.910Z",
       "lastSeenAt": "2026-10-21T03:09:45.910Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1522,7 +1523,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1541,7 +1542,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1617,7 +1618,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1674,7 +1675,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1688,12 +1689,13 @@
       "publishedAt": "2026-10-25T12:41:54Z",
       "durationSeconds": 8128,
       "matchedKeywords": [
+        "人工智能 剧情电影",
         "人工智能 电影 完整版"
       ],
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:51.582Z",
       "lastSeenAt": "2026-10-26T03:01:51.582Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1731,7 +1733,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     },
     {
@@ -1821,12 +1823,203 @@
       "publishedAt": "2026-10-30T04:11:02Z",
       "durationSeconds": 3612,
       "matchedKeywords": [
-        "AI 科幻电影 完整版"
+        "AI 科幻电影 完整版",
+        "人工智能 电影 完整版"
       ],
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "c7-hIwFKfZI",
+      "url": "https://www.youtube.com/watch?v=c7-hIwFKfZI",
+      "title": "自制AI动画《镇龙钉》 陆家祖坟完整版#镇龙钉#国风动画 #瓜子二手车",
+      "description": "自制AI动画《镇龙钉》 陆家祖坟完整版#镇龙钉#国风动画 #瓜子二手车",
+      "channelId": "UCYdVigYR6wzcEUkvKNoUMbA",
+      "channelTitle": "发条电影",
+      "thumbnail": "https://i.ytimg.com/vi/c7-hIwFKfZI/hqdefault.jpg",
+      "publishedAt": "2026-10-30T20:44:44Z",
+      "durationSeconds": 2846,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "YrEUMslKJ0M",
+      "url": "https://www.youtube.com/watch?v=YrEUMslKJ0M",
+      "title": "手把手教學：饒舌對決 AI 影片",
+      "description": "沒有好顯卡，也能做一支 AI 饒舌對決影片。\n\n這場直播從零做〈電流之戰〉：愛迪生 vs 特斯拉，DJ 馬克吐溫。選題、對決腳本、生歌、對嘴到成片，全部在 Agent 對話裡完成。\n\n・一場對決要做兩首歌，BPM 決定曲風\n・生歌就是抽卡，一首聽了 52 版\n・對嘴用 MiniMax H3，DJ 配音用 Ming-3.0-TTS\n・兩個 Colab＋本機，24.5 分鐘生完 65 支鏡頭\n・人只審三個地方：腳本、音樂、成片\n\n工作流 repo（技能在 agent/skills/rap-battle）：\nColab 雲端版 https://github.com/mathruffian-dot/shanshiba-workflow-colab\n本機完整版 https://github.com/mathruffian-dot/shanshiba-workflow-32gvram-64gram\n\n訂閱、按讚、分享，我們下集見。",
+      "channelId": "UCI2YklLazU9tB_Kh_9nMpKA",
+      "channelTitle": "三師爸Sense Bar",
+      "thumbnail": "https://i.ytimg.com/vi/YrEUMslKJ0M/hqdefault.jpg",
+      "publishedAt": "2026-10-30T16:08:56Z",
+      "durationSeconds": 8290,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bmy16uLyvuc",
+      "url": "https://www.youtube.com/watch?v=bmy16uLyvuc",
+      "title": "【錢線百分百】20261030完整版(中集)《美股跌全因\"太燒錢\"? AI盛宴誰先付不起帳? 聯電.台達電跌成這樣能撿嗎? 5大夯股靈魂拷問》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎美股跌全因\"太燒錢\"? AI盛宴誰先付不起帳? \n15:50 ◎聯電.台達電跌成這樣能撿嗎? 5大夯股靈魂拷問\n33:21 ◎期貨.美債.黃金三大避險工具 最佳黃金比例!\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261030錢線影片#陳龍#許博傑#陳智霖#劉佳倫  \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UC_ObC9O0ZQ2FhW6u9_iFlZA",
+      "channelTitle": "錢線百分百",
+      "thumbnail": "https://i.ytimg.com/vi/bmy16uLyvuc/hqdefault.jpg",
+      "publishedAt": "2026-10-30T15:00:34Z",
+      "durationSeconds": 2910,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jySPHvyhsGw",
+      "url": "https://www.youtube.com/watch?v=jySPHvyhsGw",
+      "title": "【錢線百分百】20261030完整版(中集)《美股跌全因\"太燒錢\"? AI盛宴誰先付不起帳? 聯電.台達電跌成這樣能撿嗎? 5大夯股靈魂拷問》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎美股跌全因\"太燒錢\"? AI盛宴誰先付不起帳? \n15:50 ◎聯電.台達電跌成這樣能撿嗎? 5大夯股靈魂拷問\n33:21 ◎期貨.美債.黃金三大避險工具 最佳黃金比例!\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261030錢線影片#陳龍#許博傑#陳智霖#劉佳倫  \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+      "channelTitle": "USTV 非凡電視",
+      "thumbnail": "https://i.ytimg.com/vi/jySPHvyhsGw/hqdefault.jpg",
+      "publishedAt": "2026-10-30T15:00:20Z",
+      "durationSeconds": 2910,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TXA_gICx2k0",
+      "url": "https://www.youtube.com/watch?v=TXA_gICx2k0",
+      "title": "【錢線百分百】20261030完整版(上集)《AI大咖暴跌怎麼了? 台股破半年線11月釀彈? CoWoS一口氣喊漲2成! 台積封王 供應鏈拋彩帶!》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎AI大咖暴跌怎麼了? 台股破半年線11月釀彈?\n19:22 ◎CoWoS一口氣喊漲2成! 台積封王 供應鏈拋彩帶!\n33:28 ◎台幣超貶釀\"終極大反攻\"? 驚天資金狂潮何時來?\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261030錢線影片#陳龍#許博傑#陳智霖#劉佳倫 \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UC_ObC9O0ZQ2FhW6u9_iFlZA",
+      "channelTitle": "錢線百分百",
+      "thumbnail": "https://i.ytimg.com/vi/TXA_gICx2k0/hqdefault.jpg",
+      "publishedAt": "2026-10-30T14:30:12Z",
+      "durationSeconds": 2914,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lvFikvr8u5g",
+      "url": "https://www.youtube.com/watch?v=lvFikvr8u5g",
+      "title": "【錢線百分百】20261030完整版(上集)《AI大咖暴跌怎麼了? 台股破半年線11月釀彈? CoWoS一口氣喊漲2成! 台積封王 供應鏈拋彩帶!》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎AI大咖暴跌怎麼了? 台股破半年線11月釀彈?\n19:22 ◎CoWoS一口氣喊漲2成! 台積封王 供應鏈拋彩帶!\n33:28 ◎台幣超貶釀\"終極大反攻\"? 驚天資金狂潮何時來?\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261030錢線影片#陳龍#許博傑#陳智霖#劉佳倫 \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+      "channelTitle": "USTV 非凡電視",
+      "thumbnail": "https://i.ytimg.com/vi/lvFikvr8u5g/hqdefault.jpg",
+      "publishedAt": "2026-10-30T14:30:19Z",
+      "durationSeconds": 2914,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_ptuKN96LjI",
+      "url": "https://www.youtube.com/watch?v=_ptuKN96LjI",
+      "title": "2026最新《AI漫剧》完整版精讲课程，7天从入门到精通！附全套资料（敲666领取）",
+      "description": "‼️關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/pb681YkaQVl0t5FeZjg83w】",
+      "channelId": "UCvaFksY2UWHn8iDUorc-clA",
+      "channelTitle": "AI視頻製作教程",
+      "thumbnail": "https://i.ytimg.com/vi/_ptuKN96LjI/hqdefault.jpg",
+      "publishedAt": "2026-10-30T04:39:52Z",
+      "durationSeconds": 3506,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uxo0dwS1_ws",
+      "url": "https://www.youtube.com/watch?v=uxo0dwS1_ws",
+      "title": "合集：《我在韩国当欧巴》|AI爱情电影",
+      "description": "合集：《我在韩国当欧巴》\n\n一个男孩来到韩国，开启了成为真正“欧巴”的奇妙旅程。在这里，他经历了浪漫甜蜜的爱情故事、令人哭笑不得的趣事，以及一次次充满惊喜的邂逅。他能否找到属于自己的真爱，谱写一段浪漫美好的爱情故事呢？❤️\n#AI爱情电影, #AI短剧, #AI剧情短片, #AI甜宠短剧",
+      "channelId": "UCMCYnOWjLZ04Nwr5u3J_wlQ",
+      "channelTitle": "星幕剧场 TV",
+      "thumbnail": "https://i.ytimg.com/vi/uxo0dwS1_ws/hqdefault.jpg",
+      "publishedAt": "2026-10-30T07:00:26Z",
+      "durationSeconds": 2219,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "r7qrF9ejEKc",
+      "url": "https://www.youtube.com/watch?v=r7qrF9ejEKc",
+      "title": "The Goat 🐐 Ai movie #ai #aivideo #aishorts #aianimation #aimusic #aistory #aigenerated",
+      "description": "This movie is about Nigerian movie.",
+      "channelId": "UCyMukJjigLQMHBkwfkm0f_A",
+      "channelTitle": "#01Tv(INDLONDLO KA SHAKA)",
+      "thumbnail": "https://i.ytimg.com/vi/r7qrF9ejEKc/hqdefault.jpg",
+      "publishedAt": "2026-10-16T12:02:14Z",
+      "durationSeconds": 1802,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "y8epULHl9o8",
+      "url": "https://www.youtube.com/watch?v=y8epULHl9o8",
+      "title": "AI Took Her Job. She Built a Studio of One | Fictional AI Film",
+      "description": "The Studio of One is a fictional AI film about losing a job, rebuilding a career, and finding the courage to create something of your own.\n\nWhen Nia Brooks loses her job to AI, she has 60 days to save her mother's house. She turns her basement into a one-woman film studio and faces the creative and personal challenges of starting again.\n\nThrough Nia's story, the film explores work, technology, entrepreneurship, and the human side of ownership.\n\nFICTION & AI DISCLOSURE\nThis film was created with AI filmmaking tools. Its characters and events are fictional. It is not a documentary, a real customer success story, or a promise of income or business results.\n\nSubscribe to Affluence Decoded for financial explainers and cinematic stories about money, work, and ownership:\nhttps://www.youtube.com/@AffluenceDecoded?sub_confirmation=1\n\nWhat would you do in Nia's position? Share your perspective in the comments.\n\nFor education and entertainment only. Not personal financial, investment, legal, or tax advice.\n\n#AIFilm #Entrepreneurship #AffluenceDecoded\n#MoneyStories #AIStory",
+      "channelId": "UCSJ1M_o-195E8m_FToCV6WQ",
+      "channelTitle": "AffluenceDecoded",
+      "thumbnail": "https://i.ytimg.com/vi/y8epULHl9o8/hqdefault.jpg",
+      "publishedAt": "2026-10-11T23:17:35Z",
+      "durationSeconds": 3113,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-10-31T03:54:44.626Z",
+      "lastSeenAt": "2026-10-31T03:54:44.626Z",
+      "lastVerifiedAt": "2026-10-31T03:54:44.626Z",
       "unavailableAt": null
     }
   ]
