@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:31.096Z",
+  "generatedAt": "2026-11-01T04:08:38.026Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1110,7 +1110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-10-30T04:12:31.727Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1207,7 +1207,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1264,7 +1264,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:35.702Z",
       "lastSeenAt": "2026-10-25T03:02:35.702Z",
-      "lastVerifiedAt": "2026-10-26T03:01:37.007Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1321,7 +1321,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1392,12 +1392,13 @@
       "publishedAt": "2026-10-20T05:15:54Z",
       "durationSeconds": 7461,
       "matchedKeywords": [
-        "AI drama movie hindi full"
+        "AI drama movie hindi full",
+        "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:42.284Z",
       "lastSeenAt": "2026-10-27T03:33:42.284Z",
-      "lastVerifiedAt": "2026-10-27T03:33:42.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1455,7 +1456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1588,7 +1589,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:31.727Z",
       "lastSeenAt": "2026-10-30T04:12:31.727Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1607,7 +1608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1626,7 +1627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1645,7 +1646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1664,7 +1665,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1683,7 +1684,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     },
     {
@@ -1702,7 +1703,102 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pBlu75JvH_Y",
+      "url": "https://www.youtube.com/watch?v=pBlu75JvH_Y",
+      "title": "इंसान के घर जन्मा जंगल का राजा 🦁 | ELLI Full Movie | Hindi AI Film",
+      "description": "ELLI — इंसान के घर जन्मा जंगल का राजा | Full Hindi AI Movie\n 🦁 Ek sher ke bachche ki kahani — insaanon ke ghar janma, jungle me pala, aur do maaon ke pyaar ke beech apni asli pehchaan ki talaash.\n Family emotional adventure film, poori Hindi me. Chapters: 0:00 Scene 1 — Ek Anokhe Bachche Ka Janm; 2:52 Scene 2 — Jungle Me Chhoda Gaya Masoom Elli; 7:40 Scene 3 — Jungle Me Elli Ka Naya Parivar; 11:47 Scene 4 — Jungle Ka Sabse Samajhdar Sher; 14:11 Scene 5 — Elli Ko Asli Mata-Pita Ki Yaad; 18:01 Scene 6 — Insaanon Ke Sheher Me Elli; 22:01 Scene 7 — Zoo Ke Pinjre Me Kaid Elli; 26:10 Scene 8 — Janm Dene Wali Maa Se Mulaqat; 34:02 Scene 9 — Jungle Me Ek Maa Ki Pukaar; 38:40 Scene 10 — Jungle Ka Parivar Aur Elli Ka Milan (Climax). Ye film AI se banayi gayi hai. Message: asli pyaar matlab azaadi ka samman karna. #ELLI #HindiMovie #AIMovie #FullMovie #JungleStory #EmotionalStory",
+      "channelId": "UCAx4bzOKGPGQxL8qNndJOWg",
+      "channelTitle": "Ai_film",
+      "thumbnail": "https://i.ytimg.com/vi/pBlu75JvH_Y/hqdefault.jpg",
+      "publishedAt": "2026-10-31T13:30:19Z",
+      "durationSeconds": 3129,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:38.026Z",
+      "lastSeenAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xouWEbbrcDk",
+      "url": "https://www.youtube.com/watch?v=xouWEbbrcDk",
+      "title": "''THE BEAST'' | Full Hollywood Movie in Hindi Dubbed | English Action Movie | hindi Dubbed Movie",
+      "description": "''THE BEAST'' | Full Hollywood Movie in Hindi Dubbed | English Action Movie | hindi Dubbed Movie \n\nCredit\nDepartment Credit\nDirector Bertrand Bonello\nScreenplay Bertrand Bonello\nProducers Justin Taurand, Bertrand Bonello\nCo-producers Nancy Grant, Xavier Dolan\nCinematography Josée Deshaies\nProduction companies Les Films du Bélier, My New Picture, Sons of Manual\n\nSynopsis\nSet in a future where artificial intelligence controls society and human emotions are considered dangerous, Gabrielle decides to undergo a process to purify her DNA and eliminate her intense feelings. The procedure takes her through different periods of her past lives, where she repeatedly encounters Louis, a man with whom she shares a mysterious and powerful connection. As their relationship unfolds across different timelines, Gabrielle struggles with love, fear, destiny and the possibility of an approaching catastrophe.",
+      "channelId": "UCyiKNmimCCiOvwWIjbnz8Vg",
+      "channelTitle": "Hollywood Movie",
+      "thumbnail": "https://i.ytimg.com/vi/xouWEbbrcDk/hqdefault.jpg",
+      "publishedAt": "2026-10-31T14:30:01Z",
+      "durationSeconds": 8230,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:38.026Z",
+      "lastSeenAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "E_mF_ytI0Hk",
+      "url": "https://www.youtube.com/watch?v=E_mF_ytI0Hk",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/E_mF_ytI0Hk/hqdefault.jpg",
+      "publishedAt": "2026-10-31T11:45:09Z",
+      "durationSeconds": 9422,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:38.026Z",
+      "lastSeenAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VcNXVeis3qk",
+      "url": "https://www.youtube.com/watch?v=VcNXVeis3qk",
+      "title": "Robot 2.0 Full HD Movie // Rajnikant New Robot Movie in Hindi //Robot Movie",
+      "description": "Robot 2.0 Full HD Movie // Rajnikant New Robot Movie in Hindi //Robot  Movie\n\n#Robot #2.0 #Robot #Robot2.0fullHDMovie#Robot #Robot #full #Movie #HD #RobotHindifilm #hindi #film #robot #hd",
+      "channelId": "UCQrsiHl5INS2Yxk9nG0SG4Q",
+      "channelTitle": "indian idol ",
+      "thumbnail": "https://i.ytimg.com/vi/VcNXVeis3qk/hqdefault.jpg",
+      "publishedAt": "2026-09-29T04:40:51Z",
+      "durationSeconds": 10622,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:38.026Z",
+      "lastSeenAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5P_PJt6LM_I",
+      "url": "https://www.youtube.com/watch?v=5P_PJt6LM_I",
+      "title": "Forced Marriage Love Story ❤️ | Complete Hindi Drama | Yuvraj & Nikki Ki Kahani | Hindi Drama",
+      "description": "Yuvraj aur Nikki ki ek emotional forced marriage love story ❤️\n\nYuvraj ek successful businessman hai, jabki Nikki ek simple aur educated girl hai. Nikki ke parents ki death ke baad uski shaadi Yuvraj se ho jaati hai, kyunki Yuvraj ke papa ne uske papa se ek promise kiya tha. Lekin kya Yuvraj aur Nikki apne rishte ko accept kar payenge? 🤔\n\nDekhiye unki complete love story, emotional moments, unexpected twists aur relationship ka beautiful journey. ❤️\n\nAgar aapko Hindi drama, romantic love stories, forced marriage stories, emotional stories aur AI-generated drama videos pasand hain, to video ko Like 👍 karein aur channel ko Subscribe karein.\n\nKeywords:\nHindi drama, complete Hindi drama, Hindi love story, forced marriage love story, romantic Hindi story, emotional love story, businessman love story, arranged marriage story, Hindi romantic drama, AI drama, AI love story, Chinese drama in Hindi, Korean drama in Hindi, romance story, family drama, love story video\n\n#HindiDrama #LoveStory #ForcedMarriage #RomanticStory #aivideo",
+      "channelId": "UCu12vpVeFiZUQnTQHff_MnQ",
+      "channelTitle": "Divyaverse_studio",
+      "thumbnail": "https://i.ytimg.com/vi/5P_PJt6LM_I/hqdefault.jpg",
+      "publishedAt": "2026-10-24T04:49:12Z",
+      "durationSeconds": 2314,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:38.026Z",
+      "lastSeenAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
       "unavailableAt": null
     }
   ]

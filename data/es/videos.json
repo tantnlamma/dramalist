@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:49.133Z",
+  "generatedAt": "2026-11-01T04:08:57.284Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -950,7 +950,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:47.855Z",
       "lastSeenAt": "2026-10-30T04:12:47.855Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +969,83 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-10-31T03:54:49.133Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nGHvhHCehpA",
+      "url": "https://www.youtube.com/watch?v=nGHvhHCehpA",
+      "title": "Dulcemente enamorado - Película completa en español ",
+      "description": "Obra Original, Guion y Producción: AnanovelasTV. \n\n\n​Banda Sonora y Temas Musicales: Creación musical IA. \n\n\n​Apoyo Tecnológico y Visual: Producción de video asistida por Inteligencia Artificial.",
+      "channelId": "UCanpwG77NrPgVjFKHxErPvQ",
+      "channelTitle": "AnanovelasTV",
+      "thumbnail": "https://i.ytimg.com/vi/nGHvhHCehpA/hqdefault.jpg",
+      "publishedAt": "2026-10-31T18:57:33Z",
+      "durationSeconds": 2452,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:57.284Z",
+      "lastSeenAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LKfGLmqNQSM",
+      "url": "https://www.youtube.com/watch?v=LKfGLmqNQSM",
+      "title": "EL PRECIO DE LLEVAR TU APELLIDO💍I Película completa #ElPrecioDeLlevarTuApellido#PelículaCompleta",
+      "description": "Valeria acepta un acuerdo con Alejandro para salvar la vida de su madre: fingir ser su prometida. Pero entrar en el mundo de los Montenegro la acerca a un secreto que podría cambiar para siempre la historia de su familia.\nEntre sospechas, traiciones y sentimientos inesperados, ambos tendrán que decidir hasta dónde están dispuestos a llegar por la verdad... y por amor.\n¿y Una historia de ficción creada con ayuda de inteligencia artificial.\n\nEL PRECIO DE LLEVAR TU\nAPELLIDO\nI Película completa de\nromance, secretos y traición\n\n#ElPrecioDeLlevarTuApellido\n#PelículaCompleta #Romance\n#DramaRomántico\n#SecretosDeFamilia",
+      "channelId": "UCZL8zq5X3cwPdiutDPboLTg",
+      "channelTitle": "La heredera del imperio",
+      "thumbnail": "https://i.ytimg.com/vi/LKfGLmqNQSM/hqdefault.jpg",
+      "publishedAt": "2026-10-31T17:00:19Z",
+      "durationSeconds": 1956,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:57.284Z",
+      "lastSeenAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MRnOGqbM9Hw",
+      "url": "https://www.youtube.com/watch?v=MRnOGqbM9Hw",
+      "title": "¡Transformé todos los dispositivos de Toy Story 5 en un robot LEGO! | BEAR Bricks SPANISH",
+      "description": "",
+      "channelId": "UCxBmPBG1wwv9XrKCRCbKm9w",
+      "channelTitle": "BEAR Bricks SPANISH",
+      "thumbnail": "https://i.ytimg.com/vi/MRnOGqbM9Hw/hqdefault.jpg",
+      "publishedAt": "2026-08-25T16:02:03Z",
+      "durationSeconds": 2535,
+      "matchedKeywords": [
+        "película robot completa en español"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:57.284Z",
+      "lastSeenAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-2b-QPpfvfc",
+      "url": "https://www.youtube.com/watch?v=-2b-QPpfvfc",
+      "title": "LA CORONA DE DRAKMOR 2 | Película completa en español latino (Temporada 2)",
+      "description": "Una jinete misteriosa detuvo la guerra de los gemelos… y nada volvió a ser igual. Mira completa la segunda temporada de La Corona de Drakmor, la saga de fantasía medieval de Tronos y Leyendas.\n\nUna carta medio quemada guarda el secreto mejor escondido del reino: lo que pasó la noche en que nacieron los gemelos. Mientras Lord Voss le pone precio a la verdad, Sigrid Brask elige su bando y la reina Ysolde enfrenta veinticinco años de secretos. Y desde el mar llega un imperio con cientos de velas negras… y una profecía a punto de cumplirse.\n\n¿No viste la Temporada 1? Mírala completa aquí: [enlace a la Temporada 1]\n\n🔔 Suscríbete para no perderte lo que viene: https://www.youtube.com/@TronosYLeyendas?sub_confirmation=1\n\nCapítulos:\n0:00 Episodio 1: La jinete blanca\n3:51 Episodio 2: ¿Ella nació primero?\n7:32 Episodio 3: Todo tiene precio\n11:13 Episodio 4: Ella lo traicionó\n15:04 Episodio 5: Lo confesó todo\n18:45 Episodio 6: Sangre de Drakmor\n22:26 Episodio 7: Desterrada\n26:27 Episodio 8: El mar arde\n\nSerie original creada con inteligencia artificial. Voces en español latino.\n\n#LaCoronaDeDrakmor #TronosYLeyendas #Dragones",
+      "channelId": "UCC8GbzcWq3rNNOmYqbfMtFA",
+      "channelTitle": "Tronos Y Leyendas",
+      "thumbnail": "https://i.ytimg.com/vi/-2b-QPpfvfc/hqdefault.jpg",
+      "publishedAt": "2026-10-31T05:35:22Z",
+      "durationSeconds": 1811,
+      "matchedKeywords": [
+        "drama IA película completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:57.284Z",
+      "lastSeenAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
       "unavailableAt": null
     }
   ]

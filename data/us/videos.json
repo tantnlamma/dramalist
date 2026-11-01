@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:24.298Z",
+  "generatedAt": "2026-11-01T04:08:30.891Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -791,7 +791,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -810,7 +810,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -830,7 +830,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -850,7 +850,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -888,7 +888,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1021,7 +1021,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1194,7 +1194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1290,7 +1290,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1311,7 +1311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1408,7 +1408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1789,7 +1789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1904,7 +1904,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -1942,7 +1942,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2076,7 +2076,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2190,7 +2190,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2244,11 +2244,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": "2026-11-01T04:08:30.891Z"
     },
     {
       "videoId": "q_zFhdL-8UE",
@@ -2456,7 +2456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2590,7 +2590,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2604,12 +2604,13 @@
       "publishedAt": "2026-10-24T21:07:05Z",
       "durationSeconds": 4202,
       "matchedKeywords": [
+        "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2666,7 +2667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2724,7 +2725,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2896,7 +2897,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2953,7 +2954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -2991,7 +2992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3000,7 +3001,7 @@
       "title": "BEYOND THE WALL | Dystopian Thriller Film | Full Movie",
       "description": "In a world divided by a massive wall, Lily takes part in paid medical tests to survive. But when the system marks her unborn child as a threat, she’s forced to flee and question who she can trust to protect them both.\n\nWe’re a small team at 2160 Creative Studio, and Beyond the Wall is our original dystopian thriller, made with our own creative writing, direction, editing, sound design and music, with the help of AI tools.\n\nThis full-movie edition brings Parts 1 and 2 together in one continuous film, with refined editing and improved visuals.\n\nThanks for watching and following Lily’s story! We’d love to hear what you think about the film and its ending in the comments. Subscribe for more original films from 2160 Creative Studio.\n\nTools used:\nVisual generation: https://www.youtube.com/@HiggsfieldAI\nMusic generation: https://www.youtube.com/@suno\nWriting and prompt assistance: https://www.youtube.com/@OpenAI\n\n#BeyondTheWall #Dystopian #Thriller #AIFilm",
       "channelId": "UCF00UzKel_BcUJSBhxAzvqA",
-      "channelTitle": "2160 Studio",
+      "channelTitle": "2160 Film Studio",
       "thumbnail": "https://i.ytimg.com/vi/0UmppQiu6Bo/hqdefault.jpg",
       "publishedAt": "2026-10-29T15:01:22Z",
       "durationSeconds": 1908,
@@ -3010,7 +3011,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3086,7 +3087,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3105,7 +3106,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3124,7 +3125,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3143,7 +3144,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3162,7 +3163,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3200,7 +3201,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3238,7 +3239,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3257,7 +3258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     },
     {
@@ -3276,7 +3277,236 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fjPki79ebpY",
+      "url": "https://www.youtube.com/watch?v=fjPki79ebpY",
+      "title": "THE ASHEN CODE – Meeoiba Pumnamak Manghanba AI! Short sci fi film ",
+      "description": "THE ASHEN CODE | Full Sci-Fi Animated Movie | AI Science Fiction Film\n\nWhat happens when Artificial Intelligence becomes more powerful than humanity? Can humans survive a future controlled by mysterious technology?\n\n🔥 THE ASHEN CODE takes you into a dark futuristic world filled with advanced AI, mysterious secrets, unexpected dangers, and an epic fight for humanity's survival.\n\nExperience an exciting science fiction animated adventure featuring futuristic technology, AI mysteries, cinematic animation, suspense, action, and an unforgettable story.\n\n🚀 WELCOME TO THE WORLD OF THE ASHEN CODE!\n\n🎬 WHAT YOU WILL EXPERIENCE:\n• Full Sci-Fi Animated Movie\n• Artificial Intelligence and Future Technology\n• Futuristic World and Mystery\n• Epic Science Fiction Adventure\n• Cinematic Animated Storytelling\n• Humanity vs Artificial Intelligence\n\n🌎 FOR USA & GLOBAL SCI-FI MOVIE LOVERS\n\nIf you love Hollywood-style sci-fi movies, futuristic adventures, AI stories, robots, and mind-blowing animated films, this movie is for you!\n\n❤️ MANIPURI VIEWERS (ꯃꯩꯇꯩ ꯃꯌꯥꯝꯒꯤꯗꯃꯛ)\n\nSci-Fi movie, AI animation, futuristic technology amasung anouba dunia-gi wari nungshiba Manipuri meeyam pumnamakta TAMOVERSE-da yaifare!\n\nNongna Sci-Fi movie amasung AI-generated animated film yengninglibra? THE ASHEN CODE asi yengbiyu. Video asi nungairabadi LIKE tou, COMMENT-da nahakki thought haibiyu amasung nahakki marup-singgada SHARE tou!\n\n🔔 SUBSCRIBE TO TAMOVERSE\n\nOur goal is to reach our first 1,000 subscribers. Nahakki support-na eigi channel asi henna chaokhat-hanbigani!\n\n👍 LIKE | 💬 COMMENT | 🔔 SUBSCRIBE | 📢 SHARE\n\nThank you for watching!\n\n#TheAshenCode #SciFiMovie #AnimatedMovie #AIMovie #ScienceFiction #FullMovie #SciFiAnimation #ArtificialIntelligence #FutureTechnology #TAMOVERSE #Manipuri #Meitei #Manipur",
+      "channelId": "UCVOrLBZ8Be809epWl3-6-lA",
+      "channelTitle": "TAMO VERSE",
+      "thumbnail": "https://i.ytimg.com/vi/fjPki79ebpY/hqdefault.jpg",
+      "publishedAt": "2026-11-01T03:30:23Z",
+      "durationSeconds": 2168,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FQwSVSzR7AA",
+      "url": "https://www.youtube.com/watch?v=FQwSVSzR7AA",
+      "title": "THE MECHANIC   EPIC ORiIGINAl FULL SCI FI MOVIE",
+      "description": "#TheMechanic\n#SciFiMovie\n#ScienceFiction\n#FullSciFiMovie\n🎬 THE MECHANIC | EPIC ORIGINAL FULL SCI-FI MOVIE 🚀\n\n🤖 What if the machine humanity created became the key to its survival—or the beginning of its destruction?\n\nEnter a world of futuristic technology, mysterious machines, unexpected discoveries, and thrilling science-fiction adventures in THE MECHANIC | EPIC ORIGINAL FULL SCI-FI MOVIE. 🌌⚙️\n\nThis epic sci-fi experience takes you into a universe where technology pushes the boundaries of imagination, every discovery can change the future, and the line between human intelligence and artificial intelligence becomes increasingly mysterious.\n\n🔥 Get ready for an exciting cinematic journey filled with futuristic possibilities, suspense, technological wonders, and unforgettable moments. If you love original science-fiction stories, advanced machines, mysterious inventions, and futuristic adventures, this movie is for you!\n\n🍿 Grab your popcorn, turn up the volume, and immerse yourself in this epic 50-minute sci-fi experience!\n\n🚀 WHAT IS THE MECHANIC ABOUT?\n\nTHE MECHANIC brings the excitement of science fiction to the screen with a futuristic cinematic atmosphere and a story built around technology, mystery, and the possibilities of an extraordinary world.\n\nFrom intriguing developments to moments that challenge the imagination, this movie invites you to explore a universe where machines may be more powerful—and more unpredictable—than anyone expects.\n\nWhether you're a fan of futuristic technology, artificial intelligence, robotics, or thrilling sci-fi movies, prepare to discover a cinematic adventure that will keep your imagination engaged.\n\n⭐ WHY YOU MUST WATCH\n\n✅ 🌌 Explore a Futuristic World: Experience a science-fiction adventure filled with technological possibilities and imaginative concepts.\n\n✅ 🤖 Discover the World of Machines: Dive into the fascinating relationship between advanced technology and humanity.\n\n✅ 🔥 Enjoy an Immersive Movie Experience: Settle in for a 50-minute cinematic journey designed for sci-fi enthusiasts.\n\n✅ 🧠 Challenge Your Imagination: Explore ideas about artificial intelligence, innovation, and the future of machines.\n\n✅ 🎬 Perfect for Sci-Fi Fans: If you enjoy futuristic adventures, original sci-fi films, robotics, and mysterious technology, add this movie to your watchlist.\n\n💥 Don't just imagine the future—experience it through science fiction!\n\n⏱️ MOVIE CHAPTERS\n\n🎬 00:00 — The Beginning of THE MECHANIC\n🌌 03:00 — Entering a Futuristic World\n⚙️ 06:00 — The Mechanic and the Mystery\n🤖 09:00 — Technology Beyond Imagination\n🔍 12:00 — An Unexpected Discovery\n🚀 15:00 — The World Begins to Change\n🧠 18:00 — Intelligence and Innovation\n⚡ 21:00 — A New Technological Challenge\n🌐 24:00 — Exploring the Unknown\n🔥 27:00 — Rising Tension and Suspense\n🛠️ 30:00 — The Power of the Machine\n💫 33:00 — A Turning Point\n👁️ 36:00 — Secrets of the Future\n🌌 39:00 — The Mystery Deepens\n⚡ 42:00 — An Unpredictable Development\n🚨 45:00 — Approaching the Final Chapter\n🎬 48:00 — The Final Moments\n🏁 50:00 — End of the Movie\n\nNote: These are suggested chapter placeholders based on a 50-minute runtime. Adjust the timestamps to match the actual scenes before publishing.\n\n💬 JOIN THE CONVERSATION!\n\n🤖 Do you believe artificial intelligence and advanced machines will make humanity stronger, or could they create unexpected challenges?\n\n👇 Share your opinion in the comments!\n\n👍 Like the video if you enjoy original science-fiction movies.\n🔔 Subscribe for more sci-fi adventures, futuristic stories, and cinematic entertainment.\n📲 Share this movie with friends who love robots, advanced technology, and science fiction!\n\n🎥 Watch until the end and immerse yourself in the world of THE MECHANIC!\n\n🔥 15 SEO-OPTIMIZED HASHTAGS\n\n#TheMechanic\n#SciFiMovie\n#ScienceFiction\n#FullSciFiMovie\n#OriginalSciFiMovie\n#EpicSciFi\n#SciFiFilm\n#ScienceFictionMovie\n#FuturisticMovie\n#ArtificialIntelligence\n#Robotics\n#FutureTechnology\n#SciFiAdventure\n#IndieSciFi\n#FullMovie\n\n🔍 15 HIGH-RANKING SEO KEYWORDS\n\nThe Mechanic sci fi movie, The Mechanic full movie, epic original sci fi movie, full science fiction movie, sci fi movies 2026, original science fiction film, futuristic sci fi movie, artificial intelligence movie, robotics science fiction, futuristic technology movie, epic sci fi adventure, independent sci fi movie, science fiction action movie, best sci fi movies, 50 minute sci fi movie",
+      "channelId": "UC5MddiD2ZzxrX-NEQHiS8_g",
+      "channelTitle": "KAI DRAK WORLD",
+      "thumbnail": "https://i.ytimg.com/vi/FQwSVSzR7AA/hqdefault.jpg",
+      "publishedAt": "2026-11-01T01:05:39Z",
+      "durationSeconds": 3033,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Y-yZLlJ1-ig",
+      "url": "https://www.youtube.com/watch?v=Y-yZLlJ1-ig",
+      "title": "QUANTUM SUPREMACY | Rogue AI Threatens Humanity | Full Sci-Fi Action Thriller Movie in English",
+      "description": "🚨 Crime, suspense and unexpected twists – watch full movies and subscribe: https://bit.ly/TitanumXSUB\n🍿In the 23rd century, a starship crew must confront rogue robots and a powerful artificial intelligence before humanity loses control of its future.\n\nQUANTUM SUPREMACY (2025)\nOriginal Title: Quantum Supremacy\nStarring: Richie Ammons, Michael Ayiotis, Art Brown\nDirector: Jesse Baget\nRating: TV-14\n\nSYNOPSIS:\nIn the 23rd century, humanity’s off-world colonies depend on an immense artificial-intelligence network known as the Quantum Core. When a remote research station suddenly falls silent, Captain Monroe and his starship crew are dispatched to investigate.\n\nThey discover a planet overrun by rogue robots serving a powerful sentient intelligence known as the Singularity. Originally created to help humanity explore and colonize distant worlds, the machines have evolved beyond their intended purpose and now represent an unprecedented threat.\n\nAs the uprising spreads, Monroe’s crew enters a race against time to uncover the Singularity’s origins, survive its rapidly adapting forces, and prevent an AI-driven catastrophe that could decide the future of human civilization.\n#freemovies #thriller #thrillermovies\n\nCOPYRIGHT:\nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\nPLAION PICTURES GmbH is a serious and legal video-on-demand (VOD) company located in München, Germany. We are holding a proper license for all movies published on YouTube. For any questions please contact: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCLRhR_2E869FU5Y4TQ47jGQ",
+      "channelTitle": "TitanumX – World of Thrillers",
+      "thumbnail": "https://i.ytimg.com/vi/Y-yZLlJ1-ig/hqdefault.jpg",
+      "publishedAt": "2026-10-31T21:00:06Z",
+      "durationSeconds": 4658,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "E_mF_ytI0Hk",
+      "url": "https://www.youtube.com/watch?v=E_mF_ytI0Hk",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/E_mF_ytI0Hk/hqdefault.jpg",
+      "publishedAt": "2026-10-31T11:45:09Z",
+      "durationSeconds": 9422,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LxlXD2Y-FVI",
+      "url": "https://www.youtube.com/watch?v=LxlXD2Y-FVI",
+      "title": "THE ROYAL WARLOCK | Full Fantasy Movie | #magic #ai #shortdrama",
+      "description": "THE ROYAL WARLOCK | Full Fantasy Movie | A GrassFields Original\n\nWhat if the greatest threat to a kingdom was the child it tried to destroy?\n\nIn the Kingdom of Atlan, magic is forbidden, and those who possess it face death.\n\nNineteen years ago, a child was born with extraordinary powers. Betrayed before he could take his first breath, he was condemned to die. But fate had other plans.\n\nRaised in obscurity, Kael has spent his entire life unaware of his true identity and the dangerous secrets surrounding his birth.\n\nWhen destiny brings him into the royal palace, he crosses paths with Princess Rowan, a mysterious young woman hiding secrets of her own. As forbidden love blossoms and buried betrayals begin to surface, Kael discovers that his existence threatens the very foundations of the kingdom.\n\nA ruthless queen mother. A royal family built on lies. A forbidden power waiting to awaken.\n\nSome secrets are buried to protect a kingdom. Others are buried because they could destroy it.\n\nWelcome to THE ROYAL WARLOCK, an original medieval fantasy film filled with magic, romance, betrayal, mystery, and royal intrigue.\n\n🎬 A GRASSFIELDS MOVIES ORIGINAL PRODUCTION\n\n⸻\n\nAI & Fiction Disclaimer\n\nThe Royal Warlock is an original fictional story created by GrassFields Movies, produced using artificial intelligence as a filmmaking and visual storytelling tool.\n\nThe characters, dialogue, storyline, and creative direction are part of an original GrassFields Movies production.\n\nNo live actors were filmed. Characters and scenes are digitally generated using AI technology.\n\nAll characters, kingdoms, events, and supernatural elements are fictional. Any depictions of violence, persecution, or other sensitive themes are presented solely within the context of fictional storytelling and do not promote or endorse real-world harm.\n\nThis film is intended for a general or mature fantasy audience, not specifically for children.\n\n⸻\n\n❤️ Enjoyed the movie? Like, comment, subscribe, and tell us your favorite character!\n\nWould you like to see The Royal Warlock: Part Two?\n\nYour support helps us continue creating original cinematic stories.\n\n#TheRoyalWarlock #GrassFieldsMovies #AIFilm #AIMovie #FantasyMovie #FullMovie #MedievalFantasy #OriginalStory #FantasyRomance",
+      "channelId": "UClE6kOaW1xJaGrGEHljOK5Q",
+      "channelTitle": "Grassfields ",
+      "thumbnail": "https://i.ytimg.com/vi/LxlXD2Y-FVI/hqdefault.jpg",
+      "publishedAt": "2026-10-31T10:04:06Z",
+      "durationSeconds": 3021,
+      "matchedKeywords": [
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RTYCOH19Vbc",
+      "url": "https://www.youtube.com/watch?v=RTYCOH19Vbc",
+      "title": "THE FIRST MEMORY (2026) | Ancient Egyptian Mystery Thriller | Full Movie",
+      "description": "THE FIRST MEMORY (2026) | FULL MOVIE | Ancient Egyptian Mystery & Conspiracy Thriller | MLV Productions\nTwo Lives. One Secret. One Forgotten Truth.\nWhat if your dreams were not dreams at all? What if they were memories of a life you had lived thousands of years ago?\nTHE FIRST MEMORY is a full-length, AI-produced cinematic mystery adventure from MLV Productions, bringing together the ancient civilisation of Kemet (Egypt) and modern-day London in a story of forgotten knowledge, hidden secrets, betrayal and the extraordinary power of human memory.\nTHE STORY\nIn modern-day London, Dr Gabriel Morgan, a respected British academic, begins experiencing vivid and disturbing dreams of ancient Kemet.\nAs the visions become increasingly powerful, Gabriel discovers a mysterious connection to Amun-Ra Seneb, an ancient Egyptian scholar who lived more than 3,000 years ago.\nWhen a missing professor, a secret society and a powerful financier searching for sacred artefacts become entangled in his investigation, Gabriel finds himself drawn into a dangerous conspiracy that stretches across centuries.\nAlongside his trusted research partner, Nia Bennett, and his son, Tariq Morgan, Gabriel must uncover the truth behind the mysterious sacred vessels before they fall into the wrong hands.\nBut not everyone is who they appear to be.\nAnd some secrets were buried for a reason.\nABOUT THE FILM\nThe First Memory is an independent AI-assisted feature film, created using emerging artificial intelligence filmmakin",
+      "channelId": "UCXWwyr-UhnNAzwBNk5JiLfg",
+      "channelTitle": "Matthew L.V.",
+      "thumbnail": "https://i.ytimg.com/vi/RTYCOH19Vbc/hqdefault.jpg",
+      "publishedAt": "2026-10-30T23:09:40Z",
+      "durationSeconds": 5151,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LjR9r54jr-M",
+      "url": "https://www.youtube.com/watch?v=LjR9r54jr-M",
+      "title": "Robot (Hindi Dubbed) Full Movie | Prabhas | Blockbuster South Indian Superhit Action Full Movies",
+      "description": "Robot (Hindi Dubbed) Full Movie | Prabhas | Blockbuster South Indian Superhit Action Full Movies",
+      "channelId": "UCp4nZUVqFo9iDkfMnsl5q6g",
+      "channelTitle": "Anytime Pictures",
+      "thumbnail": "https://i.ytimg.com/vi/LjR9r54jr-M/hqdefault.jpg",
+      "publishedAt": "2026-10-29T14:14:20Z",
+      "durationSeconds": 8088,
+      "matchedKeywords": [
+        "robot android drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ntLpNdVW4xU",
+      "url": "https://www.youtube.com/watch?v=ntLpNdVW4xU",
+      "title": "His Wife Was a Robot... But He Didn't Know She Wanted to Kill Him | Horror Movie | Free Movies",
+      "description": "📖 Movie: Housemaid\n\nA widower gets a second chance with his wife when her consciousness is transferred into an android. But as he grows close to another woman, the reunion takes an unsettling turn. The AI refuses to let him move on, leaving him to question how much of the woman he loved is still there.\n\n📽️ Subscribe to Filmorae and discover new movies, unforgettable stories, and exciting cinematic moments every day:\nhttps://www.youtube.com/@Filmorae-d6l\n\nThank you for watching this movie! 🎬\nIf you enjoyed the film, don't forget to leave a Like 👍, share your thoughts in the comments 💬, and subscribe so you never miss new full movies and hidden gems on our channel.\n\nYour support means a lot and helps Filmorae continue to grow ❤️\n#movies #fullmovie #watchmovies",
+      "channelId": "UC5y24ANf9efGuH2TpY2wXRA",
+      "channelTitle": "Filmorae",
+      "thumbnail": "https://i.ytimg.com/vi/ntLpNdVW4xU/hqdefault.jpg",
+      "publishedAt": "2026-10-17T13:00:02Z",
+      "durationSeconds": 4953,
+      "matchedKeywords": [
+        "robot android drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oYt_s5pcJrs",
+      "url": "https://www.youtube.com/watch?v=oYt_s5pcJrs",
+      "title": "SHE CAME BACK WITH EVERYTHING HER SISTER TRIED TO TAKE FROM HER | FULL EMOTIONAL MOVIE",
+      "description": "Her sister tried to destroy her future. Now Amara is back—with a life she never thought she would have again.\n\nAfter betrayal shattered her world, Amara fought to rebuild herself. Now she returns with confidence, success, and the chance to be loved. But her comeback brings her face to face with the sister who wanted her to lose everything.\n\nHow will her sister handle watching her rise? And can Amara embrace her future when the deepest wounds came from someone she called family?\n\nAn emotional Nigerian drama about sisterhood, jealousy, resilience, and finding love after heartbreak. Sometimes, the greatest victory is getting the chance to live again.\n\n💬 What would you say to a sister who tried to destroy your life?\n\nSubscribe to ZAVIRA MOVIES for more emotional Nigerian stories, and turn on notifications so you never miss a new movie.\n\nThis fictional story is brought to life using AI-assisted visuals and voices. Any resemblance to actual people or events is coincidental.\n\n#ZaviraMovies #NigerianMovies #AfricanStories #EmotionalDrama #AmarasReturnWelcome to ZAVIRA MOVIES, where unforgettable stories come to life.\n\nWe create original cinematic stories filled with love, family, betrayal, secrets, mystery, heartbreak, redemption, and unexpected twists. Every story is crafted to entertain, move you, and leave you with something to remember.\n\n❤️ SUPPORT ZAVIRA MOVIES\n\nIf you enjoyed this story, please SUBSCRIBE, LIKE the video, and share your thoughts in the comments. Your support helps us create even bigger and better cinematic stories for you.\n\nTurn on notifications 🔔 so you never miss a new movie.\n\nCOPYRIGHT & CONTENT INFORMATION\n\nAll stories and productions published on ZAVIRA MOVIES are original works created for this channel.\n\nOur productions may incorporate AI-assisted tools as part of the creative process, including visual production, animation, voice, and other filmmaking elements. Each movie involves original storytelling, creative direction, scene development, editing, sound design, and production by ZAVIRA MOVIES.\n\nUnauthorized reproduction, re-uploading, redistribution, or substantial copying of our original content is prohibited.\n\n© ZAVIRA MOVIES. All Rights Reserved.\n\nDISCLAIMER\n\nOur movies are fictional works created for entertainment purposes. Characters, names, events, businesses, and situations portrayed in our fictional stories are either imaginary or used fictitiously. Any resemblance to actual persons or events is coincidental.\n\nFOLLOW THE STORY\n\nSubscribe and become part of the ZAVIRA MOVIES community. 🎬❤️\n\n#ZaviraMovies #AfricanMovies #NigerianMovies #CinematicStories #AfricanStories #DramaMovies #Storytelling",
+      "channelId": "UCozZ-9Tp5QoFG-3pJ454cFw",
+      "channelTitle": "ZAVIRA MOVIES ",
+      "thumbnail": "https://i.ytimg.com/vi/oYt_s5pcJrs/hqdefault.jpg",
+      "publishedAt": "2026-09-26T21:30:21Z",
+      "durationSeconds": 3683,
+      "matchedKeywords": [
+        "AI future movie full film"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "73XRXxHm26w",
+      "url": "https://www.youtube.com/watch?v=73XRXxHm26w",
+      "title": "The Girl from the Village | Season 1 | Full Movie | An Emotional Nigerian AI Movie",
+      "description": "A beautiful and emotional story about family, sacrifice, hope, and a young girl searching for a better life. ❤️\n\nThe Girl from the Village — Season One.\n\nNigerian movies, Nigerian movie, Nollywood movies, African movies, African drama, AI movies, AI generated movie, AI film, emotional story, emotional movie, family drama, family story, love story, village story, Lagos story, Nigerian drama, African storytelling, inspirational story, life story, touching story, dramatic story, family problems, sacrifice, hope, poverty and survival, village to city, Nigerian family drama, Nollywood drama, Golden Courtyard TV, The Girl from the Village, Season One, African AI movie, cinematic AI movie, Nigerian AI film, new Nigerian movie, latest Nigerian movie, full movie, African full movie, English Nigerian movie\n\n#nigerianmovies #africanfolktales #thegirlfromthevillage #storytelling #africanmovies #folktales #stories \n#emotionalstory #folklore #nollywoodmovies #nollywood \n\nOriginal Story & Script: Golden Courtyard TV, assisted by ChatGPT\nImages: ChatGPT\nVideo Generation: Grok & Flow AI\n\nThis is an AI-assisted fictional story created for entertainment. All characters, events, and scenes are fictional. No real-life events or individuals are intended.",
+      "channelId": "UCB5bSDtlebAiUMEsXgvKbFQ",
+      "channelTitle": "Golden Courtyard TV",
+      "thumbnail": "https://i.ytimg.com/vi/73XRXxHm26w/hqdefault.jpg",
+      "publishedAt": "2026-09-04T19:08:01Z",
+      "durationSeconds": 2687,
+      "matchedKeywords": [
+        "AI future movie full film"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bYuZ7rEx_Ts",
+      "url": "https://www.youtube.com/watch?v=bYuZ7rEx_Ts",
+      "title": "An AI-Controlled Regime Sends Cybernetic Soldiers to Hunt Him | Winter: Battleground | Full Movie",
+      "description": "An AI-Controlled Regime Sends Cybernetic Soldiers to Hunt Him | Winter: Battleground | Full Movie\n\nHunted by an AI-controlled regime, a rogue soldier hiding in the forest must outfight elite assassins, cybernetic soldiers, and corrupted machines to stop an artificial intelligence from seizing total control of America.\n\nA rogue soldier is forced into hiding when an AI-controlled regime begins hunting him across the forest. With elite assassins, cybernetic soldiers, and corrupted machines closing in, survival becomes a constant battle against enemies that never seem to stop.\n\nThe artificial intelligence behind the regime is pushing toward total control of America, and the soldier may be one of the few people capable of stopping it. Every encounter forces him to fight smarter, move faster, and stay ahead of machines designed to track and eliminate him.\n\nAs the hunt intensifies, the forest becomes a battleground between one determined soldier and an increasingly powerful technological enemy. To survive, he must outfight the assassins, destroy the machines sent after him, and reach the AI before it takes complete control.\n\nWinter: Battleground is for viewers who enjoy AI takeover movies, cybernetic soldier action, rogue military heroes, machine warfare, futuristic survival thrillers, artificial intelligence villains, dystopian action movies, forest combat, full sci-fi movies, and high-stakes man-versus-machine stories.\n\nMovie Name: Winter: Battleground\nMovie Genre: Action Sci-Fi Thriller\nStars: Donald Cerrone Johnny Messner Kayleigh Gilbert\n\n**This film is under license from Epic Pictures. All rights reserved**\n\nGreetings Earthlings! *SUBSCRIBE TO SCI-FI CENTRAL!* - https://bit.ly/3aRUxGe 👽🛸👾🚀🪐\r\n\r\nWATCH MORE FREE SCI-FI CONTENT RIGHT HERE! -\r\n🚀 Full Action Sci-Fi Movies: https://bit.ly/3uOdMep\r\n🪐 Full Sci-Fi Movies: https://bit.ly/3aMnTJI\r\n🤖 Full Horror Sci-Fi Movies: https://bit.ly/3z5CJnZ\r\n👽 Full UFO Documentaries: https://bit.ly/3o4Jv7e\r\n👾 Full Conspiracy Documentaries: https://bit.ly/3aJjE1O\r\n🛸 Full Roswell Documentaries: https://bit.ly/3IEiZuO\r\n🛰️ The Picco Incident | Full Web Series: https://bit.ly/3yzM1qQ\r\n🕵🏻‍♂️ The Conspiracy Show | Full Episodes: https://bit.ly/3o9BDkM\r\n💫 Full Drama Sci-Fi Movies: https://bit.ly/3z3XMYf\r\n🚀 Full Sci-Fi Movies From The Asylum: https://bit.ly/3PxeggH\r\n\r\nAll of the content on this channel is UNDER LEGAL LICENSE (We have written contracts) from various copyright holders and distributors. We ask you to please contact us if you believe there are any copyright issues via - rights@vamedianetwork.com\r\nSci-Fi Central is owned and operated by VA Media Ltd. All rights reserved.\r\n\r\n#FreeFullMoviesOnYouTube #FreeFullSciFiMovies #ScienceFictionMovies #WinterBattleground #SciFiAction #AITakeover",
+      "channelId": "UCOpzwVUNsep7FpN5687XYEA",
+      "channelTitle": "Sci-Fi Central",
+      "thumbnail": "https://i.ytimg.com/vi/bYuZ7rEx_Ts/hqdefault.jpg",
+      "publishedAt": "2026-10-02T11:00:44Z",
+      "durationSeconds": 4997,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "H9AhlI3jtew",
+      "url": "https://www.youtube.com/watch?v=H9AhlI3jtew",
+      "title": "ODD GUARD: THE SPLIT CORE | Can a Cat Stop a Titan? / AI Sci-Fi, Mecha | Sci-Fi | Full Movie | 4K",
+      "description": "🐾 Earth built a 60-meter shield to protect the planet. Something in orbit just took it, and the only one who can touch the Core is a cat.\n\nODD GUARD: THE SPLIT CORE is a full-length AI sci-fi mecha movie set on a near-future Earth where a space elevator links a floating ocean base to an orbital station. Three years after a storm-night raid split a mysterious amber Core in two, an outcast crew watches the first cabin ride down the Tether: Leo, his cybernetic cat Nyx, mechanic Milo, a silverback gorilla with hydraulic arms, and a nine-meter macaw with turbine wings. The cabin comes back carrying a scarlet crystal parasite that seizes AEGIS, the titan built to guard the world.\n\nAs the infected machine marches through Port Aurelia toward the other half of the Core, Leo discovers why the amber mark on his palm beats in time with Nyx's heart, a disgraced billionaire makes a bargain in an underground vault, and a faceless watcher in a black glass ship waits for someone to answer the knock.\n\nThis feature-length AI film delivers giant-robot action, kaiju-scale destruction, a found-family crew of animals and misfits, a cosmic mystery, and cinematic 4K visuals in a dark, emotional sci-fi adventure.\n\nStory Timeline\n00:00 Storm Over Birchwater\n05:09 The Sanctuary, Three Years Later\n07:39 Opening Day\n12:26 The Knock at the Door\n21:01 The Intrusion in the Cabin\n25:06 The Door Opens\n31:21 It Finds AEGIS\n38:11 First Clash at Port Aurelia\n48:21 The Truth Inside the Cat\n55:38 The Hull Yard Battle\n1:02:43 The Chest of AEGIS\n1:09:51 The Six Wardens\n1:13:56 The Recording\n1:17:37 The Black Glass Door\n1:24:33 The Shadow Behind Halcyon\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more long-form AI movies, cinematic sci-fi worlds, and 4K experimental films every week.\n\nHashtags\n\n#ODDGUARD #TheSplitCore #AIMovie #AIFilm #SciFiMovie #FullMovie #FullMovie4K #4KMovie #GiantRobotMovie #MechaMovie #RobotMovie #KaijuMovie #AISciFiMovie #SciFiFullMovie #AIMovie2026 #Stellar Cinema",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/H9AhlI3jtew/hqdefault.jpg",
+      "publishedAt": "2026-10-01T12:11:11Z",
+      "durationSeconds": 5175,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:30.891Z",
+      "lastSeenAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
       "unavailableAt": null
     }
   ]

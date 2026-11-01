@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:39.683Z",
+  "generatedAt": "2026-11-01T04:08:47.316Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -76,7 +76,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -96,7 +96,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -116,7 +116,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -195,7 +195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -215,7 +215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -235,7 +235,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -254,7 +254,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -273,7 +273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -292,7 +292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-30T04:12:39.755Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -311,7 +311,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -331,7 +331,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -350,7 +350,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -407,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -427,7 +427,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -446,7 +446,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -621,7 +621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -756,7 +756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -775,7 +775,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -794,7 +794,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -834,7 +834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +854,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +892,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +911,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -982,12 +982,13 @@
       "publishedAt": "2026-10-24T01:00:05Z",
       "durationSeconds": 6377,
       "matchedKeywords": [
-        "AI ドラマ 映画"
+        "AI ドラマ 映画",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:49.966Z",
       "lastSeenAt": "2026-10-27T03:33:49.966Z",
-      "lastVerifiedAt": "2026-10-28T03:50:15.199Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -1021,12 +1022,13 @@
       "publishedAt": "2026-10-25T10:16:38Z",
       "durationSeconds": 1863,
       "matchedKeywords": [
-        "AI 映画 フル"
+        "AI 映画 フル",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -1084,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     },
     {
@@ -1104,7 +1106,46 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "D4Q0_7XIxv0",
+      "url": "https://www.youtube.com/watch?v=D4Q0_7XIxv0",
+      "title": "How to Create Your Own AI Drama with Seedance 2.5 (Full Tutorial)",
+      "description": "Try Higgsfield: https://higgsfield.ai/s/higgsfield-general-campaign-yt-endangeredai-QtEVnF\nSponsored by Higgsfield, who provided credits for this video.\n\nWant to create your own AI drama? Watch my finished pirate story, then follow the workflow I used to build its characters, locations, dialogue and scenes with Seedance 2.5 on Higgsfield.\n\nThis is a practical AI filmmaking walkthrough, from planning story beats with ChatGPT and AI image generation for the cast to prompting camera movements, generating dialogue and choosing the takes that tell the story. I show what worked, what failed, and how I approached the tricky scenes so you can apply the process to your own AI video.\n\nWe'll cover Higgsfield Projects and Elements, Seedance 2.5 Draft mode, character reference sheets, reusable locations, scene extensions and using a chosen frame to start the next clip. I also explore the Relight controls for matching lighting between shots.\n\nSearching for a Free AI video generator, or trying to find the Cheapest AI Platform for your project? Compare the current plans, credits and model access before choosing. This tutorial focuses on the creative workflow and the results I actually got.\n\nWhat kind of AI drama would you make? Let me know below—and tell me if you'd like more of this pirate story or a tutorial on adapting it for vertical video.\n\nCHAPTERS\n00:00 What can your own AI drama look like?\n02:02 How can you create an AI drama with Seedance 2.5?\n04:11 How does Seedance 2.5 Draft mode work?\n05:33 How do you organise a film in Higgsfield Projects?\n06:14 How do you create your AI cast and reference images?\n09:20 How do you plan story beats and scenes with ChatGPT?\n11:24 How do Higgsfield Elements organise characters and locations?\n14:49 How do you prompt camera movements and dialogue?\n18:31 How could Higgsfield Relight help match your lighting?\n19:29 Should you extend a clip or use a starting frame?\n21:56 How do you continue a scene from a chosen frame?\n22:47 How do you create reusable interior locations?\n28:38 Why split complex action into smaller clips?\n30:10 How can you improve character positions and blocking?\n33:03 What did I learn from creating this AI drama?\n\nSUPPORT & COMMUNITY\nSupport Endangered AI on Patreon:\nhttps://www.patreon.com/EndangeredAI\n\nJoin the Endangered AI Discord:\nhttps://discord.gg/w8G6CWSTAn\n\nSubscribe for more practical AI filmmaking workflows and hands-on model tests.\n\n#Higgsfield #Seedance25 #AIFilmmaking",
+      "channelId": "UC6pYaJiI_sX-SOQhHIoSCWg",
+      "channelTitle": "Endangered AI",
+      "thumbnail": "https://i.ytimg.com/vi/D4Q0_7XIxv0/hqdefault.jpg",
+      "publishedAt": "2026-10-31T14:01:32Z",
+      "durationSeconds": 2102,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:47.316Z",
+      "lastSeenAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ExZGOg9mHC0",
+      "url": "https://www.youtube.com/watch?v=ExZGOg9mHC0",
+      "title": "[4K AI Movie]《虚空核心》| Core of Void Full Movie | 映画『ヴォイド・コア』フル | 영화《보이드 코어》",
+      "description": "虚空核心 Core of Void ヴォイドコア 보이드코어 Full Movie 科幻电影 Sci-Fi Movie",
+      "channelId": "UCD9QPFWJtteLJUnjpky-Shg",
+      "channelTitle": "AI漫剧社 ",
+      "thumbnail": "https://i.ytimg.com/vi/ExZGOg9mHC0/hqdefault.jpg",
+      "publishedAt": "2026-10-21T22:43:47Z",
+      "durationSeconds": 3562,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:08:47.316Z",
+      "lastSeenAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
       "unavailableAt": null
     }
   ]

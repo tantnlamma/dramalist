@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:57.448Z",
+  "generatedAt": "2026-11-01T04:09:06.583Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -146,11 +146,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     },
     {
       "videoId": "a1bsbMreHWA",
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -184,11 +184,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-18T02:53:03.073Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     },
     {
       "videoId": "iCU7c_ntyXc",
@@ -206,7 +206,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -222,11 +222,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-28T03:50:33.137Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     },
     {
       "videoId": "mTtH6fmfKhg",
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -437,7 +437,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -476,7 +476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -495,7 +495,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -552,7 +552,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -644,11 +644,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-10-20T03:14:58.897Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     },
     {
       "videoId": "ix4UPeQSgLw",
@@ -704,7 +704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -800,7 +800,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -836,11 +836,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     },
     {
       "videoId": "tamf_5gW3Do",
@@ -858,7 +858,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -878,7 +878,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -898,7 +898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1032,7 +1032,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1109,7 +1109,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1187,7 +1187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1226,7 +1226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1246,7 +1246,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1323,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1342,7 +1342,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1356,12 +1356,13 @@
       "publishedAt": "2026-10-24T16:00:00Z",
       "durationSeconds": 7163,
       "matchedKeywords": [
-        "film complet intelligence artificielle"
+        "film complet intelligence artificielle",
+        "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1380,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1418,7 +1419,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1456,7 +1457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1476,7 +1477,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1496,7 +1497,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1511,12 +1512,13 @@
       "durationSeconds": 5193,
       "matchedKeywords": [
         "film complet intelligence artificielle",
+        "film robot complet français",
         "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1535,7 +1537,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1555,7 +1557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1574,7 +1576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1593,7 +1595,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1612,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1631,7 +1633,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1650,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1688,7 +1690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1707,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1726,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1740,12 +1742,13 @@
       "publishedAt": "2026-10-30T17:00:24Z",
       "durationSeconds": 6333,
       "matchedKeywords": [
-        "film complet intelligence artificielle"
+        "film complet intelligence artificielle",
+        "film robot complet français"
       ],
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1764,7 +1767,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1783,7 +1786,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1802,7 +1805,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1821,7 +1824,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
       "unavailableAt": null
     },
     {
@@ -1837,11 +1840,11 @@
       "matchedKeywords": [
         "film complet intelligence artificielle"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-10-31T03:54:57.448Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-01T04:09:06.583Z",
+      "unavailableAt": "2026-11-01T04:09:06.583Z"
     }
   ]
 }

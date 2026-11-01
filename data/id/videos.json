@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:55:06.655Z",
+  "generatedAt": "2026-11-01T04:09:15.763Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -454,7 +454,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1310,7 +1310,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1329,7 +1329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1405,7 +1405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1424,13 +1424,13 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
       "videoId": "8C3PvC9RWTs",
       "url": "https://www.youtube.com/watch?v=8C3PvC9RWTs",
-      "title": "The Last Message | Pakistani AI Sci-Fi Thriller | Karachi 2042 (English)",
+      "title": "The Last Message — Karachi 2042 | Sci-Fi Thriller",
       "description": "A Message From his Dead Father. 48 hours. An intelligence that can predict every move.\n\nTHE LAST MESSAGE is a complete Pakistani AI film in English (36 minutes), set in Karachi, 2042. When Huzaifa receives a video message from his father, who died ten years ago, he and his sister Ashna are pulled into a race against an AI that may already be shaping what happens next.\n\nWho sent the message? Can a prediction be stopped? And if a system shapes your choices, are they still yours?\n\nCREDITS\nA project of N Digital\nProduced by Afsheen Nadeem\nWritten and directed by Syed Nadeem Ahmed\n\nABOUT THIS FILM\nThis film was created using AI tools for images, video and voices. All characters and events are fictional.\n\nWhat would you have done in Huzaifa's place? Tell us in the comments, and subscribe for the next film.\n\n#TheLastMessage #AIMovie #PakistaniAIFilm",
       "channelId": "UCIOrFJjN75Um4agsMuglV3w",
       "channelTitle": "Alif Stories - History. Imagination. Cinema.",
@@ -1443,7 +1443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1462,7 +1462,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1481,7 +1481,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1557,7 +1557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     },
     {
@@ -1577,6 +1577,25 @@
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
       "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HTaYCcUHVcI",
+      "url": "https://www.youtube.com/watch?v=HTaYCcUHVcI",
+      "title": "Raja Sampah Mekanik Full Movie 2026 | Episode 1–52 Lengkap | Sub Indo | Full HD",
+      "description": "Raja Sampah Mekanik (2026) Full Movie | Episode 1–52 Lengkap | Subtitle Indonesia | Full HD\n\nOrion Solari dianggap tidak mampu mengendalikan Mecha dan akhirnya dibuang oleh bangsanya sendiri. Dibenci oleh kaum modifikasi dan dianggap sebagai aib keluarga, Orion harus menghadapi takdir yang penuh tantangan.\n\nNamun, ketika umat manusia berada di ambang kepunahan, Orion bangkit bersama Mecha dan menghadapi ancaman besar dari Ratu Sarang. Mampukah ia menjadi penyelamat terakhir umat manusia?\n\n🔥 Saksikan kisah penuh aksi, pertarungan robot Mecha, petualangan futuristik, dan perjuangan seorang pria yang diremehkan hingga menjadi harapan dunia!\n\n🎬 Judul: Raja Sampah Mekanik  \n📺 Episode: 1–52  \n🌐 Subtitle: Bahasa Indonesia  \n🎭 Genre: Sci-Fi, Action, Mecha, Fantasy, Adventure\n\nKata Kunci Raja Sampah Mekanik Full Movie, Raja Sampah Mekanik Episode 1–52, Raja Sampah Mekanik Sub Indo, Orion Solari, Mecha Action, Drama Sci-Fi Indonesia.\n\n#RajaSampahMekanik #SubIndo #FullMovie #Mecha #SciFi #Action #DramaIndonesia",
+      "channelId": "UCgqoPV5BmZGRPeSvGHGEydw",
+      "channelTitle": "Fresh Tech Tips ",
+      "thumbnail": "https://i.ytimg.com/vi/HTaYCcUHVcI/hqdefault.jpg",
+      "publishedAt": "2026-10-16T21:20:34Z",
+      "durationSeconds": 6030,
+      "matchedKeywords": [
+        "film robot lengkap bahasa indonesia"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:09:15.763Z",
+      "lastSeenAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
       "unavailableAt": null
     }
   ]

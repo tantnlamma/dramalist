@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:54:52.587Z",
+  "generatedAt": "2026-11-01T04:09:01.631Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -515,7 +515,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -534,7 +534,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -553,7 +553,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -591,7 +591,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -610,7 +610,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     },
     {
@@ -630,6 +630,44 @@
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
       "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0AvOQkf2xRc",
+      "url": "https://www.youtube.com/watch?v=0AvOQkf2xRc",
+      "title": "Soldado do Futuro | FILME COMPLETO | @SwenAction",
+      "description": "Obrigado por assistir a *Soldado do Futuro* na @SwenAction \n\n🎬 *Sinopse*\nEm um futuro próximo, durante uma nova Guerra Fria contra a China, o Ministério da Defesa britânico financia pesquisas secretas para criar o soldado cibernético perfeito. O brilhante cientista Vincent McCarthy recruta a jovem especialista em inteligência artificial Ava para desenvolver um androide consciente e autorreflexivo. Quando Ava é misteriosamente assassinada, Vincent mapeia seus padrões cerebrais e dá vida ao protótipo mais sofisticado do mundo: \"The Machine\". Dotada de força sobre-humana e sentimentos genuínos, a androide se recusa a ser apenas uma máquina de massacre, rebelando-se contra a liderança militar que planeja utilizá-la como arma letal.\n\n*Direção:* Caradog W. James\n*Elenco:* Toby Stephens, Caity Lotz, Denis Lawson, Sam Hazeldine, Pooneh Hajimohammadi\n*Gênero:* Ficção Científica, Ação, Suspense\n*Título original:* The Machine\n*Ano:* 2013\n\n👉 Quer mais *filmes de ação* e adrenalina? Fique ligado na  @SwenAction   \n🎞️ Filmes em português no canal principal:  @SwenFilmes \n✨ Para filmes de família e histórias emocionantes, acesse:  @SwenFamilyPortuguês \n\nDistribuição no Brasil e América Latina:  \nhttps://www.swengroup.us/  \nhttps://www.swenfilmes.com.br/\n\n▶ Siga nossas redes sociais:  \nFacebook: https://www.facebook.com/swenfilmes  \nInstagram: https://www.instagram.com/swenfilmes/  \nTikTok: https://www.tiktok.com/@swenfilmes\n\n#FilmesDeAção #FilmeCompleto #Swen #SoldadoDoFuturo #TheMachine #CaityLotz #TobyStephens #FicçãoCientífica #Ação #Suspense",
+      "channelId": "UCU0x37OiBIYuM8kVS47gMcQ",
+      "channelTitle": "Swen Action",
+      "thumbnail": "https://i.ytimg.com/vi/0AvOQkf2xRc/hqdefault.jpg",
+      "publishedAt": "2026-10-31T20:00:22Z",
+      "durationSeconds": 5424,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:09:01.631Z",
+      "lastSeenAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "idKPF6kKbbI",
+      "url": "https://www.youtube.com/watch?v=idKPF6kKbbI",
+      "title": "A HISTÓRIA DO MENINO ROBÔ QUE EMOCIONOU GERAÇÕES! 💚 Astro Boy com Kristen Bell💚FILME DUBLADO",
+      "description": "🔔 Inscreva-se já no NetMovies Família! https://www.youtube.com/channel/UC1vGd-MHPg0fKoIku6Mw1wQ?sub_confirmation=1\n\n💜 O NetMovies traz para você ótimos filmes online, completamente GRÁTIS! Os maiores lançamentos e sucessos dos últimos anos 💜\n\n👨‍👩‍👧 O canal Netmovies Família traz para você ótimos filmes online e grátis. Aqui você encontra conteúdos para toda a família com a melhor qualidade. Filmes dublados, legendados, licenciados e completos, quando e onde você desejar! 👨‍👩‍👧\n\n\n🎞️ 𝑺𝒊𝒏𝒐𝒑𝒔𝒆: Situado no futurista Metro City, Astro Boy é sobre um jovem robô com incríveis poderes criados por um cientista brilhante chamado Tenma. Alimentado pela energia positiva -  azul -, Astro Boy é dotado de super força, visão de raio X, velocidade inacreditável e capacidade de voar. Saindo em uma jornada em busca de aceitação, Astro Boy encontra muitos outros personagens diferentes ao longo do caminho. Através de suas aventuras, aprende as alegrias e emoções de ser humano e ganha a força para abraçar seu destino. Em última análise, sabendo que seus amigos e familiares estão em perigo, o Astro Boy reúne seus incríveis superpoderes e retorna a Metro City em um valente esforço para salvar tudo o que importa e entender o que é preciso para ser um herói.\n\n💚𝑵𝒐𝒎𝒆 𝒅𝒐 𝑭𝒊𝒍𝒎𝒆: Astro Boy\n     𝑫𝒊𝒓𝒆𝒄̧𝒂̃𝒐: David Bowers\n     𝑬𝒔𝒕𝒓𝒆𝒍𝒂𝒏𝒅𝒐: Freddie Highmore | Kristen Bell | Ryan Stiles | Donald Sutherland | David Alan Grier | Newell Alexander | Dee Bradley Baker | Sterling Beaumon | Matt Lucas | Charlize Theron | Eugene Levy | Bill Nighy | Nathan Lane\n\n\n💜​ Baixe já o aplicativo da Netmovies que está disponível para iOS e Android em seu celular ou Smart TVs: www.netmovies.com.br\n\n📲 Uma plataforma exclusiva com mais de 3.000 filmes dublados e legendados com o máximo de qualidade e o melhor de tudo: É grátis!\nTá esperando o quê?\n\n🤳​ Estamos também no Facebook e Instagram!\n- Facebook: https://www.facebook.com/netmovies\n- Instagram: https://www.instagram.com/netmoviesbr?igsh=MXRja2d4NDlqNWhxYw==\n\n💬​​Comente usando '@NetMoviesFamília’ no YouTube e nas redes sociais!\n\n#filmefamilia #filmegospel #filmeinfantil #filmeparacriança #netmoviesfamilia #filmegratis #filmecompleto #filmecompletodublado #filmedublado #filmegratis #filmeonline #filmeemportuguês #filmecompletodubladoemportuguês #filme\n\n\nScripted Content\n\nID: 423685",
+      "channelId": "UC1vGd-MHPg0fKoIku6Mw1wQ",
+      "channelTitle": "NetMovies Família",
+      "thumbnail": "https://i.ytimg.com/vi/idKPF6kKbbI/hqdefault.jpg",
+      "publishedAt": "2026-10-26T21:00:29Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-01T04:09:01.631Z",
+      "lastSeenAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
       "unavailableAt": null
     }
   ]
