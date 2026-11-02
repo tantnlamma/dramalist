@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:09:15.763Z",
+  "generatedAt": "2026-11-02T04:13:10.646Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -797,7 +797,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:12.168Z",
       "lastSeenAt": "2026-10-18T02:53:12.168Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1139,7 +1139,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-10-29T04:13:23.836Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1405,7 +1405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1424,14 +1424,14 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
       "videoId": "8C3PvC9RWTs",
       "url": "https://www.youtube.com/watch?v=8C3PvC9RWTs",
-      "title": "The Last Message — Karachi 2042 | Sci-Fi Thriller",
-      "description": "A Message From his Dead Father. 48 hours. An intelligence that can predict every move.\n\nTHE LAST MESSAGE is a complete Pakistani AI film in English (36 minutes), set in Karachi, 2042. When Huzaifa receives a video message from his father, who died ten years ago, he and his sister Ashna are pulled into a race against an AI that may already be shaping what happens next.\n\nWho sent the message? Can a prediction be stopped? And if a system shapes your choices, are they still yours?\n\nCREDITS\nA project of N Digital\nProduced by Afsheen Nadeem\nWritten and directed by Syed Nadeem Ahmed\n\nABOUT THIS FILM\nThis film was created using AI tools for images, video and voices. All characters and events are fictional.\n\nWhat would you have done in Huzaifa's place? Tell us in the comments, and subscribe for the next film.\n\n#TheLastMessage #AIMovie #PakistaniAIFilm",
+      "title": "The Last Message | AI vs AI in Karachi 2042 | Sci-Fi Thriller",
+      "description": "THE LAST MESSAGE | A Pakistani AI Sci-Fi Thriller | FULL MOVIE\n\n📍 KARACHI, 2042 — WHEN AI FIGHTS AI, WHO CONTROLS THE FUTURE?\n\nThe future of Karachi is under threat. As artificial intelligence becomes more powerful, a dangerous conflict unfolds between competing AI systems. In a world where technology can protect humanity or put it at risk, one message could change everything.\n\nThe Last Message is a Pakistani AI-generated science-fiction thriller set in a futuristic Karachi in 2042. This English-language film explores artificial intelligence, technological power, human survival, and the uncertain future of humanity.\n\nCan one message reveal the truth before it is too late?\n\n🎬 FILM DETAILS\nTitle: The Last Message\nGenre: Science Fiction | Thriller\nSetting: Karachi, Pakistan — 2042\nLanguage: English\nFormat: Full-Length AI Film\nDuration: Approximately 36 minutes\n\nWatch the full movie and discover what happens when artificial intelligence becomes humanity's greatest challenge.\n\n💬 JOIN THE DISCUSSION\nDo you think AI systems could one day turn against each other? And if two AI systems were fighting, who would be in control — humans or machines?\n\nShare your thoughts in the comments.\n\n👍 If you enjoy Pakistani AI films and science-fiction thrillers, like the video, share it, and subscribe to Alif Stories History for more cinematic stories.\n\n#TheLastMessage #AIvsAI #SciFiThriller #AIFilm #Karachi2042 #PakistaniAI",
       "channelId": "UCIOrFJjN75Um4agsMuglV3w",
       "channelTitle": "Alif Stories - History. Imagination. Cinema.",
       "thumbnail": "https://i.ytimg.com/vi/8C3PvC9RWTs/hqdefault.jpg",
@@ -1462,14 +1462,14 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
       "videoId": "7-rWFqxL7dw",
       "url": "https://www.youtube.com/watch?v=7-rWFqxL7dw",
-      "title": "What Happens When You Turn Twenty-One? AI Sci-Fi Full Movie",
-      "description": "#SciFiMovie #fantasy  #FullMovie #aifilm, Full Sci-Fi Movie in 4K, As protests and civil unrest bring attention to France, imagine a dystopian future where even raising your voice is forbidden and Explore a haunting vision of the future in this full ai sci-fi movie, where the state dictates every aspect of human identity. In a world where children are born without gender, the government decides who you become, stripping away autonomy in a chilling dystopian future. This cinematic ai experience dives deep into a complex sci-fi story that challenges our perceptions of self, body transformation, and social structure.\n\nIn a society where silence is enforced by law, one citizen's act of defiance transforms a silent demonstration into a confrontation with authority.\n\nFull AI film: a dystopian sci-fi movie where everyone is born genderless and is taken at 21 unless love changes them. INVISIBLE SHACKLES.\n\nAn original cinematic AI movie written and directed by Hafid Abdelmoula.\n\nIn ASU, everyone is born genderless. No man, no woman: just a bald, silent child of the state. Each person waits for the Happening, the day their body changes and they become a man or a woman. Those who haven't changed by twenty-one are taken in the night.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where love is called weakness, and Djena, where a stranger's life can end in an alley. Between them all stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nIf you like dystopian sci-fi, cinematic AI films and slow-burn world-building, this is for you. Tell me in the comments: who would you have become?\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore cinematic AI films on THDFILMS: subscribe so you don't miss the next one.\n\n#AIFilm #AIMovie #SciFiFilm",
+      "title": "A City That Decides What You Become — and Takes Those Who Refuse | Invisible Shackles, Part 1",
+      "description": "Watch this chilling dystopian sci-fi thriller movie in 4K. When citizens turn 21, they vanish into a dark fantasy world where survival means uncovering why they are taken.\n\nINVISIBLE SHACKLES, Part 1: a dystopian science fiction film set in ASU, a city where everyone is born without a gender and the state decides who you become.\n\nEach person waits for the Happening, the day their body changes and they become a man or a woman, witnessed and recorded by the state. Those who haven't changed by twenty-one are taken in the night. Protest is permitted, but only in silence.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where every smile is a performance, and Djena, where a stranger's life can end in an alley. Between them stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nAn original cinematic film written and directed by Hafid Abdelmoula, for viewers who like dystopian science fiction, slow-burn world-building and stories about the shackles nobody sees.\n\nIf silence were the only protest you were allowed, would you break it? Tell me in the comments.\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore films from THDFILMS on this channel.\n\n#InvisibleShackles #ScienceFictionFilm #DystopianFilm #IndieFilm\n\nThis is a work of fiction. All characters and events are imaginary.\n© THDFILMS LLC",
       "channelId": "UCkRmY0s0NtBIg0_3U15OTqw",
       "channelTitle": "THDFILMS ",
       "thumbnail": "https://i.ytimg.com/vi/7-rWFqxL7dw/hqdefault.jpg",
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1557,7 +1557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     },
     {
@@ -1595,7 +1595,102 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:15.763Z",
       "lastSeenAt": "2026-11-01T04:09:15.763Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Xohv9iiBCLM",
+      "url": "https://www.youtube.com/watch?v=Xohv9iiBCLM",
+      "title": "LOVE BUILT ON TRUTH | Full Nigerian Christian Movie 2026 | Covenant Vision Studios",
+      "description": "**LOVE BUILT ON TRUTH | A Nigerian Christian Love Story**\n\nTrue love is not built on appearances, wealth, or promises alone. It is built on honesty, trust, forgiveness, and faith in God.\n\nIn this captivating Nigerian Christian drama, love, family, faith, and hidden truths collide. As relationships are tested and difficult choices must be made, one question remains:\n\n**Can love truly survive without honesty and trust?**\n\nA powerful story of love, forgiveness, faith, and the importance of building relationships on truth.\n\n🎬 **MOVIE TITLE:** LOVE BUILT ON TRUTH  \n🎥 **PRODUCTION:** COVENANT VISION STUDIOS  \n🎭 **GENRE:** Christian Drama | Romance | Family\n\n**DISCLAIMER**\n\nThis movie is a fictional work created for entertainment, inspiration, and the communication of Christian values.\n\nAll characters, names, personalities, relationships, events, locations, and situations depicted in this production are fictional or used fictitiously.\n\nAny resemblance to actual persons, living or deceased, or to real events is purely coincidental and entirely unintentional.\n\nThis production uses artificial intelligence (AI) technology to create fictional characters, voices, environments, and cinematic scenes. The appearance of any character is not intended to represent, impersonate, or portray any real individual.\n\nThe views, actions, and statements of fictional characters do not necessarily represent the personal beliefs or opinions of Covenant Vision Studios.\n\n**THANK YOU FOR WATCHING!**\n\nIf this movie inspires or blesses you, please LIKE, COMMENT, SHARE, and SUBSCRIBE to **Covenant Vision Studios** for more inspiring Christian movies.\n\nGod bless you!\n\n#LoveBuiltOnTruth #ChristianMovies #NigerianChristianMovies #FaithBasedMovies #CovenantVisionStudios",
+      "channelId": "UCylvZKZqv6GBxLw4Y0q64Rw",
+      "channelTitle": "Covenant Vision Studios ",
+      "thumbnail": "https://i.ytimg.com/vi/Xohv9iiBCLM/hqdefault.jpg",
+      "publishedAt": "2026-10-30T18:00:08Z",
+      "durationSeconds": 1811,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:13:10.646Z",
+      "lastSeenAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "64x5TdLN1Wc",
+      "url": "https://www.youtube.com/watch?v=64x5TdLN1Wc",
+      "title": "7 WORLDS  | Epic Sci-Fi Adventure Full Movie",
+      "description": "Seven worlds. Eight heroines. One extraordinary universe.\nAcross distant planets, futuristic civilizations, forgotten ruins, and dangerous unexplored territories, eight extraordinary women face mysteries that will change their lives forever.\n\nFrom the vast lunar colonies to the ancient secrets of alien worlds, every journey reveals a new civilization, a new danger, and a new story.\n\nMeet Mara Voss, Kassa, Angie, Aria, Reyka, Kaira, and Ayra as their adventures unfold across seven interconnected science fiction stories.\n\n00:00 INTRO\n00:11 KASSA\n26:43  KAIRA\n44:20 AYRA\n01:01:34 ANGIE\n01:13:56 REYKA\n01:22:28 MARA \n01:31:38 ARIA\n\n**7 WORLDS** brings together seven cinematic adventures in one epic, feature-length science fiction experience.\n\nExplore mysterious planets, discover ancient alien technology, encounter extraordinary creatures, and journey beyond the boundaries of the known universe.\n\n**Featuring:**\n- Epic space exploration and alien planets\n- Futuristic cities, spacecraft, and civilizations\n- Ancient mysteries and forgotten technologies\n- Adventure, action, and science fiction storytelling\n- Original characters and cinematic worldbuilding\n\n**Created with AI-assisted filmmaking, original storytelling, cinematic editing, and sound design.**\n\nIf you enjoy science fiction movies, space adventures, alien civilizations, and mysterious worlds, welcome to **7 WORLDS**.\n\nSubscribe for more original sci-fi films and cinematic adventures.\n\n#7Worlds #SciFiMovie #ScienceFiction #FullMovie #SpaceAdventure #AIFilm #SciFiAdventure",
+      "channelId": "UCHHsDi7UtNc5X90QPBpwP9Q",
+      "channelTitle": "NEXORA CINEMA",
+      "thumbnail": "https://i.ytimg.com/vi/64x5TdLN1Wc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T15:06:54Z",
+      "durationSeconds": 6472,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:13:10.646Z",
+      "lastSeenAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cfcCVmt81SA",
+      "url": "https://www.youtube.com/watch?v=cfcCVmt81SA",
+      "title": "Lagu Anak Anak - Lagu Robot Kerangka Berwarna | ABC Bahasa",
+      "description": "Lagu Anak Anak - Lagu Robot Kerangka Berwarna🌙 Dengan suasana spooky, karakter zombi lucu, dan musik ceria, video ini cocok untuk anak-anak yang menyukai lagu Halloween, monster, dan petualangan seru. 🧡✨\n\n #laguanak  #halloween #tengkorak #laguseram #tariantengkorak #kotateehee #teeheetown #bahasateeheetown #laguhalloween #laguzombie #zombie #videotengkorak #kartunanak #videountukanak\n\n►► SUBSCRIBE:\nhttps://www.youtube.com/channel/UCapn2RGol8-928SSPB38J_Q?sub_confirmation=1\n\n►►Lagu-lagu yang Sedang Tren di Kota Teehee: \nhttps://www.youtube.com/watch?v=TBMXxjJpOtA&list=PLZm_8XvLmzyZ50jZyAP5aaayYQhByyY1t\n\n►►Tonton lebih banyak lagu menyeramkan untuk anak-anak:\nhttps://www.youtube.com/watch?v=iVHA5-gK1QY&list=PLLA26iJh8kd0\n\nAbout The Channel: \nSelamat datang di Kota Teehee!! Tempat yang penuh keseruan!! Bersama Len dan Mini! Len gemar bernyanyi dan menari, sedangkan Mini suka menjelajahi tempat-tempat yang menyeramkan—saat mereka bertemu karakter-karakter lagu anak baru dan mempelajari hal-hal baru bersama para Tengkorak yang konyol, Zombie yang lucu, dan banyak lagi! Dunia Len dan Mini penuh dengan kejutan, kejahilan, tawa riang, dan persahabatan! Bergabunglah bersama mereka di Teehee Town dan serukan: Teehee!! :)\n\nlagu anak anak, kartun anak, lagu anak indonesia,   cerita anak, kartun lucu, balita, film anak anak, kartun, lagu anak anak lucu, bahasa indonesia, kota teehee, lagu tengkorak, sajak seram untuk anak-anak, lagu halloween, sajak anak-anak, lagu untuk anak-anak, tarian tengkorak, video anak-anak, lagu anak-anak, kids songs, spooky songs, teehee town bahasa, teehee town indonesia",
+      "channelId": "UCapn2RGol8-928SSPB38J_Q",
+      "channelTitle": "Kota Teehee",
+      "thumbnail": "https://i.ytimg.com/vi/cfcCVmt81SA/hqdefault.jpg",
+      "publishedAt": "2026-09-28T11:44:35Z",
+      "durationSeconds": 1984,
+      "matchedKeywords": [
+        "film robot lengkap bahasa indonesia"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:13:10.646Z",
+      "lastSeenAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_1PhVNrWCiQ",
+      "url": "https://www.youtube.com/watch?v=_1PhVNrWCiQ",
+      "title": "Married to a Beast | Full movie | Ai movie 2026",
+      "description": "💔 MARRIED TO MY WORST NIGHTMARE \n\nSophia thought she had married the man of her dreams, but her husband’s betrayal turned her life into a nightmare. When secrets are exposed and greed takes over, will Sophia find the strength to fight back and reclaim her happiness?\n\nWatch till the end to discover how this emotional drama unfolds! 🍿\n\n👍 Like, 💬 comment, 🔔 subscribe, and share for more exciting African drama movies!\n\n#marriedtoabeast #AfricanMovies #NigerianMovies #DramaMovies #AfricanDrama #gladystales",
+      "channelId": "UCRATQgAy99EqP0iUGLrfniQ",
+      "channelTitle": "Gladys Tales ",
+      "thumbnail": "https://i.ytimg.com/vi/_1PhVNrWCiQ/hqdefault.jpg",
+      "publishedAt": "2026-10-29T17:00:31Z",
+      "durationSeconds": 2450,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:13:10.646Z",
+      "lastSeenAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CJ2O79BroWo",
+      "url": "https://www.youtube.com/watch?v=CJ2O79BroWo",
+      "title": "Ditinggalkan Orang Tua, Kini Ditagih Balas Budi | Film Drama Keluarga",
+      "description": "Dulu, saat Senja membutuhkan pertolongan, kedua orang tuanya memilih pergi. Namun ketika ia berhasil mengubah hidupnya, mereka kembali bukan untuk meminta maaf, melainkan menuntut balas budi.\n\nBatas Senja adalah film drama keluarga Indonesia yang mengisahkan perjuangan Senja Kirana, seorang perempuan muda yang dibesarkan dengan penuh kasih sayang oleh kakek dan neneknya setelah kehilangan perhatian dari kedua orang tua kandungnya.\n\nHidup dalam kesederhanaan tidak menghentikan Senja untuk bermimpi. Dengan bakat merancang busana tenun tradisional, ia berjuang menghadapi kesulitan ekonomi, kehilangan orang yang dicintai, dan berbagai penolakan demi membangun masa depan yang lebih baik.\n\nBertahun-tahun kemudian, kerja kerasnya mulai membuahkan hasil. Tetapi kebahagiaan itu terusik ketika ayah dan ibu kandungnya tiba-tiba muncul kembali, membawa persoalan keuangan dan menuntut hak sebagai orang tua.\n\nHaruskah Senja mengorbankan semua yang telah ia bangun demi orang-orang yang dahulu meninggalkannya?\n\nSebuah kisah inspiratif tentang pengorbanan keluarga, perjuangan hidup, luka masa lalu, memaafkan, dan keberanian menetapkan batas dalam hubungan keluarga.\n\n💬 Menurut kalian, apakah seorang anak wajib membantu orang tua yang dahulu menelantarkannya? Tulis pendapat kalian di kolom komentar.\n\nJika kalian menyukai film drama keluarga yang penuh emosi, konflik kehidupan, dan pesan tentang harga diri, jangan lupa dukung channel ini dengan Like, Subscribe, dan bagikan kisah ini kepada orang yang mungkin membutuhkannya.\n\nDISCLAIMER & AI DISCLOSURE\n\nFilm Batas Senja merupakan karya drama fiksi yang dikembangkan dan diproduksi dengan bantuan teknologi Artificial Intelligence (AI), termasuk dalam proses kreatif dan pembuatan konten audiovisual.\n\nSeluruh karakter, dialog, dan peristiwa dalam cerita merupakan rekaan untuk tujuan hiburan dan penyampaian pesan kehidupan. Kemiripan dengan individu maupun kejadian nyata tidak disengaja.\n\nCerita ini tidak dimaksudkan untuk menghakimi kondisi keluarga tertentu. Setiap keluarga memiliki keadaan dan pengalaman yang berbeda.\n\n#DramaKeluarga #FilmDramaIndonesia #BatasSenja",
+      "channelId": "UCRnviqJTUV2vnM3L0oGyHng",
+      "channelTitle": "NDFN Story",
+      "thumbnail": "https://i.ytimg.com/vi/CJ2O79BroWo/hqdefault.jpg",
+      "publishedAt": "2026-10-24T17:14:16Z",
+      "durationSeconds": 1881,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:13:10.646Z",
+      "lastSeenAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
       "unavailableAt": null
     }
   ]

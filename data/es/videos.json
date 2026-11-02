@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:08:57.284Z",
+  "generatedAt": "2026-11-02T04:12:52.832Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -721,7 +721,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -778,7 +778,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +817,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-10-30T04:12:47.855Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +969,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -988,7 +988,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -1007,7 +1007,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     },
     {
@@ -1042,10 +1042,29 @@
       "matchedKeywords": [
         "drama IA película completa"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-01T04:08:57.284Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "unavailableAt": "2026-11-02T04:12:52.832Z"
+    },
+    {
+      "videoId": "Ppwcv0JGw-A",
+      "url": "https://www.youtube.com/watch?v=Ppwcv0JGw-A",
+      "title": "La Singularidad Tecnológica: LA PELÍCULA COMPLETA (50 Min) | Documental con Johnny Profundo",
+      "description": "🤖 LA PELÍCULA COMPLETA: LOS 5 CAPÍTULOS DE LA SERIE SINGULARIDAD EN UN SOLO VIDEO\n¿Qué pasará el día en que una máquina supere a la mente humana? En esta película documental de 50 minutos, Johnny Profundo, Johnny Glitch y Byte recorren la automejora recursiva de la IA, el problema del alineamiento, la batalla por los chips que mueven al mundo, la fusión humano-máquina y las sociedades de agentes autónomos.\n\n⏱️ CAPÍTULOS:\n00:00 Capítulo 1: El día que la IA supere al cerebro humano\n08:45 Capítulo 2: La IA que se reescribió a sí misma\n19:00 Capítulo 3: ¿Quién controla los chips del mundo?\n27:57 Capítulo 4: Ya eres un cíborg: la fusión humano-máquina\n39:20 Capítulo 5: Sociedades secretas de IA: cuando 1.000 agentes crearon su propia civilización\n\n📚 FUENTES: las de cada dato están en la descripción de su capítulo:\n• Capítulo 1: https://www.youtube.com/watch?v=ssJ6966skwA\n• Capítulo 2: https://www.youtube.com/watch?v=Lz1VjM2d_VE\n• Capítulo 3: https://www.youtube.com/watch?v=gmyXXLTKFcw\n• Capítulo 4: https://www.youtube.com/watch?v=GCFgrv82RCA\n• Capítulo 5: https://www.youtube.com/watch?v=0-ifSi-KghU\n\n🎙️ ESCÚCHALA EN SPOTIFY:\n• https://open.spotify.com/show/2WoF9at6Nrp6wyTiBMyTsD\n\n⚡ APOYA AL CANAL:\n• 📘 Descarga el Pack Oficial 'Protocolo Johnny Profundo 2026' (Ebook PDF + Audio Maestro 432Hz Sin Anuncios): https://ko-fi.com/s/50d3e5dd4f\n• ☕ Apoya la producción independiente del canal en Ko-fi: https://ko-fi.com/cronicassinteticas\n\n💬 DEBATE:\n¿La Singularidad será nuestro renacimiento o nuestro último invento? Te leemos en los comentarios.\n\n#singularidad #inteligenciaartificial #documental #tecnologia #transhumanismo #superinteligencia #ia #cronicassinteticas #johnnyprofundo",
+      "channelId": "UCEnBgBpxUSMvr2g21mkzodQ",
+      "channelTitle": "Crónicas Sintéticas",
+      "thumbnail": "https://i.ytimg.com/vi/Ppwcv0JGw-A/hqdefault.jpg",
+      "publishedAt": "2026-11-01T21:27:11Z",
+      "durationSeconds": 3038,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:52.832Z",
+      "lastSeenAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
       "unavailableAt": null
     }
   ]

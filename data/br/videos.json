@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:09:01.631Z",
+  "generatedAt": "2026-11-02T04:12:56.871Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -515,7 +515,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -534,7 +534,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -553,7 +553,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -572,7 +572,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-10-31T03:54:52.587Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -591,7 +591,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -610,7 +610,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,45 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-01T04:09:01.631Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yWzx1jsjVZU",
+      "url": "https://www.youtube.com/watch?v=yWzx1jsjVZU",
+      "title": "ELES ENFRENTAM SEUS PIORES MEDOS EM UM EXPERIMENTO MACABRO | Filme Completo e Dublado",
+      "description": "Cinco pacientes perigosos, sofrendo de fobias extremas em uma instituição hospitalar do governo, são submetidos ao teste final sob a supervisão de um médico enlouquecido e sua busca para transformar o medo numa arma, literalmente. Os segmentos são centrados em tipos de medos: Robofobia é o medo de robôs, drones, equipamentos semelhantes a robôs ou inteligência artificial. Vehofobia é o medo de dirigir. A efebofobia é o medo de jovens ou adolescentes. Hoplofobia é o medo mórbido de armas de fogo. Atelofobia é o medo de não fazer algo certo ou o medo de não ser bom o suficiente, em outras palavras, é o medo da imperfeição.\n\nID: 280457",
+      "channelId": "UC1opo0B5IDcjLeuHVc38LIw",
+      "channelTitle": "Capivara Filmes",
+      "thumbnail": "https://i.ytimg.com/vi/yWzx1jsjVZU/hqdefault.jpg",
+      "publishedAt": "2026-11-01T17:00:03Z",
+      "durationSeconds": 5139,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:56.871Z",
+      "lastSeenAt": "2026-11-02T04:12:56.871Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hC2q8E7WYKs",
+      "url": "https://www.youtube.com/watch?v=hC2q8E7WYKs",
+      "title": "🎬 SESSÃO NO AR | A.R.I - Meu Amigo Robô | ESTAÇÃO CINEMA",
+      "description": "Filme completo, dublado e em HD.\n\nGênero: Ficção Científica\nAno: 2020\nTítulo original: The Adventure of A.R.I.: My Robot Friend\n\n\"2566\"",
+      "channelId": "UCks9Vypht_E_y3OUeRnaU1A",
+      "channelTitle": "Estação Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/hC2q8E7WYKs/hqdefault.jpg",
+      "publishedAt": "2026-08-24T22:00:06Z",
+      "durationSeconds": 5195,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:56.871Z",
+      "lastSeenAt": "2026-11-02T04:12:56.871Z",
+      "lastVerifiedAt": "2026-11-02T04:12:56.871Z",
       "unavailableAt": null
     }
   ]

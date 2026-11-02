@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:08:47.316Z",
+  "generatedAt": "2026-11-02T04:12:44.689Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -29,12 +29,13 @@
       "publishedAt": "2026-10-11T01:00:32Z",
       "durationSeconds": 6530,
       "matchedKeywords": [
-        "AI ドラマ 映画"
+        "AI ドラマ 映画",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -76,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -96,7 +97,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -116,7 +117,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -195,7 +196,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -215,7 +216,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -235,7 +236,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -254,7 +255,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -273,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -292,7 +293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -311,7 +312,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -331,7 +332,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -350,7 +351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +370,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -407,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -427,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -621,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -756,7 +757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -775,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -789,12 +790,13 @@
       "publishedAt": "2026-10-15T12:53:31Z",
       "durationSeconds": 1968,
       "matchedKeywords": [
-        "AI 映画 フル"
+        "AI 映画 フル",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -814,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-10-31T03:54:39.683Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -834,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -854,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -892,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -911,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -988,7 +990,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:49.966Z",
       "lastSeenAt": "2026-10-27T03:33:49.966Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -1014,8 +1016,8 @@
     {
       "videoId": "7-rWFqxL7dw",
       "url": "https://www.youtube.com/watch?v=7-rWFqxL7dw",
-      "title": "What Happens When You Turn Twenty-One? AI Sci-Fi Full Movie",
-      "description": "#SciFiMovie #fantasy  #FullMovie #aifilm, Full Sci-Fi Movie in 4K, As protests and civil unrest bring attention to France, imagine a dystopian future where even raising your voice is forbidden and Explore a haunting vision of the future in this full ai sci-fi movie, where the state dictates every aspect of human identity. In a world where children are born without gender, the government decides who you become, stripping away autonomy in a chilling dystopian future. This cinematic ai experience dives deep into a complex sci-fi story that challenges our perceptions of self, body transformation, and social structure.\n\nIn a society where silence is enforced by law, one citizen's act of defiance transforms a silent demonstration into a confrontation with authority.\n\nFull AI film: a dystopian sci-fi movie where everyone is born genderless and is taken at 21 unless love changes them. INVISIBLE SHACKLES.\n\nAn original cinematic AI movie written and directed by Hafid Abdelmoula.\n\nIn ASU, everyone is born genderless. No man, no woman: just a bald, silent child of the state. Each person waits for the Happening, the day their body changes and they become a man or a woman. Those who haven't changed by twenty-one are taken in the night.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where love is called weakness, and Djena, where a stranger's life can end in an alley. Between them all stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nIf you like dystopian sci-fi, cinematic AI films and slow-burn world-building, this is for you. Tell me in the comments: who would you have become?\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore cinematic AI films on THDFILMS: subscribe so you don't miss the next one.\n\n#AIFilm #AIMovie #SciFiFilm",
+      "title": "A City That Decides What You Become — and Takes Those Who Refuse | Invisible Shackles, Part 1",
+      "description": "Watch this chilling dystopian sci-fi thriller movie in 4K. When citizens turn 21, they vanish into a dark fantasy world where survival means uncovering why they are taken.\n\nINVISIBLE SHACKLES, Part 1: a dystopian science fiction film set in ASU, a city where everyone is born without a gender and the state decides who you become.\n\nEach person waits for the Happening, the day their body changes and they become a man or a woman, witnessed and recorded by the state. Those who haven't changed by twenty-one are taken in the night. Protest is permitted, but only in silence.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where every smile is a performance, and Djena, where a stranger's life can end in an alley. Between them stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nAn original cinematic film written and directed by Hafid Abdelmoula, for viewers who like dystopian science fiction, slow-burn world-building and stories about the shackles nobody sees.\n\nIf silence were the only protest you were allowed, would you break it? Tell me in the comments.\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore films from THDFILMS on this channel.\n\n#InvisibleShackles #ScienceFictionFilm #DystopianFilm #IndieFilm\n\nThis is a work of fiction. All characters and events are imaginary.\n© THDFILMS LLC",
       "channelId": "UCkRmY0s0NtBIg0_3U15OTqw",
       "channelTitle": "THDFILMS ",
       "thumbnail": "https://i.ytimg.com/vi/7-rWFqxL7dw/hqdefault.jpg",
@@ -1086,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -1106,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -1126,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     },
     {
@@ -1145,7 +1147,64 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PPi53W56olU",
+      "url": "https://www.youtube.com/watch?v=PPi53W56olU",
+      "title": "A SECOND CHANCE AT LOVE | Nigerian AI Movie 2026 | Nollywood Love Story",
+      "description": "❤️ A SECOND CHANCE AT LOVE | NIGERIAN AI MOVIE 2026 | NOLLYWOOD LOVE STORY — EPISODE 2\n\nCan love survive when family pressure, painful secrets, and unexpected challenges threaten to tear two people apart? ❤️\n\nAmanda and Collins thought they had finally found peace in each other’s arms. After years of heartbreak and disappointment, their love gave them hope for a brighter future. But their journey is far from over.\n\nTheir children are still struggling to accept the relationship, while family members continue to question whether Amanda and Collins truly belong together. Just when they begin to believe that love can overcome every obstacle, a shocking revelation changes everything.\n\nWith trust tested and old wounds reopened, Amanda and Collins must decide whether to fight for their love or walk away before their families are torn apart.\n\nA SECOND CHANCE AT LOVE — EPISODE 2 is an emotional and romantic Nigerian AI movie filled with family drama, secrets, unexpected twists, heartfelt moments, and the power of forgiveness.\n\n💖 Will Amanda and Collins overcome the new challenges standing between them? Will their children finally accept their love? Watch Episode 2 to find out!\n\n🎬 WATCH, ENJOY & SUPPORT US!\n\n❤️ LIKE this movie if you believe true love is worth fighting for.\n\n💬 COMMENT: If you were in Amanda or Collins’ position, would you choose love or protect your family from further conflict?\n\n🌍 Tell us which country you’re watching from, Besties!\n\n📢 SHARE this beautiful story with your friends and family.\n\n🔔 SUBSCRIBE to DRAMAQUEEN PRODUCTION and turn on notifications so you never miss our latest African stories and Nigerian AI movies.\n\nThank you so much for watching and supporting our channel, Besties! Your love and support mean everything to us. ❤️\n\nDISCLAIMER: All stories are fictional and created by me.\n\n\n#ASecondChanceAtLove, #Episode2, #NigerianAIMovie, #NollywoodMovies, #NigerianMovies2026, #DramaqueenProduction, #AfricanLoveStories, #NollywoodLoveStory, #LatestNigerianMovies, #NigerianRomanceMovies, #AfricanMovies, #AIGeneratedMovies, #NollywoodRomance, #LoveAndFamily, #SecondChanceAtLove, #AfricanStorytelling, #NigerianFamilyDrama, #EmotionalLoveStory, #SingleParentsLove, #LoveAgainstAllOdds, #NollywoodDrama, #AfricanDrama, #RomanticMovies, #NigerianAIStories, #AfricanRomance, #FamilyAndLove, #HeartTouchingStories, #LatestNollywoodMovies, #LoveWins, #FullNigerianMovie, #AfricanStories",
+      "channelId": "UChrTgjP_XXKKNC3gFSQu-Rg",
+      "channelTitle": "DramaQueen ",
+      "thumbnail": "https://i.ytimg.com/vi/PPi53W56olU/hqdefault.jpg",
+      "publishedAt": "2026-10-26T14:18:26Z",
+      "durationSeconds": 6185,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:44.689Z",
+      "lastSeenAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nnmq_R716BU",
+      "url": "https://www.youtube.com/watch?v=nnmq_R716BU",
+      "title": "【吹替え】ライトアップ！ イルミネーション大戦争 | Deck the Halls (クリスマス映画, コメディ, 家族, 洋画)",
+      "description": "►日本語およびオリジナル言語の映画とドキュメンタリーをフルで視聴 - 今すぐ登録を: https://bit.ly/Subscribe-FilmBustersJP-Now\n🎥 宇宙から見えるほど家をライトアップしたい男と、それを絶対に許せない隣人が激突する、笑い満載のクリスマスご近所戦争！\n\nライトアップ！ イルミネーション大戦争 (2006)\n原題: Deck the Halls\n出演: Danny DeVito（ダニー・デヴィート）Matthew Broderick（マシュー・ブロデリック）Kristin Davis（クリスティン・デイヴィス）\n監督: John Whitesell（ジョン・ホワイトセル）\n年齢制限: PG-12\n\n概要: クリスマスを誰より愛し、町一番の“クリスマス男”を自負するスティーブ。そんな彼の隣に、野心家のバディ一家が引っ越してくる。バディは娘の一言をきっかけに「宇宙からでも見える家」を目指し、猛烈なクリスマスイルミネーションを開始。夜も眠れないほどの光と、町の注目を奪われたスティーブは怒り心頭。電飾、飾り付け、イベントと対決はどんどんエスカレートし、やがて家族まで巻き込んだ前代未聞のご近所戦争へ発展する！\n\n#フルムービー #無料映画 #オリジナルバージョン\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCxa4TqFd1NFHNnIQUgbrxCQ",
+      "channelTitle": "Filmbusters JP - フルレングス映画 (Fururengusu Eiga)",
+      "thumbnail": "https://i.ytimg.com/vi/nnmq_R716BU/hqdefault.jpg",
+      "publishedAt": "2026-10-24T02:00:37Z",
+      "durationSeconds": 5572,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:44.689Z",
+      "lastSeenAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9ZeyddoUBto",
+      "url": "https://www.youtube.com/watch?v=9ZeyddoUBto",
+      "title": "AIより人間が安い？企業に脳を改造された社畜の地獄、iPhone購入特典で無料で観れる！AppleTV最高の神ドラマ｜ドラマ紹介",
+      "description": "公開直後から世界中で絶賛され、数々の賞を総なめにした傑作スリラー\n\n意外と知られていない「Apple製品購入時の3ヶ月無料特典」を使って、\n絶対に真っ先に観るべき“Apple TV+史上最高”の看板作品\n\n\n💡 Apple TV 3ヶ月無料特典の受け取り方\n1. 新しいApple製品（iPhone、iPad、Mac等）をセットアップ\n2. Apple TVアプリを起動（最新バージョンにアップデートしてください）\n3. 画面に表示される「3ヶ月無料」のプロモーションを引き換える\n※製品のアクティベーション（初期設定）から90日以内に登録が必要\n※過去にApple TVの無料体験を利用したことがあるアカウントは対象外\n\nApple TVオリジナルドラマ\n《セヴェランス》\nの紹介動画です。\n\n様々な作品でまたお会いしましょう！\n\n\n------------------------------------------------------------------------------------------------------------\nSong: Culture Code - Make Me Move (feat. Karra) [NCS Release]\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/makememove\nWatch: http://youtu.be/vBGiFtb8Rpw\n------------------------------------------------------------------------------------------------------------\n\n\n\n#アップルTV #SFスリラードラマ #セヴェランス #セブランス #社会人 #社畜 #退職 #iPhone",
+      "channelId": "UCckSrx_gJHAduUYvZnFGl8A",
+      "channelTitle": "映画少女",
+      "thumbnail": "https://i.ytimg.com/vi/9ZeyddoUBto/hqdefault.jpg",
+      "publishedAt": "2026-10-27T09:33:22Z",
+      "durationSeconds": 2161,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:44.689Z",
+      "lastSeenAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
       "unavailableAt": null
     }
   ]

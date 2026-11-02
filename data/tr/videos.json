@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:09:13.372Z",
+  "generatedAt": "2026-11-02T04:13:09.060Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-01T04:09:13.372Z",
+      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
       "unavailableAt": null
     },
     {
@@ -49,12 +49,13 @@
       "publishedAt": "2026-10-03T07:42:57Z",
       "durationSeconds": 3419,
       "matchedKeywords": [
+        "yapay zeka drama filmi",
         "yapay zeka filmi full"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-01T04:09:13.372Z",
+      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +113,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-11-01T04:09:13.372Z",
+      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
       "unavailableAt": null
     },
     {
@@ -126,12 +127,13 @@
       "publishedAt": "2026-10-27T15:00:06Z",
       "durationSeconds": 4658,
       "matchedKeywords": [
-        "yapay zeka bilim kurgu filmi full"
+        "yapay zeka bilim kurgu filmi full",
+        "yapay zeka filmi full"
       ],
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:40.363Z",
       "lastSeenAt": "2026-10-28T03:50:40.363Z",
-      "lastVerifiedAt": "2026-11-01T04:09:13.372Z",
+      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
       "unavailableAt": null
     }
   ]

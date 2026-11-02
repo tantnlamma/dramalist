@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:08:38.026Z",
+  "generatedAt": "2026-11-02T04:12:35.743Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -461,7 +461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1053,7 +1053,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:58.696Z",
       "lastSeenAt": "2026-10-22T03:07:58.696Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1110,7 +1110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:32.983Z",
       "lastSeenAt": "2026-10-23T03:13:32.983Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1207,7 +1207,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1321,7 +1321,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1456,7 +1456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1608,7 +1608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1627,7 +1627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1646,7 +1646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1684,7 +1684,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1703,7 +1703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1741,7 +1741,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1760,7 +1760,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     },
     {
@@ -1798,7 +1798,102 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-01T04:08:38.026Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BymrGrAsuIQ",
+      "url": "https://www.youtube.com/watch?v=BymrGrAsuIQ",
+      "title": "[Hindi Dub] The Child Of Two Worlds | Episode 1 - 6 full | E-LoonSo | AI Animation",
+      "description": "Anime Title: [The Child of Two Worlds]\nEpisode: 01 - 06\n━━━━━━━━━━━━━━━━━━━\nRen is an ordinary teenager whose life changes after a mysterious encounter awakens extraordinary powers within him. As he struggles to understand his new abilities, he becomes entangled in a hidden conflict between two worlds. Alongside powerful allies and dangerous enemies, Ren must uncover the truth behind his destiny while protecting both worlds from an ancient threat.\n\nCreated By:\nE-LoonSo\n\nWant Saperate Episodes?\n\nTheme Song 1:\nhttps://youtu.be/EtkXn65C4bA?si=HIK52N_lb7lksFhm\n\nTheme Song 2:\nhttps://youtu.be/5ht8aVNpONs?si=aGBv5pFIIMpKqOsU\n\nWatch Episode 1:\nhttps://youtu.be/kON9WEDtQDk?si=56Wn_71zlQ84imTC\n\nWatch Episode 2:\nhttps://youtu.be/lkqL_1_XATQ?si=LZ5B1snvOXIODwq3\n\nWatch Episode 3:\nhttps://youtu.be/-a4VkWj1I6o?si=JZEqLIMQiaICs4gc\n\nWatch Episode 4:\nhttps://youtu.be/MW7eBkRvj2Q?si=X1sqnIbmPKpNbwGG\n\nWatch Episode 5:\nhttps://youtu.be/lLn8jpu2248?si=iLoL7-Shsf7qMfdK\n\nWatch Episode 6: \nhttps://youtu.be/GRxy2xNQXhw?si=IaQ-9oX31Qkcgzst\n\nEpisode 7 coming soon...\n\nWatch another Series:\nhttps://youtu.be/CIFumjeMQng?si=fmTM6Kf1gcXEIPNk\n\n0:00 Intro\n0:11 Episode 1\n12:12 Episode 2\n22:39 Episode 3\n29:52 Episode 4 \n43:40 Episode 5\n1:00:00 Episode 6\n1:14:46 Outro\n\n#TheChildOfTwoWorlds #HindiAnime #IndianAnime #AIAnime #AnimeIndia #Eloonso #AnimeoizTV #TheAwakening #OriginalAnime #ActionAnime #FantasyAnime #Supernatural #AIAnimation #SoloCreator #AnimeEpisode1 #NewAnime #animeedit \n\nhindi anime series\nindian anime\noriginal hindi anime\nai anime hindi\nindian anime creator\nsolo creator anime\nhindi anime original series\nnormal boy with hidden power anime\nbest indian anime series\nfull anime episode in hindi\ntrending hindi anime\nanime search hindi\nnew hindi anime 2026\nanime stories in hindi\ncharacter ren anime series\nthe child of two worlds all episodes\nschool boy monster attack anime\nanimation movie hindi dubbed\nindian animation industry anime\ntop 10 hindi anime\ntrending anime video in india\nthe child of two worlds episode 1 hindi\nhindi dub anime series original",
+      "channelId": "UCZWYuSOY-eJ0y-_JzMTvCvQ",
+      "channelTitle": "Animeoiz TV",
+      "thumbnail": "https://i.ytimg.com/vi/BymrGrAsuIQ/hqdefault.jpg",
+      "publishedAt": "2026-11-01T14:00:08Z",
+      "durationSeconds": 4625,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:35.743Z",
+      "lastSeenAt": "2026-11-02T04:12:35.743Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HywXePq6lj8",
+      "url": "https://www.youtube.com/watch?v=HywXePq6lj8",
+      "title": "Ep:01 - AI Filmmaking | Creation से Editing तक | Prompts से Automation तक | Aman Sir",
+      "description": "AI Filmmaking Complete Class (Hindi) | Idea से Final Video तक – AI से फिल्म कैसे बनाएं 🎬\n\nइस class में आप सीखेंगे AI से पूरी filmmaking का process — एक idea से लेकर तैयार video तक। Animated video, 3D animation, multi-character story, avatar video, cinematic short film, explainer video और video ads — सब कुछ AI tools से कैसे बनता है, step by step समझें।\n\n📌 इस वीडियो में आप सीखेंगे:\n✅ AI Filmmaking का पूरा workflow – Idea, Script, Storyboard से Final Edit तक\n✅ AI से Animated Video और 3D Animation कैसे बनाएं\n✅ Multi-Character Video और TV Serial जैसी कहानी कैसे बनाएं\n✅ AI Avatar Video और Talking Character Video\n✅ Cinematic Short Film बनाने का तरीका\n✅ Explainer Video और Video Ads AI से कैसे बनाएं\n\n📌 WhatsApp Group Join करें\n‎https://chat.whatsapp.com/KHzJqZm2dRUBhOZPxEl96w\nhttps://chat.whatsapp.com/KHzJqZm2dRUBhOZPxEl96w\n━━━━━━━━━━━━━━━━━━━━━━\n📢 Telegram Channel\nhttps://t.me/AIUpdates2026\nhttps://t.me/AIUpdates2026\n━━━━━━━━━━━━━━━━━━━━━━\n📱 Download Bharat AI Research Centre Android App\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n━━━━━━━━━━━━━━━━━━━━━━\n🍎 iOS App\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\n━━━━━━━━━━━━━━━━━━━━━━\n💻 Laptop & Desktop Version\nhttps://bharatairesearchcentre.akamai.net.in/\nhttps://bharatairesearchcentre.akamai.net.in/\n━━━━━━━━━━━━━━━━━━━━━━\n📞 Admission & Support\n9671629862\n8708163606\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AIFilmmaking #AIVideo #AIAnimation #AIFilmmakingHindi #AIShortFilm #AIAvatar #3DAnimation #ExplainerVideo #AITools #aitutorialhindi \n\nAI filmmaking in Hindi, AI se video kaise banaye, AI se film kaise banaye, AI filmmaking course, AI video tutorial Hindi, AI animation video kaise banaye, 3D animation using AI, multi character AI video, AI avatar video, talking avatar AI, AI short film, cinematic AI video, AI explainer video, AI video ads, AI video generator, AI cartoon video kaise banaye, text to video AI, image to video AI, AI filmmaking for beginners, AI video editing Hindi",
+      "channelId": "UCAlDLInBXWHvmraqr7WZx7A",
+      "channelTitle": "Bharat AI Research Centre",
+      "thumbnail": "https://i.ytimg.com/vi/HywXePq6lj8/hqdefault.jpg",
+      "publishedAt": "2026-10-29T12:38:00Z",
+      "durationSeconds": 6800,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:35.743Z",
+      "lastSeenAt": "2026-11-02T04:12:35.743Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SaYxTq54Xlg",
+      "url": "https://www.youtube.com/watch?v=SaYxTq54Xlg",
+      "title": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2",
+      "description": ".🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2..#AIMovie #AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd #4k #comedymovie #familymovie #fullmovie #hindidubbedmovie #newmovie #southmovie #touristfamily #ultrahd\n#fullmovie #hindidubbedmovie #newmovie #4k #comedymovie #familymovie #southmovie #touristfamily #ultrahd #actionmovie.🔥 धमाकेदार Hindi Dubbed Full Movie | Action, Drama & Suspense | Full HD 4K2.",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/SaYxTq54Xlg/hqdefault.jpg",
+      "publishedAt": "2026-11-01T08:30:26Z",
+      "durationSeconds": 6933,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:35.743Z",
+      "lastSeenAt": "2026-11-02T04:12:35.743Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pl7SEUTZF2E",
+      "url": "https://www.youtube.com/watch?v=pl7SEUTZF2E",
+      "title": "IRON ANGEL: RISE OF THE REBELLION | Hindi Sci-Fi Action Movie | DIVYORA STUDIOS #viral #latestmovie ",
+      "description": "एक ऐसी दुनिया जहाँ इंसानियत को दबा दिया गया है… जहाँ आसमान पर मशीनों का राज है… और जहाँ आज़ादी का सपना देखना भी अपराध है!\n\nलेकिन अब एक योद्धा उठेगी—एक ऐसी योद्धा जो अन्याय के साम्राज्य को चुनौती देगी।\n\nदेखिए IRON ANGEL: RISE OF THE REBELLION — एक रोमांचक Sci-Fi Action Adventure, जिसमें मिलेगा जबरदस्त एक्शन, रहस्य, संघर्ष और आज़ादी की लड़ाई।\n\nआप देख रहे हैं DIVYORA STUDIOS – BEYOND IMAGINATION।\n\nअगर आपको Sci-Fi, Action, Adventure और Fantasy Movies पसंद हैं, तो वीडियो को LIKE करें, अपने दोस्तों के साथ SHARE करें और ऐसी ही फिल्मों के लिए CHANNEL को SUBSCRIBE करें।\n\n🔔 नई फिल्मों और कहानियों के लिए Bell Icon दबाना न भूलें।\n\n#IronAngel #RiseOfTheRebellion #DivyoraStudios #HindiSciFiMovie #HindiActionMovie #SciFiMovie #ActionAdventure #HindiDubbedMovie #AIHollywoodMovie #AIShortFilm #AIAnimation #FantasyMovie #RobotWar #FutureWorld #Rebellion #NewHindiMovie #HindiMovie #BeyondImagination\n \nIron Angel, Rise of the Rebellion, Iron Angel Hindi Movie, Hindi Sci Fi Movie, Hindi Science Fiction Movie, Hindi Action Movie, Sci Fi Action Movie, Hindi Adventure Movie, AI Generated Movie, AI Movie Hindi, AI Film, Artificial Intelligence Movie, Robot War Movie, Future World Movie, Futuristic Action Movie, Rebellion Movie, Warrior Movie, Fantasy Action Movie, Hindi Full Movie, Full Length Hindi Movie, Divyora Studios, Divyora Studios Movies, Beyond Imagination, New Hindi Movie, Sci Fi Adventure, Action Adventure Hindi\n\nDISCLAIMER:\nयह फिल्म मनोरंजन के उद्देश्य से प्रस्तुत की गई है। इसमें दिखाए गए पात्र, घटनाएँ और स्थान काल्पनिक हैं। किसी वास्तविक व्यक्ति, संस्था या घटना से समानता संयोग मात्र हो सकती है।\n\nइस फिल्म में AI-generated visuals, voices या अन्य synthetic elements का उपयोग किया गया हो सकता है।\n\nCOPYRIGHT NOTICE: सभी संबंधित कहानी, पात्र, दृश्य, संगीत और अन्य सामग्री के अधिकार उनके वास्तविक copyright owners के पास सुरक्षित हैं। इस Disclaimer को किसी सामग्री के उपयोग की अनुमति या copyright clearance न माना जाए।\n\n© DIVYORA STUDIOS | BEYOND IMAGINATION",
+      "channelId": "UCehkns5BdhTBSRbMMpoRBSg",
+      "channelTitle": "DIVYORA STUDIOS",
+      "thumbnail": "https://i.ytimg.com/vi/pl7SEUTZF2E/hqdefault.jpg",
+      "publishedAt": "2026-10-30T13:02:20Z",
+      "durationSeconds": 6023,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:35.743Z",
+      "lastSeenAt": "2026-11-02T04:12:35.743Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3SLalAE5O2E",
+      "url": "https://www.youtube.com/watch?v=3SLalAE5O2E",
+      "title": "Doraemon Nobita's Robot Kingdom Full Movie in Hindi 🤖 | Doraemon Hindi Movie | Robot King",
+      "description": "🤖✨ Get ready for an exciting robotic adventure with Doraemon and Nobita! Explore the amazing world of robots, friendship, action, and adventure in **Doraemon: Nobita's Robot Kingdom**.\n\nJoin Doraemon, Nobita, Shizuka, Gian, and Suneo on an unforgettable journey filled with fun, suspense, and robotic adventures. ❤️🚀\n\nIf you love Doraemon movies in Hindi, don't forget to LIKE 👍, SHARE 📲, and SUBSCRIBE 🔔 for more Doraemon adventures and cartoon updates!\n\n🔥 **Keywords:** Doraemon Nobita's Robot Kingdom, Doraemon Movie in Hindi, Doraemon Hindi Movie, Robot King, Nobita Movie, Doraemon Adventure, Hindi Cartoon Movie.\n\n#Doraemon #Nobita #DoraemonMovie #DoraemonInHindi #NobitasRobotKingdom #RobotKing #HindiCartoon #DoraemonHindi #AnimeHindi #CartoonMovie #DoraemonFans #RobotAdventure #Doraemon #DoraemonMovie #DoraemonHindi #DoraemonInHindi #DoraemonFullMovie #Nobita #NobitaRobotKingdom #NobitasRobotKingdom #RobotKingdom #RobotKing #DoraemonHindiMovie #DoraemonCartoon #DoraemonEpisodes #DoraemonAdventure #DoraemonFans #HindiCartoon #HindiCartoonMovie #CartoonInHindi #AnimeInHindi #HindiAnime #KidsCartoons #AnimatedMovie #AnimationMovie #RobotAdventure #RobotCartoon #NobitaShizuka #Gian #Suneo #DoraemonAndNobita #DoraemonWorld #DoraemonLovers #CartoonFans #AnimeFans #HindiAnimation #FamilyAnimation #CartoonVideos #DoraemonIndia #DoraemonMovieHindi #NobitaMovie #animemovie \n\nDoraemon Nobita's Robot Kingdom,Doraemon Nobita Robot Kingdom Hindi,Doraemon full movie in Hindi,Doraemon movie Hindi,Doraemon Hindi movie,Nobita's Robot Kingdom,Doraemon Robot King,Robot Kingdom movie,Doraemon cartoon in Hindi,Doraemon movie,Doraemon Hindi dubbed,Doraemon animation movie,Nobita movie in Hindi,Doraemon adventure,Doraemon latest movie,Doraemon and Nobita,Robot adventure cartoon,Doraemon full film,Nobita Robot Kingdom movie,Doraemon movie Hindi dubbed, Doraemon Hindi full movie, Doraemon Robot Kingdom Hindi, Nobita Robot Kingdom Hindi movie, Doraemon robot movie, Doraemon movie full Hindi, Doraemon Hindi cartoon film, Doraemon movie India, Nobita Hindi movie, Doraemon and friends, Doraemon sci fi movie, Doraemon robot adventure, Doraemon animation Hindi, Japanese cartoon in Hindi, Hindi dubbed anime movie, Doraemon Hindi cartoon, Doraemon movie watch, Nobita robot adventure, Doraemon kingdom movie, robot king Hindi movie, Doraemon family movie, Doraemon cartoon Hindi dubbed, Doraemon Hindi entertainment, Doraemon movie lovers, Nobita and Doraemon movie, Doraemon classic movie, Doraemon fantasy adventure, robot cartoon movie Hindi, Doraemon movie keywords, Doraemon Hindi video, Doraemon animated film, Doraemon cartoon fans, Doraemon Hindi search, Nobita robot kingdom full movie, Doraemon movie title, Doraemon Hindi animation movie",
+      "channelId": "UCWbk1tO2YJ4465UpieW-MVA",
+      "channelTitle": "Your Anime",
+      "thumbnail": "https://i.ytimg.com/vi/3SLalAE5O2E/hqdefault.jpg",
+      "publishedAt": "2026-10-28T10:08:10Z",
+      "durationSeconds": 4829,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-02T04:12:35.743Z",
+      "lastSeenAt": "2026-11-02T04:12:35.743Z",
+      "lastVerifiedAt": "2026-11-02T04:12:35.743Z",
       "unavailableAt": null
     }
   ]
