@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:12:44.689Z",
+  "generatedAt": "2026-11-03T05:11:36.574Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -97,7 +97,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -117,7 +117,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -196,7 +196,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -216,7 +216,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -236,7 +236,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -293,7 +293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -332,7 +332,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -351,7 +351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -370,7 +370,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -757,7 +757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1166,7 +1166,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     },
     {
@@ -1204,7 +1204,46 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-02T04:12:44.689Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vefbTsq7zac",
+      "url": "https://www.youtube.com/watch?v=vefbTsq7zac",
+      "title": "How to Create Consistent AI Characters & Cinematic Scenes | Google Flow Full Tutorial",
+      "description": "🎬 **HOW TO CREATE CONSISTENT AI CHARACTERS & CINEMATIC SCENES | GOOGLE FLOW TUTORIAL**\n\nWelcome to another practical session of our AI Video Generation Course!\n\nIn this full step-by-step tutorial, I'll show you how to create realistic AI characters, maintain character consistency, and generate cinematic images for every scene of your AI movie using Google Flow.\n\nIf you've ever struggled with AI characters changing faces, inconsistent outfits, unrealistic backgrounds, or generating the right images for your story, this tutorial is for you!\n\nWe're taking our AI movie script and turning it into realistic, professional-looking cinematic scenes.\n\n🎥 **WHAT YOU WILL LEARN:**\n\n✅ How to create AI character reference images\n\n✅ How to generate consistent AI characters using Google Flow\n\n✅ How to create different outfits for the same character\n\n✅ How to use AI image prompts for individual movie scenes\n\n✅ How to attach multiple character references to a scene\n\n✅ How to maintain facial consistency across your AI movie\n\n✅ How to create realistic cinematic backgrounds and locations\n\n✅ How to correct AI-generated image mistakes\n\n✅ How to organize your AI characters and scene images\n\n✅ How to upscale AI images for better quality\n\n✅ How to prepare your images for AI video generation\n\n🛠️ **TOOLS USED IN THIS TUTORIAL**\n\n• Google Flow – AI character and scene image generation\n\n• ChatGPT – Character descriptions, story scripts, and scene prompts\n\n• Grok AI – Video animation in the next session\n\n• CapCut – Final video editing\n\n🎓 **WHO SHOULD WATCH THIS VIDEO?**\n\nThis tutorial is perfect for beginners, YouTubers, AI filmmakers, content creators, digital storytellers, and anyone who wants to create AI movies without hiring actors or purchasing expensive filming equipment.\n\n🔥 **WHAT'S NEXT?**\n\nIn our next training session, we'll bring these images to life using AI video generation tools, adding character movements, realistic dialogue, and cinematic camera effects.\n\n👍 LIKE this video if you find it helpful.\n\n💬 COMMENT: What is your biggest challenge when creating consistent AI characters?\n\n🔔 SUBSCRIBE for more practical AI filmmaking tutorials and our complete AI video generation training series.\n\n#GoogleFlow #AICharacterConsistency #AIFilmmaking #AIVideoGeneration #AIImageGeneration #CinematicAI #AITutorial #AICharacters #AIMovieMaking #AIContentCreation",
+      "channelId": "UCpxiN8GkzwHgan4h57kiLOg",
+      "channelTitle": "Flowealth Nikoro",
+      "thumbnail": "https://i.ytimg.com/vi/vefbTsq7zac/hqdefault.jpg",
+      "publishedAt": "2026-11-02T17:00:03Z",
+      "durationSeconds": 1916,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:11:36.574Z",
+      "lastSeenAt": "2026-11-03T05:11:36.574Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "72Gv0-UYVnI",
+      "url": "https://www.youtube.com/watch?v=72Gv0-UYVnI",
+      "title": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥",
+      "description": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥",
+      "channelId": "UCp4VlCCGI8UHMMyijNG2luQ",
+      "channelTitle": "ShortsVlog ",
+      "thumbnail": "https://i.ytimg.com/vi/72Gv0-UYVnI/hqdefault.jpg",
+      "publishedAt": "2026-10-28T10:28:34Z",
+      "durationSeconds": 6059,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:11:36.574Z",
+      "lastSeenAt": "2026-11-03T05:11:36.574Z",
+      "lastVerifiedAt": "2026-11-03T05:11:36.574Z",
       "unavailableAt": null
     }
   ]

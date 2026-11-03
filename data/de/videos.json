@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:13:06.963Z",
+  "generatedAt": "2026-11-03T05:12:02.310Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -167,7 +167,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -276,12 +276,13 @@
       "publishedAt": "2026-10-24T14:15:14Z",
       "durationSeconds": 5104,
       "matchedKeywords": [
+        "KI Science Fiction Film komplett",
         "künstliche Intelligenz Film komplett"
       ],
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-10-26T03:02:09.958Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     },
     {
@@ -338,7 +339,121 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-02T04:13:06.963Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5cqEJJCe5tU",
+      "url": "https://www.youtube.com/watch?v=5cqEJJCe5tU",
+      "title": "Ein Bunker soll vor einer ALIEN INVASION schützen: BUNKER 06 - Das Exitus-Protokoll (2024) (HD)",
+      "description": "🌌 Täglich neue Sci-Fi Filme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Als mysteriöse Raumschiffe die Erde bedrohen, arbeitet ein Team von Wissenschaftlern in geheimen unterirdischen Bunkern fieberhaft an einer Biowaffe gegen die außerirdischen Eindringlinge. Doch mit zunehmender Isolation breiten sich Angst und Misstrauen aus – bis die Forscher erkennen, dass sie selbst längst zur Zielscheibe der Aliens geworden sind.\n\nBunker 06: Das Exitus-Protokoll (2024)\nOriginaltitel: The Bunker\nProduktionsland: USA\nMit: Chelsea Edmundson, Tony Todd, Tobin Bell, Chad Michael Collins, Cullen Douglas\nRegie: Brian Hanson\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nAls fremde Raumschiffe auf der Erde auftauchen, sollen Wissenschaftler in abgeschotteten Bunkern eine Biowaffe gegen die außerirdische Bedrohung entwickeln. Doch je länger die Forscher isoliert bleiben, desto stärker wachsen Angst, Misstrauen und die Erkenntnis, dass sie längst selbst ins Visier der Aliens geraten sind.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/5cqEJJCe5tU/hqdefault.jpg",
+      "publishedAt": "2026-10-26T15:15:31Z",
+      "durationSeconds": 5539,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8ib947MGScg",
+      "url": "https://www.youtube.com/watch?v=8ib947MGScg",
+      "title": "Claw (2021 | PRÄHISTORISCHER MONSTERFILM | Ganzer Film | HD)",
+      "description": "🌌 Jeden Tag neue Sci-Fi Filme auf Utopja - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Als zwei Freunde gezwungen sind, die Nacht in einer verlassenen Geisterstadt zu verbringen, beginnt ein erbitterter Kampf ums Überleben. Denn in den dunklen Straßen lauert ein prähistorisches Raubtier, das gnadenlos Jagd auf sie macht.\n\nCLAW (2021)\nOriginaltitel: Claw\nMit: Chynna Walker; Richard Rennie; Mel Mede\nRegie: Gerald Rascionato\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nAuf dem Weg zu einem Stand-up-Auftritt in Los Angeles können Nachwuchskomikerin Julia (Chynna Walker) und ihr bester Freund Kyle (Richard Rennie) gerade noch einem ohne Vorwarnung über die Straße rennenden Tier ausweichen. Bei dem Manöver platzt ihnen allerdings ein Reifen. Das abwechselnd miteinander streitende und scherzende Duo läuft deshalb zu Fuß zur nächsten Siedlung, die sich jedoch als nahezu verlassen herausstellt. Der einzige Bewohner der Geisterstadt ist der seltsame alte Ray (Mel Mede), der in einer schäbigen Hütte mit jeder Menge altem Kram haust. Seine kryptischen Andeutungen machen Julia und Kyle zusehends nervös. Und bald haben sie noch mehr Grund, sich Sorgen zu machen. Denn plötzlich sehen sie sich einer aus dem mitten in der Wüste gelegenen Labor eines offensichtlich verrückten Wissenschaftlers (Ken Mertz) geflohenen Kreatur gegenüber: einem geklonten Raptor-Dinosaurier, der auch sofort Jagd auf sie macht.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/8ib947MGScg/hqdefault.jpg",
+      "publishedAt": "2026-10-14T14:15:00Z",
+      "durationSeconds": 4819,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "exR13IfNZy8",
+      "url": "https://www.youtube.com/watch?v=exR13IfNZy8",
+      "title": "Der beste Endzeitfilm: Meteor (2021) (HD)",
+      "description": "🌌 Komplette Sci-Fi Filme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 bösartigen Söldnern.\nNach dem Einschlag eines Meteors auf der Erde kämpfen ein einsamer Rancher und ein junges, verirrtes Mädchen ums Überleben. Gemeinsam müssen sie sich gegen skrupellose Söldner behaupten, die ihnen dicht auf den Fersen sind.\n\nMETEOR (2021)\nOriginaltitel: Meteor\nMit: Robert Keith; Olivia Nash; Tiffany McDonald\nRegie: Brett Bentman\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nZehn Jahre nach dem Einschlag eines Meteors, der eine weltweite Überschwemmung verursacht hat, lebt ein einsamer Farmer ein ruhiges, privates Leben auf seinem Land. Eines Tages triff er auf eine junge Frau, die am Rande seiner Felder um ihr Leben rennt. Bösartige Söldner sind hinter ihr her, die sie an die reichen Überlebenden der Meteor-Katastrophe verkaufen wollen.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/exR13IfNZy8/hqdefault.jpg",
+      "publishedAt": "2026-10-13T14:15:26Z",
+      "durationSeconds": 5079,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "I_evkSCu-K0",
+      "url": "https://www.youtube.com/watch?v=I_evkSCu-K0",
+      "title": "Sci-Fi SPACE Thriller: World of Tomorrow – Die Vernichtung hat begonnen (2014) (HD)",
+      "description": "🌌 Jeden Tag neue Sci-Fi Filme auf Utopja - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Als feindliche UFOs die Erde angreifen und die Menschheit an den Rand der Vernichtung bringen, entbrennt ein erbitterter Kampf ums Überleben. Während die Schlacht auf dem Planeten tobt, dringen Astronauten in das gewaltige Mutterschiff ein und entdecken dort ein Portal zur geheimnisvollen Heimatwelt der Aliens.\n\nWORLD OF TOMORROW – DIE VERNICHTUNG HAT BEGONNEN (2014)\nOriginaltitel: Age of Tomorrow\nMit: Kelly Hu; Anthony Marks; Robert Picardo\nRegie: James Kondelik\nFSK: Freigegeben ab 0 Jahren\n\nINHALTSANGABE:\nIn nicht allzu ferner Zukunft: Die Menschheit steht nach einem Blitzangriff außerirdischer Invasoren vor der kompletten Auslöschung. Überall auf der Erde, über jeder Metropole, sind Schlachtschiffe aufgetaucht, gegen die die irdische Waffentechnologie komplett machtlos ist. Gesteuert wird der Angriff von einem Mutterschiff auf der dunklen Seite des Mondes. Die letzte Hoffnung der Menschen ruht nun auf einer Elite-Einheit, die versucht, das Mutterschiff auf dem Mond auszuschalten. Dabei entdecken sie auf dem Mond eine Art Pyramide, die als Portal zum Heimatplaneten der Angreifer dient. Nur wenn es gelingt dieses Portal zu schließen, hat die Menschheit noch eine Überlebenschance. Doch dazu müssen die Menschen den ungewissen Weg durch das Sternenportal gehen...\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/I_evkSCu-K0/hqdefault.jpg",
+      "publishedAt": "2026-09-14T14:15:05Z",
+      "durationSeconds": 5417,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "GBLV0ZyzRww",
+      "url": "https://www.youtube.com/watch?v=GBLV0ZyzRww",
+      "title": "Sci-Fi mit viel Action: Red Kill Zone (2015) (HD)",
+      "description": "🌌 Täglich neue Sci-Fi Filme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Red Kill Zone (2015): Ein Informatiker und Drohnenpilot gerät wegen seiner religiösen Überzeugungen ins Visier einer tödlichen Jagd. Gemeinsam mit seiner Schwester flieht er vor genetisch verbesserten Supersoldaten, den sogenannten Erasers, die sie um jeden Preis aufspüren sollen.\n\nRED KILL ZONE (2015)\nOriginaltitel: Rz-9\nMit: Ethan McDowell; Morgan Obenreder; Josh Marble\nRegie: Iain Carson\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nTerroristen haben New York City, Chicago und Los Angeles zerstört, Amerika befindet sich im Krieg gegen den Feind im Inneren. Mit Hilfe einer söldnerischen Drohnen-Patrouille überprüfen Soldaten die US-Staatsbürger auf potentielle terroristische Aktivitäten. Patterson Endcott (Joshua Marbel), Mitglied dieser Kontroll-Truppe entdeckt seinen eigenen Namen auf einer Liste von Personen, die als potentielle Gefährder eingestuft werden. Heimlich lädt er sich streng geheime Daten herunter und flieht mit seiner Schwester Sam (Morgan Obenreder) in die Sicherheit der \"Red Zone\", die außerhalb der Reichweite der Drohnen liegt. Während Rebellen Patterson und Sam zum Stützpunkt der Widerständler eskortieren, gibt der US-Kommandeur den Verfolgern den Befehl, Patterson und den gesamten Widerstand gnadenlos auszuschalten. \n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/GBLV0ZyzRww/hqdefault.jpg",
+      "publishedAt": "2026-08-23T14:15:14Z",
+      "durationSeconds": 5537,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LWIlOJes-Mc",
+      "url": "https://www.youtube.com/watch?v=LWIlOJes-Mc",
+      "title": "ENDZEITFILM der besonderen Art: Collision Earth - Game Over (2020) (HD)",
+      "description": "🌌 Jeden Tag neue Sci-Fi Filme auf Utopja - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Ein großer Meteoritenschauer trifft unerwartet auf die Erde. Wissenschaftler eilen zum Ort des ersten Einschlags, und der Wettlauf um eine Lösung zur Rettung der Menschheit beginnt.\n\nCOLLISION EARTH (2020)\nOriginaltitel: Collision Earth\nMit: Kate Watson; Joseph Michael Harris; Daniel O'Reilly\nRegie: Matthew Boda\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nEin großer Meteoritenschauer bombardiert unerwartet den Planeten Erde. Wissenschaftler eilen zum Schauplatz des ersten Einschlags, um eine Lösung zur Rettung der Menschheit zu finden.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/LWIlOJes-Mc/hqdefault.jpg",
+      "publishedAt": "2026-08-21T14:15:38Z",
+      "durationSeconds": 5052,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:02.310Z",
+      "lastSeenAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
       "unavailableAt": null
     }
   ]

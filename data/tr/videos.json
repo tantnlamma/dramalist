@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:13:09.060Z",
+  "generatedAt": "2026-11-03T05:12:05.095Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
+      "lastVerifiedAt": "2026-11-03T05:12:05.095Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
+      "lastVerifiedAt": "2026-11-03T05:12:05.095Z",
       "unavailableAt": null
     },
     {
@@ -113,7 +113,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
+      "lastVerifiedAt": "2026-11-03T05:12:05.095Z",
       "unavailableAt": null
     },
     {
@@ -133,7 +133,26 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:40.363Z",
       "lastSeenAt": "2026-10-28T03:50:40.363Z",
-      "lastVerifiedAt": "2026-11-02T04:13:09.060Z",
+      "lastVerifiedAt": "2026-11-03T05:12:05.095Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vrq1YqvGSMg",
+      "url": "https://www.youtube.com/watch?v=vrq1YqvGSMg",
+      "title": "Son Yöneticiler: Yıkım Günü - Robotların İstilası | Bilim Kurgu ve Aksiyon Filmi",
+      "description": "En güzel Hollywood Filmlerini izlemek için abone olmayı unutmayın: \nhttps://www.youtube.com/channel/UCdzyoEbVCZl4ZJWgNMyR7nQ?sub_confirmation=1\n\nGelişmiş yapay zeka ve sibernetik robotların kontrolden çıkarak gezegenin tüm yönetimini ele geçirdiği karanlık bir gelecekte, insanlık soykırımın eşiğine gelmiştir. Yeryüzünün makineler tarafından acımasızca yönetildiği bu felaket tablosunda, hayatta kalmayı başaran küçük bir direnişçi grubu insanlığın son umudu haline gelir.\n\nMakinelerin teknolojik üstünlüğüne ve amansız saldırılarına karşı koymaya çalışan direnişçiler, gezegenin kontrolünü geri almak için tehlikeli bir intihar görevine girişir. Geleceği yeniden inşa etmek ve insanoğlunun yok oluşunu engellemek isteyen bu cesur ekip, sibernetik ordulara karşı zamanla yarışan amansız bir ölüm kalım savaşı verecektir.\n\nOrijinal Adı: The Terminators (Son Yöneticiler: Yıkım Günü)\nYönetmen: Xavier S. Puslowski\nSenaristler: David Michael Latt, William Morey, Jose Prendes\nOyuncular: Jeremy London, A Martinez, Paul Logan\n\n00:00 Başlangıç\n02:30 İlk Yarı\n45:30 İkinci Yarı\n1:24:11 Film Sonu",
+      "channelId": "UCdzyoEbVCZl4ZJWgNMyR7nQ",
+      "channelTitle": "Hollywood Filmleri",
+      "thumbnail": "https://i.ytimg.com/vi/vrq1YqvGSMg/hqdefault.jpg",
+      "publishedAt": "2026-09-28T13:00:39Z",
+      "durationSeconds": 5051,
+      "matchedKeywords": [
+        "yapay zeka bilim kurgu filmi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:05.095Z",
+      "lastSeenAt": "2026-11-03T05:12:05.095Z",
+      "lastVerifiedAt": "2026-11-03T05:12:05.095Z",
       "unavailableAt": null
     }
   ]

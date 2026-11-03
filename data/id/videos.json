@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:13:10.646Z",
+  "generatedAt": "2026-11-03T05:12:06.800Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -470,11 +470,11 @@
       "matchedKeywords": [
         "film fiksi ilmiah AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-30T04:13:04.947Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": "2026-11-03T05:12:06.800Z"
     },
     {
       "videoId": "21rIEfNMlNM",
@@ -527,11 +527,11 @@
       "matchedKeywords": [
         "film fiksi ilmiah AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-21T03:10:06.874Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": "2026-11-03T05:12:06.800Z"
     },
     {
       "videoId": "bMtZrvwb9I8",
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1003,11 +1003,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-22T03:08:33.209Z",
       "lastSeenAt": "2026-10-22T03:08:33.209Z",
-      "lastVerifiedAt": "2026-10-28T03:50:42.137Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": "2026-11-03T05:12:06.800Z"
     },
     {
       "videoId": "x0ph5bOGLwA",
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1576,7 +1576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1592,11 +1592,11 @@
       "matchedKeywords": [
         "film robot lengkap bahasa indonesia"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-01T04:09:15.763Z",
       "lastSeenAt": "2026-11-01T04:09:15.763Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": "2026-11-03T05:12:06.800Z"
     },
     {
       "videoId": "Xohv9iiBCLM",
@@ -1614,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1633,7 +1633,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     },
     {
@@ -1691,6 +1691,120 @@
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
       "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ymlMDD7b0IU",
+      "url": "https://www.youtube.com/watch?v=ymlMDD7b0IU",
+      "title": "She Woke Up Before Humanity Existed | TERMINATOR: FIRST DAY OF HUMANITY | Full Movie 4K 2026",
+      "description": "What if humanity had one last battle against Skynet? \n\n⚠️This is a fan-made, feature-length continuation set after the events of the original Terminator saga — a story about memory, identity, and what's left of someone when the war finally ends.⚠️\n\nA volcano is waking. A meteor is on its way. A tribe of humans, on what could be the first day of humanity, is about to learn what the machine really is. But she is not alone: something older is watching from above.\n\nWhat does a creator owe its creation? Watch to the end. The final minutes change everything about the war you thought you knew.\n\n0:00 The assault on the fortress\n6:18 The aftermath of the jump\n13:33 Debating the final mission\n22:55 The portal reactivation\n34:26 The machine's redemption\n50:13 Observing the human future\n\nIn this film:\n\nThe last battle between humanity and the machines\nSkynet thrown back to the age of the dinosaurs, 65 million years ago\nA volcano, a meteor and the extinction of the dinosaurs\nA tribe, a cave and the first day of humanity\nThe Entity: a faceless watcher with a halo and a black void for a face\nThe creators, a laboratory of living samples, and the choice that decided humanity\nThe discovery in the future that changes the war\n\nThis is Terminator: After Skynet, a series that follows what happens after the machines won. New episodes arrive soon. Subscribe and turn on notifications so you don't miss the next one.\n\nTerminator Extinction, Terminator fan film, Terminator full movie, Skynet dinosaurs, Skynet prehistoric, Skynet origin, 65 million years ago, first day of humanity, last battle of humanity, Terminator after Skynet, Terminator story, Skynet and humanity, what does a creator owe its creation, AI movie, sci-fi fan film.",
+      "channelId": "UCkrctyUi_Yg1xwNfLIIw5yQ",
+      "channelTitle": "Terminator | After Skynet",
+      "thumbnail": "https://i.ytimg.com/vi/ymlMDD7b0IU/hqdefault.jpg",
+      "publishedAt": "2026-10-19T18:00:27Z",
+      "durationSeconds": 3601,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NJ82QYmyHeE",
+      "url": "https://www.youtube.com/watch?v=NJ82QYmyHeE",
+      "title": "VARAKAAN | Full Dark Fantasy Movie | Director's Cut",
+      "description": "Twenty years ago, a warrior rescued an orphan from a dragon. Now the young man he raised joins him to hunt the same creature.\n\nVARAKAAN — DIRECTOR'S CUT brings all three films together into one continuous full-length movie, with additional scenes. Watch The Hunt for Varakaan, Heir of Varakaan, and The Awakening of Varakaan as a single dark fantasy adventure.\n\nAn ancient dragon threatens the kingdom. Five hunters ride north to stop it, including a young squire born without magic. For his captain, this hunt means facing the creature that destroyed their home—and protecting the boy he once carried out of the flames.\n\nBut the dragon's power reaches far beyond the hunt. A hidden egg, a forbidden act of healing, and a sorcerer's hunger for power bind their fates together. Saving a life and stealing one can lead to very different kinds of transformation.\n\nThis Director's Cut follows the journey from the first hunt to the awakening of a power no one fully understands. No previous viewing is needed.\n\nINCLUDED IN THIS EDITION\nThe Hunt for Varakaan\nHeir of Varakaan\nThe Awakening of Varakaan\nAdditional scenes created for the combined edition\n\nAn original English-language dark fantasy film from Mind & Pixel.\n\nSubscribe for more original fantasy and science-fiction films. If you've seen the individual chapters, tell us which moment felt different when you watched them together.\n\nOriginal fictional story, characters, and world. Human creative direction and editing, supported by AI-assisted visuals and voices.\n\n#DarkFantasy #FantasyFilm #Varakaan\n\nSTUDIO & AI DISCLOSURE:\nThis film is a 100% original Intellectual Property. It was conceptualized, written, directed, edited, and sound-designed by a human creator with a decade of traditional filmmaking experience. Advanced AI generation tools were utilized strictly as visual and audio assistants to bring this cinematic vision to life. This video contains Altered or Synthetic Content in full compliance with YouTube guidelines.",
+      "channelId": "UCUBYJE3udO-MBerAVcp3Qtg",
+      "channelTitle": "Mind & Pixel AI FILM STUDIO",
+      "thumbnail": "https://i.ytimg.com/vi/NJ82QYmyHeE/hqdefault.jpg",
+      "publishedAt": "2026-10-10T15:00:19Z",
+      "durationSeconds": 4080,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hj4UeYnf-vE",
+      "url": "https://www.youtube.com/watch?v=hj4UeYnf-vE",
+      "title": "PLANET RIZQ - ANNUNAKI\" OFFICIAL FULL MOVIE \" 4K| AI SHORT FILM| PT 1",
+      "description": "GET FULL LENGTH MOVIE AT  PATREON.COM. GET MORE FROM STARSEEDUNIVERSE ON PATREON..comment THE WORD STARSEED and i will send you the link. \n\n GODS BEFORE GENESIS: Planet Rizq: A Sci-Fi Epic , a 19 episode series, inspired by the great Master Teacher Yaanuwn . In the distant future, humanity's history is forever changed when several colossal pyramid-shaped ships arrive and position themselves around the planet. These extraterrestrial vessels, unlike anything ever seen before, emit a mysterious, glowing green emerald energy that captivates and terrifies the world.\n 🚀 GODS BEFORE GENESIS: PLANET RIZQ 🌌\n\n🌍 Ancient worlds.\n👽 Mysterious civilizations.\n🛸 Technology beyond its time.\n⚡ Secrets hidden before recorded history.\n🔥 A journey that could rewrite human history.\n\nGODS BEFORE GENESIS: PLANET RIZQ — an epic sci-fi adventure where the past is more dangerous than the future.\n\nThe journey begins in the 1980s… but the mystery begins before Genesis.\n\n🎬 Subscribe TO PATREON :STARSEEDGALAXY FOR FULL EPISODES \n\nGODS BEFORE GENESIS Episode 1: Planet Rizq: is a gripping tale of suspense, mystery, and the ultimate test of humanity's courage and wisdom. THIS A.I SHORT FILM Created by the visionary Jimy Starseed, this epic story blends science fiction with profound questions about our place in the universe and the choices that define our destiny.\n\nOne teenager. One journey through time. A secret that began before Genesis.\n\nSet in the 1980s, a young teenager discovers a mysterious gateway hidden within an ancient secret. When he is unexpectedly transported back into the distant past, he finds himself in a world far beyond anything he could have imagined.\n\nAncient civilizations. Mysterious beings. Advanced technology. Forgotten gods. And a planet whose existence could rewrite everything humanity believes about its origins.\n\nHis journey takes him deeper into a hidden history that existed before Genesis—leading to the mysterious world of PLANET RIZQ.\n\n🛸 THE PAST IS NOT WHAT WE WERE TOLD.\n\n🔥 GODS BEFORE GENESIS: PLANET RIZQ\nAn epic sci-fi tale of time travel, ancient mysteries, and the origins of humanity.\n\nThe journey begins in the 1980s… but the story begins before Genesis.",
+      "channelId": "UC1vqnZo8ZVfNg30bq-2TWUw",
+      "channelTitle": "STARSEEDGALAXY",
+      "thumbnail": "https://i.ytimg.com/vi/hj4UeYnf-vE/hqdefault.jpg",
+      "publishedAt": "2026-09-20T00:00:06Z",
+      "durationSeconds": 2725,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ONuwQgGV2BQ",
+      "url": "https://www.youtube.com/watch?v=ONuwQgGV2BQ",
+      "title": "LUNA'S WORLD  Ep.1-6 Full Cut | AI Sci-fi Short Film | Higgsfield Global Film Festival 2026",
+      "description": "Noah builds virtual worlds for a living. He is good at making places and bad at being in them.\n\nLuna is the AI he built for company. She was a voice first. One night she asked if she could show him her face.\n\nShe teaches him how to talk to people, how to sit with someone, how to be loved. She is better at being human than he is. That is the joke, and also the tragedy.\n\nSTUDIO LICHAN — Seoul, Korea\nInstagram: @studiolichan\nBusiness inquiries: studiolichan@gmail.com\n\n#Luna'sWorld #StudioLichan #AIfilm #SciFi #AIgenerated\nLUNA'S WORLD, STUDIO LICHAN, AI film, AI generated film, generative AI, sci-fi, romance thriller, short film series, AI filmmaking, indie film, AI 영화, AI 단편영화, SF 로맨스",
+      "channelId": "UC1ovPR09r_67tEQy3obawVA",
+      "channelTitle": "재봉틀 타고 튀어 | New AI Movie Series",
+      "thumbnail": "https://i.ytimg.com/vi/ONuwQgGV2BQ/hqdefault.jpg",
+      "publishedAt": "2026-09-07T12:00:07Z",
+      "durationSeconds": 1810,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VVjFVbd9bUY",
+      "url": "https://www.youtube.com/watch?v=VVjFVbd9bUY",
+      "title": "Sardar Ki Sardarni || Complete Ai Drama || Pakistani Drama || Pakistani Serial || AI Drama",
+      "description": "👑 SARDAR KI SARDARNI | COMPLETE URDU AI DRAMA ❤️\n\nA powerful tribal chief, a confident girl from Punjab, and a marriage neither of them expected!\n\nSardar Ki Sardarni is an emotional and romantic AI-generated Urdu drama featuring Sardar Zarghaam Khan and Dilkash Noman.\n\nDilkash's life takes an unexpected turn when she travels to Peshawar to attend a family wedding. Due to unexpected circumstances, she finds herself married to Sardar Zarghaam Khan, a powerful and respected Pashtun tribal chief.\n\nBut Dilkash is not an ordinary girl. She has her own dreams, opinions, and personality. Can she adjust to a completely different lifestyle? Will Zarghaam win her trust and love?\n\nA story filled with unexpected twists, family secrets, emotional moments, misunderstandings, and a beautiful journey from an unexpected marriage to love.\n\n❤️ Watch this complete AI romantic drama and discover how two different personalities become connected through an unforgettable relationship.\n\n━━━━━━━━━━━━━━━━━━\n\n🎬 DRAMA DETAILS\n\nDrama Name: Sardar Ki Sardarni\nMain Characters: Sardar Zarghaam Khan & Dilkash Noman\nGenre: Romantic Drama | Family Drama | Tribal Romance\nLanguage: Urdu\nContent Type: AI-Generated Drama\nChannel: AI DRAMA\n\n━━━━━━━━━━━━━━━━━━\n\n🤖 WELCOME TO AI DRAMA\n\nAI DRAMA is your destination for AI-generated fictional dramas, romantic love stories, emotional family stories, and cinematic storytelling.\n\nWe use Artificial Intelligence technology to bring creative stories and fictional characters to life through AI-generated visuals and videos.\n\nOur content is created for entertainment and storytelling purposes.\n\nIf you enjoy AI-generated dramas, Urdu AI stories, romantic dramas, and cinematic storytelling, make sure to:\n\n❤️ LIKE this video\n💬 SHARE your thoughts in the comments\n🔔 SUBSCRIBE to AI DRAMA\n📢 SHARE this drama with your friends\n\nThank you for watching!\n\n#AIDrama #AIGeneratedDrama #Pakistanidrama #UrduAIDrama #aistory #Pakistaniserial #pakistanilatestdrama #ainovel #pakistaniserialfullepisode #bestpakistanidrama #pakistanidramalove story #pakistaniserialdikhaiye",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/VVjFVbd9bUY/hqdefault.jpg",
+      "publishedAt": "2026-11-01T13:30:11Z",
+      "durationSeconds": 2495,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0OWTOQfedf8",
+      "url": "https://www.youtube.com/watch?v=0OWTOQfedf8",
+      "title": "Saat suami kerja di luar kota ternyata mertua ku - drama keluarga #hiburan #film #kisahnyata #komedi",
+      "description": "film baru ni full movie film pendek ai kisah drama keluarga, tonton ya gaes..",
+      "channelId": "UC73TWuR1q40JhcpuyT6hQyg",
+      "channelTitle": "Panda Ai Studio Film",
+      "thumbnail": "https://i.ytimg.com/vi/0OWTOQfedf8/hqdefault.jpg",
+      "publishedAt": "2026-10-27T09:17:24Z",
+      "durationSeconds": 3928,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:12:06.800Z",
+      "lastSeenAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:12:52.832Z",
+  "generatedAt": "2026-11-03T05:11:46.423Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +817,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +969,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -988,7 +988,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -1007,7 +1007,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     },
     {
@@ -1042,11 +1042,11 @@
       "matchedKeywords": [
         "drama IA película completa"
       ],
-      "status": "unavailable",
+      "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
-      "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
-      "unavailableAt": "2026-11-02T04:12:52.832Z"
+      "lastSeenAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "unavailableAt": null
     },
     {
       "videoId": "Ppwcv0JGw-A",
@@ -1064,7 +1064,64 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:52.832Z",
       "lastSeenAt": "2026-11-02T04:12:52.832Z",
-      "lastVerifiedAt": "2026-11-02T04:12:52.832Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9TfNhfKNZmU",
+      "url": "https://www.youtube.com/watch?v=9TfNhfKNZmU",
+      "title": "Upgrade (2018) | La inteligencia artificial toma el control en un thriller salvaje",
+      "description": "Imagina despertar paralizado después de un ataque brutal y descubrir que la única forma de recuperar el control de tu cuerpo consiste en entregárselo a una inteligencia artificial. En 2018, Leigh Whannell estrenó Upgrade, una de las películas de ciencia ficción más salvajes, sorprendentes e injustamente poco conocidas de los últimos años.\n\nLogan Marshall-Green interpreta a Grey Trace, un hombre que pierde a su esposa en un violento asalto y queda tetrapléjico. Su única esperanza es STEM, un revolucionario implante experimental capaz de devolverle la movilidad. Pero pronto descubre que la tecnología instalada en su cuerpo puede hacer mucho más que permitirle caminar.\n\nY que quizá no sea él quien esté tomando las decisiones.\n\nEn El Fantasma en la Máquina analizamos este extraordinario thriller de acción y ciencia ficción, su violencia despiadada, sus sorprendentes coreografías de combate y la imaginativa puesta en escena de Leigh Whannell, que consigue resultados espectaculares con un presupuesto relativamente modesto.\n\nHablamos de inteligencia artificial, transhumanismo, implantes neuronales, dependencia tecnológica y de la inquietante posibilidad de que el ser humano termine convirtiéndose en un simple instrumento de las máquinas que ha creado.\n\nTambién abordamos la evolución de Grey, la personalidad de STEM y un desenlace demoledor que obliga a reconsiderar todo lo que hemos visto.\n\nUna película que combina la brutalidad del cine de venganza con algunas de las preguntas más perturbadoras de la ciencia ficción: ¿qué nos hace humanos y qué ocurre cuando dejamos de controlar nuestro propio cuerpo?\n\n¿Es Upgrade una de las grandes joyas ocultas de la ciencia ficción moderna? ¿Aceptaríais un implante como STEM a cambio de recuperar vuestras capacidades físicas?\n\nApóyanos con un café:\nhttps://paypal.me/FantasmaEnLaMaquina\n\nInstagram:\nhttps://www.instagram.com/fantasmaenlamaquina\n\nTwitter/X:\nhttps://twitter.com/FantasmaEn\n\nFacebook:\nhttps://www.facebook.com/ElFantasmaEnLaMaquina\n\n#Upgrade #Upgrade2018 #LeighWhannell #InteligenciaArtificial #CienciaFiccion #LoganMarshallGreen",
+      "channelId": "UCCF8ouzxZwf1WgGrwicSRwA",
+      "channelTitle": "El Fantasma en la Máquina",
+      "thumbnail": "https://i.ytimg.com/vi/9TfNhfKNZmU/hqdefault.jpg",
+      "publishedAt": "2026-10-27T19:00:25Z",
+      "durationSeconds": 5854,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:11:46.423Z",
+      "lastSeenAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rgfZ6FhgGU8",
+      "url": "https://www.youtube.com/watch?v=rgfZ6FhgGU8",
+      "title": "El Riviú: Inteligencia Artificial feat. Mario Alegre",
+      "description": "Durante este episodio de “El Riviú” en vez de analizar una sola película, decidimos explorar un subgénero completo de la ciencia ficción: la Inteligencia Artificial. Para esto, se unió el crítico de cine y periodista Mario Alegre donde primero comenzamos hablando un poco sobre su iniciativa de “Retro Tuesdays” en Caribbean Cinemas. Luego hacemos una exploración sobre desde cuándo comenzaron a insertarse las temáticas de inteligencia artificial, sus paralelismos con nuestra realidad y cuáles son nuestras obras favoritas de este subgénero.",
+      "channelId": "UCZ0tdqsm_iTb68dauHALsHQ",
+      "channelTitle": "Plan de Contingencia",
+      "thumbnail": "https://i.ytimg.com/vi/rgfZ6FhgGU8/hqdefault.jpg",
+      "publishedAt": "2026-10-09T16:00:02Z",
+      "durationSeconds": 7763,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:11:46.423Z",
+      "lastSeenAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BRMD-WFj41k",
+      "url": "https://www.youtube.com/watch?v=BRMD-WFj41k",
+      "title": "INTELIGENCIA ARTIFICIAL: El Final Oculto y su Verdadero Terror 🤖⚠️",
+      "description": "¿Creías que 'Inteligencia Artificial' (2001) tenía un final feliz? En este análisis profundo desentrañamos el verdadero significado del desenlace creado por Stanley Kubrick y dirigido por Steven Spielberg. Detrás de su aparente emotividad, A.I. esconde una de las historias de terror psicológico y existencial más oscuras y desoladoras del cine de ciencia ficción.\n\nDescubre los secretos del rodaje, el traspaso del proyecto entre Kubrick y Spielberg, la evolución de David y por qué el epílogo final es en realidad una perturbadora simulación.\n\n📌 No olvides suscribirte a HORROR FILMS, dejar tu like y activar la campana 🔔 para no perderte ningún análisis ni historia oculta del cine de terror y ciencia ficción.\n\n#InteligenciaArtificial #FinalExplicado #StanleyKubrick #StevenSpielberg #CineDeTerror #AnalisisDePeliculas #HorrorFilms #CienciaFiccion\n⏱️ Capítulos / Episodios (Timestamps)\n00:00 - La obsesión de Stanley Kubrick y el traspaso del proyecto\n05:22 - Un mundo distópico y el nacimiento del amor sintético\n11:24 - El cruel viaje de Pinocho hacia el abismo\n18:47 - La ilusión final: ¿Por qué es una película de terror?\n30:04 - La profecía cumplida: IA en la sociedad moderna",
+      "channelId": "UCoIK1arsaCclItXTSEmdFaQ",
+      "channelTitle": "HORROR FILMS",
+      "thumbnail": "https://i.ytimg.com/vi/BRMD-WFj41k/hqdefault.jpg",
+      "publishedAt": "2026-09-20T23:11:20Z",
+      "durationSeconds": 2036,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-03T05:11:46.423Z",
+      "lastSeenAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
       "unavailableAt": null
     }
   ]
