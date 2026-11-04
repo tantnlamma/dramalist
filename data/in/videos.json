@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:11:26.436Z",
+  "generatedAt": "2026-11-04T04:41:48.480Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1456,7 +1456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1627,7 +1627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1646,7 +1646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1665,7 +1665,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1684,7 +1684,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1703,7 +1703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1741,7 +1741,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1779,7 +1779,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1798,7 +1798,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1818,14 +1818,14 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
       "videoId": "HywXePq6lj8",
       "url": "https://www.youtube.com/watch?v=HywXePq6lj8",
       "title": "Ep:01 - AI Filmmaking | Creation से Editing तक | Prompts से Automation तक | Aman Sir",
-      "description": "AI Filmmaking Complete Class (Hindi) | Idea से Final Video तक – AI से फिल्म कैसे बनाएं 🎬\n\nइस class में आप सीखेंगे AI से पूरी filmmaking का process — एक idea से लेकर तैयार video तक। Animated video, 3D animation, multi-character story, avatar video, cinematic short film, explainer video और video ads — सब कुछ AI tools से कैसे बनता है, step by step समझें।\n\n📌 इस वीडियो में आप सीखेंगे:\n✅ AI Filmmaking का पूरा workflow – Idea, Script, Storyboard से Final Edit तक\n✅ AI से Animated Video और 3D Animation कैसे बनाएं\n✅ Multi-Character Video और TV Serial जैसी कहानी कैसे बनाएं\n✅ AI Avatar Video और Talking Character Video\n✅ Cinematic Short Film बनाने का तरीका\n✅ Explainer Video और Video Ads AI से कैसे बनाएं\n\n📌 WhatsApp Group Join करें\n‎https://chat.whatsapp.com/GzizwgNkAp9Ca7YIrJopfh\nhttps://chat.whatsapp.com/GzizwgNkAp9Ca7YIrJopfh\n━━━━━━━━━━━━━━━━━━━━━━\n📢 Telegram Channel\nhttps://t.me/AIUpdates2026\nhttps://t.me/AIUpdates2026\n━━━━━━━━━━━━━━━━━━━━━━\n📱 Download Bharat AI Research Centre Android App\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n━━━━━━━━━━━━━━━━━━━━━━\n🍎 iOS App\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\n━━━━━━━━━━━━━━━━━━━━━━\n💻 Laptop & Desktop Version\nhttps://bharatairesearchcentre.akamai.net.in/\nhttps://bharatairesearchcentre.akamai.net.in/\n━━━━━━━━━━━━━━━━━━━━━━\n📞 Admission & Support\n9671629862\n8708163606\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AIFilmmaking #AIVideo #AIAnimation #AIFilmmakingHindi #AIShortFilm #AIAvatar #3DAnimation #ExplainerVideo #AITools #aitutorialhindi \n\nAI filmmaking in Hindi, AI se video kaise banaye, AI se film kaise banaye, AI filmmaking course, AI video tutorial Hindi, AI animation video kaise banaye, 3D animation using AI, multi character AI video, AI avatar video, talking avatar AI, AI short film, cinematic AI video, AI explainer video, AI video ads, AI video generator, AI cartoon video kaise banaye, text to video AI, image to video AI, AI filmmaking for beginners, AI video editing Hindi",
+      "description": "AI Filmmaking Complete Class (Hindi) | Idea से Final Video तक – AI से फिल्म कैसे बनाएं 🎬\n\nइस class में आप सीखेंगे AI से पूरी filmmaking का process — एक idea से लेकर तैयार video तक। Animated video, 3D animation, multi-character story, avatar video, cinematic short film, explainer video और video ads — सब कुछ AI tools से कैसे बनता है, step by step समझें।\n\n📌 इस वीडियो में आप सीखेंगे:\n✅ AI Filmmaking का पूरा workflow – Idea, Script, Storyboard से Final Edit तक\n✅ AI से Animated Video और 3D Animation कैसे बनाएं\n✅ Multi-Character Video और TV Serial जैसी कहानी कैसे बनाएं\n✅ AI Avatar Video और Talking Character Video\n✅ Cinematic Short Film बनाने का तरीका\n✅ Explainer Video और Video Ads AI से कैसे बनाएं\n\n📌 WhatsApp Group Join करें\n‎https://chat.whatsapp.com/LaU1uDMkNSPDLbtCSpvMip?s=cl&p=a&iam=2\nhttps://chat.whatsapp.com/LaU1uDMkNSPDLbtCSpvMip?s=cl&p=a&iam=2\n━━━━━━━━━━━━━━━━━━━━━━\n📢 Telegram Channel\nhttps://t.me/AIUpdates2026\nhttps://t.me/AIUpdates2026\n━━━━━━━━━━━━━━━━━━━━━━\n📱 Download Bharat AI Research Centre Android App\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n━━━━━━━━━━━━━━━━━━━━━━\n🍎 iOS App\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\n━━━━━━━━━━━━━━━━━━━━━━\n💻 Laptop & Desktop Version\nhttps://bharatairesearchcentre.akamai.net.in/\nhttps://bharatairesearchcentre.akamai.net.in/\n━━━━━━━━━━━━━━━━━━━━━━\n📞 Admission & Support\n9671629862\n8708163606\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AIFilmmaking #AIVideo #AIAnimation #AIFilmmakingHindi #AIShortFilm #AIAvatar #3DAnimation #ExplainerVideo #AITools #aitutorialhindi \n\nAI filmmaking in Hindi, AI se video kaise banaye, AI se film kaise banaye, AI filmmaking course, AI video tutorial Hindi, AI animation video kaise banaye, 3D animation using AI, multi character AI video, AI avatar video, talking avatar AI, AI short film, cinematic AI video, AI explainer video, AI video ads, AI video generator, AI cartoon video kaise banaye, text to video AI, image to video AI, AI filmmaking for beginners, AI video editing Hindi",
       "channelId": "UCAlDLInBXWHvmraqr7WZx7A",
       "channelTitle": "Bharat AI Research Centre",
       "thumbnail": "https://i.ytimg.com/vi/HywXePq6lj8/hqdefault.jpg",
@@ -1894,7 +1894,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1913,7 +1913,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:26.436Z",
       "lastSeenAt": "2026-11-03T05:11:26.436Z",
-      "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     },
     {
@@ -1933,6 +1933,82 @@
       "discoveredAt": "2026-11-03T05:11:26.436Z",
       "lastSeenAt": "2026-11-03T05:11:26.436Z",
       "lastVerifiedAt": "2026-11-03T05:11:26.436Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oI9wx3z_bNw",
+      "url": "https://www.youtube.com/watch?v=oI9wx3z_bNw",
+      "title": "🔴 LIVE 🔥 Ali Baba Aur 40 Chor | Full AI Movie in Hindi | Alif Laila | 1001 Nights",
+      "description": "🔴 LIVE 🔥 Ali Baba Aur 40 Chor | Full AI Movie in Hindi | Alif Laila | 1001 Nights\n\n🏴‍☠️ देखिए अली बाबा और 40 चोर की पूरी रोमांचक कहानी LIVE! 😱\n\nएक गरीब लकड़हारा, रहस्यमयी गुफा, अनमोल खजाना और 40 खतरनाक चोर! 💰 अली बाबा को मिलता है एक ऐसा राज़, जो उसकी पूरी जिंदगी बदल देता है। क्या अली बाबा चोरों से अपना खजाना बचा पाएगा?\n\n🎬 Full AI Movie in Hindi\n🔥 Adventure | Fantasy | Action | Hindi Kahani\n\n❤️ वीडियो पसंद आए तो LIKE करें।\n🔔 चैनल SUBSCRIBE करें और ऐसी ही रोमांचक AI Movies के लिए जुड़े रहें।\n💬 कमेंट करके बताएं — क्या आपने अली बाबा और 40 चोर की कहानी पहले देखी है?\n\n#AliBabaAur40Chor #AIMovie #HindiMovie #AlifLaila #Live",
+      "channelId": "UCkkDlS66G_IsQtMyU4Dnt2A",
+      "channelTitle": "Daramaduniya",
+      "thumbnail": "https://i.ytimg.com/vi/oI9wx3z_bNw/hqdefault.jpg",
+      "publishedAt": "2026-11-03T00:37:31Z",
+      "durationSeconds": 3725,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:41:48.480Z",
+      "lastSeenAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6MAWlU8aQJs",
+      "url": "https://www.youtube.com/watch?v=6MAWlU8aQJs",
+      "title": "War Girl Korean Movie In Hindi Dubbed | Robot Wala Action | Korean Blockbuster Movie Hindi 2026",
+      "description": "War Girl Korean Movie In Hindi Dubbed | Korean Blockbuster Action Movie Hindi Dubbed 2026\n\nWar Girl - एक ऐसी कोरियन सोल्जर की कहानी जो एक खतरनाक रोबोट के साथ मिलकर दुश्मन की पूरी आर्मी को तबाह कर देती है। क्या होगा जब इंसान और मशीन एक साथ जंग लड़ेंगे? देखिये ये धमाकेदार एक्शन मूवी हिंदी में।\n\nMovie Name :- War Girl\nIndustry :- Korean Movie\nLanguage :- Hindi Dubbed\nGenre :- Action / Sci-Fi / War\nIMDb Rating :- 8.4/10\n\n#wargirl #koreanmoviehindi #koreanmoviehindidubbed #wargirlmovie #robotmoviehindi #hindidubbedmovie #koreanactionmovie #newkoreanmovie2026 #koreanblockbustermovie #sci-fimoviehindi\n\nRelated Search :-\nWar Girl full movie hindi dubbed\nWar Girl korean movie hindi dubbed\nKorean movie hindi dubbed\nKorean movie in hindi\nRobot wala movie hindi dubbed\nWar Girl",
+      "channelId": "UCYaO8uavx32uyanHxfM2CRg",
+      "channelTitle": "genral facts ",
+      "thumbnail": "https://i.ytimg.com/vi/6MAWlU8aQJs/hqdefault.jpg",
+      "publishedAt": "2026-11-03T13:13:09Z",
+      "durationSeconds": 3748,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:41:48.480Z",
+      "lastSeenAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7mXL6GFvePo",
+      "url": "https://www.youtube.com/watch?v=7mXL6GFvePo",
+      "title": "Little but Powerful Troublemaker — A Tiny Warrior with Unbelievable Power | AI Movie",
+      "description": "Little but Powerful Troublemaker — Original AI Fantasy Movie\n\nA small but fearless warrior is ready to challenge a world that underestimates her. In *Little but Powerful Troublemaker*, an extraordinary fantasy adventure unfolds as courage, hidden strength, and unexpected magic collide.\n\nCreated as an original AI movie, this fantasy story brings together cinematic visuals, an imaginative world, powerful characters, and an unforgettable adventure.\n\n⚔️ **Movie Highlights**\n- Original AI-generated fantasy movie\n- A fearless heroine with extraordinary strength\n- Magical powers and epic fantasy action\n- A cinematic adventure filled with surprises\n- An imaginative world of warriors and mystery\n\n🎬 **About This Movie**  \nThis is an independently created AI movie. The story, characters, visuals, and audio are presented as part of an original creative project. Any third-party tools or assets used in production remain subject to their respective terms and rights.\n\nIf you enjoy fantasy movies, powerful heroines, magical adventures, and AI-created films, subscribe for more original AI movie projects.\n\n💬 What was your favorite moment in *Little but Powerful Troublemaker*?\n\n#LittleButPowerfulTroublemaker #AIMovie #FantasyMovie #AIFilm #FantasyAdventure\n\n**🎬 AI MOVIE DISCLAIMER**\n\n“Little but Powerful Troublemaker” is an original AI-generated fantasy movie created for entertainment purposes.\n\nThe characters, storyline, scenes, and visuals are part of a fictional creative project. Any resemblance to actual persons, events, or places is coincidental.\n\nThis movie was created using AI tools as part of the creative production process. All AI-generated elements have been edited and arranged to present the story.\n\nAny third-party tools, software, or assets used in production remain subject to their respective terms and licenses. All third-party copyrights and trademarks belong to their respective owners.\n\nThis film is not intended to mislead viewers or represent fictional events as real.\n\nThank you for watching and supporting original AI filmmaking!",
+      "channelId": "UCHYnCm-4a-VFXPACWxj9lTg",
+      "channelTitle": "Cine Me Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/7mXL6GFvePo/hqdefault.jpg",
+      "publishedAt": "2026-10-23T05:36:32Z",
+      "durationSeconds": 4030,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:41:48.480Z",
+      "lastSeenAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pWKeJKidzEw",
+      "url": "https://www.youtube.com/watch?v=pWKeJKidzEw",
+      "title": "He Wanted to Divorce His Wife… Then He Fell in Love With His Own Wife.",
+      "description": "💐 Karan never expected to fall in love with the woman he married.\n\nTheir marriage began without love. He was distant, convinced they were simply not right for each other, and once considered ending their relationship.\n\nBut as Nisha slowly adjusted to life in the city, he began to see a side of her he had never taken the time to understand. Her kindness, her quiet strength, and her growing passion for floral design changed the way he saw her—and the way he felt about their marriage.\n\nAs Nisha discovers her own dreams and builds a life beyond what she once imagined, Karan finds himself falling for her. The man who once wanted to leave now wants nothing more than to stand beside her, support her, and share the future they never thought they would have.\n\nSometimes, love doesn't begin on the wedding day. Sometimes, it begins when two people finally learn to see each other.❤️\n\n🎬 A heartwarming Indian romantic drama about arranged marriage, personal growth, second chances, and discovering love where you least expect it.\n\n✨ If you enjoy emotional love stories, slow-burn romance, and cinematic Indian dramas, don't forget to like, comment, and subscribe for more original AI films.\n\n⚠️ Disclaimer: This story is entirely fictional and created for entertainment purposes. All characters, names, events, and locations are fictional. Any resemblance to real people or events is purely coincidental.\n\n#IndianDrama #IndianStory #FullMovie #RomanticStory #InspirationalMovie #InspirationalStory #LifeJourney #MotivationalStory #LoveStory",
+      "channelId": "UCJm-Rx-eWKqrs6bd5f1mmZw",
+      "channelTitle": "Dunvaris",
+      "thumbnail": "https://i.ytimg.com/vi/pWKeJKidzEw/hqdefault.jpg",
+      "publishedAt": "2026-10-22T14:36:49Z",
+      "durationSeconds": 2782,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:41:48.480Z",
+      "lastSeenAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
       "unavailableAt": null
     }
   ]

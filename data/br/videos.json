@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:11:51.748Z",
+  "generatedAt": "2026-11-04T04:42:10.644Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -535,7 +535,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -554,7 +554,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -573,7 +573,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,26 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-03T05:11:51.748Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "G9eXt3lf-p4",
+      "url": "https://www.youtube.com/watch?v=G9eXt3lf-p4",
+      "title": "A HISTÓRIA DE ESTER E O REI ASSUERO (O Filme) 💕 Impossível Não se Apaixonar",
+      "description": "Hadassa era uma jovem que ficou órfã ainda muito cedo e foi criada por seu tio Mardoqueu, que a tomou como filha. Bela, humilde e de coração puro, ela cresceu longe dos luxos da corte, sem imaginar que sua vida estava prestes a mudar para sempre.\n\nQuando o rei Assuero decide procurar uma nova rainha, Hadassa é levada para a casa das mulheres na fortaleza de Susã. Para proteger sua identidade e seu povo, ela passa a ser conhecida pelo nome de Ester.\n\nEntre tantas jovens, Ester chama a atenção do rei. Mas conquistar o coração de um homem poderoso é apenas o começo de sua jornada. Por trás da coroa, ela encontrará responsabilidades, perigos, intrigas e escolhas que colocarão à prova sua coragem e sua fé.\nAo lado de Mardoqueu, Ester precisará descobrir que talvez tenha chegado àquele lugar por uma razão muito maior do que poderia imaginar.\n\nUma história de amor, coragem, fé e determinação que atravessou gerações.\n\nInscreva-se: @ContosdeAmorOficial \n\nNosso grupo no Whatsapp: https://whatsapp.com/channel/0029VbDSOrXEFeXjv8F1mN2l\n\nOuça as nossas músicas da Banda Contos: https://open.spotify.com/intl-pt/album/4BzYWdBsd140wkdrd9EbFt\n\nNossa loja na shopee: https://s.shopee.com.br/5AsRPUoON2\n\n ⚠AVISO\n\nEste filme foi idealizado, roteirizado, produzido e editado por mim, com o uso de tecnologia de Inteligência Artificial (IA), como parte do processo criativo e de produção audiovisual.\n\nTodas as músicas instrumentais e cantadas utilizadas nesta produção pertencem à Banda Contos e são composições autorais minhas.\nÉ proibida a reprodução, cópia, distribuição, edição, comercialização ou utilização, total ou parcial, deste filme, de suas músicas e demais conteúdos criativos, sem autorização prévia.\n\nTodos os direitos reservados a Contos de Amor – Histórias de Amor e Vida. \n\n#rainhaester #filmeromantico #novela #filmebíblico",
+      "channelId": "UCfP7NQdQucBsKRSxZZT1cYw",
+      "channelTitle": "Contos de Amor 📺 Histórias de Amor e Vida ",
+      "thumbnail": "https://i.ytimg.com/vi/G9eXt3lf-p4/hqdefault.jpg",
+      "publishedAt": "2026-09-13T21:00:18Z",
+      "durationSeconds": 3158,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:42:10.644Z",
+      "lastSeenAt": "2026-11-04T04:42:10.644Z",
+      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
       "unavailableAt": null
     }
   ]

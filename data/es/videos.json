@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:11:46.423Z",
+  "generatedAt": "2026-11-04T04:42:06.494Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +626,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -645,7 +645,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +702,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +817,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -855,7 +855,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -912,7 +912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +969,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -988,7 +988,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1026,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -1064,7 +1064,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:52.832Z",
       "lastSeenAt": "2026-11-02T04:12:52.832Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -1083,7 +1083,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -1102,7 +1102,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     },
     {
@@ -1121,7 +1121,26 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "K9GcMHCd3dM",
+      "url": "https://www.youtube.com/watch?v=K9GcMHCd3dM",
+      "title": "EL GUARDIÁN DE LA LUZ AZUL | Película completa de Ciencia Ficción, Terror y Acción | Audio Latino",
+      "description": "Una amenaza desconocida pone a prueba a un grupo de supervivientes en esta película de ciencia ficción, terror, drama y acción.\n\nEL GUARDIÁN DE LA LUZ AZUL combina misterio, tensión, escenas de acción y momentos emocionales en una historia donde cada descubrimiento puede convertirse en una trampa.\n\nLa película cuenta con una banda sonora instrumental original creada para acompañar los momentos de suspenso, terror, emoción, misterio y acción sin interferir con los diálogos.\n\nSuscríbete al canal y activa las notificaciones para descubrir próximas películas, cortometrajes y contenidos de ciencia ficción.\n\nComenta qué escena te generó más tensión.\n\n© 2026. Todos los derechos reservados.                     #ElGuardianDeLaLuzAzul #CienciaFiccion #Terror #Accion #PeliculaCompleta #AudioLatino #Suspenso #Misterio #Thriller #CineIndependiente  #ElGuardianDeLaLuzAzul #CienciaFiccion         #Terror #Accion #PeliculaCompleta   #Cortoman #IAFilms #CortomanIAFilms\n\n@cortoman @Cortoman",
+      "channelId": "UCoqEADO8vJ9ywdm09OyC0KA",
+      "channelTitle": "Corto man IA films",
+      "thumbnail": "https://i.ytimg.com/vi/K9GcMHCd3dM/hqdefault.jpg",
+      "publishedAt": "2026-09-25T21:00:15Z",
+      "durationSeconds": 1882,
+      "matchedKeywords": [
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:42:06.494Z",
+      "lastSeenAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
       "unavailableAt": null
     }
   ]

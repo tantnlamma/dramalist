@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:12:02.310Z",
+  "generatedAt": "2026-11-04T04:42:22.962Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,26 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sJsWRjixd3w",
+      "url": "https://www.youtube.com/watch?v=sJsWRjixd3w",
+      "title": "Sunday School Musical | TOLLER FAMILIENFILM auf Deutsch komplett | Musikfilme | Drama Filme",
+      "description": "😢Berührende Dramen & emotionale Geschichten auf Deutsch – jetzt abonnieren: https://bit.ly/3zeb40X\n✨ Zach träumt mit seinem Chor vom Sieg beim Tanzwettbewerb. Doch ein plötzlicher Umzug bringt seine Pläne durcheinander – und stellt seine Träume auf die Probe. 🎶✨\n\nSUNDAY SCHOOL MUSICAL (2008)\nOriginaltitel: Sunday School Musical\nMit: Chris Chatman, Candise Lakota, Mark Hengst, Robert Acinapura, Krystle Connor\nRegie: Rachel Lee Goldenberg\nFSK: Freigegeben ab 6 Jahren\n\nINHALTSANGABE:\nZach leitet den Chor der Christian School und gemeinsam üben sie an einer Performance für einen Tanz-Wettbewerb. Doch auch der Chor unter der Leitung der wundervollen Savannah hat beste Aussichten, in die Finalrunde zu kommen. Ausgerechnet jetzt, in der heißen Phase der Proben muss Zach mit seiner Mutter und seinem Bruder ans andere Ende der Stadt ziehen und alles beginnt aus dem Ruder zu laufen..\n#Drama #ganzefilme #Spielfilme\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \n\nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UCJ0Fph0KNHW8TY9ktFU-fvA",
+      "channelTitle": "Weihnachtskino - Märchen & Weihnachtsfilme",
+      "thumbnail": "https://i.ytimg.com/vi/sJsWRjixd3w/hqdefault.jpg",
+      "publishedAt": "2026-11-02T12:00:09Z",
+      "durationSeconds": 5371,
+      "matchedKeywords": [
+        "KI Drama Film vollständig"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:42:22.962Z",
+      "lastSeenAt": "2026-11-04T04:42:22.962Z",
+      "lastVerifiedAt": "2026-11-04T04:42:22.962Z",
       "unavailableAt": null
     }
   ]

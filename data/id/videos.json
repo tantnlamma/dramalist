@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:12:06.800Z",
+  "generatedAt": "2026-11-04T04:42:27.806Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -435,7 +435,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1215,7 +1215,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-10-31T03:55:06.655Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1576,7 +1576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1614,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1652,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1785,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     },
     {
@@ -1804,7 +1804,26 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "reBg7-KdAAc",
+      "url": "https://www.youtube.com/watch?v=reBg7-KdAAc",
+      "title": "7 IMPOSSIBLE Shelters That Saved a Family from TERRIFYING Storms | Full Movie",
+      "description": "Experience seven incredible family survival adventures in one full-length Ghibli-inspired animated movie!\n\nAs terrifying storms, relentless rain, and brutal blizzards strike, a family and their loyal golden dog struggle to find safety. Their journey takes them through flooded villages, a hidden underground bunker, a mysterious stone shelter, a secret mansion basement, a kind old man's cottage, and a forgotten weather station high above the clouds.\n\nFrom escaping dangerous storms and discovering hidden entrances to securing shelters, lighting fires, preparing warm meals, and resting safely together, every adventure reveals the courage, love, and resilience that keep a family alive.\n\nEnjoy beautiful hand-drawn-inspired animation, cozy survival shelters, peaceful ASMR moments, and heartwarming family stories surrounded by the power of nature.\n\nAI Disclosure & Disclaimer: This fictional animated movie was created with the assistance of artificial intelligence (AI) for entertainment and creative storytelling. The characters, locations, and survival situations are fictional or dramatized. This is an independent Ghibli-inspired production, not affiliated with, sponsored by, or endorsed by Studio Ghibli. It is not intended as real-world survival or emergency safety guidance.\n\n#FamilySurvival #SurvivalGhibli #StormSurvival",
+      "channelId": "UC9aWmWWyhW4GzPCMUdqGKow",
+      "channelTitle": "Survival Ghibli Flame",
+      "thumbnail": "https://i.ytimg.com/vi/reBg7-KdAAc/hqdefault.jpg",
+      "publishedAt": "2026-11-02T13:00:08Z",
+      "durationSeconds": 4678,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-04T04:42:27.806Z",
+      "lastSeenAt": "2026-11-04T04:42:27.806Z",
+      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
       "unavailableAt": null
     }
   ]
