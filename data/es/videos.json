@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:42:06.494Z",
+  "generatedAt": "2026-11-05T04:57:10.137Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -582,12 +582,13 @@
       "publishedAt": "2026-10-10T11:00:29Z",
       "durationSeconds": 3473,
       "matchedKeywords": [
-        "drama IA película completa"
+        "drama IA película completa",
+        "película completa inteligencia artificial"
       ],
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:49.640Z",
       "lastSeenAt": "2026-10-20T03:14:49.640Z",
-      "lastVerifiedAt": "2026-10-20T03:14:49.640Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -626,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -702,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -740,7 +741,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:55.530Z",
       "lastSeenAt": "2026-10-26T03:01:55.530Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -759,7 +760,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:55.530Z",
       "lastSeenAt": "2026-10-26T03:01:55.530Z",
-      "lastVerifiedAt": "2026-10-29T04:13:06.322Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -817,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -907,12 +908,13 @@
       "publishedAt": "2026-10-28T19:00:07Z",
       "durationSeconds": 2266,
       "matchedKeywords": [
+        "drama IA película completa",
         "película completa inteligencia artificial"
       ],
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -969,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -983,12 +985,13 @@
       "publishedAt": "2026-10-31T18:57:33Z",
       "durationSeconds": 2452,
       "matchedKeywords": [
+        "drama IA película completa",
         "película completa inteligencia artificial"
       ],
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -1026,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -1064,7 +1067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:52.832Z",
       "lastSeenAt": "2026-11-02T04:12:52.832Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     },
     {
@@ -1141,6 +1144,44 @@
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
       "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "iL3k9DIGy3g",
+      "url": "https://www.youtube.com/watch?v=iL3k9DIGy3g",
+      "title": "LAS CRÓNICAS DE MATUSALÉN | Película Completa | El Último Guardián y la Profecía del Diluvio 4K",
+      "description": "🌑 🔥 LAS CRÓNICAS DE MATUSALÉN, El Último Guardián y la Profecía del Diluvio 🔥\n\n💀 Antes del Diluvio, Enoc entrega a su hijo Matusalén unos rollos que revelan los secretos de los Vigilantes y una terrible profecía sobre el destino de la humanidad.  \nMientras Semyaza, Azazel y los ángeles caídos corrompen la Tierra, los Nefilim siembran el terror entre los hombres.  \nDurante siglos, Matusalén se convierte en el último guardián de una advertencia que nadie quiere escuchar, mientras su propio nombre esconde un secreto sobre el juicio de Dios.\n\nEntre el Libro de Enoc, el monte Hermón, el nacimiento de Noé y la construcción del Arca, esta película completa reconstruye las crónicas del hombre que vivió 969 años.  \nSu extraordinaria longevidad guarda una conexión misteriosa con la profecía del Diluvio y el destino de un mundo condenado por su corrupción.  \nUna historia sobre gigantes bíblicos, conocimientos prohibidos, la paciencia de Dios y la última oportunidad antes del fin del mundo antiguo.\n\n🔔 ¡Suscríbete al canal y activa la campanita para no perderte ninguna película bíblica completa en 4K!\n\n🎬 Una producción de Memorias de la Biblia\n\n⚠️ AVISO IMPORTANTE  \nEste video es una producción cinematográfica de entretenimiento creada con el apoyo de Inteligencia Artificial, inspirada en textos bíblicos, textos apócrifos, tradiciones hebreas antiguas y licencia poética. Las imágenes, narración y elementos visuales fueron generados o mejorados por herramientas de IA con fines exclusivamente creativos. Las narrativas y representaciones visuales no deben interpretarse como doctrina religiosa, posición teológica o afirmación histórica literal. Nuestro objetivo es invitar a la reflexión, al cuestionamiento y al deleite por el misterio de las escrituras antiguas.\n\n#Matusalén #CrónicasDeMatusalén #LibroDeEnoc #Nefilim #ArcaDeNoé #DiluvioUniversal #Enoc #Vigilantes #ÁngelesCaídos #GigantesBíblicos #Semyaza #Azazel #Noé #ProfecíaDelDiluvio #Génesis6 #MisteriosDeLaBiblia #SecretosDeLaBiblia #HistoriasBíblicas #PelículaBíblica #PelículaCompleta #MemoriasdelaBiblia",
+      "channelId": "UCcLDBwQgkajOuu2jfIRPPyQ",
+      "channelTitle": "Memorias de la Biblia",
+      "thumbnail": "https://i.ytimg.com/vi/iL3k9DIGy3g/hqdefault.jpg",
+      "publishedAt": "2026-10-12T22:05:29Z",
+      "durationSeconds": 2701,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:57:10.137Z",
+      "lastSeenAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hQabBU3TzXU",
+      "url": "https://www.youtube.com/watch?v=hQabBU3TzXU",
+      "title": "DRAGON BALL AF: SAGA DE ZAIKO. TEMPORADA 1 COMPLETA EDICIÓN DEFINITIVA. ESPAÑOL LATINO AI FAN SERIES",
+      "description": "Primera temporada completa de esta serie fan animada con IA, homenaje al clásico estilo Toei Animation de los 90. \nEsta es la historia de Zaiko, Gohan, Uub, y nuevos enemigos que amenazan el equilibrio del universo contada como nunca antes habías visto. \n\n🎬 Dale vida a tus historias y animaciones en minutos.\nRegístrate y prueba PixVerse totalmente gratis con mi enlace:\n👉 motivaiprivatelimited.sjv.io/DWm2N2\n\nHecho con herramientas de IA, animación generativa, edición de sonido y video 100% manual y mucho amor por Dragon Ball. \n¡Suscríbete para apoyar el proyecto y no perderte los próximos capítulos!\n¿Te gusta esta serie? \nSi quieres puedes invitarme a un café. \n☕ https://ko-fi.com/traceurspathstudio\n💙 https://www.paypal.com/paypalme/Traceurspath\n🌀 Patreon: https://patreon.com/TraceursPathStudio?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\n\nTwitter: https://x.com/TraceursPathAF      \n💥 Capítulo 1: https://youtu.be/_xTdxKfMlb0?si=K86PwAl4Q1QzFR30\n💥 Capítulo 2: https://youtu.be/N8T5K7ofP5o?si=gM5gfZFcZzlSbGqG\n💥 Capítulo 3: https://www.youtube.com/watch?v=gbPYtB_8Hoo\n💥 Capítulo 4: https://www.youtube.com/watch?v=GEdcaiCFneY\n💥 Capítulo 5: https://www.youtube.com/watch?v=Rl0RN34mQto&t=12s\n💥 Capítulo 6: https://www.youtube.com/watch?v=6gK-eUT3Kdc\n💥 Capítulo 7: https://www.youtube.com/watch?v=Uw5bVv5MUZ4\n💥 Capítulo 8: https://www.youtube.com/watch?v=yWTSS74L5_M&t=1099s\n🎵 Opening : https://youtu.be/qhFVwJ446mM?si=JRzwD_Q7s33Ovrh6\n🎵 Opening FULL : https://www.youtube.com/watch?v=qN395Kvna8A\n🎵 Ending : https://youtu.be/1rgmqlhE_Vc?si=UHhpG8Olm1TC4GOU\n\n\n#DragonBallAF #capítulo6 #capitulo6 #capítulo7 #capitulo7 #capítulo8 #capitulo8  #EspañolLatino #FanAnimation #IA #dragonball #dragonballafai #dragonballz #dragonballsuper #DRAGONBALLGT #goku #supersaiyan #supersaiyan4 #zaiko #xicor #anime #dragonballsuper #goku #gokublack #dragonball #jiren #primeratemporada #temporadacompleta",
+      "channelId": "UCNpsO8vJHmnQu_79uFUWlTw",
+      "channelTitle": "Traceur’s Path Studio",
+      "thumbnail": "https://i.ytimg.com/vi/hQabBU3TzXU/hqdefault.jpg",
+      "publishedAt": "2026-10-30T23:03:00Z",
+      "durationSeconds": 10035,
+      "matchedKeywords": [
+        "drama IA película completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:57:10.137Z",
+      "lastSeenAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
       "unavailableAt": null
     }
   ]

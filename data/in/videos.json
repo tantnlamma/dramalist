@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:41:48.480Z",
+  "generatedAt": "2026-11-05T04:56:53.073Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1456,7 +1456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1627,7 +1627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1646,7 +1646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1665,7 +1665,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1684,7 +1684,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1703,7 +1703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1741,7 +1741,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1779,7 +1779,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1798,7 +1798,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1818,7 +1818,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1894,7 +1894,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1913,7 +1913,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:26.436Z",
       "lastSeenAt": "2026-11-03T05:11:26.436Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1951,7 +1951,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1970,7 +1970,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -1982,14 +1982,14 @@
       "channelTitle": "Cine Me Cinema",
       "thumbnail": "https://i.ytimg.com/vi/7mXL6GFvePo/hqdefault.jpg",
       "publishedAt": "2026-10-23T05:36:32Z",
-      "durationSeconds": 4030,
+      "durationSeconds": 1952,
       "matchedKeywords": [
         "AI drama movie hindi full"
       ],
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     },
     {
@@ -2008,7 +2008,83 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-04T04:41:48.480Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WLgW4hk8GXQ",
+      "url": "https://www.youtube.com/watch?v=WLgW4hk8GXQ",
+      "title": "जिस राजकुमारी ने वीर को गुलाम बनाना चाहा, उसी ने सौंप दी अपनी राजगद्दी! | Hindi stories | ai movie ",
+      "description": "क्या होगा जब एक घमंडी और क्रूर राजकुमारी को एक साधारण सा लड़का अगवा कर ले?\n\nइस  3D एनिमेटेड महा-मूवी में देखिए वीर, सूरज, छाया और क्रूर राजकुमारी की एक रोंगटे खड़े कर देने वाली कहानी। कैसे एक घायल योद्धा ने मौत की घाटी का खौफनाक चक्रव्यूह तोड़ा? कैसे सूरज के एक मास्टरप्लान ने क्रूर राजकुमारी का सारा अहंकार चकनाचूर कर दिया और उसे अपना मुकुट सौंपने पर मजबूर कर दिया? बिना किसी खून-खराबे के सस्पेंस, जादुई भ्रम और गहरी दोस्ती की यह पूरी महा-गाथा एक ही वीडियो में!\nअगर आपको यह सिनेमैटिक 3D कहानी पसंद आए, तो वीडियो को लाइक करें और हमारे चैनल 'Aarav 3D tales' को सब्सक्राइब जरूर करें।\n\n\n#3DAnimationHindi #FullMovie #CinematicStory #HindiKahani #RajaRaniKiKahani #Aarav3DTales #SuspenseStory #AnimatedMovie #HindiFairyTales\n\n\nघमंडी रानी की कहानी, 3D एनिमेटेड फुल मूवी, वीर और खूंखार राजकुमारी, नदी में मिला घायल योद्धा पार्ट 3, राजा रानी की जादुई कहानी, बिना नरेशन वाली 3D कहानी, मौत की घाटी का रहस्य, राजकुमारी का समर्पण, हिंदी सस्पेंस कहानी, जादुई 3D कहानी।\n\n\n3d animated hindi story, full movie hindi kahani, raja rani ki kahani, ghamandi rajkumari, veer aur chhaya, 3d cinematic story hindi, aarav 3d tales, jadui kahani, hindi moral stories, suspense hindi story, hindi fairy tales, bina narration ki kahani, maut ki ghati ka rahasya, hindi cartoon movie, rajkumari aur yoddha",
+      "channelId": "UCd9qdeC0ekbTu4is4VASKTA",
+      "channelTitle": "Aarav 3D tales",
+      "thumbnail": "https://i.ytimg.com/vi/WLgW4hk8GXQ/hqdefault.jpg",
+      "publishedAt": "2026-10-31T13:41:04Z",
+      "durationSeconds": 5455,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:56:53.073Z",
+      "lastSeenAt": "2026-11-05T04:56:53.073Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "YOuyLpLb7XI",
+      "url": "https://www.youtube.com/watch?v=YOuyLpLb7XI",
+      "title": "FULL MOVIE: Pinagbintangan Siyang Magnanakaw Hindi Nila Alam Siya Pala ang May-ari ng Hotel",
+      "description": "ANG LIHIM NA PAMANA: Nagpanggap na Janitor ang Bilyonaryang Tagapagmana | Full Filipino Romance Drama\n\nWhat happens when a billionaire heiress hides her true identity and works as an ordinary hotel janitor? Can love, loyalty, and truth survive in a world ruled by money, power, and betrayal?\n\n✨ ANG LIHIM NA PAMANA: Nagpanggap na Janitor ang Bilyonaryang Tagapagmana is an emotional Filipino romance-drama about Isabella Montenegro, a wealthy heiress who disguises herself as a humble janitorial worker at Hotel Paraiso to discover the truth about the people running the hotel. There, she meets Rafael de Leon, a maintenance worker hiding a powerful secret of his own.\n\nAs Isabella and Rafael grow closer, they face humiliation, jealousy, corruption, and dangerous schemes orchestrated by people determined to protect their power. But when their true identities are finally revealed, the hotel’s glamorous world is shaken, and the truth begins to emerge.\n\n❤️ A story of love, sacrifice, justice, and second chances, this movie reminds us that a person's worth is not measured by their clothes, job, or wealth—but by the courage and kindness in their heart.\n\n🎬 WATCH UNTIL THE END to discover the shocking revelations, emotional confrontations, and heartwarming conclusion of Isabella and Rafael’s journey.\n\n💬 JOIN THE CONVERSATION!\n\nWhat would you do if you discovered your coworker was secretly a billionaire?\n\nDo you believe true love can survive betrayal and deception?\n\nWho is your favorite character in the story?\n\n👍 Like this video if you enjoyed the story.\n💬 Comment your thoughts and favorite scene below.\n🔔 Subscribe for more Filipino romance, drama, family secrets, betrayal, and inspiring stories.\n📲 Share this movie with friends and family who love emotional Filipino dramas.\n\nThank you for watching and supporting our original storytelling!",
+      "channelId": "UCxWG4_svxmWZ9szUrHCSL7A",
+      "channelTitle": "Kabayan Movies AI",
+      "thumbnail": "https://i.ytimg.com/vi/YOuyLpLb7XI/hqdefault.jpg",
+      "publishedAt": "2026-10-30T11:00:31Z",
+      "durationSeconds": 2719,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:56:53.073Z",
+      "lastSeenAt": "2026-11-05T04:56:53.073Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AdrseJwhfqQ",
+      "url": "https://www.youtube.com/watch?v=AdrseJwhfqQ",
+      "title": "‼️ROBOT🤖Full Movie in Hindi Dubbed👌4K UHD | Rajinikanth, Aishwarya Rai Bachchan | Enthirand💖",
+      "description": "# 🤖 ROBOT (ENTHIRAN) FULL MOVIE | RAJINIKANTH | UHD 4K | By Nishant Rao Sahab 🔥\n\n**Description:**\n\n🔥 Ready for an extraordinary cinematic experience? Get ready to witness Superstar Rajinikanth like never before! Step into a futuristic world of incredible technology, mind-blowing action, powerful emotions and unforgettable sci-fi thrills with ROBOT (Enthiran)! 🚀\n\nStarring Superstar Rajinikanth and Aishwarya Rai Bachchan, this blockbuster brings you spectacular entertainment, stunning visuals and action-packed moments that will keep you hooked!\n\n🎬 **Movie:** ROBOT (Enthiran)  \n⭐ **Starring:** Rajinikanth, Aishwarya Rai Bachchan  \n💎 **Quality:** UHD 4K / Full HD 1080p  \n📺 **Presented By:** Nishant Rao Sahab\n\n👍 Enjoy the video? Like, share your favourite moments in the comments, and subscribe for more cinematic entertainment!\n\n#Robot #Enthiran #Rajinikanth #AishwaryaRai #UHD4K #FullMovie #NishantRaoSahab #SciFiMovie #IndianCinema",
+      "channelId": "UCpJR3g240ALYufLXQpM4PMw",
+      "channelTitle": "Nishant yadav Nishu bhai lover 1303 ",
+      "thumbnail": "https://i.ytimg.com/vi/AdrseJwhfqQ/hqdefault.jpg",
+      "publishedAt": "2026-11-04T10:53:49Z",
+      "durationSeconds": 5722,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:56:53.073Z",
+      "lastSeenAt": "2026-11-05T04:56:53.073Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "72Gv0-UYVnI",
+      "url": "https://www.youtube.com/watch?v=72Gv0-UYVnI",
+      "title": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥",
+      "description": "The Mermaid Full Movie in English | The Mermaid Love Story AI Full Movie | The Mermaid Trending  🔥",
+      "channelId": "UCp4VlCCGI8UHMMyijNG2luQ",
+      "channelTitle": "ShortsVlog ",
+      "thumbnail": "https://i.ytimg.com/vi/72Gv0-UYVnI/hqdefault.jpg",
+      "publishedAt": "2026-10-28T10:28:34Z",
+      "durationSeconds": 6059,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-05T04:56:53.073Z",
+      "lastSeenAt": "2026-11-05T04:56:53.073Z",
+      "lastVerifiedAt": "2026-11-05T04:56:53.073Z",
       "unavailableAt": null
     }
   ]
