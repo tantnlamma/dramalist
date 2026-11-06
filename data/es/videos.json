@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:57:10.137Z",
+  "generatedAt": "2026-11-06T04:56:51.706Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -914,7 +914,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-04T04:42:06.494Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     },
     {
@@ -1181,7 +1181,26 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:10.137Z",
       "lastSeenAt": "2026-11-05T04:57:10.137Z",
-      "lastVerifiedAt": "2026-11-05T04:57:10.137Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kwmWJTXUW8M",
+      "url": "https://www.youtube.com/watch?v=kwmWJTXUW8M",
+      "title": "LA VIDA DE JESÚS — La película completa | Minecraft (Animada con IA) ",
+      "description": "La primera película de la Vida de Jesús en el mundo de bloques, en español.\n\nPelícula animada con inteligencia artificial en el mundo de bloques, al estilo de Minecraft. Reparto y escenarios propios. Diálogos del Evangelio palabra por palabra (Reina Valera 1960). Para toda la familia.\n\nÍNDICE DE CAPÍTULOS\n00:00 La anunciación y el nacimiento\n02:04 El niño en el Templo\n03:28 El bautismo\n04:26 La tentación\n05:42 El llamado y el primer milagro\n07:31 El Sermón del Monte\n10:20 Milagros: la tempestad y los panes\n12:22 Yo soy el buen pastor\n13:46 La samaritana junto al pozo\n15:35 La entrada triunfal a Jerusalén\n17:22 La última cena\n19:34 Getsemaní y el arresto\n22:21 El juicio y la negación de Pedro\n26:11 La crucifixión\n28:43 La resurrección y la ascensión\n\nUna producción de Rubíel Valencia Heleria · Canal Jesús En Bloque\n #JesúsEnBloque #BibliaEnMinecraft #LaVidaDeJesús #HistoriasDeLaBiblia #ParaTodaLaFamilia",
+      "channelId": "UCaksvHvwooemdQP9oQtQYYQ",
+      "channelTitle": "Jesús En Bloque",
+      "thumbnail": "https://i.ytimg.com/vi/kwmWJTXUW8M/hqdefault.jpg",
+      "publishedAt": "2026-11-05T07:20:46Z",
+      "durationSeconds": 2005,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:51.706Z",
+      "lastSeenAt": "2026-11-06T04:56:51.706Z",
+      "lastVerifiedAt": "2026-11-06T04:56:51.706Z",
       "unavailableAt": null
     }
   ]

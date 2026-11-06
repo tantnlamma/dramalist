@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:57:13.892Z",
+  "generatedAt": "2026-11-06T04:56:55.593Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -573,7 +573,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     },
     {
@@ -725,7 +725,26 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:10.644Z",
       "lastSeenAt": "2026-11-04T04:42:10.644Z",
-      "lastVerifiedAt": "2026-11-04T04:42:10.644Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "gw0mHg67V7Y",
+      "url": "https://www.youtube.com/watch?v=gw0mHg67V7Y",
+      "title": "Astro Boy | Freddie Highmore | Filme Completo | Cinema Replay",
+      "description": "Descubra sua próxima sessão no Cinema Replay. Inscreva-se para acompanhar.\n👉 https://www.youtube.com/channel/UCT5r9KPKSl_pzeSxyp39Zjw?sub_confirmation=1\n\n━━━━━━━━━━━━━━━━━━\n🎬 Sinopse: Em uma futurista Metro City, um robô criado para substituir o filho de um cientista descobre que sua existência pode significar muito mais. Dotado de força extraordinária, visão de raio X, velocidade impressionante e capacidade de voar, Astro Boy parte em busca de um lugar no mundo. Pelo caminho, ele conhece figuras inesperadas e começa a experimentar emoções que não imaginava possuir. Mas, quando seus amigos e sua família ficam em perigo, o jovem robô precisa decidir que tipo de herói deseja ser.\n\n🎬 Nome do filme: Astro Boy\n🎞 Título original: Astro Boy\n🎭 Gênero: Ficção Científica | Família | Animação\n🌎 País: Estados Unidos\n📅 Ano de lançamento: 2009\n⏱ Duração: 1:33\n🔞 Classificação indicativa: L\n🎬 Direção: David Bowers\n⭐ Elenco: Freddie Highmore | Kristen Bell | Ryan Stiles | Donald Sutherland | David Alan Grier | Newell Alexander | Dee Bradley Baker | Sterling Beaumon | Matt Lucas | Charlize Theron | Eugene Levy | Bill Nighy | Nathan Lane\n\n━━━━━━━━━━━━━━━━━━\n\nQual história vai surpreender você hoje? Encontre sua próxima sessão no Cinema Replay.\n\nQual detalhe desta história chamou a sua atenção? Comente.\n\n#filmegratis #filmecompleto #filmeonline #cinema\n\nScripted content\n\nID: 423685",
+      "channelId": "UCT5r9KPKSl_pzeSxyp39Zjw",
+      "channelTitle": "Cinema Replay",
+      "thumbnail": "https://i.ytimg.com/vi/gw0mHg67V7Y/hqdefault.jpg",
+      "publishedAt": "2026-11-04T22:50:21Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:55.593Z",
+      "lastSeenAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
       "unavailableAt": null
     }
   ]

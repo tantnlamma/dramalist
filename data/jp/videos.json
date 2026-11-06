@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:57:01.487Z",
+  "generatedAt": "2026-11-06T04:56:41.392Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -293,7 +293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -332,7 +332,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -351,7 +351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-04T04:41:57.211Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -370,7 +370,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-04T04:41:57.211Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -757,7 +757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -967,11 +967,11 @@
       "matchedKeywords": [
         "AI 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-27T03:33:49.966Z",
       "lastSeenAt": "2026-10-27T03:33:49.966Z",
-      "lastVerifiedAt": "2026-10-29T04:12:56.778Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
+      "unavailableAt": "2026-11-06T04:56:41.392Z"
     },
     {
       "videoId": "PSZSO7FL8Bw",
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1201,11 +1201,11 @@
       "matchedKeywords": [
         "AI ドラマ 映画"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-04T04:41:57.211Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
+      "unavailableAt": "2026-11-06T04:56:41.392Z"
     },
     {
       "videoId": "vefbTsq7zac",
@@ -1224,7 +1224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1244,7 +1244,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1263,7 +1263,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     },
     {
@@ -1282,7 +1282,64 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:01.487Z",
       "lastSeenAt": "2026-11-05T04:57:01.487Z",
-      "lastVerifiedAt": "2026-11-05T04:57:01.487Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7Rg8GQD7Mlo",
+      "url": "https://www.youtube.com/watch?v=7Rg8GQD7Mlo",
+      "title": "FULL MOVIE.  THE MENTOR: I MARRIED MY MENTOR'S SON. CHRISTIAN ROMANCE AI  MOVIE.",
+      "description": "8@JOANGODLYLOVESTORIES \nWhen a wise Christian widow begins mentoring two ambitious professional women on faith, character, and godly relationships, one finds the courage to abandon a destructive romance and embrace God's transforming grace, while the other secretly pursues a married man and schemes to win the heart of a billionaire. But when jealousy, betrayal, and a shameful past threaten to destroy a blossoming love story, the women must confront a life-changing truth: God prepares a person before He prepares a marriage, and character determines whether we walk through the doors He opens or lose the blessings He has prepared.",
+      "channelId": "UCqVis0gaDkSE4YADKHDsueQ",
+      "channelTitle": "HIS EVERLASTING LOVE",
+      "thumbnail": "https://i.ytimg.com/vi/7Rg8GQD7Mlo/hqdefault.jpg",
+      "publishedAt": "2026-11-04T11:00:07Z",
+      "durationSeconds": 3847,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:41.392Z",
+      "lastSeenAt": "2026-11-06T04:56:41.392Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sheXDJTbVxg",
+      "url": "https://www.youtube.com/watch?v=sheXDJTbVxg",
+      "title": "ゼイカム到来 | Await Further Instructions（2018年）SF映画、未知の生命体、エイリアン、侵略、ホラー、洋画フル",
+      "description": "🌌 宇宙、AI、タイムトラベル、異星人。SF映画の名作・話題作を毎週フル配信！\nhttps://bit.ly/Utopja-JP\n🍿 クリスマスの朝、謎の黒い物質に家を封鎖された一家は、テレビから流れる不気味な命令に従ううちに、想像を絶する恐怖と狂気に飲み込まれていく。\n\nゼイカム 到来 (2018)\n原題: Await Further Instructions\n出演: Sam Gittins（サム・ギティンズ）、David Bradley（デヴィッド・ブラッドリー）、Abigail Cruttenden（アビゲイル・クラッテンデン）\n監督: Johnny Kevorkian（ジョニー・ケヴォーキアン）\n年齢制限: TV-MA\n\n概要: クリスマスを家族と過ごすため、恋人アンジを連れて久しぶりに実家へ帰省した青年ニック。しかし、家族との関係は冷え切っており、楽しいはずの再会は険悪な雰囲気に包まれる。翌朝、家の外が謎の黒い金属状の物質に覆われ、すべての出入り口が封鎖されていることが判明。電話も通じず、外部との連絡は完全に途絶えてしまう。そんな中、テレビ画面に突然「指示があるまで屋内で待機せよ」という謎のメッセージが現れる。政府からの緊急指示だと信じる家族だったが、次々と送られてくる命令は次第に異常さを増していく。疑心暗鬼に陥った一家は互いに対立し、やがて恐ろしい事態へと発展する。\n\n#UtopiaJP #SF映画 #宇宙映画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCLZEQXFWWA7ZHW8lc9jOgWA",
+      "channelTitle": "Utopja JP | 未知なるSF映画の世界へ",
+      "thumbnail": "https://i.ytimg.com/vi/sheXDJTbVxg/hqdefault.jpg",
+      "publishedAt": "2026-11-04T06:00:25Z",
+      "durationSeconds": 5443,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:41.392Z",
+      "lastSeenAt": "2026-11-06T04:56:41.392Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "imJs__X4y-s",
+      "url": "https://www.youtube.com/watch?v=imJs__X4y-s",
+      "title": "AI 드라마 | 태백수호군 | EP.01~ EP.04 통합본 - 귀들과의 전쟁",
+      "description": "『태백수호군』은 한국을 배경으로 한 AI 한국형 판타지 드라마입니다.\n\n인간을 위협하는 존재 '귀'로부터 세상을 지키기 위해 태백성의 수호군들이 움직입니다.\n\n태백산에 선택된 수호군들의 성장, 전투, 희생, 그리고 숨겨진 진실을 함께 만나보세요.\n\n새로운 한국 판타지 세계가 지금 시작됩니다.\n\n🎬 제작 : 태백 AI MOVIE\n\n#ai드라마 #드라마 #영화",
+      "channelId": "UCo012BKFvxz09Ie3sRsYO_g",
+      "channelTitle": "태백 AI MOVIE",
+      "thumbnail": "https://i.ytimg.com/vi/imJs__X4y-s/hqdefault.jpg",
+      "publishedAt": "2026-11-06T00:10:56Z",
+      "durationSeconds": 2292,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:41.392Z",
+      "lastSeenAt": "2026-11-06T04:56:41.392Z",
+      "lastVerifiedAt": "2026-11-06T04:56:41.392Z",
       "unavailableAt": null
     }
   ]

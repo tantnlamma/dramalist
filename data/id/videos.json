@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:57:28.303Z",
+  "generatedAt": "2026-11-06T04:57:09.559Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -607,7 +607,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:41.205Z",
       "lastSeenAt": "2026-10-17T02:51:41.205Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1367,7 +1367,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1554,11 +1554,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
+      "unavailableAt": "2026-11-06T04:57:09.559Z"
     },
     {
       "videoId": "nXk0wmwcY3Y",
@@ -1576,7 +1576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1614,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1652,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-04T04:42:27.806Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1785,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1804,7 +1804,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1823,7 +1823,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:27.806Z",
       "lastSeenAt": "2026-11-04T04:42:27.806Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1842,7 +1842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
-      "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     },
     {
@@ -1862,6 +1862,82 @@
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
       "lastVerifiedAt": "2026-11-05T04:57:28.303Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "A6S_GcWhWMA",
+      "url": "https://www.youtube.com/watch?v=A6S_GcWhWMA",
+      "title": "ISTRI DIHINA MERTUA TERNYATA CEO! | FULL MOVIE | DRAMA AI",
+      "description": "#dramaseries #dramarumahtangga #dramaai \n\nNadira dihina habis-habisan karena dianggap miskin dan mandul, padahal dialah penyelamat bisnis keluarga Arga! Tonton aksi balas dendam elegan Nadira saat identitas aslinya terbongkar di depan selingkuhan suaminya.\n\n#drama #dramaindonesia #fullepisode",
+      "channelId": "UCpKU4iEJYbM9oHfECeePpIw",
+      "channelTitle": "Sisi Lain Story",
+      "thumbnail": "https://i.ytimg.com/vi/A6S_GcWhWMA/hqdefault.jpg",
+      "publishedAt": "2026-11-04T12:00:08Z",
+      "durationSeconds": 1994,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:57:09.559Z",
+      "lastSeenAt": "2026-11-06T04:57:09.559Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9PLBGxDWbCo",
+      "url": "https://www.youtube.com/watch?v=9PLBGxDWbCo",
+      "title": "Dewa Salju | Film Drama AI Lengkap 2026 Sub Indo",
+      "description": "Dewa Salju Full Movie Drama 2026\n\nAlur Cerita nya : Di dunia yang membeku abadi, api dilarang. Aldric mengorbankan diri demi menyelamatkan putrinya, Lyra, dengan api kuno. Dewa Salju lalu mengirim naga untuk memburunya. Bertahun-tahun kemudian, Lyra dan Kael mencari kebenaran yang bisa menjadi harapan terakhir umat manusia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻",
+      "channelId": "UCn3Y6-FraNH66qb1SpdfbDA",
+      "channelTitle": "Pordin Official Youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9PLBGxDWbCo/hqdefault.jpg",
+      "publishedAt": "2026-11-04T08:10:27Z",
+      "durationSeconds": 2521,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:57:09.559Z",
+      "lastSeenAt": "2026-11-06T04:57:09.559Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5P_PJt6LM_I",
+      "url": "https://www.youtube.com/watch?v=5P_PJt6LM_I",
+      "title": "Forced Marriage Love Story ❤️ | Complete Hindi Drama | Yuvraj & Nikki Ki Kahani | Hindi Drama",
+      "description": "Yuvraj aur Nikki ki ek emotional forced marriage love story ❤️\n\nYuvraj ek successful businessman hai, jabki Nikki ek simple aur educated girl hai. Nikki ke parents ki death ke baad uski shaadi Yuvraj se ho jaati hai, kyunki Yuvraj ke papa ne uske papa se ek promise kiya tha. Lekin kya Yuvraj aur Nikki apne rishte ko accept kar payenge? 🤔\n\nDekhiye unki complete love story, emotional moments, unexpected twists aur relationship ka beautiful journey. ❤️\n\nAgar aapko Hindi drama, romantic love stories, forced marriage stories, emotional stories aur AI-generated drama videos pasand hain, to video ko Like 👍 karein aur channel ko Subscribe karein.\n\nKeywords:\nHindi drama, complete Hindi drama, Hindi love story, forced marriage love story, romantic Hindi story, emotional love story, businessman love story, arranged marriage story, Hindi romantic drama, AI drama, AI love story, Chinese drama in Hindi, Korean drama in Hindi, romance story, family drama, love story video\n\n#HindiDrama #LoveStory #ForcedMarriage #RomanticStory #aivideo",
+      "channelId": "UCu12vpVeFiZUQnTQHff_MnQ",
+      "channelTitle": "Divyaverse_studio",
+      "thumbnail": "https://i.ytimg.com/vi/5P_PJt6LM_I/hqdefault.jpg",
+      "publishedAt": "2026-10-24T04:49:12Z",
+      "durationSeconds": 2314,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:57:09.559Z",
+      "lastSeenAt": "2026-11-06T04:57:09.559Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cVn_jzCCAKg",
+      "url": "https://www.youtube.com/watch?v=cVn_jzCCAKg",
+      "title": "FULL MOVIE \"ZONA HITAM\"",
+      "description": "🙌Akun real SieAlpha\n✅ Subscribe biar gak ketinggalan episode \n🫡 Drama ff ai\nTT:siealphaa",
+      "channelId": "UC2AtMrTCv3rourtntIlrxsQ",
+      "channelTitle": "siealpha",
+      "thumbnail": "https://i.ytimg.com/vi/cVn_jzCCAKg/hqdefault.jpg",
+      "publishedAt": "2026-10-16T11:14:35Z",
+      "durationSeconds": 6051,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:57:09.559Z",
+      "lastSeenAt": "2026-11-06T04:57:09.559Z",
+      "lastVerifiedAt": "2026-11-06T04:57:09.559Z",
       "unavailableAt": null
     }
   ]

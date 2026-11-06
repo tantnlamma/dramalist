@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:56:46.414Z",
+  "generatedAt": "2026-11-06T04:56:24.918Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -749,7 +749,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -810,7 +810,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -830,7 +830,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -850,7 +850,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1021,7 +1021,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1041,7 +1041,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1060,7 +1060,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1194,7 +1194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1312,7 +1312,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1351,7 +1351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1790,7 +1790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1905,7 +1905,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -1943,7 +1943,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2077,7 +2077,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2191,7 +2191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2457,7 +2457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2476,7 +2476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2611,7 +2611,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2637,7 +2637,7 @@
       "videoId": "rnUN70QzMUA",
       "url": "https://www.youtube.com/watch?v=rnUN70QzMUA",
       "title": "Bijou & the AI Kids – The Full Movie | Volume 1: The Portal to Tomorrow | Animated Kids Adventure",
-      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n📚 Get the books on Amazon (Kindle & paperback):\n📖 Vol 1 – The Portal to Tomorrow: https://www.amazon.com/dp/B0HPC1HJZY\n📖 Vol 2 – The City That Forgot Tomorrow: https://www.amazon.com/dp/B0HPH4W6WD\n📖 Vol 3 – The Black Route: https://www.amazon.com/dp/B0HPGFSKJM\n📖 Vol 4 – The Silent Courier: https://www.amazon.com/dp/B0HPGNFVV3\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
+      "description": "Bijou & the AI Kids – The Full Movie (Volume 1: The Portal to Tomorrow)\n\nWhen a humming crate arrives in Riverdale, five friends – Ryan, Zara, Leo, Mia and Ethan – meet Bijou, a small AI courier with a damaged memory and a map that opens doorways between worlds. Their adventure takes them to Aeria, a city in the sky, down to the Glass Ocean and into the Arena of Spare Stars – and teaches them the rule behind every adventure: nobody faces the unknown alone.\n\nA 50-minute animated adventure for kids and families, based on the graphic novel \"Bijou & the AI Kids\".\n\n🔔 Subscribe so you never miss a new adventure: https://www.youtube.com/@BijouAndTheAIKids?sub_confirmation=1\n📚 Get the books on Amazon (Kindle & paperback):\n📖 Vol 1 – The Portal to Tomorrow: https://www.amazon.com/dp/B0HPC1HJZY\n📖 Vol 2 – The City That Forgot Tomorrow: https://www.amazon.com/dp/B0HPH4W6WD\n📖 Vol 3 – The Black Route: https://www.amazon.com/dp/B0HPNCN4RH\n📖 Vol 4 – The Silent Courier: https://www.amazon.com/dp/B0HPGNFVV3\n📖 Vol 5 – The Seven Lights Home: https://www.amazon.com/dp/B0HQ5FC8VL\n\nCHAPTERS\n0:00 Opening titles\n0:36 Chapter 1: The Crate That Hummed\n8:05 Chapter 2: Aeria, City in the Sky\n14:49 Chapter 3: Down to the Glass Ocean\n21:53 Chapter 4: The Arena of Spare Stars\n28:40 Chapter 5: The Missing Friend\n35:09 Chapter 6: The Way Home\n41:29 Chapter 7: One Minute Later\n48:58 End credits\n\n🌐 synthera.vip\n\n© & ™ Synthera Luminary Group. All rights reserved.",
       "channelId": "UCGr1lQdPbxuEaAHRDzHT8Fw",
       "channelTitle": "Bijou & the AI Kids",
       "thumbnail": "https://i.ytimg.com/vi/rnUN70QzMUA/hqdefault.jpg",
@@ -2668,7 +2668,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2726,7 +2726,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -2955,7 +2955,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3013,7 +3013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3089,7 +3089,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3108,7 +3108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3279,7 +3279,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3336,7 +3336,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3375,14 +3375,14 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
       "videoId": "RTYCOH19Vbc",
       "url": "https://www.youtube.com/watch?v=RTYCOH19Vbc",
       "title": "THE FIRST MEMORY (2026) | Ancient Egyptian Mystery Thriller | Full Movie",
-      "description": "THE FIRST MEMORY (2026) | FULL MOVIE | Ancient Egyptian Mystery & Conspiracy Thriller | MLV Productions\nTwo Lives. One Secret. One Forgotten Truth.\nWhat if your dreams were not dreams at all? What if they were memories of a life you had lived thousands of years ago?\nTHE FIRST MEMORY is a full-length, AI-produced cinematic mystery adventure from MLV Productions, bringing together the ancient civilisation of Kemet (Egypt) and modern-day London in a story of forgotten knowledge, hidden secrets, betrayal and the extraordinary power of human memory.\nTHE STORY\nIn modern-day London, Dr Gabriel Morgan, a respected British academic, begins experiencing vivid and disturbing dreams of ancient Kemet.\nAs the visions become increasingly powerful, Gabriel discovers a mysterious connection to Amun-Ra Seneb, an ancient Egyptian scholar who lived more than 3,000 years ago.\nWhen a missing professor, a secret society and a powerful financier searching for sacred artefacts become entangled in his investigation, Gabriel finds himself drawn into a dangerous conspiracy that stretches across centuries.\nAlongside his trusted research partner, Nia Bennett, and his son, Tariq Morgan, Gabriel must uncover the truth behind the mysterious sacred vessels before they fall into the wrong hands.\nBut not everyone is who they appear to be.\nAnd some secrets were buried for a reason.\nABOUT THE FILM\nThe First Memory is an independent AI-assisted feature film, created using emerging artificial intelligence filmmakin",
+      "description": "THE FIRST MEMORY (2026) | FULL MOVIE | Ancient Egyptian Mystery & Conspiracy Thriller | MLV Productions\n\nBuy me a cup of tea\nhttps://ko-fi.com/matthewlubienvidal\n\nTwo Lives. One Secret. One Forgotten Truth.\nWhat if your dreams were not dreams at all? What if they were memories of a life you had lived thousands of years ago?\nTHE FIRST MEMORY is a full-length, AI-produced cinematic mystery adventure from MLV Productions, bringing together the ancient civilisation of Kemet (Egypt) and modern-day London in a story of forgotten knowledge, hidden secrets, betrayal and the extraordinary power of human memory.\nTHE STORY\nIn modern-day London, Dr Gabriel Morgan, a respected British academic, begins experiencing vivid and disturbing dreams of ancient Kemet.\nAs the visions become increasingly powerful, Gabriel discovers a mysterious connection to Amun-Ra Seneb, an ancient Egyptian scholar who lived more than 3,000 years ago.\nWhen a missing professor, a secret society and a powerful financier searching for sacred artefacts become entangled in his investigation, Gabriel finds himself drawn into a dangerous conspiracy that stretches across centuries.\nAlongside his trusted research partner, Nia Bennett, and his son, Tariq Morgan, Gabriel must uncover the truth behind the mysterious sacred vessels before they fall into the wrong hands.\nBut not everyone is who they appear to be.\nAnd some secrets were buried for a reason.\nABOUT THE FILM\nThe First Memory is an independent AI-assisted feature film, created using emerging artificial intelligence filmmaking.",
       "channelId": "UCXWwyr-UhnNAzwBNk5JiLfg",
       "channelTitle": "Matthew L.V.",
       "thumbnail": "https://i.ytimg.com/vi/RTYCOH19Vbc/hqdefault.jpg",
@@ -3394,7 +3394,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3470,7 +3470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3508,7 +3508,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3527,7 +3527,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3663,7 +3663,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3682,7 +3682,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3720,7 +3720,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3796,7 +3796,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3834,7 +3834,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3853,7 +3853,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3872,7 +3872,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3891,7 +3891,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3910,7 +3910,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3929,7 +3929,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3967,7 +3967,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -3986,7 +3986,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -4005,7 +4005,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     },
     {
@@ -4024,7 +4024,45 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-05T04:56:46.414Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5epxri9fc1E",
+      "url": "https://www.youtube.com/watch?v=5epxri9fc1E",
+      "title": "Baahubali 2:🎥🎟️ The Conclusion (2017) Full Movie 4K | Prabhas | Epic Action Movie",
+      "description": "TITLE:\nBaahubali 2: The Conclusion (2017) Full Movie 4K | Prabhas | Epic Action Movie\n\nDESCRIPTION:\nWho killed Baahubali? 🔥 Discover the legendary conclusion of India's epic cinematic masterpiece!\n\nExperience breathtaking action, powerful emotions, stunning battles and an unforgettable story featuring Prabhas and Anushka Shetty.\n\nEnjoy the epic cinematic experience!\n\nLike 👍 Share ❤️ Subscribe 🔔\n\nHASHTAGS:\n#Baahubali2 #Prabhas #AnushkaShetty #Baahubali #TheConclusion #IndianCinema #SouthIndianMovies #ActionMovies #EpicMovie #4KMovies#AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/5epxri9fc1E/hqdefault.jpg",
+      "publishedAt": "2026-11-05T10:45:12Z",
+      "durationSeconds": 6176,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:24.918Z",
+      "lastSeenAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "64x5TdLN1Wc",
+      "url": "https://www.youtube.com/watch?v=64x5TdLN1Wc",
+      "title": "7 WORLDS  | Epic Sci-Fi Adventure Full Movie",
+      "description": "Seven worlds. Eight heroines. One extraordinary universe.\nAcross distant planets, futuristic civilizations, forgotten ruins, and dangerous unexplored territories, eight extraordinary women face mysteries that will change their lives forever.\n\nFrom the vast lunar colonies to the ancient secrets of alien worlds, every journey reveals a new civilization, a new danger, and a new story.\n\nMeet Mara Voss, Kassa, Angie, Aria, Reyka, Kaira, and Ayra as their adventures unfold across seven interconnected science fiction stories.\n\n00:00 INTRO\n00:11 KASSA\n26:43  KAIRA\n44:20 AYRA\n01:01:34 ANGIE\n01:13:56 REYKA\n01:22:28 MARA \n01:31:38 ARIA\n\n**7 WORLDS** brings together seven cinematic adventures in one epic, feature-length science fiction experience.\n\nExplore mysterious planets, discover ancient alien technology, encounter extraordinary creatures, and journey beyond the boundaries of the known universe.\n\n**Featuring:**\n- Epic space exploration and alien planets\n- Futuristic cities, spacecraft, and civilizations\n- Ancient mysteries and forgotten technologies\n- Adventure, action, and science fiction storytelling\n- Original characters and cinematic worldbuilding\n\n**Created with AI-assisted filmmaking, original storytelling, cinematic editing, and sound design.**\n\nIf you enjoy science fiction movies, space adventures, alien civilizations, and mysterious worlds, welcome to **7 WORLDS**.\n\nSubscribe for more original sci-fi films and cinematic adventures.\n\n#7Worlds #SciFiMovie #ScienceFiction #FullMovie #SpaceAdventure #AIFilm #SciFiAdventure",
+      "channelId": "UCHHsDi7UtNc5X90QPBpwP9Q",
+      "channelTitle": "NEXORA CINEMA",
+      "thumbnail": "https://i.ytimg.com/vi/64x5TdLN1Wc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T15:06:54Z",
+      "durationSeconds": 6472,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-06T04:56:24.918Z",
+      "lastSeenAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
       "unavailableAt": null
     }
   ]
