@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:56:55.593Z",
+  "generatedAt": "2026-11-07T04:29:13.077Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-10-28T03:50:28.665Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -573,7 +573,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:51.651Z",
       "lastSeenAt": "2026-10-30T04:12:51.651Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-05T04:57:13.892Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,65 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:55.593Z",
       "lastSeenAt": "2026-11-06T04:56:55.593Z",
-      "lastVerifiedAt": "2026-11-06T04:56:55.593Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Tkq-UOd2nHc",
+      "url": "https://www.youtube.com/watch?v=Tkq-UOd2nHc",
+      "title": "INTELIGÊNCIA ARTIFICIAL: ASCENSÃO DAS MÁQUINAS // 🎬⭐️Cinemateca",
+      "description": "🎬 Inteligência Artificial: Ascensão das Máquinas (A.I. Rising)\n\n🎬 Um relacionamento íntimo entre um humano e um androide testa os limites da natureza humana.\n\n⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️🎬⭐️\nBem-vindo ao CINEMATECA, o seu destino para filmes completos e gratuitos todas as semanas! 🎬✨ De clássicos inesquecíveis a lançamentos emocionantes, aqui você encontra uma seleção incrível de filmes de todos os gêneros — sempre na melhor qualidade e 100% grátis. Inscreva-se agora e nunca mais perca uma sessão de cinema em casa! 🍿📽️ Novos filmes toda semana, prontos para você assistir quando quiser.\n#fimesonline #filmesgrátis #filmecompleto #cinemateca\n\n\"2709\"",
+      "channelId": "UCIfUaVupIQuxwuNQMMh_GuA",
+      "channelTitle": "Cinemateca",
+      "thumbnail": "https://i.ytimg.com/vi/Tkq-UOd2nHc/hqdefault.jpg",
+      "publishedAt": "2026-11-06T20:00:08Z",
+      "durationSeconds": 4354,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:29:13.077Z",
+      "lastSeenAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mkDBw9-7aCw",
+      "url": "https://www.youtube.com/watch?v=mkDBw9-7aCw",
+      "title": "A Inteligência Artificial Se Tornou Uma Assassina | Filme de ficção científica | Filmes em Português",
+      "description": "🎬 A Inteligência Artificial Se Tornou Uma Assassina | Filme de ficção científica | Filmes em Português\n\n🎬 Após a trágica morte da esposa, um homem desesperado encontra um misterioso serviço online que promete trazê-la de volta à vida. Mas a tecnologia esconde um segredo assustador. Quando sua amada retorna completamente diferente, ele descobre que desafiar a morte pode transformar seu maior sonho em um pesadelo.\n__________________________________________________________________________________________\n✅ https://www.youtube.com/@Tela_Central?sub_confirmation=1\n\n🎬 De ação intensa a dramas que emocionam, cada filme vai fazer você se sentir dentro da história\n🌄 Viva cada cena com o olhar de uma águia, cheio de emoção e mistério\n🍿 Junte-se à nossa comunidade, comente e compartilhe seus momentos favoritos\n🎥 Não pisque… em Tela de Aventuras, cada segundo importa\n\n#filme #suspense #ficçãocientífica",
+      "channelId": "UCJMDSO4QDpObaHcvMUT-k3A",
+      "channelTitle": "Tela Central",
+      "thumbnail": "https://i.ytimg.com/vi/mkDBw9-7aCw/hqdefault.jpg",
+      "publishedAt": "2026-11-05T19:00:23Z",
+      "durationSeconds": 5371,
+      "matchedKeywords": [
+        "filme completo inteligência artificial",
+        "filme de ficção científica IA completo"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:29:13.077Z",
+      "lastSeenAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SUZHMzRmNvs",
+      "url": "https://www.youtube.com/watch?v=SUZHMzRmNvs",
+      "title": "Astro Boy (2009) 💥 Filme de Ação Completo 💥 Dublado | NetMovies Ação",
+      "description": "🔔 Inscreva-se já no NetMovies Ação! https://www.youtube.com/channel/UCSkBHTQr29FdMU8klx-yFCg?sub_confirmation=1\n\n💜 O Netmovies traz para você ótimos filmes online, completamente GRÁTIS! Os maiores lançamentos e sucessos dos últimos anos 💜\n\n💥São os melhores filmes de ação, quando e onde desejar!💥\n\n\n💥 𝙉𝙤𝙢𝙚 𝙙𝙤 𝙁𝙞𝙡𝙢𝙚: Astro Boy\n🌟 𝙀𝙡𝙚𝙣𝙘𝙤: Freddie Highmore | Kristen Bell | Ryan Stiles | Donald Sutherland | David Alan Grier | Newell Alexander | Dee Bradley Baker | Sterling Beaumon | Matt Lucas | Charlize Theron | Eugene Levy | Bill Nighy | Nathan Lane\n🎬 𝘿𝙞𝙧𝙚𝙘̧𝙖̃𝙤: David Bowers\n\n🧾 𝙎𝙞𝙣𝙤𝙥𝙨𝙚: Situado no futurista Metro City, Astro Boy é sobre um jovem robô com incríveis poderes criados por um cientista brilhante chamado Tenma. Alimentado pela energia positiva -  azul -, Astro Boy é dotado de super força, visão de raio X, velocidade inacreditável e capacidade de voar. Saindo em uma jornada em busca de aceitação, Astro Boy encontra muitos outros personagens diferentes ao longo do caminho. Através de suas aventuras, aprende as alegrias e emoções de ser humano e ganha a força para abraçar seu destino. Em última análise, sabendo que seus amigos e familiares estão em perigo, o Astro Boy reúne seus incríveis superpoderes e retorna a Metro City em um valente esforço para salvar tudo o que importa e entender o que é preciso para ser um herói.\n\n\n💜​ Baixe já o aplicativo da Netmovies que está disponível para iOS e Android em seu celular ou Smart TVs: www.netmovies.com.br\n\n📲 Uma plataforma exclusiva com mais de 3.000 filmes dublados e legendados com o máximo de qualidade e o melhor de tudo: É grátis!\nTá esperando o quê?\n\n🤳​ Estamos também no Facebook e Instagram!\n- Facebook: https://www.facebook.com/netmovies\n- Instagram: https://www.instagram.com/netmoviesbr?igsh=MXRja2d4NDlqNWhxYw==\n\n💬​​Comente usando '@NetMoviesAção’ no YouTube e nas redes sociais!\n\n#acao #filmedeacao #netmoviesacao #filmegratis #filmecompleto #filmecompletodublado #filmedublado #filmegratis #filmeonline #filmeemportuguês #filmecompletodubladoemportuguês #filme\n\n\nscripted content\n\nID: 423685",
+      "channelId": "UCSkBHTQr29FdMU8klx-yFCg",
+      "channelTitle": "NetMovies Ação",
+      "thumbnail": "https://i.ytimg.com/vi/SUZHMzRmNvs/hqdefault.jpg",
+      "publishedAt": "2026-11-05T21:00:12Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:29:13.077Z",
+      "lastSeenAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
       "unavailableAt": null
     }
   ]

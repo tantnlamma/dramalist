@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:56:24.918Z",
+  "generatedAt": "2026-11-07T04:28:47.821Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -31,11 +31,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "rWBu-TXOhqk",
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -202,11 +202,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-16T02:58:56.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "11HppbFq-Ko",
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -319,11 +319,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-15T10:28:56.017Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "xqV49Qophzk",
@@ -338,11 +338,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-10-17T02:51:02.451Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "J7oUFzZvwNI",
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -769,7 +769,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -791,7 +791,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -830,7 +830,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -888,7 +888,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -923,11 +923,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "xB5_vY45ME0",
@@ -942,11 +942,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "coqSZ2My1J8",
@@ -961,11 +961,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "yjAwdvV-htc",
@@ -980,11 +980,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-10-18T02:52:30.872Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "X3jg9JO1bwA",
@@ -1194,7 +1194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1312,7 +1312,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1351,7 +1351,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1409,7 +1409,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1447,7 +1447,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1558,11 +1558,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-21T03:09:26.474Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "i4jr0Cn3fgI",
@@ -1657,7 +1657,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-02T04:12:28.245Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1749,11 +1749,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "6ZtrNUurpTU",
@@ -1790,7 +1790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -1863,11 +1863,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "GqboJ3Idw_k",
@@ -1882,11 +1882,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "HMVRkGQJxOc",
@@ -1905,7 +1905,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2000,7 +2000,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-10-26T03:01:31.139Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2077,7 +2077,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2093,11 +2093,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-24T03:07:39.246Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "4jiPMJS2FoE",
@@ -2131,11 +2131,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-23T03:13:26.840Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "lI4ZGDoIXmw",
@@ -2169,17 +2169,17 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-10-22T03:07:53.300Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "cs5vCujpUfA",
       "url": "https://www.youtube.com/watch?v=cs5vCujpUfA",
       "title": "The Last Dance In Kippur (Full Movie) | فيلم حرب أكتوبر 1973 \" آخر رقصة في كيبور \" كامل",
-      "description": "آخر رقصة في كيبور | THE LAST DANCE IN KIPPUR\n\n\"قالوا إن عبور قناة السويس يحتاج إلى 48 ساعة... لكن المصريين كان لهم رأي آخر.\"\n\nفي السادس من أكتوبر عام 1973، لم تكن مصر تستعد لخوض حرب فحسب، بل كانت تستعد لتغيير التاريخ.\n\nفي الوقت الذي وثقت فيه القيادة الإسرائيلية بحساباتها العسكرية وتقديرات أجهزتها الاستخباراتية، كان الجيش المصري يستعد لتنفيذ واحدة من أعظم المفاجآت الاستراتيجية والعسكرية في التاريخ الحديث.\n\n\"آخر رقصة في كيبور\" فيلم سينمائي يعيد إحياء الساعات الحاسمة التي سبقت اندلاع حرب أكتوبر المجيدة، كاشفًا عن الصراع بين التخطيط العسكري المصري والتقديرات الإسرائيلية، وصولًا إلى اللحظة التي انهارت فيها حسابات العدو أمام عبقرية التخطيط المصري وشجاعة المقاتل المصري.\n\nمن قصر الرئاسة المصرية إلى منزل جولدا مائير، ومن غرف العمليات ومراكز الاستخبارات إلى ضفاف قناة السويس وحصون خط بارليف، يأخذنا الفيلم في رحلة سينمائية مستوحاة من أحداث تاريخية موثقة.\n\nتجربة سينمائية صُنعت باستخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد شخصيات تاريخية وأحداث عسكرية برؤية بصرية ودرامية مستوحاة من السينما العالمية.**\n\nهذا العمل إهداء إلى أبطال القوات المسلحة المصرية، وإلى كل من خطط وقاتل وضحّى من أجل استعادة الأرض والكرامة.\n\nلم تكن المعجزة في عبور القناة وحدها... بل في عبور حدود ما اعتقد العدو أنه مستحيل.\n\nتحيا مصر\n\n\"THE LAST DANCE IN KIPPUR | OCTOBER 1973\"\n\nBASED ON TRUE EVENTS.\n\nTHEY BELIEVED CROSSING THE SUEZ CANAL WOULD TAKE AT LEAST 48 HOURS.\n\nON OCTOBER 6, 1973, THE EGYPTIAN ARMED FORCES CHALLENGED THOSE EXPECTATIONS AND CHANGED THE COURSE OF HISTORY.\n\nTHE LAST DANCE IN KIPPUR IS A CINEMATIC RECREATION OF THE CRITICAL HOURS LEADING UP TO THE OCTOBER WAR, EXPLORING MILITARY STRATEGY, INTELLIGENCE, DECEPTION, AND THE EXTRAORDINARY COURAGE OF THE EGYPTIAN SOLDIER.\n\nA HISTORICAL WAR FILM BROUGHT TO LIFE THROUGH ARTIFICIAL INTELLIGENCE.\n\nإخلاء مسؤولية | DISCLAIMER\n\nالفيلم مستوحى من أحداث تاريخية حقيقية وموثقة. تم استخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد الشخصيات التاريخية والمواقع والأحداث. بعض الحوارات والمواقف والتفاصيل الدرامية أُعيد بناؤها لخدمة الرؤية السينمائية، ولا تُعد تسجيلات أرشيفية أصلية.\n\nهذا العمل لا يمثل أي مؤسسة أو جهة رسمية أو غير رسمية، ولا يعبر إلا عن الرؤية الفنية والإبداعية لصُنّاع العمل والقائمين عليه.\n\nTHIS FILM IS BASED ON DOCUMENTED HISTORICAL EVENTS. HISTORICAL FIGURES, LOCATIONS, AND SCENES HAVE BEEN DIGITALLY RECREATED USING ARTIFICIAL INTELLIGENCE. CERTAIN DIALOGUE, INTERACTIONS, AND DRAMATIC DETAILS HAVE BEEN RECONSTRUCTED OR FICTIONALIZED FOR CINEMATIC PURPOSES AND DO NOT REPRESENT ORIGINAL ARCHIVAL RECORDINGS.\n\nTHIS FILM IS AN INDEPENDENT CREATIVE PRODUCTION AND DOES NOT REPRESENT, SPEAK ON BEHALF OF, OR REFLECT THE OFFICIAL POSITION OF ANY GOVERNMENT, INSTITUTION, OR ORGANIZATION. ALL CREATIVE AND ARTISTIC INTERPRETATIONS ARE SOLELY THOSE OF THE FILMMAKERS AND ITS PRODUCTION TEAM.\n---\n\n#آخر_رقصة_في_كيبور #TheLastDanceInKippur #حرب_أكتوبر #نصر_أكتوبر #حرب_1973 #الجيش_المصري #OctoberWar #October1973 #YomKippurWar #AIFilm #KareemAbdelwahab",
+      "description": "آخر رقصة في كيبور | THE LAST DANCE IN KIPPUR\n\n\"قالوا إن عبور قناة السويس يحتاج إلى 48 ساعة... لكن المصريين كان لهم رأي آخر.\"\n\nفي السادس من أكتوبر عام 1973، لم تكن مصر تستعد لخوض حرب فحسب، بل كانت تستعد لتغيير التاريخ.\n\nفي الوقت الذي وثقت فيه القيادة الإسرائيلية بحساباتها العسكرية وتقديرات أجهزتها الاستخباراتية، كان الجيش المصري يستعد لتنفيذ واحدة من أعظم المفاجآت الاستراتيجية والعسكرية في التاريخ الحديث.\n\n\"آخر رقصة في كيبور\" فيلم سينمائي يعيد إحياء الساعات الحاسمة التي سبقت اندلاع حرب أكتوبر المجيدة، كاشفًا عن الصراع بين التخطيط العسكري المصري والتقديرات الإسرائيلية، وصولًا إلى اللحظة التي انهارت فيها حسابات العدو أمام عبقرية التخطيط المصري وشجاعة المقاتل المصري.\n\nمن قصر الرئاسة المصرية إلى منزل جولدا مائير، ومن غرف العمليات ومراكز الاستخبارات إلى ضفاف قناة السويس وحصون خط بارليف، يأخذنا الفيلم في رحلة سينمائية مستوحاة من أحداث تاريخية موثقة.\n\nتجربة سينمائية صُنعت باستخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد شخصيات تاريخية وأحداث عسكرية برؤية بصرية ودرامية مستوحاة من السينما العالمية.**\n\nهذا العمل إهداء إلى أبطال القوات المسلحة المصرية، وإلى كل من خطط وقاتل وضحّى من أجل استعادة الأرض والكرامة.\n\nلم تكن المعجزة في عبور القناة وحدها... بل في عبور حدود ما اعتقد العدو أنه مستحيل.\n\nتحيا مصر\n\n\"THE LAST DANCE IN KIPPUR | OCTOBER 1973\"\n\nBASED ON TRUE EVENTS.\n\nTHEY BELIEVED CROSSING THE SUEZ CANAL WOULD TAKE AT LEAST 48 HOURS.\n\nON OCTOBER 6, 1973, THE EGYPTIAN ARMED FORCES CHALLENGED THOSE EXPECTATIONS AND CHANGED THE COURSE OF HISTORY.\n\nTHE LAST DANCE IN KIPPUR IS A CINEMATIC RECREATION OF THE CRITICAL HOURS LEADING UP TO THE OCTOBER WAR, EXPLORING MILITARY STRATEGY, INTELLIGENCE, DECEPTION, AND THE EXTRAORDINARY COURAGE OF THE EGYPTIAN SOLDIER.\n\nA HISTORICAL WAR FILM BROUGHT TO LIFE THROUGH ARTIFICIAL INTELLIGENCE.\n\nإخلاء مسؤولية | DISCLAIMER\n\nالفيلم مستوحى من أحداث تاريخية حقيقية وموثقة. تم استخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد الشخصيات التاريخية والمواقع والأحداث. بعض الحوارات والمواقف والتفاصيل الدرامية أُعيد بناؤها لخدمة الرؤية السينمائية، ولا تُعد تسجيلات أرشيفية أصلية.\n\nهذا العمل لا يمثل أي مؤسسة أو جهة رسمية أو غير رسمية، ولا يعبر إلا عن الرؤية الفنية والإبداعية لصُنّاع العمل والقائمين عليه.\n\nTHIS FILM IS BASED ON DOCUMENTED HISTORICAL EVENTS. HISTORICAL FIGURES, LOCATIONS, AND SCENES HAVE BEEN DIGITALLY RECREATED USING ARTIFICIAL INTELLIGENCE. CERTAIN DIALOGUE, INTERACTIONS, AND DRAMATIC DETAILS HAVE BEEN RECONSTRUCTED OR FICTIONALIZED FOR CINEMATIC PURPOSES AND DO NOT REPRESENT ORIGINAL ARCHIVAL RECORDINGS.\n\nTHIS FILM IS AN INDEPENDENT CREATIVE PRODUCTION AND DOES NOT REPRESENT, SPEAK ON BEHALF OF, OR REFLECT THE OFFICIAL POSITION OF ANY GOVERNMENT, INSTITUTION, OR ORGANIZATION. ALL CREATIVE AND ARTISTIC INTERPRETATIONS ARE SOLELY THOSE OF THE FILMMAKERS AND ITS PRODUCTION TEAM.\n---\n\n#آخر_رقصة_في_كيبور #TheLastDanceInKippur #حرب_أكتوبر #نصر_أكتوبر #حرب_1973 #الجيش_المصري #OctoberWar #October1973 #YomKippurWar #KareemAbdelwahab",
       "channelId": "UC5OS6rntNeaJsf_S8bWFnBw",
       "channelTitle": "O2music",
       "thumbnail": "https://i.ytimg.com/vi/cs5vCujpUfA/hqdefault.jpg",
@@ -2191,7 +2191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2226,11 +2226,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-10-25T03:02:28.702Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "Fa1IQ4fHGEM",
@@ -2397,11 +2397,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-10-27T03:33:36.755Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "WQTiCdzJkos",
@@ -2457,7 +2457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2476,7 +2476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2511,11 +2511,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "7-rWFqxL7dw",
@@ -2569,11 +2569,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "nnHGMCy8nH8",
@@ -2611,7 +2611,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2646,11 +2646,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "SpsSgfbHZLw",
@@ -2726,7 +2726,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -2819,11 +2819,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "4VtKXzZzTWs",
@@ -2876,11 +2876,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "SDGsNLAaXbo",
@@ -2914,11 +2914,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "_pra6q7pvSY",
@@ -2955,7 +2955,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3013,7 +3013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3048,11 +3048,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-10-31T03:54:24.298Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "QsL-hfHimtY",
@@ -3089,7 +3089,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3108,7 +3108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3124,11 +3124,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-02T04:12:28.245Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "PVnBkRcbUEY",
@@ -3260,7 +3260,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-01T04:08:30.891Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3336,7 +3336,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3352,11 +3352,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "LxlXD2Y-FVI",
@@ -3394,7 +3394,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3598,12 +3598,13 @@
       "publishedAt": "2026-11-01T04:39:25Z",
       "durationSeconds": 3561,
       "matchedKeywords": [
+        "AI future movie full film",
         "artificial intelligence full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-04T04:41:41.449Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3663,7 +3664,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3682,7 +3683,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3720,7 +3721,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3834,7 +3835,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3850,11 +3851,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": "2026-11-07T04:28:47.821Z"
     },
     {
       "videoId": "aOYnc3Q0sv4",
@@ -3872,7 +3873,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3967,7 +3968,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -3986,7 +3987,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -4005,7 +4006,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -4043,7 +4044,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     },
     {
@@ -4062,7 +4063,102 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KrC5RpxI-vs",
+      "url": "https://www.youtube.com/watch?v=KrC5RpxI-vs",
+      "title": "Mega Twister (2024) [Action] [Sci-Fi] | Artificial Intelligence Weather Catastrophe | Full Movie",
+      "description": "Subscribe and never miss a movie: https://www.youtube.com/channel/UCfjp6_4aAvhDGzvSkkAo0Jg?sub_confirmation=1 | When rogue tech mogul Marcus Boyd unleashes experimental, AI-controlled super-tornados across the United Kingdom, destructive funnel clouds rip through towns and countryside, leaving sheer devastation in their wake. Determined to avert a nationwide apocalypse, experienced storm chaser Brendan and his meteorologist wife Maria set out on a high-stakes mission into the tempest. Dragging along Brendan’s skeptical younger brother Cody, the trio races against the clock to decipher the machine-driven weather pattern. Meanwhile, a ruthless squad of mercenaries attempts to hijack the valuable core data, getting caught directly in the vortex of a self-evolving weather disaster where human survival hanging by a thread.\n\nCast & Crew\nDirector: Ben J. Williams\nWriter: Harry Boxley\nProducer: Ben J. Williams\nCast: Leona Clarke, Luke Hunter, Ciaron Davies, Jamie Langlands\n\nHighlights\n• Sci-Fi Meets Disaster Thrills: A wild, high-concept disaster movie merging AI technology with runaway weather mayhem.\n• From Jagged Edge Productions: Created by the prolific British genre powerhouse behind high-energy B-movie spectacles.\n• Non-Stop High-Octane Destruction: Packed with frantic storm-chasing sequences, armed clashes, and escalating atmospheric chaos across the UK.\n\nCommunity Question\nDisaster movies featuring rogue technology and catastrophic weather events make for wild, adrenaline-fueled entertainment! What is your favorite extreme weather or disaster movie of all time? Let us know in the comments below!\n\n© ITN Distribution / UCM.ONE\n\n#twister #action #adventure #disaster #scifi #fullmovie",
+      "channelId": "UCfjp6_4aAvhDGzvSkkAo0Jg",
+      "channelTitle": "CiNENET - Full movies in English",
+      "thumbnail": "https://i.ytimg.com/vi/KrC5RpxI-vs/hqdefault.jpg",
+      "publishedAt": "2026-11-06T19:00:11Z",
+      "durationSeconds": 4543,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:28:47.821Z",
+      "lastSeenAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uN7mwX9bWAo",
+      "url": "https://www.youtube.com/watch?v=uN7mwX9bWAo",
+      "title": "Drishyam 2 (2022) Full Movie 4K🎟️ | Ajay Devgn🎥 | Suspense Thriller Movie",
+      "description": "TITLE:\nDrishyam 2 (2022) Full Movie 4K | Ajay Devgn | Suspense Thriller Movie\n\nDESCRIPTION:\nThe story is not over yet! 🔥 Experience the ultimate suspense, mystery and mind-blowing twists in Drishyam 2.\n\nAjay Devgn returns with an incredible performance in this thrilling Bollywood mystery drama.\n\nWatch till the end for shocking twists!\n\nLike 👍 Share ❤️ Subscribe 🔔\n\nHASHTAGS:\n#Drishyam2 #AjayDevgn #Tabu #AkshayeKhanna #Drishyam #SuspenseThriller #MysteryMovie #BollywoodThriller #4KMovies #HindiMovies#AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/uN7mwX9bWAo/hqdefault.jpg",
+      "publishedAt": "2026-11-06T10:45:10Z",
+      "durationSeconds": 6755,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:28:47.821Z",
+      "lastSeenAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3rjSvmunPVs",
+      "url": "https://www.youtube.com/watch?v=3rjSvmunPVs",
+      "title": "Dream Girl Full Movie 😂🔥 | आयुष्मान खुराना की जबरदस्त कॉमेडी | Bollywood Comedy Movie",
+      "description": "😂 Welcome to the world of laughter with DREAM GIRL!\n\nदेखिए Dream Girl की मजेदार कॉमेडी, शानदार एक्टिंग और जबरदस्त एंटरटेनमेंट।\n\nअगर आपको Bollywood Comedy Movies, Funny Scenes और Comedy Videos पसंद हैं, तो वीडियो को LIKE 👍 करें, SHARE करें और चैनल को SUBSCRIBE 🔔 जरूर करें।\n\nआपका पसंदीदा कॉमेडी सीन कौन-सा है? Comment में बताएं!\n\n#DreamGirl #AyushmannKhurrana #BollywoodComedy#DreamGirl #DreamGirlMovie #AyushmannKhurrana #BollywoodMovie #BollywoodComedy #ComedyMovie #HindiComedy #FunnyMovie #ComedyScenes #HindiMovies #IndianCinema #MovieClips #ViralVideo #TrendingVideo #YouTubeIndia #Entertainment\nDream Girl movie, Dream Girl comedy, Ayushmann Khurrana movie, Dream Girl Hindi movie, Bollywood comedy movie, Hindi comedy scenes, Dream Girl funny scenes, Bollywood entertainment, Indian comedy film, Dream Girl 4K#DreamGirl #DreamGirlMovie #AyushmannKhurrana #BollywoodMovie #BollywoodComedy #ComedyMovie #HindiComedy #FunnyMovie #ComedyScenes #HindiMovies #IndianCinema #MovieClips #ViralVideo #TrendingVideo #YouTubeIndia #Entertainment#AIGenerated #AIFilm #AIStory #CinematicMovie #ArtificialIntelligence #Movie\nAI #AIMovie #AIVideo #ArtificialIntelligence #AIGenerated #AIFilm #AICinematic #AIStory #AIVFX #AIContent #HindiMovie #HindiDubbedMovie #FullMovie #NewMovie #ActionMovie #DramaMovie #Entertainment #Movie #Cinema #YouTubeMovie #TrendingMovie #ViralVideo #HDMovie #4KMovie #AIShortFilm #4k",
+      "channelId": "UCw872fOunW4-WvUsMYUMRzg",
+      "channelTitle": "Com. Movies",
+      "thumbnail": "https://i.ytimg.com/vi/3rjSvmunPVs/hqdefault.jpg",
+      "publishedAt": "2026-11-06T10:45:00Z",
+      "durationSeconds": 6355,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:28:47.821Z",
+      "lastSeenAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "65iYeMug8D4",
+      "url": "https://www.youtube.com/watch?v=65iYeMug8D4",
+      "title": "JACK N JILL (2022) New Released Full South Hindi Dubbed Movie | Manju Warrier, Kalidas J, Soubin S",
+      "description": "Jack N' Jill (pronounced as Jack and Jill) is a 2022 Indian Malayalam-language science fiction comedy film directed by Santosh Sivan. It stars Manju Warrier, Kalidas Jayaram, Soubin Shahir, Shaylee Krishen, and Esther Anil.\n\nThe film marks cinematographer Santosh Sivan's directorial comeback in Malayalam cinema after nearly seven years.\n\nJACK N JILL (2022) New Released Full South Hindi Dubbed Movie | Manju Warrier, Kalidas J, Soubin S\n\nCredits: \n\nDirected by Santosh Sivan \nWritten by Santosh Sivan \nProduced by Gokulam Gopalan, Santosh Sivan, M. Prashanth Das \nStarring Manju Warrier, Kalidas Jayaram, Shaylee Krishen, Soubin Shahir, Aju Varghese, Yogi Babu \nCinematography Santosh Sivan \nEdited by Renjith Touchriver \nMusic by Jakes Bejoy, Gopi Sundar, Ram Surendar \n\nSynopsis Kesh a gifted scientist in the field of AI develops a program called Jack and Jill that can sharpen the physique and mental ability of a person in order to fulfill his father's wish For more such movies\n\n#JackNJill #ManjuWarrier #KalidasJayaram #SoubinShahir #SouthMovie #HindiDubbedMovies",
+      "channelId": "UCKgsVVhr9Fnb1ku-PjRWV9A",
+      "channelTitle": "South Premiere",
+      "thumbnail": "https://i.ytimg.com/vi/65iYeMug8D4/hqdefault.jpg",
+      "publishedAt": "2026-11-06T07:36:43Z",
+      "durationSeconds": 6726,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:28:47.821Z",
+      "lastSeenAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "eCyyng96seo",
+      "url": "https://www.youtube.com/watch?v=eCyyng96seo",
+      "title": "The Phoenix Girl | Full Fantasy Movie | AI Animated Film 2026",
+      "description": "DESCRIPTION:\nIn the desert kingdom of Solmere, a girl named Kira is born with golden phoenix-fire feathers. Feared by her village, hunted by a cruel king, she is sentenced to burn at dawn - but fire cannot kill a phoenix.\n\nFrom banishment to a golden cage, from ashes to wings of flame, from vengeance to mercy - this is the complete 8-part saga in one full movie.\n\nCHAPTERS:\n0:00 Part 1: The Birth of Fire\n4:39 Part 2: The Outcast\n9:18 Part 3: First Flames\n13:57 Part 4: The Sun-King's Eye\n18:36 Part 5: The Cage of Gold\n23:15 Part 6: The Burning\n27:54 Part 7: Rebirth\n32:33 Part 8: The Dawn Queen (Finale)\n\nWas the village wrong to fear her? Tell me in the comments!\nSubscribe to Cine AI Stories for a new AI movie every week.\n\nAI Disclosure: This film was created with the help of artificial intelligence (AI-generated visuals and synthetic voices). All characters and events are fictional. An original story.\n\nHASHTAGS:\n#PhoenixGirl #FullMovie #AIFantasy #FantasyFilm #AIMovie\n\nTAGS \nthe phoenix girl full movie, phoenix girl full film, ai fantasy movie, full animated movie, fire girl movie, phoenix rebirth film, fantasy film 2026, ai animation english, emotional fantasy story, desert kingdom movie, viral ai movie, cine ai stories, animated full film\n\nKEYWORDS:\nthe phoenix girl full movie, ai phoenix full film, fantasy movie english 2026",
+      "channelId": "UCAWUIG0gf6rNbTrgMEKHpZA",
+      "channelTitle": "CINE TRUE STORIES",
+      "thumbnail": "https://i.ytimg.com/vi/eCyyng96seo/hqdefault.jpg",
+      "publishedAt": "2026-10-07T16:05:35Z",
+      "durationSeconds": 2233,
+      "matchedKeywords": [
+        "AI future movie full film"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-07T04:28:47.821Z",
+      "lastSeenAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
       "unavailableAt": null
     }
   ]
