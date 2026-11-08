@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:29:09.514Z",
+  "generatedAt": "2026-11-08T04:14:49.586Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -914,7 +914,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:06.322Z",
       "lastSeenAt": "2026-10-29T04:13:06.322Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1187,7 +1187,7 @@
     {
       "videoId": "kwmWJTXUW8M",
       "url": "https://www.youtube.com/watch?v=kwmWJTXUW8M",
-      "title": "LA VIDA DE JESÚS — La película completa | Minecraft (Animada con IA) ",
+      "title": "LA VIDA DE JESÚS — La película completa | Minecraft (Animada con IA) La Biblia en Minecraft ",
       "description": "La primera película de la Vida de Jesús en el mundo de bloques, en español.\n\nPelícula animada con inteligencia artificial en el mundo de bloques, al estilo de Minecraft. Reparto y escenarios propios. Diálogos del Evangelio palabra por palabra (Reina Valera 1960). Para toda la familia.\n\nÍNDICE DE CAPÍTULOS\n00:00 La anunciación y el nacimiento\n02:04 El niño en el Templo\n03:28 El bautismo\n04:26 La tentación\n05:42 El llamado y el primer milagro\n07:31 El Sermón del Monte\n10:20 Milagros: la tempestad y los panes\n12:22 Yo soy el buen pastor\n13:46 La samaritana junto al pozo\n15:35 La entrada triunfal a Jerusalén\n17:22 La última cena\n19:34 Getsemaní y el arresto\n22:21 El juicio y la negación de Pedro\n26:11 La crucifixión\n28:43 La resurrección y la ascensión\n\nUna producción de Rubíel Valencia Heleria · Canal Jesús En Bloque\n #JesúsEnBloque #BibliaEnMinecraft #LaVidaDeJesús #HistoriasDeLaBiblia #ParaTodaLaFamilia",
       "channelId": "UCaksvHvwooemdQP9oQtQYYQ",
       "channelTitle": "Jesús En Bloque",
@@ -1200,7 +1200,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:51.706Z",
       "lastSeenAt": "2026-11-06T04:56:51.706Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1219,7 +1219,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     },
     {
@@ -1238,7 +1238,45 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-07T04:29:09.514Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sY_xRr6aTtE",
+      "url": "https://www.youtube.com/watch?v=sY_xRr6aTtE",
+      "title": "Life Like - Free Full Movie 4K | AI, Desire & Dark Secrets",
+      "description": "🎬 How far can the line between human and machine be blurred? 🤖✨ Watch \"Life Like\", a gripping and provocative sci-fi thriller. If you love mind-bending stories about Artificial Intelligence and human desires, drop a LIKE, SUBSCRIBE to the channel, and hit the bell icon (🔔) so you never miss our new free full HD movies!\n\nA young, idealistic, and attractive couple relocates to the suburbs and decides to purchase a stunningly life-like android to help them around their new home. At first, the robot seems like the perfect servant, effortlessly managing their daily tasks. However, as the three of them spend more time together, boundaries begin to blur. The couple's deepest desires and hidden insecurities are brought to the surface, leading to a complex web of attraction, jealousy, and manipulation. Their perception of humanity—and of each other—will be altered forever.\n\n🍿 Grab your popcorn and enjoy the movie!\n\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nMain Cast: Drew Van Acker, Addison Timlin, Justine J. Hall\nGenre: Sci-Fi / Psychological Thriller / Drama\n\nTimestamps\n00:00 - Introduction: The perfect young couple\n12:30 - The purchase: Meeting the life-like android\n28:15 - A new dynamic: The robot in the house\n45:40 - Blurring boundaries: Desires and dangerous attractions\n01:05:10 - Jealousy, tension, and the loss of control\n01:22:30 - The shocking truth: The psychological climax\n01:34:15 - A changed reality and End Credits\n\n#LifeLike #FullMovie #SciFi #ArtificialIntelligence #SciFiThriller #FreeMovies #AITheriller mb",
+      "channelId": "UCF6wI2QbjC-mygPH2hRS-2Q",
+      "channelTitle": "Best English Movies",
+      "thumbnail": "https://i.ytimg.com/vi/sY_xRr6aTtE/hqdefault.jpg",
+      "publishedAt": "2026-11-08T00:00:27Z",
+      "durationSeconds": 5080,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:49.586Z",
+      "lastSeenAt": "2026-11-08T04:14:49.586Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DgD_cPbYsD8",
+      "url": "https://www.youtube.com/watch?v=DgD_cPbYsD8",
+      "title": "EL CONDE DE MONTECRISTO: El Padre, el Conde y el Banquero | Película Completa | 6/12",
+      "description": "🎬 Una producción de The Chronicles Of Legends\n⚔️ Grandes historias clásicas, mitos y leyendas narradas como una película, capítulo por capítulo.\n\nAviso importante: nuestros videos son adaptaciones narradas, con fines de entretenimiento y cultura. Las historias se basan en obras clásicas y relatos históricos o mitológicos, y pueden condensar, ordenar o reinterpretar episodios para la narración. No promovemos ni glorificamos la violencia, y no ofrecemos consejos de ningún tipo. Las imágenes son ilustraciones, no registros reales de personas, lugares ni hechos.\n\n📜 Aviso legal: las imágenes y la narración de este video son creaciones propias, producidas con ayuda de inteligencia artificial. Los nombres, fechas y hechos se basan en las obras y fuentes en que se inspira cada historia.\n\n📚 Obra en que se basa este video: (pegar aquí el título y el autor)\n\n🚫 Cualquier reclamo de derechos de autor injustificado o uso abusivo de este video será impugnado por las vías que YouTube prevé y, si es necesario, judicialmente.\n\n#TheChroniclesOfLegends #HistoriasClásicas #Mitología #Leyendas #Narración",
+      "channelId": "UCxyvzoPJc1bFO51Gjh8FHUA",
+      "channelTitle": "The Chronicles Of Legends ES",
+      "thumbnail": "https://i.ytimg.com/vi/DgD_cPbYsD8/hqdefault.jpg",
+      "publishedAt": "2026-11-07T23:09:19Z",
+      "durationSeconds": 3106,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:49.586Z",
+      "lastSeenAt": "2026-11-08T04:14:49.586Z",
+      "lastVerifiedAt": "2026-11-08T04:14:49.586Z",
       "unavailableAt": null
     }
   ]

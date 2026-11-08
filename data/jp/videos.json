@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:29:01.561Z",
+  "generatedAt": "2026-11-08T04:14:39.507Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -293,7 +293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -332,7 +332,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -757,7 +757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:06.789Z",
       "lastSeenAt": "2026-10-22T03:08:06.789Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1224,7 +1224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1264,7 +1264,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1283,7 +1283,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:01.487Z",
       "lastSeenAt": "2026-11-05T04:57:01.487Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1302,7 +1302,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1321,7 +1321,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     },
     {
@@ -1341,6 +1341,83 @@
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
       "lastVerifiedAt": "2026-11-07T04:29:01.561Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pEtm6s5jv0s",
+      "url": "https://www.youtube.com/watch?v=pEtm6s5jv0s",
+      "title": "アクセル | A-X-L (2018) 吹替え, SF映画, AIロボット, 人工知能, ロボット映画, 最新技術, 洋画フル",
+      "description": "🚀 未知なるSF世界へ。https://bit.ly/Utopja-JP\n🌌 軍が極秘開発した最先端AIロボット犬と青年が運命的に出会い、強い絆で結ばれた二人が軍事組織の追跡に立ち向かうSFアクション。\n\nアクセル (2018)\n原題: A-X-L\n出演: Alex Neustaedter（アレックス・ニューステッター）、Becky G（ベッキー・G）、Alex MacNicoll（アレックス・マクニコル）\n監督: Oliver Daly（オリヴァー・デイリー）\n年齢制限: PG\n\n概要: アメリカ軍が極秘開発した最新鋭の軍事用ロボット犬「A-X-L」。高度な人工知能と驚異的な運動能力を備え、未来の兵士を支援するために生み出された最先端兵器だった。しかし、実験中の事故によって研究施設から脱走し、砂漠で孤独な青年マイルズと出会う。最初は互いに警戒する二人だったが、マイルズが傷ついたロボット犬を修理したことで、次第に深い信頼関係が生まれていく。ところが、軍事機密であるA-X-Lを取り戻そうとする開発者たちが追跡を開始。マイルズは仲間のサラと協力し、大切な相棒を守るために立ち上がる。人間と人工知能の友情を描くSFアクション。\n\n#UtopiaJP #SF映画 #宇宙映画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCLZEQXFWWA7ZHW8lc9jOgWA",
+      "channelTitle": "Utopja JP | 未知なるSF映画の世界へ",
+      "thumbnail": "https://i.ytimg.com/vi/pEtm6s5jv0s/hqdefault.jpg",
+      "publishedAt": "2026-11-07T06:00:05Z",
+      "durationSeconds": 5918,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:39.507Z",
+      "lastSeenAt": "2026-11-08T04:14:39.507Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Np782rZMdNE",
+      "url": "https://www.youtube.com/watch?v=Np782rZMdNE",
+      "title": "Game of Thrones Season 9 Episode 1 (2026) | AI Reimagined Full Fantasy Movie | Winter Returns",
+      "description": "WINTER RETURNS! Experience Game of Thrones Season 9 Episode 1 (2026) like never before in this AI-generated cinematic fantasy movie, imagining a new chapter in the legendary world of Westeros, inspired by George R.R. Martin's A Song of Ice and Fire.\n\nThe battle for the Iron Throne may be over, but the story of Westeros is far from finished. Beyond the Wall, ancient mysteries remain. Across the Seven Kingdoms, the shadows of the past threaten an uncertain future.\n\nGAME OF THRONES SEASON 9 EPISODE 1: WINTER RETURNS\n\nWhat if Game of Thrones continued after Season 8?\n\nA new chapter begins in this unofficial AI-reimagined continuation of the epic fantasy saga.\n\nThe fate of Westeros remains uncertain. The legacy of House Stark, the mysteries of the Night's Watch, and the ancient powers of the North continue to shape a world filled with secrets, danger, and unexpected possibilities.\n\nFrom the frozen wilderness beyond the Wall to the mighty castles of the Seven Kingdoms, experience the atmosphere of a legendary medieval fantasy world brought to life through AI-generated cinematic storytelling.\n\nOld legends never truly die. Every ending creates the possibility of a new beginning.\n\nAnd in Westeros, winter is never truly over.\n\nWHAT TO EXPECT\n\n⚔️ Photorealistic AI-generated cinematic scenes\n\n🏰 Epic medieval fantasy landscapes and castles\n\n🐉 The legendary atmosphere of Game of Thrones\n\n❄️ The mysteries of Westeros and the frozen North\n\n🔥 Cinematic storytelling, suspense, and fantasy adventure\n\n🎬 A fan-made reimagining of Game of Thrones Season 9\n\nTHE STORY CONTINUES\n\nGame of Thrones Season 9 Episode 1 marks the beginning of an imagined new journey through Westeros.\n\nIf you love Game of Thrones, House of the Dragon, The Lord of the Rings, medieval fantasy movies, and AI-generated cinema, this cinematic fan film is for you.\n\n👍 LIKE if you enjoyed the movie.\n\n💬 COMMENT what you would love to see in Game of Thrones Season 9.\n\n🔔 SUBSCRIBE for Game of Thrones Season 9 Episode 2 and more AI-generated cinematic fantasy movies.\n\nDISCLAIMER\n\nThis is an unofficial, fan-made, AI-generated cinematic reimagining of Game of Thrones Season 9. It is not an official HBO production or an officially released ninth season. This project is not affiliated with, sponsored by, or endorsed by HBO, Warner Bros. Discovery, or George R.R. Martin. All rights to the original Game of Thrones characters, names, and underlying story belong to their respective rights holders.\n\n#GameOfThrones #GameOfThronesSeason9 #GameOfThronesEpisode1 #AIMovie #FantasyMovie",
+      "channelId": "UC0tZAMi1DeISKUn6TYNMoHw",
+      "channelTitle": "Drilt",
+      "thumbnail": "https://i.ytimg.com/vi/Np782rZMdNE/hqdefault.jpg",
+      "publishedAt": "2026-11-02T01:48:33Z",
+      "durationSeconds": 3582,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:39.507Z",
+      "lastSeenAt": "2026-11-08T04:14:39.507Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zoqley8t3t0",
+      "url": "https://www.youtube.com/watch?v=zoqley8t3t0",
+      "title": "【吹替版】ステイ | Stay (心理サスペンス, 謎説き, ミステリー, スリラー, 無料フル)",
+      "description": "🐲 巨大モンスターが大暴れチャンネル登録して毎週チェック‼️ https://bit.ly/MonsterfilmJP-SUB\n🌟 自殺を予告した青年を救おうとする精神科医――調査を進めるほど現実と幻想の境界が崩れ、想像を超える真実へと引きずり込まれていく心理サスペンス。\n\nステイ (2005)\n原題: Stay\n出演: Ewan McGregor（ユアン・マクレガー） / Ryan Gosling（ライアン・ゴズリング） / Naomi Watts（ナオミ・ワッツ）\n監督: Marc Forster（マーク・フォースター）\n年齢制限 : 0 \n\n概要: ニューヨークで働く精神科医サムは、ある日、21歳の誕生日に自殺すると宣言する青年ヘンリーの診察を引き受ける。彼を救おうとするサムだったが、ヘンリーの過去を調べるうちに、不可解な出来事が次々と起こり始める。死んだはずの人物が現れ、時間や空間の感覚が狂い、現実と幻想の境界が曖昧になっていく。恋人ライラとの関係にも影響が及ぶ中、サムは青年の心に隠された秘密を追い続ける。果たして目の前で起きている出来事は現実なのか、それとも誰かが見ている幻なのか。予測不能な展開が待ち受ける心理ミステリー。\n\n#モンスターフィルム #アクション映画 #ホラー映画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC4Tg69NfOtVLz2R8JxyY-zw",
+      "channelTitle": "CREATURE - モンスターフィルム",
+      "thumbnail": "https://i.ytimg.com/vi/zoqley8t3t0/hqdefault.jpg",
+      "publishedAt": "2026-11-01T01:45:32Z",
+      "durationSeconds": 5936,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:39.507Z",
+      "lastSeenAt": "2026-11-08T04:14:39.507Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8GVz7BNysVo",
+      "url": "https://www.youtube.com/watch?v=8GVz7BNysVo",
+      "title": "AI映画は人の心を動かす？作品を見て考えた「伝えたいこと」(ep.118)",
+      "description": "【トーク内容】\nAI映画やAI音楽を見て、聴いて、私たちの心は動くのでしょうか。短編映画、アニメ、小説、音楽の感想から、作品の面白さと、作り手が伝えたいことを話しました。\n映像の完成度だけでなく、見た目と中身、作り手の顔や生き方、作品に込めるメッセージへと話が広がります。\n※紹介作品の内容に触れます。ネタバレを避けたい方は、先に関連リンクの作品をご覧ください。\n\n\n【目次】\n00:00:00 オープニング\n00:00:45 AIとエンタメ作品\n00:01:10 エンタメを見ないしぶちょー\n00:05:49 AI作品が嫌われる理由\n00:13:11 AI映画祭のグランプリ作品\n00:18:51 見た目か中身か\n00:35:30 日本のAIアニメ作品\n00:44:54 AI小説と星新一賞\n00:51:56 AIバンドの正体\n01:02:11 顔を出す意味\n01:06:37 この番組のメッセージ\n01:13:54 全編AIの長編映画\n01:16:41 エンディング\n\n\n【今回の放送回に関連するリンク】\n▼短編映画『A Face Only A Mother Could Love』（Runway AI Festival 2026 グランプリ）\nhttps://www.youtube.com/watch?v=wytfCS-N8Sk\n▼短編アニメ『This is Me』（WORLD AI FILM FESTIVAL 2026 in KYOTO グランプリ・ベストAIアニメ賞）\nhttps://www.youtube.com/watch?v=zunXh_L_9Zw\n▼小説『アルゴリズムの檻』（第12回星新一賞 最終候補）\nhttps://note.com/aono_keishi/n/n7686ce6570bf\n▼The Velvet Sundown（AIによる架空のバンド）\nhttps://www.youtube.com/watch?v=eQJ9IWoclhk\n▼全編AIの長編映画『マチルダ 悪魔の遺伝子』（公式）\nhttps://www.devilsgene.com/\n▼かねりんが作った曲『Chinese popon』（SoundCloud）\nhttps://soundcloud.com/kanerinx/gonzalez\n\n\n\n【今回の要チェックキーワード】\n\n\n\n\n—----------------------------\n【番組の概要】\n日々のAIトピックを、現役のAIエンジニアがやさしく解説する対談番組。AIニュースに驚き疲れたあなたに、おちつきを提供します。AIニュースの、驚くポイント、驚かなくても良いポイントがわかります。\n\n★ご感想やコメントは、番組公式ハッシュタグをつけてX（旧Twitter）でポストしていただけるとありがたいです。\n\n【おちつきAIサポータークラブ】\n週1本、2人のオフレコトークを配信します！\nhttps://kanerin.co.jp/to/club/yfdkds\n\n【番組公式Webサイト】※お便りはこちらから\nhttps://ochitsuki-ai.com/\n\n【番組公式ツール】\n・おちつきAI RAG\nhttps://ochitsuki-airag.com/\n\n【おちつきAI【切り抜き】】\n・Spotify\nhttps://open.spotify.com/show/1ZDi70pwl9jQaLGD9mIDPq\n・Apple Podcasts\nhttps://podcasts.apple.com/jp/podcast/id6814639855\n\n【番組公式ハッシュタグ】\n#おちつきAI\n\n【番組公式X】\nhttps://x.com/ochitsuki_AI\n\n\n\n【パーソナリティ(MC)】\n▼しぶちょー\n・AIエンジニア\n・技術士(機械部門) \n「大手機械メーカーでAI開発の最前線を担う現役エンジニア。AI（ディープラーニング）の実装スキルを証明する「E資格」を保有。機械（ハードウェア）への高度な知見も有し、双方の専門性を掛け合わせ『AIの社会実装』に貢献する。情報発信活動にも精力的に取り組み、ブログ・音声配信(Podcast/Voicy)・SNSなどで幅広く活躍。単なる技術解説でなく、行動変容を伴う情報発信を信条とする。その姿勢が評価され、2025年UJA科学広報賞 審査員特別賞を受賞。著書に『集まれ設計１年生 はじめての締結設計』（日刊工業新聞社）。岐阜県テクノプラザものづくり支援センター広報大使、生成AI EXPO in 東海 共同代表も務める。」\nhttps://x.com/sibucho_labo\nhttps://voicy.jp/channel/3963\n\n▼金田勇太（かねりん）\n・KANERIN Podcast Studios 代表\n・一般社団法人 地方WEB3連携協会 理事\n「刑事司法実務の最前線で多数の犯罪捜査を指揮。2017年から暗号資産業界へ参入。数々のグローバルプロジェクトに参画しコンサルティング、情報分析・アドバイザリー業務を提供。コンサートライブ配信業、音声配信業、テックメディア創業等を経て、ポッドキャストレーベル兼プロダクション「KANERIN Podcast Studios」を創業。多様なパートナーと共に、未来へつなぐ声の原典を共創している。」\nhttps://x.com/kanerinx\nhttps://voicy.jp/channel/2534\n\n\n【制作】\n番組演出（トーク・BGM・効果音）：Aviv Haruta\nカバーアートデザイン：UTA\nプロデューサー：金田勇太（かねりん）\n制作：KANERIN Podcast Studios\n著作：株式会社KANERIN\nhttps://kanerin.co.jp\n\n※収録日：2026/10/19",
+      "channelId": "UCe_XAkVROwZfmrt_EzTJk9A",
+      "channelTitle": "KANERIN Podcast Studios",
+      "thumbnail": "https://i.ytimg.com/vi/8GVz7BNysVo/hqdefault.jpg",
+      "publishedAt": "2026-11-05T18:00:32Z",
+      "durationSeconds": 4678,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:39.507Z",
+      "lastSeenAt": "2026-11-08T04:14:39.507Z",
+      "lastVerifiedAt": "2026-11-08T04:14:39.507Z",
       "unavailableAt": null
     }
   ]

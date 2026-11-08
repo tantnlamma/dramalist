@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:29:13.077Z",
+  "generatedAt": "2026-11-08T04:14:54.012Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -305,7 +305,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:26.306Z",
       "lastSeenAt": "2026-10-17T02:51:26.306Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:55.593Z",
       "lastSeenAt": "2026-11-06T04:56:55.593Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     },
     {
@@ -802,7 +802,45 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-07T04:29:13.077Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NACsoIE6vCE",
+      "url": "https://www.youtube.com/watch?v=NACsoIE6vCE",
+      "title": "MUTANTE: DESTINO SOMBRIO (2024) | FILME COMPLETO DUBLADO 1080P HD | MOVIE TV",
+      "description": "🎬 MUTANTE: DESTINO SOMBRIO (2024) — FILME DUBLADO\n\n\n\n📖 SINOPSE:\n\n\n\nNo ano de 2150, a humanidade enfrenta uma ameaça devastadora quando inteligências artificiais sofrem mutações, assumem o controle da Terra e iniciam uma operação para exterminar os seres humanos.\n\nCom poucos sobreviventes espalhados pelo planeta, grupos de resistência começam a se organizar para enfrentar o domínio das máquinas. Em desvantagem diante de um poderoso exército artificial, os humanos precisam unir forças e lutar pela sobrevivência da espécie.\n\nEm meio a batalhas, perigos e decisões difíceis, começa uma guerra desesperada pelo futuro da humanidade.\nUma aventura de ação e ficção científica em um mundo dominado pela inteligência artificial!\n\n\n\n\n\n\n\n🍿 MOVIE TV — SEU UNIVERSO DE FILMES!\nSeja bem-vindo ao MOVIE TV, seu espaço dedicado ao cinema!\n\n\n\n\nAqui você encontra conteúdos sobre filmes de diversos gêneros, incluindo ação, aventura, suspense, terror, ficção científica, comédia, drama e muito mais.\n\n🎬 Explore nosso catálogo, descubra grandes histórias e acompanhe novidades do mundo do cinema.\n\n🔔 Inscreva-se no canal e ative as notificações para acompanhar nossas publicações.\n\n👍 Deixe seu like, compartilhe e participe da comunidade MOVIE TV!\n\n\n\n\n🎥 MOVIE TV — O CINEMA EM UM SÓ LUGAR!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#MutanteDestinoSombrio #Mutante2024 #Mutant #BianTi #FilmeDublado #FilmeCompleto #FilmeCompletoDublado #FilmesDublados #DubladoEmPortugues #1080P #HD #Filmes2024 #FiccaoCientifica #SciFi #Acao #Aventura #FilmeDeAcao #FilmeDeFiccaoCientifica #InteligenciaArtificial #IA #InteligenciaArtificialMutante #Futuro #Ano2150 #FuturoDistopico #Humanidade #Sobrevivencia #Resistencia #GuerraFuturista #MundoDominado #Robos #Maquinas #Tecnologia #BatalhaPelaHumanidade #CinemaChines #FilmeChines #CinemaInternacional #FilmesDeGuerra #AventuraFuturista #FiccaoCientificaDublada #AcaoDublada #FilmesOnline #CinemaEmCasa #FilmesYouTube #MelhoresFilmes #FilmesImperdiveis #LongaMetragem #SessaoDeCinema #MovieTV #CanalMovieTV #FilmesMovieTV",
+      "channelId": "UC_RscAi7NEoaNjFzCltnSuA",
+      "channelTitle": "MOVIE TV ",
+      "thumbnail": "https://i.ytimg.com/vi/NACsoIE6vCE/hqdefault.jpg",
+      "publishedAt": "2026-11-07T21:48:37Z",
+      "durationSeconds": 5572,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:54.012Z",
+      "lastSeenAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uFLoBcQmkOY",
+      "url": "https://www.youtube.com/watch?v=uFLoBcQmkOY",
+      "title": "Astro Boy: O Robô Herói - Filme Completo Dublado GRÁTIS - Animação para Toda a Família",
+      "description": "**Astro Boy | Filme Completo Dublado GRÁTIS**\n\n🤖 Uma aventura de ficção científica cheia de emoção, descobertas e amizade!\n\nAstro Boy é um menino robô com uma grande missão: encontrar seu lugar no mundo e descobrir o verdadeiro significado do amor e da aceitação.\n\n**Sinopse:**\n\nCriado com tecnologia avançada, Astro Boy é um menino robótico que acaba sendo rejeitado por seu próprio criador.\n\nSem compreender completamente seu lugar no mundo, ele embarca em uma jornada de descobertas, enfrentando desafios enquanto procura aquilo que realmente o torna especial.\n\nDurante sua aventura, Astro Boy aprenderá importantes lições sobre amizade, amor, identidade e aceitação.\n\nUma animação emocionante que mistura ficção científica e diversão para toda a família.\n\n**Direção:** David Bowers  \n**Elenco de vozes original:** Freddie Highmore, Kristen Bell, Charlize Theron, Donald Sutherland, Bill Nighy, Nathan Lane, Eugene Levy e Matt Lucas  \n**Gênero:** Animação / Ficção Científica / Família  \n**Ano:** 2009  \n**País:** Estados Unidos  \n**Título original:** Astro Boy\n\n🎬 Assista ao filme completo gratuitamente no **Cine30+**.  \n🍿 Inscreva-se no canal para assistir a novas animações e filmes completos!\n\n**Filmes Grátis • Free Movies • Películas Gratis**\n\n#FilmeCompleto #FilmeDublado #FilmesGratis #Animacao #FiccaoCientifica #Cine30mais #Filmes #Gratis #Filme #Completo #Gratuitos #FilmeDeAnimacao #FilmeDeFiccaoCientifica #FilmeInfantil #AstroBoy\n\nLIO.423685 PT\n\nID: 423685",
+      "channelId": "UCIuSeMR1NORpvrv-Ad33MBw",
+      "channelTitle": "Cine30+",
+      "thumbnail": "https://i.ytimg.com/vi/uFLoBcQmkOY/hqdefault.jpg",
+      "publishedAt": "2026-11-07T15:30:05Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:54.012Z",
+      "lastSeenAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
       "unavailableAt": null
     }
   ]

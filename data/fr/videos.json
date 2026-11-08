@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:29:17.655Z",
+  "generatedAt": "2026-11-08T04:14:59.000Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -437,7 +437,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -476,7 +476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -495,7 +495,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -533,7 +533,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -552,7 +552,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -704,7 +704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -800,7 +800,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -858,7 +858,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -878,7 +878,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -898,7 +898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1052,7 +1052,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1187,7 +1187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1226,7 +1226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:03:02.619Z",
       "lastSeenAt": "2026-10-25T03:03:02.619Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1323,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1419,7 +1419,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1478,7 +1478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1498,7 +1498,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1539,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1578,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1597,14 +1597,14 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "4o-e_vBjeDU",
       "url": "https://www.youtube.com/watch?v=4o-e_vBjeDU",
       "title": "Time and Tide | Film Complet | Nicholas Tse | Wu Bai | Action & Thriller | SPF",
-      "description": "À Hong Kong, Tyler, devenu garde du corps après avoir mis enceinte une policière infiltrée, s’allie à Jack pour protéger le chef d’une triade. Mais entre complots et trahisons, les deux hommes finissent par s’affronter dans une confrontation mortelle.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Tsui Hark \nAvec Nicholas Tse, Wu Bai, Candy Lo\n© Sony Pictures France - Tous droits réservés\n\n#timeandtide #tsuihark #action #thriller #films #cinéma #artsmartiaux\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "À Hong Kong, Tyler, devenu garde du corps après avoir mis enceinte une policière infiltrée, s’allie à Jack pour protéger le chef d’une triade. Mais entre complots et trahisons, les deux hommes finissent par s’affronter dans une confrontation mortelle.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Tsui Hark \nAvec Nicholas Tse, Wu Bai, Candy Lo\n© Sony Pictures France - Tous droits réservés\n\n#timeandtide #tsuihark #action #thriller #films #cinéma #artsmartiaux\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/4o-e_vBjeDU/hqdefault.jpg",
@@ -1616,7 +1616,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-11-04T04:42:16.431Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "videoId": "Qa9sW387SdU",
       "url": "https://www.youtube.com/watch?v=Qa9sW387SdU",
       "title": "Nuit Barbare | Film Complet | Horreur & Thriller | ACE",
-      "description": "Adam et Eva s’apprêtent à acheter la maison de leurs rêves. Pour célébrer l’anniversaire d’Adam, ils invitent le propriétaire des lieux et sa compagne à dîner. Mais tandis que de sombres secrets remontent à la surface, l’arrivée de mystérieux intrus transforme cette soirée entre amis en une terrifiante lutte pour leur survie.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Charles Dorfman\nAvec Iwan Rheon, Tom Cullen, Catalina Sandino Moreno\n© ACE - Tous droits réservés\n\n#filmcomplet #NuitBarbare #Barbarians #thriller #homeinvasion #filmhorreur #suspense #filmcompletenfrançais #cinepulse\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "Adam et Eva s’apprêtent à acheter la maison de leurs rêves. Pour célébrer l’anniversaire d’Adam, ils invitent le propriétaire des lieux et sa compagne à dîner. Mais tandis que de sombres secrets remontent à la surface, l’arrivée de mystérieux intrus transforme cette soirée entre amis en une terrifiante lutte pour leur survie.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Charles Dorfman\nAvec Iwan Rheon, Tom Cullen, Catalina Sandino Moreno\n© ACE - Tous droits réservés\n\n#filmcomplet #NuitBarbare #Barbarians #thriller #homeinvasion #filmhorreur #suspense #filmcompletenfrançais #cinepulse\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/Qa9sW387SdU/hqdefault.jpg",
@@ -1692,26 +1692,27 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-11-05T04:57:18.887Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "NwZAlPxJ8_4",
       "url": "https://www.youtube.com/watch?v=NwZAlPxJ8_4",
       "title": "Adieu Vampires | Film Complet | Action & Horreur | SPF",
-      "description": "A Mexico, une princesse vampire est à la recherche d'un légendaire crucifix noir qui permettrait aux suceurs de sang de sortir en plein jour et de devenir ainsi invulnérables. Derek Bliss, un chasseur de vampires, s'associe à un prêtre aux méthodes peu catholiques afin de trouver leur \"nid\"...\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://youtu.be/HeLDp3GzPeE\nhttps://youtu.be/n6hHCVvmclc\nhttps://youtu.be/wj_CQ-Il91A\nhttps://youtu.be/lcG7oqifU0g \n\nUn film de Tommy Lee Wallace \navec Tommy Lee Wallace, Jon Bon Jovi, Cristian de la Fuente\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #action #vampires #horror #movie #filmaction #newmovie \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "A Mexico, une princesse vampire est à la recherche d'un légendaire crucifix noir qui permettrait aux suceurs de sang de sortir en plein jour et de devenir ainsi invulnérables. Derek Bliss, un chasseur de vampires, s'associe à un prêtre aux méthodes peu catholiques afin de trouver leur \"nid\"...\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://youtu.be/HeLDp3GzPeE\nhttps://youtu.be/n6hHCVvmclc\nhttps://youtu.be/wj_CQ-Il91A\nhttps://youtu.be/lcG7oqifU0g \n\nUn film de Tommy Lee Wallace \navec Tommy Lee Wallace, Jon Bon Jovi, Cristian de la Fuente\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #action #vampires #horror #movie #filmaction #newmovie \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/NwZAlPxJ8_4/hqdefault.jpg",
       "publishedAt": "2026-10-29T17:00:16Z",
       "durationSeconds": 5316,
       "matchedKeywords": [
-        "film complet intelligence artificielle"
+        "film complet intelligence artificielle",
+        "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1730,14 +1731,14 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-05T04:57:18.887Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "9jGLkOyx-zo",
       "url": "https://www.youtube.com/watch?v=9jGLkOyx-zo",
       "title": "Verónica | Film Complet | Horreur | ACE",
-      "description": "À Madrid, en 1991, Verónica s’occupe seule de ses jeunes frères et sœurs pendant que leur mère travaille. Lors d’une éclipse solaire, l’adolescente participe à une séance de spiritisme dans l’espoir de contacter son père décédé. Mais le rituel libère une présence surnaturelle qui la poursuit jusque chez elle et menace désormais toute sa famille.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Paco Plaza\nAvec Sandra Escacena, Bruna González, Claudia Placer\n© ACE - Tous droits réservés\n\n#filmcomplet #Veronica #filmhorreur #horreur #paranormal #Ouija #filmsurnaturel #cinemaespagnol #filmcompletenfrançais #cinepulse\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "À Madrid, en 1991, Verónica s’occupe seule de ses jeunes frères et sœurs pendant que leur mère travaille. Lors d’une éclipse solaire, l’adolescente participe à une séance de spiritisme dans l’espoir de contacter son père décédé. Mais le rituel libère une présence surnaturelle qui la poursuit jusque chez elle et menace désormais toute sa famille.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Paco Plaza\nAvec Sandra Escacena, Bruna González, Claudia Placer\n© ACE - Tous droits réservés\n\n#filmcomplet #Veronica #filmhorreur #horreur #paranormal #Ouija #filmsurnaturel #cinemaespagnol #filmcompletenfrançais #cinepulse\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/9jGLkOyx-zo/hqdefault.jpg",
@@ -1750,7 +1751,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1788,7 +1789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1807,7 +1808,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-04T04:42:16.431Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1865,7 +1866,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:01.721Z",
       "lastSeenAt": "2026-11-02T04:13:01.721Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1910,7 +1911,7 @@
       "videoId": "_rnqxgWEt2E",
       "url": "https://www.youtube.com/watch?v=_rnqxgWEt2E",
       "title": "Julia X | Film Complet | Kevin Sorbo | Valerie Azlyn | Horreur & Thriller | ACE",
-      "description": "Après avoir rencontré un inconnu sur Internet, Julia accepte un rendez-vous qui tourne au cauchemar. Enlevée, torturée et marquée d’un « X » par un tueur en série, elle refuse pourtant de devenir une victime de plus. Une traque brutale commence alors, mais le rapport de force pourrait bien s’inverser.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://www.youtube.com/watch?v=DPq8tJw0woo\nhttps://www.youtube.com/watch?v=S72rfnLhb38\nhttps://www.youtube.com/watch?v=Pw-6-uVnqmQ\n\nUn film de P.J. Pettiette\nAvec Valerie Azlynn, Kevin Sorbo, Alicia Leigh Willis\n© ACE - Tous droits réservés\n\n#filmcomplet #filmhorreur #thriller #slasher #tueurensérie #vengeance #horreur #filmcompletenfrançais #cinema #fullmovie \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "Après avoir rencontré un inconnu sur Internet, Julia accepte un rendez-vous qui tourne au cauchemar. Enlevée, torturée et marquée d’un « X » par un tueur en série, elle refuse pourtant de devenir une victime de plus. Une traque brutale commence alors, mais le rapport de force pourrait bien s’inverser.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://www.youtube.com/watch?v=DPq8tJw0woo\nhttps://www.youtube.com/watch?v=S72rfnLhb38\nhttps://www.youtube.com/watch?v=Pw-6-uVnqmQ\n\nUn film de P.J. Pettiette\nAvec Valerie Azlynn, Kevin Sorbo, Alicia Leigh Willis\n© ACE - Tous droits réservés\n\n#filmcomplet #filmhorreur #thriller #slasher #tueurensérie #vengeance #horreur #filmcompletenfrançais #cinema #fullmovie \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/_rnqxgWEt2E/hqdefault.jpg",
@@ -1941,7 +1942,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:57.065Z",
       "lastSeenAt": "2026-11-03T05:11:57.065Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1960,7 +1961,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -1979,14 +1980,14 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "8FALfgAD22E",
       "url": "https://www.youtube.com/watch?v=8FALfgAD22E",
       "title": "Nightride | Film Complet | Thriller | PS",
-      "description": "À Belfast, Budge, un petit dealer décidé à changer de vie, tente de conclure une dernière transaction avec l’argent emprunté à un dangereux usurier. Mais lorsque la marchandise disparaît et que l’opération tourne au désastre, il se lance dans une course contre la montre à travers la ville pour trouver un nouvel acheteur avant que ses créanciers ne le rattrapent.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://www.youtube.com/watch?v=Pw-6-uVnqmQ\nhttps://www.youtube.com/watch?v=S72rfnLhb38\n\nUn film de Stephen Fingleton\nAvec Moe Dunford, Joana Ribeiro, Gerard Jordan\n© Program Store - Tous droits réservés\n\n#filmcomplet #thriller #filmcriminel #suspense #coursecontrelamontre #filmcompletenfrançais #cinema #fullmovie\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "À Belfast, Budge, un petit dealer décidé à changer de vie, tente de conclure une dernière transaction avec l’argent emprunté à un dangereux usurier. Mais lorsque la marchandise disparaît et que l’opération tourne au désastre, il se lance dans une course contre la montre à travers la ville pour trouver un nouvel acheteur avant que ses créanciers ne le rattrapent.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\n🔗 Plus de films comme celui-ci :\nhttps://www.youtube.com/watch?v=Pw-6-uVnqmQ\nhttps://www.youtube.com/watch?v=S72rfnLhb38\n\nUn film de Stephen Fingleton\nAvec Moe Dunford, Joana Ribeiro, Gerard Jordan\n© Program Store - Tous droits réservés\n\n#filmcomplet #thriller #filmcriminel #suspense #coursecontrelamontre #filmcompletenfrançais #cinema #fullmovie\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/8FALfgAD22E/hqdefault.jpg",
@@ -1998,7 +1999,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -2017,7 +2018,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -2036,7 +2037,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-06T04:57:00.164Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -2055,14 +2056,14 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "2q7k70GJ0Io",
       "url": "https://www.youtube.com/watch?v=2q7k70GJ0Io",
       "title": "La Nonne | Elle est de retour pour vous hanter | Film Complet | Horreur | ACE",
-      "description": "Dix-huit ans après avoir provoqué la mort de sœur Ursula, plusieurs anciennes pensionnaires d’un établissement catholique sont assassinées dans des circonstances terrifiantes. Eva, la fille de l’une d’elles, tente de comprendre ce qui les poursuit avant que l’esprit vengeur de la religieuse ne frappe à nouveau.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de Luis de la Madrid\nAvec Anita Briem, Belén Blanco, Manu Fullola\n© ACE - Tous droits réservés\n\n#filmcomplet #filmhorreur #lanonne #fantastique #vengeance #frisson #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "Dix-huit ans après avoir provoqué la mort de sœur Ursula, plusieurs anciennes pensionnaires d’un établissement catholique sont assassinées dans des circonstances terrifiantes. Eva, la fille de l’une d’elles, tente de comprendre ce qui les poursuit avant que l’esprit vengeur de la religieuse ne frappe à nouveau.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Luis de la Madrid\nAvec Anita Briem, Belén Blanco, Manu Fullola\n© ACE - Tous droits réservés\n\n#filmcomplet #filmhorreur #lanonne #fantastique #vengeance #frisson #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/2q7k70GJ0Io/hqdefault.jpg",
@@ -2075,7 +2076,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -2094,14 +2095,14 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
       "videoId": "rZsHwvuDO4s",
       "url": "https://www.youtube.com/watch?v=rZsHwvuDO4s",
       "title": "Les Yeux du Dragon | Film Complet | Jean-Claude Van Damme | Action | SPF",
-      "description": "À St. Jude, un quartier abandonné aux trafiquants et aux policiers corrompus, Hong entreprend de dresser les gangs les uns contre les autres pour libérer les habitants de leur emprise. Formé par le redoutable Tiano, ce combattant solitaire devra mobiliser toute sa maîtrise des arts martiaux pour affronter le puissant Mister V.\n\n👉 Les films complet ? Ils sont ICI 👉 https://bit.ly/37nichs 👈 Abonnez vous 🙏\n\nUn film de John Hyams\nAvec Cung Le, Jean-Claude Van Damme, Peter Weller\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #filmaction #DragonEyes #JeanClaudeVanDamme #artsMartiaux #combat #thriller #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "description": "À St. Jude, un quartier abandonné aux trafiquants et aux policiers corrompus, Hong entreprend de dresser les gangs les uns contre les autres pour libérer les habitants de leur emprise. Formé par le redoutable Tiano, ce combattant solitaire devra mobiliser toute sa maîtrise des arts martiaux pour affronter le puissant Mister V.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de John Hyams\nAvec Cung Le, Jean-Claude Van Damme, Peter Weller\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #filmaction #DragonEyes #JeanClaudeVanDamme #artsMartiaux #combat #thriller #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
       "channelId": "UCSBhm8415diORi1meGxF_Qw",
       "channelTitle": "CINE PULSE",
       "thumbnail": "https://i.ytimg.com/vi/rZsHwvuDO4s/hqdefault.jpg",
@@ -2113,7 +2114,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     },
     {
@@ -2132,7 +2133,83 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fLmIsipYpEI",
+      "url": "https://www.youtube.com/watch?v=fLmIsipYpEI",
+      "title": "La Voie de l'Ennemi | Film Complet | Forest Whitaker | Harvey Keitel | Action & Thriller | PF",
+      "description": "Après dix-huit années passées en prison pour meurtre, William Garnett retrouve la liberté et tente de reconstruire sa vie avec l’aide de son agente de probation. Mais son passé le rattrape lorsque le shérif Bill Agati, déterminé à lui faire payer la mort de son adjoint, entreprend de briser tout espoir de rédemption.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Rachid Bouchareb\nAvec Forest Whitaker, Harvey Keitel, Brenda Blethyn\n© Pathé Films - Tous droits réservés\n\n0:00 L'alerte à la frontière\n3:49 Confrontation avec le shérif\n5:56 Les conseils de l'imam\n9:15 L'arrivée au Nouveau-Mexique\n13:24 Le retour à la liberté\n21:56 Le poids du passé judiciaire\n32:21 Une nouvelle vie à la banque\n40:27 Le passé qui resurgit\n1:31:16 Retrouvailles avec la mère\n\n#filmcomplet #drame #thriller #ForestWhitaker #HarveyKeitel #rédemption #filmnoir #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/fLmIsipYpEI/hqdefault.jpg",
+      "publishedAt": "2026-11-07T17:00:12Z",
+      "durationSeconds": 7003,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:59.000Z",
+      "lastSeenAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "XXhsPf05dGY",
+      "url": "https://www.youtube.com/watch?v=XXhsPf05dGY",
+      "title": "The Prey⎪Danny Trejo piégé dans la grotte du monstre⎪Action⎪Thriller⎪Film complet⎪ACE",
+      "description": "En pleine mission en Afghanistan, un peloton de soldats américains poursuit un groupe ennemi jusque dans un immense réseau de grottes.\n\nUne fois sous terre, les soldats comprennent qu’ils ne sont pas seuls.\n\nUne créature ancestrale et impitoyable rôde dans les profondeurs, éliminant tous ceux qui croisent son chemin. Pris au piège, les deux camps devront temporairement oublier leur guerre pour affronter un prédateur bien plus dangereux.\n\nDans l’obscurité, chaque bruit peut annoncer une nouvelle attaque.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nUn film de Cire Hensman et Matthew Hensman\nAvec Danny Trejo, Adrian Paul et Nick Chinlund\n© Tous droits réservés ACE\n Certains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n#filmcomplet #action #thriller #dannytrejo #cineimpact",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/XXhsPf05dGY/hqdefault.jpg",
+      "publishedAt": "2026-11-07T14:00:03Z",
+      "durationSeconds": 5328,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:59.000Z",
+      "lastSeenAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZTnGloh_oy0",
+      "url": "https://www.youtube.com/watch?v=ZTnGloh_oy0",
+      "title": "The Battle⎪Le silence n’arrêtera pas leur rêve⎪Drame⎪Film complet en français⎪ACE",
+      "description": "Au sommet de sa carrière, un champion de street dance voit sa vie basculer lorsqu’il perd brutalement l’ouïe. Privé de la musique qui guidait chacun de ses mouvements, il doit réapprendre à vivre et trouver une nouvelle manière d’exprimer sa passion.\n\nSa rencontre avec un groupe de jeunes sourds lui offre une nouvelle raison d’avancer. Ensemble, ils vont former une équipe et se préparer à participer à une grande battle de danse, déterminés à prouver que la musique ne s’écoute pas seulement : elle peut aussi se ressentir.\n\n🎞️ Un max de films complets, juste pour vous !👉 https://bit.ly/37nichs 👈 ✨ Abonnez-vous pour ne rien manquer !\n\nUn film de Anar Abbasov\nAvec Rinal Mukhametov, Anna Isaeva et Ilya Antonenko\n© Tous droits réservés ACE\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UC83ULFMJ5TNEQ9Mt8ePgzbw",
+      "channelTitle": "CINE STREAM",
+      "thumbnail": "https://i.ytimg.com/vi/ZTnGloh_oy0/hqdefault.jpg",
+      "publishedAt": "2026-11-03T18:15:29Z",
+      "durationSeconds": 5126,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:59.000Z",
+      "lastSeenAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "s14Tpp6vZXI",
+      "url": "https://www.youtube.com/watch?v=s14Tpp6vZXI",
+      "title": "Jeanne, Marie et les Autres | avec Isabel OTERO & Jacques DUFILHO | Drame | BSF",
+      "description": "📖 Dans le comté niçois, en août 1914, Auguste et Antoine font leurs adieux à Jeanne et à Marie, leurs épouses.\n\nUn seul homme est resté au village : Gédéon, l’adjoint au maire, qui s’est fait réformer. Il y a aussi Frantz, le vieil Alsacien qui avait fui les Prussiens en 1870.\n\n👩 Avec Christiana VISENTIN GAJONI, Géraldine SALES, Isabel OTERO & Jacques DUFILHO.\n\n🤟 Les meilleurs téléfilms et séries TV, c’est ici 👉 https://bit.ly/2Uh5Hgq Abonnez-vous ! 🙏\n\nRéalisé par Jacques RENARD.\nD’après une œuvre de Louis NUCÉRA.\n\n© Droits Réservés\n\n#films #telefilms #drame #streaming\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UC5pDArVYJ9Rhz9yvkuyqthw",
+      "channelTitle": "ICON TV - Films & Séries ",
+      "thumbnail": "https://i.ytimg.com/vi/s14Tpp6vZXI/hqdefault.jpg",
+      "publishedAt": "2026-10-29T18:00:23Z",
+      "durationSeconds": 5394,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:59.000Z",
+      "lastSeenAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
       "unavailableAt": null
     }
   ]

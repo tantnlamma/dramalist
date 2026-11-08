@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:29:06.165Z",
+  "generatedAt": "2026-11-08T04:14:45.627Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -589,7 +589,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -858,7 +858,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -934,7 +934,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -954,7 +954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -973,7 +973,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-06T04:56:46.402Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-03T05:11:42.638Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1258,7 +1258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1312,11 +1312,11 @@
       "matchedKeywords": [
         "人工智能 剧情电影"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "unavailableAt": "2026-11-08T04:14:45.627Z"
     },
     {
       "videoId": "29BR5GH8hFY",
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1504,11 +1504,11 @@
         "AI 科幻电影 完整版",
         "人工智能 电影 完整版"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-21T03:09:45.910Z",
       "lastSeenAt": "2026-10-21T03:09:45.910Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "unavailableAt": "2026-11-08T04:14:45.627Z"
     },
     {
       "videoId": "KxS_Wh7ov4U",
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1546,7 +1546,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1622,7 +1622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1679,7 +1679,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1699,7 +1699,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:51.582Z",
       "lastSeenAt": "2026-10-26T03:01:51.582Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1737,7 +1737,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1756,7 +1756,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1813,7 +1813,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1833,7 +1833,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1928,7 +1928,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -1947,7 +1947,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2176,7 +2176,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2195,7 +2195,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2252,7 +2252,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2328,7 +2328,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:06.703Z",
       "lastSeenAt": "2026-11-05T04:57:06.703Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2347,7 +2347,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:06.703Z",
       "lastSeenAt": "2026-11-05T04:57:06.703Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2366,7 +2366,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2385,7 +2385,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2404,7 +2404,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     },
     {
@@ -2423,7 +2423,45 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "N4nFD18jyJU",
+      "url": "https://www.youtube.com/watch?v=N4nFD18jyJU",
+      "title": "63分钟长生无忌番外篇《旧月山》完整版合集。#长生无忌 #AI短剧 #AI漫剧 #AI电影",
+      "description": "",
+      "channelId": "UCP2jzSaMSclWOwDaHqAYrgg",
+      "channelTitle": "豆蔻年华",
+      "thumbnail": "https://i.ytimg.com/vi/N4nFD18jyJU/hqdefault.jpg",
+      "publishedAt": "2026-11-07T04:52:54Z",
+      "durationSeconds": 3805,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:45.627Z",
+      "lastSeenAt": "2026-11-08T04:14:45.627Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i2cdf3hl4OA",
+      "url": "https://www.youtube.com/watch?v=i2cdf3hl4OA",
+      "title": "Telur Naga Tertinggi Di Tangannya Full Movie Drama AI",
+      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Supreme Dragon Egg in His Hand - Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
+      "channelId": "UCZyg67AK1lbTkwN3otFitsw",
+      "channelTitle": "Reynold Bronson Official",
+      "thumbnail": "https://i.ytimg.com/vi/i2cdf3hl4OA/hqdefault.jpg",
+      "publishedAt": "2026-10-20T05:33:03Z",
+      "durationSeconds": 2859,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:45.627Z",
+      "lastSeenAt": "2026-11-08T04:14:45.627Z",
+      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
       "unavailableAt": null
     }
   ]

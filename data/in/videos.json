@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:28:53.592Z",
+  "generatedAt": "2026-11-08T04:14:30.573Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -729,7 +729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:08.377Z",
       "lastSeenAt": "2026-10-17T02:51:08.377Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1456,7 +1456,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1627,7 +1627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1646,7 +1646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1665,7 +1665,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1703,7 +1703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1779,7 +1779,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1798,7 +1798,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1818,7 +1818,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1894,7 +1894,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -1970,7 +1970,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2008,7 +2008,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2027,7 +2027,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2046,7 +2046,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-06T04:56:31.480Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2065,7 +2065,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2122,7 +2122,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2179,7 +2179,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2198,7 +2198,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     },
     {
@@ -2214,11 +2214,11 @@
       "matchedKeywords": [
         "artificial intelligence hindi movie full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "unavailableAt": "2026-11-08T04:14:30.573Z"
     },
     {
       "videoId": "zc_WcKjER48",
@@ -2236,7 +2236,45 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-07T04:28:53.592Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BhDDfsH7J9M",
+      "url": "https://www.youtube.com/watch?v=BhDDfsH7J9M",
+      "title": "RAMAYANA FULL MOVIE 2026 | सम्पूर्ण रामायण | Ramayana Full Movie in Hindi 4K | Jai Shri Ram 🚩",
+      "description": "RAMAYANA FULL MOVIE 2026 | सम्पूर्ण रामायण | Ramayana Full Movie in Hindi 4K | Jai Shri Ram 🚩\n\n🙏 *जय श्री राम | जय सिया राम | जय बजरंगबली* 🙏\n\n🌺 *RAMAYANA – THE DIVINE EPIC | FULL MOVIE 2026* 🌺\n\nभारतीय संस्कृति, सनातन धर्म, आस्था, भक्ति, मर्यादा और दिव्यता को समर्पित एक भव्य सिनेमैटिक प्रस्तुति में आपका हार्दिक स्वागत है।\n\n🚩 *RAMAYANA FULL MOVIE IN HINDI 2026* 🚩\n\nExperience the divine beauty, spiritual power, timeless values and magnificent cinematic presentation of the great Indian epic Ramayana in stunning 4K quality.\n\nयह विशेष प्रस्तुति भगवान श्रीराम के प्रति श्रद्धा, भारतीय संस्कृति के प्रति सम्मान और सनातन धर्म की महान परंपराओं को समर्पित है।\n\n✨ Ultra HD 4K Cinematic Experience  \n✨ Hollywood Style Mythological Visuals  \n✨ Epic Indian Mythology Presentation  \n✨ Divine Spiritual Atmosphere  \n✨ Grand Cinematic Visual Effects  \n✨ Hindi Mythological Full Movie  \n✨ Devotional & Spiritual Entertainment  \n✨ Indian Cultural Heritage  \n✨ AI Generated Cinematic Visuals  \n✨ Spectacular Mythological Experience  \n\n🌸 *जय श्री राम – एक नाम, अनंत आस्था!* 🌸\n\nभगवान श्रीराम का नाम प्रेम, सत्य, धर्म, करुणा, साहस, त्याग और मर्यादा का प्रतीक है।\n\nयह वीडियो सभी रामभक्तों, सनातन प्रेमियों और भारतीय पौराणिक सिनेमा पसंद करने वाले दर्शकों को समर्पित है।\n\nRamayana Full Movie\nRamayana Full Movie 2026\nRamayan Full Movie\nRamayan Full Movie in Hindi\nRamayana Movie Hindi\nRamayan 2026\nRamayana 4K Full Movie\nSampoorna Ramayan\nSampurn Ramayan\nComplete Ramayana Movie\nShri Ram Full Movie\nLord Rama Full Movie\nRamayan Hindi Full Film\nRamayana New Movie\nRamayana Epic Movie\nRamayana Cinematic Movie\nRamayan Hollywood Style\nRamayana AI Movie\nRamayana 4K Hindi\nRamayana Mythological Film\nIndian Mythology Full Movie\nHindu Mythology Movie\nRamayana Devotional Movie\nJai Shri Ram Movie\nRamayan Full HD Movie\nShri Ramayan Mahagatha\nRamayana Divine Epic\nRamayan Full Movie 4K\nRamayana Hindi 2026\nRamayana Epic Film\nRamayan Full Film 2026\nRamayan Movie 4K\nRamayan Full Movie New\nRamayana AI Film\nRamayana Cinematic 4K\nRamayana Indian Epic\nRamayan Spiritual Movie\nRamayana VFX Movie\nRamayan Complete Movie\nNew Ramayan Full Movie\nRamayana Film Hindi\nRamayana Story Full Movie\nRamayan 4K Ultra HD\nShri Ram Movie 2026\nLord Ram Movie Hindi\nRamayan Movie Full Hindi\nRamayana Movie 2026 Hindi\nRamayana Full Movie HD\nRamayan AI Generated Movie\n\n❤️ *SUPPORT OUR CHANNEL* ❤️\n\nअगर आपको हमारी यह भव्य रामायण प्रस्तुति पसंद आए तो वीडियो को LIKE जरूर करें।\n\n🔔 हमारे चैनल को SUBSCRIBE करें और BELL ICON दबाएँ, ताकि आने वाली नई धार्मिक, पौराणिक और सिनेमैटिक प्रस्तुतियों की जानकारी आपको मिलती रहे।\n\n📲 इस वीडियो को अपने परिवार, दोस्तों और सभी रामभक्तों के साथ SHARE करें।\n\n💬 COMMENT BOX में श्रद्धापूर्वक लिखें — *जय श्री राम 🚩*\n\nआपका एक LIKE, COMMENT और SHARE हमें ऐसी और भी भव्य धार्मिक प्रस्तुतियाँ बनाने के लिए प्रोत्साहित करता है।\n\n🌺 *SPECIAL DEDICATION* 🌺\n\nDedicated to all devotees of Lord Shri Ram, Mata Sita, Lord Hanuman and everyone who respects the eternal values of Sanatan Dharma.\n\nMay Lord Shri Ram bless everyone with peace, happiness, wisdom, strength, prosperity and positivity.\n\n🙏 सर्वे भवन्तु सुखिनः।  \n🙏 सर्वे सन्तु निरामयाः।  \n🙏 लोकाः समस्ताः सुखिनो भवन्तु।\n\n🚩 *RAMAYANA FULL MOVIE 2026 – 4K CINEMATIC EXPERIENCE* 🚩\n\n*Search Keywords:*\n\nRamayana Full Movie 2026, Ramayan Full Movie Hindi, Sampoorna Ramayan, Complete Ramayana Movie, Ramayana 4K Movie, Shri Ram Full Movie, Lord Rama Movie, Ramayan Hindi Movie 2026, Ramayana Hollywood Style, Ramayana AI Movie, Ramayan Cinematic Movie, Ramayana Epic Movie, Ramayan Full HD, Ramayan 4K Hindi, Ramayana Mythological Movie, New Ramayana Movie 2026, Ramayan Full Film, Ramayana Complete Film Hindi, Jai Shri Ram Movie, Shri Ramayan Mahagatha, Ramayana Divine Epic, Indian Mythology Movie, Hindu Mythology Full Movie, Sanatan Dharma Movie, Ramayana VFX Movie, Ramayana Spiritual Movie, Ramayan New Movie, Ramayana Hindi 4K, Ramayan 2026 Full Movie, Ramayan Movie Hindi, Ramayana Animated Movie, AI Ramayana Full Movie, Ramayana Cinematic 4K, Ramayana Epic Hindi Film.\n\n🌟 *DISCLAIMER / अस्वीकरण* 🌟\n\nThis video is an AI-  creative and devotional cinematic presentation inspired by the ancient Indian epic Ramayana.\n\nThe visuals, characters and cinematic scenes are artistic interpretations created for devotional, educational and entertainment purposes.\n\nइस वीडियो का उद्देश्य किसी भी धर्म, देवी-देवता, धार्मिक ग्रंथ, परंपरा, समुदाय या व्यक्ति की भावनाओं को ठेस पहुँचाना नहीं है।\n\nहम सभी धार्मिक मान्यताओं, परंपराओं और आस्थाओं का पूर्ण सम्मान करते हैं।\n\nAll religious characters and sacred traditions are presented with devotion and respect.\n\n🙏 *THANK YOU FOR WATCHING* 🙏\n\nआप सभी दर्शकों के प्यार, आशीर्वाद और समर्थन के लिए हृदय से धन्यवाद।\n\n🌺 जय श्री राम 🌺  \n🌺 जय सिया राम 🌺  \n🌺 जय बजरंगबली 🌺  \n🌺 जय श्री राम 🌺\n\n*#Ramayana​ #RamayanaFullMovie​ #Ramayan2026​ #JaiShriRam​ #SampoornaRamayan​ #LordRama​ #Ramayana4K​ #RamayanFullMovie​ #ShriRam​ #SitaRam​ #HanumanJi​ #SanatanDharma​ #IndianMythology​ #RamayanaMovie​ #HindiFullMovie",
+      "channelId": "UCWamFu8MF27lt3VYqPgz2iQ",
+      "channelTitle": "Jio studio 2.0",
+      "thumbnail": "https://i.ytimg.com/vi/BhDDfsH7J9M/hqdefault.jpg",
+      "publishedAt": "2026-11-05T22:30:29Z",
+      "durationSeconds": 5357,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:30.573Z",
+      "lastSeenAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2ZhuGl1lpno",
+      "url": "https://www.youtube.com/watch?v=2ZhuGl1lpno",
+      "title": "Doraemon Movie 2026: Nobita Aur SteelTroops Robot War | Full Movie In Hindi Dubbed Full HD 1080p ",
+      "description": "🎬 Welcome to **Cartoons MiV**! 🌟\n\nYahan milega aapko fun, funny aur entertaining **cartoon videos** ka full dose! 🥳📺\nHum lekar aate hain kids & family ke liye मजेदार cartoon stories, funny moments, adventures aur entertaining videos. 😍\n\n🐭 Funny Cartoon Adventures\n😂 Comedy & Fun Videos\n🎭 Interesting Stories\n🌈 Kids-Friendly Entertainment\n🎥 New & Exciting Cartoon Content\n\nAgar aapko cartoons aur fun videos pasand hain, to **Cartoons MiV ko Subscribe** karein aur 🔔 Bell Icon zaroor press karein!\n\n❤️ **Watch • Enjoy • Laugh • Subscribe** ❤️\n\n#CartoonsMiV #Doraemon \n\nNew Movie\n\n#DoraemonSteelTroops\n#DoraemonHindi\n#Nobita\n#DoraemonMovieInHindi\n#FullMovieHindi\n#Doraemon2026\n#AnimeHindi\n\n\nDoraemon new movie in hindi dubbed 2026\nDoraemon steel troops full movie hindi\nNobita aur steel troops robot movie\nDoraemon full movie in hindi HD\nDoraemon robot war movie in hindi\n\n🔎 YouTube Keywords / Tags\nDoraemon SEO Keywords\ncartoons miv, Cartoons MiV, cartoon videos, kids cartoons, funny cartoons, cartoon stories, kids videos, cartoon animation, funny cartoon videos, animated stories, kids entertainment, family friendly cartoons, cartoon comedy, funny animation, cartoon adventures, Hindi cartoon videos, kids entertainment videos, new cartoon videos, entertaining cartoons, cartoon channel \n\nSEO Keywords\ndoraemon, doremon, doraemon hindi, doremon hindi, doraemon cartoon, doremon cartoon, doraemon new episode, doremon new episode, doraemon episode, doremon episode, doraemon funny video, doraemon funny, doraemon in hindi, doremon in hindi, doraemon cartoon hindi, doraemon movie, doremon movie, nobita, shizuka, gian, suneo",
+      "channelId": "UCELVo-a1_t4QranbhdyhTsg",
+      "channelTitle": "Cartoons MiV",
+      "thumbnail": "https://i.ytimg.com/vi/2ZhuGl1lpno/hqdefault.jpg",
+      "publishedAt": "2026-10-03T10:06:14Z",
+      "durationSeconds": 5705,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-08T04:14:30.573Z",
+      "lastSeenAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
       "unavailableAt": null
     }
   ]
