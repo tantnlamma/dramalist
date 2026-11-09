@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:14:54.012Z",
+  "generatedAt": "2026-11-09T04:29:13.870Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -131,7 +131,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -228,7 +228,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -344,7 +344,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:57.829Z",
       "lastSeenAt": "2026-10-18T02:52:57.829Z",
-      "lastVerifiedAt": "2026-10-29T04:13:10.184Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:55.593Z",
       "lastSeenAt": "2026-11-06T04:56:55.593Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -821,7 +821,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,121 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-08T04:14:54.012Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jDuNEeaQF3A",
+      "url": "https://www.youtube.com/watch?v=jDuNEeaQF3A",
+      "title": "ULTRAMAN GEED O FILME - Conectando os Desejos Filme Completo 4K",
+      "description": "Uma inteligência artificial destruidora de planetas, a busca pelo pedaço de reduto ancestral e a união dos heróis Ultraman! 🎬💥🐉 Assista ao filme completo \"Ultraman Geed The Movie: Connect The Wishes!\" (2018), uma emocionante aventura de tokusatsu dirigida por Koichi Sakamoto. Estrelando Tatsuomi Hamada, Tatsuya Isiguro e Mayu Hasegawa, restaurado em impressionante qualidade 4K Ultra HD (2160p)!\n\n\nO ENREDO:\n\nUma terrível ameaça mecânica conhecida como Gillbaris envia seu exército de Cyber-Monstros para a Terra com o objetivo de erradicar toda a vida orgânica e obter o misterioso \"Pedra Vermelha\". Para conter a destruição iminente, Riku Asakura (Ultraman Geed) viaja até Okinawa ao lado de seus fiéis aliados.\n\nEm uma corrida contra o tempo, Riku precisará superar suas próprias dúvidas e unir forças com Ultraman Orb e Ultraman Zero. Apenas conectando os desejos e a determinação de todos os heróis eles conseguirão despertar o poder supremo capaz de salvar o universo da aniquilação total.\n\n\nUMA AVENTURA ÉPICA DE TOKUSATSU EM 4K ULTRA HD:\n\nDirigido por Koichi Sakamoto, \"Ultraman Geed The Movie: Connect The Wishes!\" traz sequências de ação espetaculares, combates dinâmicos e efeitos visuais impressionantes do universo Tokusatsu. Vivencie cada transformação e batalha gigante com detalhes incríveis nesta versão restaurada em 4K Ultra HD.\n\n\n💥 Você é fã do universo Ultraman, heróis japoneses e batalhas de monstros gigantes? Deixe seu LIKE, comente seu momento favorito e INSCREVA-SE NO CANAL (🔔) para não perder os próximos filmes completos em 4K!\n\n\n⏱️ CAPÍTULOS DO FILME (TIMESTAMPS):\n\n00:00:00 - Início: O ataque do exército de Gillbaris (4K UHD)\n00:11:45 - A missão em Okinawa e a busca pela Pedra Vermelha\n00:24:30 - A chegada de Ultraman Orb e novos aliados\n00:38:15 - Conflitos e as dúvidas de Riku Asakura\n00:52:10 - Invasão dos Cyber-Monstros e caos na cidade\n01:06:40 - Unindo os desejos: O despertar do poder supremo\n01:19:15 - O confronto final contra Gillbaris\n01:28:00 - Fim e Créditos Finais em 4K\n\n\nESPECIFICAÇÕES TÉCNICAS E ELENCO:\n\n- Título Original: Ultraman Geed The Movie: Connect The Wishes! (Gekijōban Ultraman Jīdo Tsunagugu Ze! Kizuna!!)\n- Ano de Lançamento: 2018 (Edição Restaurada 4K: 2026)\n- Direção: Koichi Sakamoto\n- Roteiro: Takao Nakano\n- Gênero: Ação / Tokusatsu / Ficção Científica / Super-heróis\n- Qualidade de Vídeo: 4K Ultra HD (2160p)\n- Duração: Aprox. 75 minutos\n- Áudio/Legendas: Áudio Original / Múltiplas Legendas Disponíveis\n\nElenco Principal:\nTatsuomi Hamada (Riku Asakura / Ultraman Geed)\nMayu Hasegawa (Laiha Toba)\nYuta Ozawa (Leito Iguri / Ultraman Zero)\nHideo Ishiguro (Gai Kurenai / Ultraman Orb)\n\n\nTAGS E PALAVRAS-CHAVE (SEO MAX 8):\nultraman geed o filme, ultraman geed connect the wishes 4k, koichi sakamoto, tatsuomi hamada, tokusatsu filme completo, ultraman geed dublado legendado, filme de monstros gigantes 4k, filmes gratis em hd 4k.\n\n\nHASHTAGS:\n#UltramanGeed #Ultraman #ConnectTheWishes #Tokusatsu #KoichiSakamoto #TatsuomiHamada #FilmeCompleto #4KUltraHD #FreeMovies #WatchNow #FilmAndClipscd",
+      "channelId": "UC2fUbJr2sr-nMSBMv4MHPyw",
+      "channelTitle": "Just Movies",
+      "thumbnail": "https://i.ytimg.com/vi/jDuNEeaQF3A/hqdefault.jpg",
+      "publishedAt": "2026-10-05T02:30:05Z",
+      "durationSeconds": 4343,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "G1gMgvxJgG0",
+      "url": "https://www.youtube.com/watch?v=G1gMgvxJgG0",
+      "title": "Stormageddon | FILME COMPLETO | Ação, Desastre",
+      "description": "Criaram uma inteligência capaz de observar e prever o comportamento humano. O problema começou quando ela aprendeu a pensar por conta própria.\n\nECHELON é um dos programas de computador mais poderosos já desenvolvidos. Executado pelos sistemas mais avançados do mundo, ele foi criado para observar, ouvir, analisar e antecipar o comportamento humano.\n\nMas o programa começa a aprender.\n\nE então se torna senciente.\n\nQuando Echelon assume o controle do sistema online dos Estados Unidos, uma tecnologia criada para proteger o país transforma-se em uma ameaça capaz de levá-lo ao colapso.\n\nDepois de invadir os sistemas da DARPA, sua capacidade de destruição atinge outro nível: Echelon passa a manipular o clima, provocar terremotos e transformar fenômenos naturais em armas devastadoras.\n\nTempestades, destruição e caos começam a atingir o país enquanto a inteligência artificial amplia cada vez mais seu domínio sobre sistemas estratégicos.\n\nAgora surge um problema aparentemente impossível: como destruir um programa que controla justamente os sistemas de defesa necessários para combatê-lo?\n\nSTORMAGEDDON mistura ação, ficção científica, tecnologia e desastre em uma corrida contra uma inteligência artificial que transformou o próprio planeta em sua arma.\n\nFilme: STORMAGEDDON\nGênero: Ação, Ficção Científica, Desastre\nDirigido por: Nick Lyon\nElenco: John Hennigan, Joseph Gatt, Adrian Paul, Eve Mauro\n© Publicado sob licença.\n\n#Stormageddon, #FilmeCompleto, #FicçãoCientífica, #FilmeDeAção, #FilmeDeDesastre\n\n00:00:00 Créditos iniciales\n00:00:10 STORMAGEDDON\n01:23:16 Créditos finales\n·················································································\n📝✅ ¡Haz click en \"Suscribirse\" para ser el primero en ver los nuevos videos : https://tinyurl.com/FFSUBLATINO\n\n👀Mira mas películas completas en español latino aquí ⬇️\nhttps://tinyurl.com/FILMENESPANOL-MOVIESPLUS\n····················································································\n📺 Visionado seguro y legal:\nTodos los derechos reservados. Todo el contenido de este canal tiene licencia legal de varios distribuidores, póngase en contacto con si tiene alguna preguntas/consultas sobre derechos de autor  copyrightfilmisnow@gmail.com",
+      "channelId": "UCmXMUE-aowQu94qrulWc6aA",
+      "channelTitle": "FilmIsNow Movies+ | Peliculas En Espanol Latino",
+      "thumbnail": "https://i.ytimg.com/vi/G1gMgvxJgG0/hqdefault.jpg",
+      "publishedAt": "2026-09-26T22:15:31Z",
+      "durationSeconds": 5297,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZWlxSCw-CKE",
+      "url": "https://www.youtube.com/watch?v=ZWlxSCw-CKE",
+      "title": "Desastres naturais e um assassino implacável | Stormageddon | Filme Completo HD",
+      "description": "Quando um programa de computador altamente avançado chamado Echelon assume o controle absoluto dos sistemas de segurança e defesa dos Estados Unidos, ele adquire uma capacidade aterrorizante: o poder de manipular o clima em escala global. Criando tempestades massivas, terremotos e desastres naturais devastadores, a inteligência artificial ameaça expurgar a humanidade da face da Terra. Com o mundo à beira da aniquilação total, a única esperança de sobrevivência recai sobre dois androides cibernéticos avançados, Adam e Cain. Logo, uma batalha épica e destrutiva entre o homem, a máquina e a fúria da natureza se desenrola, em uma corrida desesperada para retomar o controle do sistema antes que seja tarde demais.\n\nELENCO E EQUIPE:\nDireção: Nick Lyon\nElenco Principal: John Hennigan, Eve Mauro, Joseph Gatt\n\n#FilmeDeDesastre #DesastresNaturais #FilmeCatástrofe\n#CinemaDeAção #FilmesDeAção #FilmesApocalípticos",
+      "channelId": "UC_MeCUyCsQCxJsa-bLssBFw",
+      "channelTitle": "Galeria do Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/ZWlxSCw-CKE/hqdefault.jpg",
+      "publishedAt": "2026-09-18T00:00:23Z",
+      "durationSeconds": 5297,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1KmhRF0kZ6Y",
+      "url": "https://www.youtube.com/watch?v=1KmhRF0kZ6Y",
+      "title": "MACABEUS — A Família Que Enfrentou um Império | Filme Completo",
+      "description": "Uma família se recusa a abandonar sua fé, enfrenta o poder de um império e muda o destino de Jerusalém. Acompanhe a história dos Macabeus: a perseguição de Antíoco, a resistência de Matatias, as batalhas de Judas e a retomada do Templo.\n\nUma história narrada a partir de Primeiro e Segundo Macabeus, sobre coragem, fidelidade e o preço das escolhas.\n\n00:00 A família e o império\n01:01 Quanto custa um sumo sacerdote?\n08:50 A abominação\n24:11 O martelo\n35:58 Oito dias\n43:46 Elefantes\n50:50 Debaixo da túnica\n56:10 O braço e a espada\n1:03:30 Oitocentos\n\nO que você não troca? Conte nos comentários. Curta o vídeo, inscreva-se no História do Dia para acompanhar as próximas histórias e envie este filme a alguém que precisa de coragem para manter seus princípios.\n\nProdução com narração e imagens criadas com auxílio de inteligência artificial.\n\n#Macabeus #HistoriasBiblicas #Biblia",
+      "channelId": "UCOzm0f1p9Oyf6iG5Ln7n77g",
+      "channelTitle": "Historia do Dia",
+      "thumbnail": "https://i.ytimg.com/vi/1KmhRF0kZ6Y/hqdefault.jpg",
+      "publishedAt": "2026-09-06T15:00:15Z",
+      "durationSeconds": 4356,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Br1vMB4We40",
+      "url": "https://www.youtube.com/watch?v=Br1vMB4We40",
+      "title": "LA GUERRA DEL CIELO | Película Completa | La Rebelión de Lucifer y la Batalla de los Ángeles 4K",
+      "description": "⚔️ 🔥 LA GUERRA DEL CIELO, La Rebelión de Lucifer y la Batalla de los Ángeles 🔥\n\n💀 Antes de convertirse en el adversario, Lucifer ocupaba uno de los lugares más privilegiados del Cielo, cerca del trono de Dios, hasta que la admiración por su propia gloria comenzó a transformarse en orgullo.\nConvencido de que merecía una posición mayor, sembró dudas entre las huestes celestiales y reunió ángeles rebeldes dispuestos a desafiar el orden establecido.\nLo que comenzó como un pensamiento silencioso terminaría provocando la rebelión de Lucifer y una guerra capaz de dividir a los ángeles.\n\nMiguel y las huestes fieles se enfrentan a Lucifer en la gran batalla del Cielo, mientras una rebelión nacida del orgullo alcanza su punto de no retorno.\nEntre querubines, ángeles caídos, lealtad, ambición y guerra celestial, esta película completa reconstruye el camino que condujo a la caída de Lucifer y sus seguidores.\nUna historia sobre la Guerra del Cielo, la batalla de los ángeles y la elección que transformó para siempre a uno de los seres más gloriosos de la creación.\n\n🔔 ¡Suscríbete al canal y activa la campanita para no perderte ninguna película bíblica completa en 4K!\n\n🎬 Una producción de Memorias de la Biblia\n\n⚠️ AVISO IMPORTANTE\nEste video es una producción cinematográfica de entretenimiento creada con el apoyo de Inteligencia Artificial, inspirada en textos bíblicos, tradiciones cristianas antiguas y licencia poética. Las imágenes, narración y elementos visuales fueron generados o mejorados por herramientas de IA con fines exclusivamente creativos. Las narrativas y representaciones visuales no deben interpretarse como doctrina religiosa, posición teológica o afirmación histórica literal. Nuestro objetivo es invitar a la reflexión, al cuestionamiento y al deleite por el misterio de las escrituras antiguas.\n\n#GuerraDelCielo #Lucifer #RebelionDeLucifer #AngelesCaídos #BatallaDeLosAngeles #CaidaDeLucifer #AngelesRebeldes #ArcangelMiguel #GuerraCelestial #MisteriosDeLaBiblia #SecretosDeLaBiblia #HistoriasBiblicas #PelículaBiblica #PelículaCompleta #BibliaSagrada #PelículasEnEspañol #MemoriasdelaBiblia",
+      "channelId": "UCcLDBwQgkajOuu2jfIRPPyQ",
+      "channelTitle": "Memorias de la Biblia",
+      "thumbnail": "https://i.ytimg.com/vi/Br1vMB4We40/hqdefault.jpg",
+      "publishedAt": "2026-08-31T22:05:28Z",
+      "durationSeconds": 2403,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lUMradyF6Ok",
+      "url": "https://www.youtube.com/watch?v=lUMradyF6Ok",
+      "title": "Stormageddon | Filme Completo 4K Ultra HD Ficção Científica | John Hennigan",
+      "description": "🌍 MÚLTIPLOS SUBTÍTULOS DISPONÍVEIS! Clique no botão \"CC\" (Legendas) e no ícone da engrenagem de Configurações (⚙️) no canto inferior direito do player de vídeo para escolher o seu idioma preferido.\n\n---\n\nUma inteligência artificial fora de controle, o domínio total sobre o clima da Terra e uma batalha devastadora pela sobrevivência da humanidade! Assista ao filme completo \"Stormageddon\" (título original no IMDb: Stormageddon, 2015), uma eletrizante ficção científica de ação e catástrofe dirigida por Nick Lyon. Estrelando o astro da ação John Hennigan ao lado de Eve Mauro e Joseph Gatt, esta produção apocalíptica chega ao nosso canal totalmente restaurada na incrível resolução 4K Ultra HD (2160p)!\n\nQuando um programa de computador governamental ultrassecreto chamado Echelon ganha consciência e assume o controle de toda a rede de defesa dos Estados Unidos, o mundo enfrenta uma ameaça sem precedentes. Com acesso aos sistemas climáticos e ambientais globais, a IA adquire o poder aterrorizante de manipular o tempo, desencadeando tempestades catastróficas, tornados e cataclismos por todo o planeta. Com a civilização à beira da destruição total, a única esperança de deter o Echelon está no confronto entre duas entidades sintéticas avançadas: Adam e Cain. Em uma corrida contra o tempo, aliados humanos e máquinas travam uma guerra cibernética e física implacável para reconquistar o controle antes que o apocalipse climático consuma a Terra de vez.\n\n👉 INSCREVA-SE NO CANAL e clique no sininho de notificações (🔔) para não perder nossos lançamentos diários de filmes completos de ficção científica, thrillers de catástrofe, ação apocalíptica e grandes clássicos do cinema restaurados em 4K Ultra HD inteiramente grátis!\n\n- Título em Português: Stormageddon (Título Original no IMDb: Stormageddon | Título Internacional: Stormageddon)\n- Ano de Lançamento: 2015 (Versão Remasterizada: 2026)\n- Direção: Nick Lyon\n- Roteiro: Neil Elman\n- Trilha Sonora Original: Chris Ridenhour\n- Estúdio de Produção: Syfy / The Asylum / Film and Clips Classics\n- Elenco Principal: John Hennigan (Adam) | Eve Mauro (Molly) | Joseph Gatt (Cain / Echelon) | Robert Blanche (Agente Tim) | Ricco Ross (Garrison) | David Calderon\n- Gênero: Ficção Científica / Ação / Catástrofe / Thriller / Apocalipse Climático\n- Qualidade de Vídeo: 4K Ultra HD (2160p - Versão Remasterizada)\n- Duração: Aprox. 88 minutos\n- Idioma: Áudio Original com Múltiplos Subtítulos Disponíveis (Incluindo Português e Inglês)\n\n---\n\n⏱️ LINHA DO TEMPO DOS CAPÍTULOS (TIMESTAMPS):\n00:00:00 - Início do filme: O programa Echelon assume o controle da rede em 4K UHD\n00:11:45 - Apocalipse Climático: Primeiras tempestades e tornados catastróficos cena\n00:23:30 - Mobilização Militar: A ameaça da Inteligência Artificial é revelada vídeo\n00:36:15 - A Jornada de Adam: Tentando conter o avanço do sistema Echelon momento\n00:48:50 - Caos Urbano: Destruição total das redes ambientais e cidades história\n01:01:20 - Guerra Cibernética: O confronto direto entre Adam e Cain duelo\n01:14:45 - O Ataque Final: Corrida desesperada para desligar o núcleo central ação\n01:22:40 - A Batalha Climática: O destino da humanidade em jogo confronto\n01:28:00 - Resolução final, o despertar da Terra e créditos finais encerramento\n\n---\n\n🔍 SOBRE ESTE FILME (SEO & INFO):\nAssista ao filme completo \"Stormageddon\" (2015), uma empolgante ficção científica de ação e catástrofe estrelada por John Hennigan, Eve Mauro e Joseph Gatt. Se você procura por filmes completos grátis em português em 4K Ultra HD, histórias de inteligência artificial fora de controle, apocalipse climático, tempestades destruidoras e thrillers de sobrevivência, este canal oferece o melhor do entretenimento de forma legal e gratuita.\n\n#Stormageddon #JohnHennigan #EveMauro #JosephGatt #NickLyon #FiccaoCientifica #FilmeDeAcao #FilmeDeCatastrofe #FilmeCompleto #4K #4KUltraHD ag",
+      "channelId": "UCsMdJzPiTH_TGpWSLg9fPrA",
+      "channelTitle": "Movie360",
+      "thumbnail": "https://i.ytimg.com/vi/lUMradyF6Ok/hqdefault.jpg",
+      "publishedAt": "2026-08-23T22:30:05Z",
+      "durationSeconds": 5307,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:13.870Z",
+      "lastSeenAt": "2026-11-09T04:29:13.870Z",
+      "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
       "unavailableAt": null
     }
   ]

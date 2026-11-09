@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:14:35.612Z",
+  "generatedAt": "2026-11-09T04:28:57.045Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -170,7 +170,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -211,7 +211,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -269,7 +269,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -288,7 +288,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -425,7 +425,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -445,7 +445,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -465,7 +465,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -485,7 +485,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -504,7 +504,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -681,7 +681,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1072,7 +1072,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1186,7 +1186,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1264,7 +1264,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1360,7 +1360,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1475,7 +1475,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1494,7 +1494,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1741,7 +1741,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:53.850Z",
       "lastSeenAt": "2026-10-29T04:12:53.850Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1779,7 +1779,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:37.077Z",
       "lastSeenAt": "2026-10-30T04:12:37.077Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1837,7 +1837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1857,7 +1857,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1876,7 +1876,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -1914,7 +1914,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2028,7 +2028,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2161,7 +2161,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2219,7 +2219,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2276,7 +2276,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2315,7 +2315,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2334,7 +2334,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2448,7 +2448,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2467,7 +2467,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2486,7 +2486,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2505,7 +2505,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:58.544Z",
       "lastSeenAt": "2026-11-07T04:28:58.544Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2543,7 +2543,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2562,7 +2562,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     },
     {
@@ -2582,6 +2582,177 @@
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
       "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9cqnZj5_yaw",
+      "url": "https://www.youtube.com/watch?v=9cqnZj5_yaw",
+      "title": "동양 로맨스 판타지│AI드라마│아린기(記) 1화-6화 몰아보기│season1",
+      "description": "시즌1 몰아보기 │ 1화-6화 몰아보기\n\n00:00 1화\n02:36 2화\n08:50 3화\n17:56 4화\n24:55 5화\n33:40 6화\n\n\n\n5화, 6화 화면이 안나오는 문제가 발생해서 재업로드합니다.\n문제에 대해 알려주셔서 감사합니다.\n\n\n시즌2 열심히 준비중입니다.\n\n\n어느새 민족명절 추석이 다가왔네요.\n다음 주에 있는 명절 잘 보내시고 맛있는거 많이많이 드시고 편안하고 즐거운 명절되시길 바랍니다.\n\n추석 명절이 끝난 다음달 10월 중반 즈음에 아린기 시즌2 시작됩니다.\n많은 관심 부탁드려요.\n\n\n감사합니다.\n\n\nOriginal Story & Direction by GLIM FILM",
+      "channelId": "UCxJfSBJKWNMwetnftMQ8JbA",
+      "channelTitle": "Ai glimfilm",
+      "thumbnail": "https://i.ytimg.com/vi/9cqnZj5_yaw/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:21:14Z",
+      "durationSeconds": 2394,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AjyXmD2nlbs",
+      "url": "https://www.youtube.com/watch?v=AjyXmD2nlbs",
+      "title": "2066년, AI가 인간을 사냥하기 시작했다 | 더 블랙 타워 EP.1-5 몰아보기  #ai드라마 #ai영화 #ai애니메이션",
+      "description": "한국어 포함 대부분 국가의 자막이 있습니다. 화면을 터치하셔서 우측에 [CC] 버튼을 눌러주세요.\n\n사라진 아빠를 찾기 위해 들어간 거대한 탑.\n하지만 위로 올라갈수록, 시험은 더욱 잔혹해진다.\n\n《더 블랙 타워》 EP.1~5 몰아보기\n\n아빠의 흔적을 쫓아 블랙타워에 들어선 카이.\n그를 기다리는 것은 정체불명의 로봇과 초능력을 지닌 참가자들, 그리고 목숨을 건 시험이었다.\n\n탑에서 만난 세라, 태이, 럭키.\n압도적인 힘을 가진 노인과의 대결을 지나, 끊임없이 구조가 바뀌는 4층에 도착한 일행은 서로 떨어진 채 로봇들의 추격을 받게 된다.\n\n한편, 한 소녀가 잃어버렸던 기억과 딸을 살리기 위해 모든 것을 걸었던 엄마의 선택이 서서히 드러나는데…\n\n이들은 살아남아 탑의 비밀에 다가갈 수 있을까?\n\nAI로 제작한 SF 액션 판타지 드라마입니다.\n1화부터 5화까지 한 편으로 이어서 감상해 보세요.\n\n다국어 자막을 제공합니다.\n화면을 톡 건들여서 [CC] 버튼으로 자막을 켜고, 설정에서 언어를 선택해 주세요.\n\n재미있게 보셨다면 구독과 좋아요,\n그리고 함께 보고 싶은 분들에게 공유 부탁드립니다.\n\n#더블랙타워 #몰아보기 #AI드라마 #AI영화 #SF액션 #판타지드라마 #한국웹드라마 #초능력 #로봇액션 #TheBlackTower #AIFilm #SciFi",
+      "channelId": "UCQi1VLWeXuU3DefzGu4cnyA",
+      "channelTitle": "양작가 YangJakGa",
+      "thumbnail": "https://i.ytimg.com/vi/AjyXmD2nlbs/hqdefault.jpg",
+      "publishedAt": "2026-09-12T09:29:43Z",
+      "durationSeconds": 2140,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IMKULNRRvd8",
+      "url": "https://www.youtube.com/watch?v=IMKULNRRvd8",
+      "title": "AI BL 드라마 | 동궁의 밤 EP 01~10 몰아보기",
+      "description": "1화부터 10화까지를 하나로 만들면서 보니,\n회차마다 조금씩의 변화가 보였던 것 같아요.\n\n나아진 것 같기도 하고.. 아쉬운 것 같기도 하고..ㅎㅎ\n그래도 여러분께서 재밌게 시청해주시는 덕분에 10화까지도 열심히 달려올 수 있었습니다.\n\n앞으로도 발전하는 Riku가 되도록 하겠습니다.\n다가올 11화부터는 더 재밌고 맛있는(?) 장면들을 더 풍부하게 구성해볼게요!\n\n행복한 주말 보내세요!\n\n---\n\n동궁의 밤 EP 01~10 몰아보기\n\n살을 받아 밤마다 알 수 없는 병에 시달리는 세자 현결.\n중전은 아들을 살리기 위해 나라가 금한 의례에 손을 댄다.\n\n세자의 살을 받을 자는 서린.\n타인의 살을 받을 정도로 기운이 깨끗한 서린은 본명을 숨기고 액받이 '설'로서 세자의 살을 대신 받는다.\n\n허나, 그는 세자를 약하게 만든 것이 단순히 살 뿐만이 아님을 알게 되는데...",
+      "channelId": "UCs09px7JlKen0yA2hFa-1vg",
+      "channelTitle": "Riku's Library",
+      "thumbnail": "https://i.ytimg.com/vi/IMKULNRRvd8/hqdefault.jpg",
+      "publishedAt": "2026-11-07T09:00:21Z",
+      "durationSeconds": 2763,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qfExDdMumy4",
+      "url": "https://www.youtube.com/watch?v=qfExDdMumy4",
+      "title": "전직 조폭 미용실 역대급 손님들과 참교육 몰아보기 [가위의 신]1~4화",
+      "description": "전직 조폭 원장님의 대환장 시장 미용실 생존기 ✂️ 칼 대신 가위를 잡은 냉혈한 전직 조폭, 알고 보니 속은 누구보다 따뜻하다?! 예측불가 병맛 웃음부터 가슴 찡한 감동까지, [가위의 신] 전편 몰아보기로 한 번에 즐겨보세요!\n\n━━━━━━━━━━━━━━━━━━━━━━━━\n\n📌 [에피소드 타임라인]\n00:01 [하이라이트]\n\n00:40 [1화] 개업 떡 돌리다 욕먹은 사연 👉 1화 다시보기: https://youtu.be/By89XPRPvlA?si=ozIOI0CJV4omaEYl\n\n06:43 [2화] 떡집 할매 20대 회춘 컷 대작전 👉 2화 다시보기: https://youtu.be/3cnx_ODBvEE?si=_CZ9QE1vxnGj4vcp\n\n15:29 [3화] 일진 참교육과 조폭들의 칼군무 재롱잔치 👉 3화 다시보기: https://youtu.be/v5aK74nyN6Q?si=_y3TEHeODyDmKk48\n\n27:43 [4화] 할로윈 살인마 오해 소동 👉 4화 다시보기: https://youtu.be/lDu_GXPv6wI?si=-7F04q6Sx86xPv2d\n\n━━━━━━━━━━━━━━━━━━━━━━━━\n채널의 든든한 동반자가 되어주세요! 구독 🚀과 좋아요로 힘을 보태주세요 🔥\n\n#ai #ai드라마 #몰아보기 #가위의신 #병맛 #감동 #사이다 #참교육",
+      "channelId": "UCB-P4lqLfS8lGh9MR8Yrz2Q",
+      "channelTitle": "AI 쏘스",
+      "thumbnail": "https://i.ytimg.com/vi/qfExDdMumy4/hqdefault.jpg",
+      "publishedAt": "2026-11-07T02:00:21Z",
+      "durationSeconds": 2280,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7mLHFE6wWVU",
+      "url": "https://www.youtube.com/watch?v=7mLHFE6wWVU",
+      "title": "မျက်ရည်နောက်ကွယ်က အမွေ | အပိုင်း (၁–၅) စုစည်းမှု | THE HIDDEN HEIR | Myanmar AI Drama Full Movie",
+      "description": "🎬 **မျက်ရည်နောက်ကွယ်က အမွေ (THE HIDDEN HEIR)**\n**အပိုင်း (၁) မှ (၅) အထိ — Full Movie Collection**\n\n💔 အမွေဆိုတာ ပိုင်ဆိုင်မှုတွေချည်းပဲလား… ဒါမှမဟုတ် မျက်ရည်တွေနဲ့ ဖုံးကွယ်ထားတဲ့ အမှန်တရားတစ်ခုလား?\n\nလွန်ခဲ့တဲ့ ၂၅ နှစ်က ဖြစ်ပျက်ခဲ့တဲ့ အဖြစ်အပျက်တစ်ခုဟာ မိသားစုနှစ်ခုရဲ့ ကံကြမ္မာကို ပြောင်းလဲသွားစေခဲ့ပါတယ်။\n\nဖခင်ရဲ့ အတိတ်နဲ့ မိသားစုအမွေနောက်ကွယ်က လျှို့ဝှက်ချက်တွေကို ဖော်ထုတ်ဖို့ ကြိုးစားနေတဲ့ မိုးသီရိ…\n\nမိသားစုကို ကာကွယ်ဖို့ဆိုတဲ့ အကြောင်းပြချက်နဲ့ အမှန်တရားကို ဖုံးကွယ်ထားတဲ့ ဦးသိန်းဟန်…\n\nဖခင်အပေါ်ထားတဲ့ ယုံကြည်မှုနဲ့ တရားမျှတမှုကြားမှာ ခက်ခဲတဲ့ ရွေးချယ်မှုတစ်ခုကို ရင်ဆိုင်နေရတဲ့ ခန့်ဇော်…\n\nအချစ်၊ မိသားစုသံယောဇဉ်၊ သစ္စာဖောက်မှု၊ လျှို့ဝှက်ချက်တွေနဲ့ ပြည့်နှက်နေတဲ့ ဒီဇာတ်လမ်းမှာ နောက်ဆုံး အမှန်တရားကပဲ အနိုင်ရသွားမလား?\n\n🔥 **မျက်ရည်နောက်ကွယ်က အမွေ — အပိုင်း (၁) မှ (၅) အထိကို တစ်ဆက်တည်း ကြည့်ရှုနိုင်ပါပြီ။**\n\nဇာတ်လမ်းကို အဆုံးထိကြည့်ပြီး ကိုယ့်အကြိုက်ဆုံး ဇာတ်ကောင်နဲ့ အမှတ်ရဆုံး ဇာတ်ဝင်ခန်းလေးတွေကို Comment မှာ ပြောပြခဲ့ကြပါဦး။\n\n❤️ ဇာတ်လမ်းလေးကို ကြိုက်နှစ်သက်တယ်ဆိုရင် Like & Share လုပ်ပေးခဲ့ပါနော်။ နောက်ထပ် AI ဇာတ်လမ်းတွဲအသစ်တွေကို မလွတ်ချင်ရင် **Anna's Ai Movies** ကို Subscribe လုပ်ထားပေးပါဦး။\n\n━━━━━━━━━━━━━━━━\n\n🎞️ **MOVIE INFORMATION**\n\n🎬 Title: မျက်ရည်နောက်ကွယ်က အမွေ  \n🌍 English Title: THE HIDDEN HEIR  \n📺 Episodes: 1–5 (Combined Edition)  \n🎭 Genre: Family Drama | Mystery | Revenge | Emotional Drama  \n🎥 Production: Anna's Ai Movies  \n🤖 Created with AI-assisted filmmaking\n\n━━━━━━━━━━━━━━━━\n\n**Disclaimer:** ဤဇာတ်လမ်းသည် စိတ်ကူးယဉ်ဖန်တီးထားသော ရုပ်ရှင်ဇာတ်လမ်းဖြစ်ပြီး ဇာတ်ကောင်များနှင့် ဖြစ်ရပ်များသည် စိတ်ကူးယဉ်ဖန်တီးမှုများ ဖြစ်ပါသည်။\n\n#မျက်ရည်နောက်ကွယ်ကအမွေ #TheHiddenHeir #MyanmarAIDrama #MyanmarFullMovie #AnnasAiMovies #MyanmarDrama #BurmeseDrama #AIFilm",
+      "channelId": "UCloJoimx3dy7cnoEV7w4Bdg",
+      "channelTitle": "Anna’s Ai Movies ",
+      "thumbnail": "https://i.ytimg.com/vi/7mLHFE6wWVU/hqdefault.jpg",
+      "publishedAt": "2026-11-04T12:30:08Z",
+      "durationSeconds": 2817,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zc_WcKjER48",
+      "url": "https://www.youtube.com/watch?v=zc_WcKjER48",
+      "title": "ADAKU – HER FAMILY BETRAYED HER! | AI African Movie 2026 | FULL MOVIE #NigerianMovies #AfricanMovies",
+      "description": "ADAKU is an emotional Nigerian family drama about love, betrayal, jealousy, sacrifice and the consequences of taking someone’s kindness for granted.\n\nAdaku has spent her life sacrificing her happiness to support her family. But when jealousy, lies and betrayal come between them, she makes a decision that changes everything.\n\nWith Adaku gone, her family begins to realise the true value of the person they once took for granted. But will their regret be enough to bring her back?\n\nWill Adaku forgive the people who hurt her, or will she finally choose herself?\n\nWatch this captivating African movie until the end to discover how the story unfolds.\n\n🎬 MOVIE TITLE: ADAKU\n🎭 GENRE: Nigerian Drama | Family Drama | Emotional Movie\n🎥 FORMAT: FULL MOVIE\n📺 CHANNEL: Rosa’s Storytelling Channel\n\nIf you enjoy emotional African movies, family drama, Nigerian stories and powerful life lessons, subscribe to Rosa’s Storytelling Channel.\n\n👍 LIKE this movie if you enjoyed it.\n💬 COMMENT: Do you think Adaku did the right thing by leaving her family?\n🔔 SUBSCRIBE and turn on notifications for more original African storytelling and Nigerian movies.\n\nThank you for watching. ❤️\n\n#Adaku #NigerianMovies #AfricanMovies",
+      "channelId": "UCm2kSpamaMy-0qQycSo35bA",
+      "channelTitle": "Rosa's Storytelling Channel ",
+      "thumbnail": "https://i.ytimg.com/vi/zc_WcKjER48/hqdefault.jpg",
+      "publishedAt": "2026-11-03T19:07:44Z",
+      "durationSeconds": 1995,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IR14x2-b7GI",
+      "url": "https://www.youtube.com/watch?v=IR14x2-b7GI",
+      "title": "돼지나 먹인다고 모두가 무시하던 남자! 돼지에게 들이받혀 기절했다 깨어나더니, 천하제일의 고수가 됐다!",
+      "description": "✨ 상상 이상의 이야기, 루비 드라마! ✨\n\n설레는 로맨스부터 통쾌한 역전극까지!\n현대극, 사극, 무협·선협, 판타지 등 다양한 장르의 AI 드라마툰을 만나보세요. 🎬\n\n💫 예측할 수 없는 반전과 짜릿한 복수\n💕 가슴 설레는 사랑과 애틋한 로맨스\n⚔️ 운명을 뒤바꾸는 성장과 역전의 순간들\n\n매일 새로운 이야기로 찾아갑니다!\n구독하고 루비 드라마만의 다채로운 이야기 속으로 빠져보세요. 💚",
+      "channelId": "UCKplb26vbuHlPIEnEyp8noA",
+      "channelTitle": "루비 드라마",
+      "thumbnail": "https://i.ytimg.com/vi/IR14x2-b7GI/hqdefault.jpg",
+      "publishedAt": "2026-10-30T09:00:19Z",
+      "durationSeconds": 7562,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vb4dGGS3BUE",
+      "url": "https://www.youtube.com/watch?v=vb4dGGS3BUE",
+      "title": "SISI VANGU (Full Zimbabwean Ai Movie)",
+      "description": "",
+      "channelId": "UCFHYZWYdqB4dsuoBZfIYhNg",
+      "channelTitle": "NEW TRENDING UPDATES",
+      "thumbnail": "https://i.ytimg.com/vi/vb4dGGS3BUE/hqdefault.jpg",
+      "publishedAt": "2026-11-02T08:07:46Z",
+      "durationSeconds": 2788,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VVjFVbd9bUY",
+      "url": "https://www.youtube.com/watch?v=VVjFVbd9bUY",
+      "title": "Sardar Ki Sardarni || Complete Ai Drama || Pakistani Drama || Pakistani Serial || AI Drama",
+      "description": "👑 SARDAR KI SARDARNI | COMPLETE URDU AI DRAMA ❤️\n\nA powerful tribal chief, a confident girl from Punjab, and a marriage neither of them expected!\n\nSardar Ki Sardarni is an emotional and romantic AI-generated Urdu drama featuring Sardar Zarghaam Khan and Dilkash Noman.\n\nDilkash's life takes an unexpected turn when she travels to Peshawar to attend a family wedding. Due to unexpected circumstances, she finds herself married to Sardar Zarghaam Khan, a powerful and respected Pashtun tribal chief.\n\nBut Dilkash is not an ordinary girl. She has her own dreams, opinions, and personality. Can she adjust to a completely different lifestyle? Will Zarghaam win her trust and love?\n\nA story filled with unexpected twists, family secrets, emotional moments, misunderstandings, and a beautiful journey from an unexpected marriage to love.\n\n❤️ Watch this complete AI romantic drama and discover how two different personalities become connected through an unforgettable relationship.\n\n━━━━━━━━━━━━━━━━━━\n\n🎬 DRAMA DETAILS\n\nDrama Name: Sardar Ki Sardarni\nMain Characters: Sardar Zarghaam Khan & Dilkash Noman\nGenre: Romantic Drama | Family Drama | Tribal Romance\nLanguage: Urdu\nContent Type: AI-Generated Drama\nChannel: AI DRAMA\n\n━━━━━━━━━━━━━━━━━━\n\n🤖 WELCOME TO AI DRAMA\n\nAI DRAMA is your destination for AI-generated fictional dramas, romantic love stories, emotional family stories, and cinematic storytelling.\n\nWe use Artificial Intelligence technology to bring creative stories and fictional characters to life through AI-generated visuals and videos.\n\nOur content is created for entertainment and storytelling purposes.\n\nIf you enjoy AI-generated dramas, Urdu AI stories, romantic dramas, and cinematic storytelling, make sure to:\n\n❤️ LIKE this video\n💬 SHARE your thoughts in the comments\n🔔 SUBSCRIBE to AI DRAMA\n📢 SHARE this drama with your friends\n\nThank you for watching!\n\n#AIDrama #AIGeneratedDrama #Pakistanidrama #UrduAIDrama #aistory #Pakistaniserial #pakistanilatestdrama #ainovel #pakistaniserialfullepisode #bestpakistanidrama #pakistanidramalove story #pakistaniserialdikhaiye",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/VVjFVbd9bUY/hqdefault.jpg",
+      "publishedAt": "2026-11-01T13:30:11Z",
+      "durationSeconds": 2495,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:28:57.045Z",
+      "lastSeenAt": "2026-11-09T04:28:57.045Z",
+      "lastVerifiedAt": "2026-11-09T04:28:57.045Z",
       "unavailableAt": null
     }
   ]

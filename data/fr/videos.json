@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:14:59.000Z",
+  "generatedAt": "2026-11-09T04:29:19.324Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -244,7 +244,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -437,7 +437,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -476,7 +476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -495,7 +495,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -514,7 +514,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-11-04T04:42:16.431Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -533,7 +533,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -552,7 +552,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:31.396Z",
       "lastSeenAt": "2026-10-17T02:51:31.396Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -704,7 +704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:58.743Z",
       "lastSeenAt": "2026-10-19T03:05:58.743Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -858,7 +858,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -878,7 +878,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -898,7 +898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:58.281Z",
       "lastSeenAt": "2026-10-23T03:13:58.281Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1323,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1457,7 +1457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-11-03T05:11:57.065Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1478,7 +1478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1498,7 +1498,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1520,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-06T04:57:00.164Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1539,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1559,7 +1559,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-06T04:57:00.164Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1578,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1597,7 +1597,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1616,7 +1616,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1654,7 +1654,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:15.606Z",
       "lastSeenAt": "2026-10-29T04:13:15.606Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1687,12 +1687,13 @@
       "publishedAt": "2026-10-29T19:00:19Z",
       "durationSeconds": 5141,
       "matchedKeywords": [
+        "drame IA film complet",
         "film complet intelligence artificielle"
       ],
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1712,7 +1713,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:56.515Z",
       "lastSeenAt": "2026-10-30T04:12:56.515Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1731,7 +1732,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1751,7 +1752,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1789,7 +1790,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1866,7 +1867,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:01.721Z",
       "lastSeenAt": "2026-11-02T04:13:01.721Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1885,7 +1886,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:01.721Z",
       "lastSeenAt": "2026-11-02T04:13:01.721Z",
-      "lastVerifiedAt": "2026-11-07T04:29:17.655Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1942,7 +1943,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:57.065Z",
       "lastSeenAt": "2026-11-03T05:11:57.065Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1961,7 +1962,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1980,7 +1981,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -1999,7 +2000,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2018,7 +2019,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2037,7 +2038,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2056,7 +2057,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2076,7 +2077,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2095,7 +2096,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2114,7 +2115,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2152,7 +2153,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:59.000Z",
       "lastSeenAt": "2026-11-08T04:14:59.000Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2171,7 +2172,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:59.000Z",
       "lastSeenAt": "2026-11-08T04:14:59.000Z",
-      "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     },
     {
@@ -2210,6 +2211,101 @@
       "discoveredAt": "2026-11-08T04:14:59.000Z",
       "lastSeenAt": "2026-11-08T04:14:59.000Z",
       "lastVerifiedAt": "2026-11-08T04:14:59.000Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BT5dLQKm2KI",
+      "url": "https://www.youtube.com/watch?v=BT5dLQKm2KI",
+      "title": "The Fatal Raid | Leur vengeance sera terrible | Film Complet | Action | ACE",
+      "description": "Une opération secrète menée contre un réseau de contrebande à Macao se termine par une fusillade meurtrière. Vingt ans plus tard, une nouvelle mission ramène les survivants sur les lieux du drame. Confrontés aux fantômes du passé et à une nouvelle génération de criminels, ils doivent enfin régler leurs comptes.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Jacky Lee\nAvec Patrick Tam, Michael Tong, Jade Leung\n© ACE - Tous droits réservés\n\n#filmcomplet #filmaction #policier #Macao #fusillade #cinemaasiatique #fullmovie\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/BT5dLQKm2KI/hqdefault.jpg",
+      "publishedAt": "2026-11-08T20:30:25Z",
+      "durationSeconds": 5478,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:19.324Z",
+      "lastSeenAt": "2026-11-09T04:29:19.324Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "I8OT_c3EetE",
+      "url": "https://www.youtube.com/watch?v=I8OT_c3EetE",
+      "title": "Ces dames préfèrent le mambo | Film Complet | Eddie Constantine | Lino Ventura | Comédie | PF",
+      "description": "Le capitaine Burt Brickford a déserté la marine américaine. Désormais plus libre, il se lance dans une chasse au trésor à bord d'un somptueux bateau. Mais tout ne va pas être simple...\n\n👉 Abonnez-vous à Ciné Gold pour découvrir les grands classiques du cinéma 🎬 https://shorturl.at/fJ3Q3\n\nUn film de Bernard Borderie \nAvec Eddie Constantine, Pascale Roberts, Lino Ventura\n© Pathé Films - Tous droits réservés\n\n#eddieconstantine #linoventura #pascaleroberts #comédie #cinemaclassique #filmvintage #filmculte\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UClLH-7AYjEV89YIdwUlhE-g",
+      "channelTitle": "CINE GOLD",
+      "thumbnail": "https://i.ytimg.com/vi/I8OT_c3EetE/hqdefault.jpg",
+      "publishedAt": "2026-11-08T20:00:01Z",
+      "durationSeconds": 5960,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:19.324Z",
+      "lastSeenAt": "2026-11-09T04:29:19.324Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MUsq_gLXcHA",
+      "url": "https://www.youtube.com/watch?v=MUsq_gLXcHA",
+      "title": "Le destin au bout du fil | Film Complet | Romance | Cassie Steele | M6+ Films & Séries",
+      "description": "Kelly, architecte d’intérieur, se remet difficilement de sa dernière rupture, même si sa meilleure amie la pousse à faire de nouvelles rencontres. Jeff, veuf depuis trois ans, a quitté son cabinet d’avocat pour s’essayer à l’assistance téléphonique pour les conducteurs. Pour sa première urgence, Jeff tombe sur Kelly, qu’il parvient à rassurer alors qu’elle est coincée dans sa voiture accidentée. Après avoir raccroché, tous deux vont tout mettre en œuvre pour se revoir…\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1\n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nLE DESTIN AU BOUT DU FIL (TWIST OF FATE/RESCUE ME)\nRéalisation : Farhad Mann\nDistribution : Cassie Steele, Andrew Francis, Karissa Tynes, Ryan Kennedy et Andrea Brooks\n© GREAT POINT MEDIA - 2016 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/MUsq_gLXcHA/hqdefault.jpg",
+      "publishedAt": "2026-11-08T18:00:32Z",
+      "durationSeconds": 4926,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:19.324Z",
+      "lastSeenAt": "2026-11-09T04:29:19.324Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Uc7FRvOTjT8",
+      "url": "https://www.youtube.com/watch?v=Uc7FRvOTjT8",
+      "title": "SOCIAL HACKING : DEUX GAMINS DE PUTEAUX PIRATENT 100 MILLIONS | Film complet IA (2026)",
+      "description": "Deux gamins de Puteaux. Une faille. 100 millions. Et un aller simple pour Dubaï… qui finit en salle de transit, menottes aux poignets.\n\nSOCIAL HACKING, c'est l'histoire de Yanis « Zéro » et Hugo « Root », potes depuis le collège, qui ont compris qu'on ne pirate pas seulement des ordinateurs : on pirate la confiance des gens. De la dalle de La Défense aux yachts de Dubaï, ils vont voler des voleurs, toucher le gros lot… et découvrir que l'argent attire toujours quelqu'un de plus dangereux que soi.\n\n🎬 4ᵉ long métrage de KYZ LE CHACAL — entièrement écrit, réalisé, animé et monté avec l'intelligence artificielle.\n⚠️ Fiction. Les personnages, les entreprises (dont la plateforme Vaultrix) et les faits sont inventés. Aucune méthode réelle n'est montrée.\n\n👉 Abonne-toi et active la cloche 🔔 pour ne pas rater le prochain film.\n💬 Dis-nous en commentaire : Zéro ou Root, t'es team qui ?\n\n⏱️ CHAPITRES\n0:00 Cold open — Le transit\n1:24 Chapitre 1 — Le maillon faible\n5:44 Chapitre 2 — Voler les voleurs\n16:27 Chapitre 3 — Dubaï\n29:45 Chapitre 4 — Le gros coup\n42:17 Chapitre 5 — La traque\n52:49 Chapitre 6 — Le transit\n57:45 Générique\n\n🎥 Les autres films de KYZ LE CHACAL : Bonne Mère, Crever à Baga, Le Baron\n🔎 Et la série true crime : Les Crimes du Chacal\n\n#SocialHacking #FilmComplet #FilmIA #Hacker #KYZLeChacal",
+      "channelId": "UCWZ_W2DvYNTH220ZKOfqGsQ",
+      "channelTitle": "👑 KYZ Le Chacal 🔥",
+      "thumbnail": "https://i.ytimg.com/vi/Uc7FRvOTjT8/hqdefault.jpg",
+      "publishedAt": "2026-11-08T11:03:24Z",
+      "durationSeconds": 3642,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:19.324Z",
+      "lastSeenAt": "2026-11-09T04:29:19.324Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RBtcru4w3hA",
+      "url": "https://www.youtube.com/watch?v=RBtcru4w3hA",
+      "title": "Anne Hathaway IGNORE QU’ELLE EST À L’ORIGINE DU CHAOS 😨 | Thriller Complet en Français",
+      "description": "Découvrez ce film complet intense où une ville est menacée par un robot géant aux intentions mystérieuses.\n\nCe film action suit le parcours d'une femme en proie à l'inquiétude alors qu'un inconnu observe la situation depuis un banc public. Le récit se concentre sur l'apparition soudaine d'un monstre mécanique au cœur de la cité, transformant le quotidien en une lutte pour la survie. Entre suspense et scènes spectaculaires, le spectateur est plongé dans une atmosphère où chaque seconde compte face à la menace métallique.\n\nLes personnages doivent faire face à l'imprévisible dans ce récit où la tension ne retombe jamais. Ce long-métrage est idéal pour les amateurs de thrillers urbains qui apprécient les affrontements épiques et les récits de science-fiction.\n\nAbonnez-vous à THEMA FILM pour découvrir d'autres films complets en français et dites-nous en commentaire : quelle scène de confrontation vous a le plus impressionné ?\n\n0:00 Un départ précipité\n2:22 Les secrets du loft\n7:09 Retrouvailles inespérées\n11:38 La salle oubliée\n17:11 Une menace colossale\n22:03 Le retour du géant\n31:26 La vérité éclate\n41:26 Le doute s'installe\n1:07:39 Le face-à-face final",
+      "channelId": "UCRoj_Q9i1Lwk-6xmymWmI5Q",
+      "channelTitle": "Thema Films",
+      "thumbnail": "https://i.ytimg.com/vi/RBtcru4w3hA/hqdefault.jpg",
+      "publishedAt": "2026-11-04T15:00:11Z",
+      "durationSeconds": 6289,
+      "matchedKeywords": [
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:19.324Z",
+      "lastSeenAt": "2026-11-09T04:29:19.324Z",
+      "lastVerifiedAt": "2026-11-09T04:29:19.324Z",
       "unavailableAt": null
     }
   ]

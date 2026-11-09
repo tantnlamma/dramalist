@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:15:08.496Z",
+  "generatedAt": "2026-11-09T04:29:30.054Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1063,7 +1063,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:14:07.328Z",
       "lastSeenAt": "2026-10-23T03:14:07.328Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1405,7 +1405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-02T04:13:10.646Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1443,7 +1443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-01T04:09:15.763Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1576,7 +1576,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1614,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1633,7 +1633,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1652,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1747,7 +1747,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-03T05:12:06.800Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1785,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1823,7 +1823,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:27.806Z",
       "lastSeenAt": "2026-11-04T04:42:27.806Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1894,12 +1894,13 @@
       "publishedAt": "2026-11-04T08:10:27Z",
       "durationSeconds": 2521,
       "matchedKeywords": [
-        "film drama AI lengkap"
+        "film drama AI lengkap",
+        "film fiksi ilmiah AI lengkap"
       ],
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1937,7 +1938,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1956,7 +1957,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1975,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-07T04:29:26.698Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -1994,7 +1995,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:08.496Z",
       "lastSeenAt": "2026-11-08T04:15:08.496Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -2013,7 +2014,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:08.496Z",
       "lastSeenAt": "2026-11-08T04:15:08.496Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     },
     {
@@ -2032,7 +2033,140 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:08.496Z",
       "lastSeenAt": "2026-11-08T04:15:08.496Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DGcfaDivJjg",
+      "url": "https://www.youtube.com/watch?v=DGcfaDivJjg",
+      "title": "Aku Tak Bisa Melihat Ayah - film Indonesia terbaru full movie bioskop - I can't see my father ",
+      "description": "AKU TAK BISA MELIHAT AYAH | film drama keluarga mengharukan \n\nSebuah kisah tentang cinta seorang ayah, pengorbanan, dan arti kehilangan yang sesungguhnya.\n\nFilm ini merupakan lanjutan dari film “Aku yang meninggalkan ayah”, yang kembali menghadirkan perjalanan Ardi dan Pak Darma dalam menghadapi ujian kehidupan yang begitu menyakitkan.\n\nKetika Ardi kehilangan penglihatannya, seorang ayah berjuang dalam diam demi mengembalikan harapan anaknya. Namun, di balik perjuangan itu, tersimpan pengorbanan yang tak pernah Ardi bayangkan.\n\nSebab terkadang, cinta terbesar tidak diucapkan melalui kata-kata… melainkan melalui pengorbanan yang tak terlihat.\n\nDisclaimer: Film ini merupakan karya fiksi yang dibuat untuk tujuan hiburan dan menyampaikan pesan kehidupan. Seluruh karakter, cerita, dan kejadian dalam film ini bersifat fiktif. Film ini dibuat dengan bantuan teknologi kecerdasan buatan (AI), melalui ide, arahan kreatif, penyusunan cerita, dialog, dan proses produksi oleh kreator. Film ini tidak dimaksudkan untuk menggambarkan kejadian nyata atau menggantikan nasihat medis.\n\nTentang Kreator: Film ini dibuat melalui proses kreatif dengan bantuan teknologi AI, mulai dari pengembangan ide cerita, penulisan skenario, penyusunan dialog,musik, hingga pembuatan visual film. Seluruh proses diarahkan dan dikembangkan oleh kreator untuk menghadirkan sebuah kisah yang menyentuh hati dan membawa pesan kehidupan.\n\nTerima kasih kepada semua penonton yang telah mendukung karya ini. Semoga film ini mengingatkan kita untuk selalu menghargai orang-orang yang kita cintai, selagi mereka masih berada di sisi kita.\n\nJangan lupa Like, Comment, dan Subscribe untuk mendukung karya film AI berikutnya.\n\n\nhttps://youtube.com/@Ldifixinema?si=6bSXmR4Je1Ij-fj3\n\nSITUS AI YANG DIPAKAI : \nhttps://chatgpt.com/\nhttps://labs.google/fx...\nhttps://kling.ai/id\nhttps://dreamina.capcut.com/ai-tool/home?utm_medium=sem&utm_source=googleadwords_int&utm_campaign=model&utm_content=mweb&pid=513641&campaign_id=23515606066&adset_id=195463155347&ad_id=795012021818&keyword=dreamina%20seedream&matchtype=b&channel=g&placement=&target=kwd-2432927172221&gad_source=1&gad_campaignid=23515606066&gbraid=0AAAAACROvhkPXJlWgBjuh35KFM_bhlwTp&gclid=CjwKCAjwu53SBhAhEiwAJzSLNqMX9DlSVCB9swsg8BqlLUKRhUIKv0ou2ewjb11G3lo_jaGJN-X_5RoCQqAQAvD_BwE\n\nMUSIK YANG DIPAKAI :\nhttps://www.image-line.com/\n\n\n────────────────────\n\n© 2026 [LDI FIXINEMA]\nSeluruh karya cerita, penyusunan film, dan materi produksi merupakan bagian dari proyek kreatif channel ini.\n\n\n#AkuTakBisaMelihatAyah #AkuYangMeninggalkanAyah #FilmIndonesiaterbarufullmoviebioskop #FilmDrama #FilmSedih #FilmKeluarga #AIFilm #DramaKeluarga\n#film #filmindonesia #filmdramaindonesia #filmindonesia2026",
+      "channelId": "UCoISlAuRGjLM10LqtS1-TJg",
+      "channelTitle": "LDI FIXINEMA",
+      "thumbnail": "https://i.ytimg.com/vi/DGcfaDivJjg/hqdefault.jpg",
+      "publishedAt": "2026-11-08T09:00:33Z",
+      "durationSeconds": 5226,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VaKl_u7bIz0",
+      "url": "https://www.youtube.com/watch?v=VaKl_u7bIz0",
+      "title": "Mission Pandora: A Letter from the Future | Full AI Sci-Fi Series (Episodes 73–77)",
+      "description": "For a hundred years, ships in jump have heard the same interference, and when it was finally decoded, it turned out to be a letter from an ark that is still standing in scaffolding. The crew of the Pandora knows nothing about it: a station on living ice, a jump, refuelling at an ice planet, and an argument about who built this world.\n\nEpisodes 73–77 in one film.\n\n0:00 Episode 73. The Station\n8:48 Episode 74. A Letter from the Future\n15:34 Episode 75. They Don't Know They're Flying\n22:18 Episode 76. The Ice Remembers\n33:18 Episode 77. Who Builds the House\n\nMission Pandora is a sci-fi series created and voiced with artificial intelligence, with human participation: the images, video, voices and music are generated, while the story, direction and editing are ours.",
+      "channelId": "UCNJXg4qt2kp53fzx-4xZOdQ",
+      "channelTitle": "Mission Pandora",
+      "thumbnail": "https://i.ytimg.com/vi/VaKl_u7bIz0/hqdefault.jpg",
+      "publishedAt": "2026-11-08T15:16:12Z",
+      "durationSeconds": 2406,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rAeoE9-ccGo",
+      "url": "https://www.youtube.com/watch?v=rAeoE9-ccGo",
+      "title": "Sardar Ki Mohabbat || Complete Ai Drama || Pakistani Drama || Pakistani Serial || Ai || Ai Drama",
+      "description": "Sardar Ki Mohabbat | Pakistani Romantic AI Drama | Urdu Love Story\n\nKya mohabbat hamesha khushiyan deti hai, ya kabhi kabhi zindagi ka sab se bara dard ban jati hai? ❤️‍🩹\n\nPesh-e-khidmat hai ek aisi jazbati dastaan jahan mohabbat, zulm, bebasi, dard aur rishton ki azmaish ek doosre se judi hui hain.\n\nBahroz Khan aur Farah Ismail Shah ki yeh kahani aap ko mohabbat ke ek aise pehlu se rubaru karwayegi jahan kuch zakhm waqt ke saath bhi nahi bharte aur kuch faislay poori zindagi badal dete hain.\n\nKya Farah apni zindagi ke dukhon se bahar nikal payegi? Kya Bahroz Khan ke dil mein chhupi mohabbat kabhi uski zindagi mein sukoon la sakegi?\n\nYeh sab jaanne ke liye dekhiye mukammal drama Sardar Ki Mohabbat.\n\n❤️ Agar aap ko Pakistani dramas, Urdu romantic stories aur emotional love stories pasand hain to hamare channel ko Subscribe karein, video ko Like karein aur Share zaroor karein.\n\n🔔 Subscribe for more Pakistani AI Dramas and Romantic Stories!\n\nDISCLAIMER:\n\nThis video is a fictional AI-generated drama created for entertainment purposes only. All characters, names, events and situations are fictional. Any resemblance to actual persons, living or dead, or real events is purely coincidental. AI-generated visuals and voices may be used in this production. This video is not intended to hurt, disrespect or defame any individual, community or organization.\n\n#AIDrama #UrduDrama #AiGeneratedDrama #UrduRomanticDrama #LoveStory #PakistaniDrama #AiStories #ai #PakistaniSerial #AiDramas #AiSerial #AiDramaStory",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/rAeoE9-ccGo/hqdefault.jpg",
+      "publishedAt": "2026-11-08T13:30:16Z",
+      "durationSeconds": 2847,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "E7EOaoEjR4s",
+      "url": "https://www.youtube.com/watch?v=E7EOaoEjR4s",
+      "title": "Kissed a Stranger, Then She Became My Boss | Lesbian Romance Full Movie",
+      "description": "She kissed a stranger at a masked gala — and neither of them asked the other's name.\n\nOn Monday, Romy walks into her new job at a design studio… and the woman from the balcony walks in carrying a lamp. Sloane Vesper. Founder. CEO. Her new boss.\n\nThey agree to do this properly: clear rules, no favours, and a real first date at a diner where Sloane brings a list of conversation topics in case they run out of things to say. They never do.\n\nBut when Sloane learns something about Romy's future and keeps it to herself, the one thing they promised each other — no guessing — is the thing she breaks.\n\nBEFORE YOU KNEW MY NAME is a full-length sapphic romance about two women who met before they knew each other's names, and had to learn everything else the honest way.\n\n💛 If this story made you feel something, a like and a comment truly help this small channel keep making them.\n🔔 Subscribe to HerWhisperTales for more soft, slow, sapphic love stories.\n\nContent note: contains brief, non-explicit romantic intimacy.\n\nAn original AI-assisted film. Story, characters and dialogue are original work created for this channel. Video and voices are AI-generated.\n\n#WLW #SapphicRomance #LesbianLoveStory #LesbianMovie #WLWMovie #GLSeries #StrangersToLovers #BossRomance #HerWhisperTales",
+      "channelId": "UC1INz92cdUKYMjRzYxv5j6A",
+      "channelTitle": "Her Whisper Tales",
+      "thumbnail": "https://i.ytimg.com/vi/E7EOaoEjR4s/hqdefault.jpg",
+      "publishedAt": "2026-11-02T18:01:51Z",
+      "durationSeconds": 3727,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4kh97DW_8Hc",
+      "url": "https://www.youtube.com/watch?v=4kh97DW_8Hc",
+      "title": "Roothi Hui Muhabat || Pakistani Romantic Drama || Complete Ai Drama || Pakistani Serial || AI Drama",
+      "description": "💞 Ruthi Hoi Mohabbat | AI-Based Urdu Romantic Drama \n\nAssalam-o-Alaikum, dear viewers! ❤️\n\nWelcome to our channel!\n\nPresenting \"Ruthi Hoi Mohabbat\", an emotional AI-based Urdu romantic drama featuring love, hatred, family rivalry, forced marriage, and a journey from misunderstandings to love.\n\n💖 Drama Story:\n\nZoha Khan and Arsal Shah were bound by a childhood marriage promise, but years of hatred between their families stood in the way of their relationship. Arsal initially refuses to marry Zoha, but his grandmother's last wish changes his decision.\n\nAfter their marriage, Zoha enters Arsal's world, where possessiveness, family conflicts, and unexpected emotions begin to shape their relationship. Will their marriage turn into true love, or will their families' painful past destroy their future?\n\nWatch \"Ruthi Hoi Mohabbat\" to discover the emotional twists and turns of Zoha and Arsal's story.\n\n🎬 Drama Details:\n\n- Drama Title: Ruthi Hoi Mohabbat\n- Format: AI-Based Urdu Drama\n- Genre: Romantic, Emotional, Family Drama\n- Themes: Forced Marriage, Family Rivalry, Possessive Hero, Arranged Marriage, and Love-Hate Relationship\n\n❤️ If you enjoy AI-based Pakistani-style dramas and Urdu romantic stories, make sure to LIKE, COMMENT, SHARE, and SUBSCRIBE to our channel for more exciting AI drama episodes.\n\n💬 Tell us in the comments: Do you think Arsal and Zoha's relationship will become a true love story?\n\n🔔 Turn on notifications so you don't miss our upcoming dramas!\n\nThank you for your love and support. ❤️\n\n#AIDrama #UrduDrama #RuthiHoiMohabbat #AIRomanticDrama #PakistaniDrama #UrduRomanticDrama #ForcedMarriage #LoveStory #AIStory #pakistaniserial #completepakistanidrama #ai #aivideo #airomanticdrama #aidramas",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/4kh97DW_8Hc/hqdefault.jpg",
+      "publishedAt": "2026-10-26T14:27:53Z",
+      "durationSeconds": 3763,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yFrhqmxWHJI",
+      "url": "https://www.youtube.com/watch?v=yFrhqmxWHJI",
+      "title": "Di Jodohkan Dengan Pria Sejati Berhati Dingin | EP.1-10 FULL MOVIE | AI DRAMA",
+      "description": "Video ini merupakan fictional story yang dibuat untuk hiburan. Cerita, hubungan antar karakter, dialog, maupun kejadian di dalam video sepenuhnya fiksi dan tidak menggambarkan kehidupan pribadi, hubungan nyata\n\n⚠️ Disclaimer\nPenggunaan nama/wajah idol dalam video hanya sebagai referensi untuk membangun karakter dalam cerita fiksi. Mohon tidak menganggap alur atau pairing dalam video ini sebagai fakta.\n\nVideo ini dibuat dengan bantuan teknologi AI. Mohon maaf apabila masih terdapat hasil AI yang kurang sempurna, seperti ekspresi wajah, gerakan, lip-sync, detail visual, transisi, atau beberapa bagian yang mungkin terlihat sedikit aneh.\n\n#aidrama #dramashorts #aivideo #aidramaseries #series #dramakeluarga #aidramaanime #shortsdrama #anime #shortvideo #aishorts #Di JodohkanDenganPria SejatiBerhatiDingin#fullmovie",
+      "channelId": "UCAi-V3_1Mugs3eJeVFZ8DKQ",
+      "channelTitle": "Sahab",
+      "thumbnail": "https://i.ytimg.com/vi/yFrhqmxWHJI/hqdefault.jpg",
+      "publishedAt": "2026-10-22T07:27:27Z",
+      "durationSeconds": 4240,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3gDxJQc6CTQ",
+      "url": "https://www.youtube.com/watch?v=3gDxJQc6CTQ",
+      "title": "Kubiayai Kuliahnya, Dia Bawa Tunangan | Drama Pendek Bikin Nangis",
+      "description": "Bertahun-tahun Ayu bekerja keras menjual kue di pasar desa. Bangun sebelum subuh, menahan lapar, kehujanan saat mengantar dagangan, bahkan rela menjaminkan BPKB motor peninggalan ayahnya demi satu tujuan: membiayai kuliah Bagas, lelaki yang dicintainya, sampai berhasil mendapatkan pekerjaan.\n\nAyu tidak pernah meminta kemewahan.\n\nIa hanya ingin Bagas menepati satu janji sederhana: menikah dengannya setelah berhasil.\n\nNamun, saat Bagas akhirnya pulang dari kota, Ayu justru melihat seorang perempuan cantik dan kaya berdiri di samping lelaki yang selama ini diperjuangkannya.\n\nPerempuan itu bernama Sisca.\n\nDan di jari Sisca melingkar sebuah cincin yang dibelikan Bagas.\n\nCincin yang seharusnya menjadi lambang masa depan Ayu bersama Bagas.\n\nLebih menyakitkan lagi, Bagas datang membawa amplop berisi 40 juta rupiah, seolah seluruh keringat, air mata, rasa lapar, dan pengorbanan Ayu selama bertahun-tahun bisa diganti dengan uang.\n\nAyu bisa memohon. Bisa menangis dan meminta Bagas kembali. Bisa menerima uang itu lalu mengubur semua rasa sakitnya.\n\nTetapi keputusan Ayu justru membuat Bagas dan Sisca terkejut.\n\nApa yang Ayu lakukan terhadap uang 40 juta itu?\n\nDan bagaimana nasib perempuan penjual kue sederhana setelah ditinggalkan lelaki yang telah ia perjuangkan sampai sukses?\n\n“Kubiayai Sampai Sukses, Dia Bawa Tunangan” adalah film drama pendek Indonesia tentang cinta, pengkhianatan, pengorbanan, perjuangan hidup, kesetiaan, keluarga, dan harga diri seorang perempuan.\n\nIni bukan hanya kisah cinta menyedihkan tentang lelaki yang melupakan pengorbanan kekasihnya.\n\nIni adalah perjalanan Ayu, seorang perempuan sederhana yang harus menghadapi utang, kehilangan kepercayaan, dan luka pengkhianatan, sebelum perlahan membangun kembali kehidupannya melalui usaha kue bernama Warisan Ayu.\n\nKetika kehidupan Ayu mulai berubah, nasib Bagas justru bergerak ke arah yang tidak pernah ia bayangkan.\n\nHingga suatu hari, lelaki yang dahulu meninggalkannya kembali berdiri di depan gerbang usaha Ayu.\n\nNamun, apakah penyesalan yang datang terlambat masih pantas mendapatkan kesempatan kedua?\n\nTonton drama pendek bikin nangis ini sampai akhir untuk melihat bagaimana pengorbanan Ayu, pilihan Bagas, dan kesombongan Sisca membawa konsekuensi yang berbeda bagi kehidupan mereka.\n\nKalau kamu berada di posisi Ayu, apakah kamu akan menerima Bagas kembali setelah semua pengkhianatannya?\n\nTulis pendapatmu di kolom komentar. Menurutmu, apakah cinta yang pernah dikhianati masih layak diberi kesempatan kedua?\n\nJika kamu menyukai drama Indonesia, film pendek Indonesia, kisah cinta penuh pengorbanan, drama keluarga, kisah perselingkuhan dan pengkhianatan, perjuangan perempuan mandiri, serta cerita kehidupan yang menyentuh hati, dukung channel ini dengan LIKE, SUBSCRIBE, dan BAGIKAN film ini kepada orang yang menyukai cerita penuh pesan kehidupan.\n\nDISCLAIMER\nCerita ini merupakan karya fiksi. Seluruh nama tokoh, karakter, dialog, tempat, organisasi, dan rangkaian peristiwa dibuat untuk kebutuhan cerita. Kemiripan dengan orang, kejadian, atau kondisi nyata bersifat kebetulan dan tidak dimaksudkan untuk menggambarkan pihak tertentu.\n\nFilm ini dibuat dengan bantuan teknologi Artificial Intelligence (AI) dalam proses kreatif dan produksi, termasuk pengembangan cerita, visual, dan elemen audiovisual. Teknologi AI digunakan sebagai alat bantu kreatif untuk membentuk sebuah karya drama yang utuh dan menghibur.\n\nFilm ini mengangkat tema pengorbanan, pengkhianatan, perjuangan ekonomi, hubungan keluarga, dan harga diri sebagai bagian dari cerita fiksi. Konten ini tidak dimaksudkan sebagai nasihat medis, hukum, keuangan, atau representasi dokumenter atas kejadian nyata.",
+      "channelId": "UC7Dc5C_r5oj7tE-4ArpRpkQ",
+      "channelTitle": "DRAMAI",
+      "thumbnail": "https://i.ytimg.com/vi/3gDxJQc6CTQ/hqdefault.jpg",
+      "publishedAt": "2026-10-18T02:42:40Z",
+      "durationSeconds": 2081,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-09T04:29:30.054Z",
+      "lastSeenAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
       "unavailableAt": null
     }
   ]
