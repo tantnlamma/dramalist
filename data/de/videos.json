@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:29:24.570Z",
+  "generatedAt": "2026-11-10T05:50:46.471Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -110,7 +110,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-10-30T04:13:01.160Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,26 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-09T04:29:24.570Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AXhHGg-AUsc",
+      "url": "https://www.youtube.com/watch?v=AXhHGg-AUsc",
+      "title": "LILY COLLINS in: Regeln spielen keine Rolle (LIEBESFILM auf Deutsch komplett, Romantische Komödien)",
+      "description": "❤️🎭Die BESTEN Liebeskomödien auf Deutsch ansehen - jetzt FABELLA hier abonnieren: http://bit.ly/FabellaAbo\n▶ Rules Don't Apply“ ist eine romantische Tragikomödie über verbotene Gefühle, große Ambitionen und die schillernde Welt des alten Hollywood.\n\nOriginaltitel:  Rules Don't Apply (2016)\nMit: Lily Collins, Haley Bennett, Taissa Farmiga\nRegie: Warren Beatty\nFSK: Freigegeben ab 6 Jahren\n\nINHALTSANGABE:\nHollywood in den späten 1950er-Jahren: Die junge und ehrgeizige Schauspielerin Marla Mabrey reist gemeinsam mit ihrer Mutter nach Los Angeles, um ihren großen Traum von einer Karriere beim Film zu verwirklichen. Dort steht sie unter Vertrag bei dem exzentrischen Milliardär und Filmproduzenten Howard Hughes, der für seine ungewöhnlichen Geschäftsmethoden und strengen Regeln bekannt ist.\n\nKurz nach ihrer Ankunft lernt Marla den jungen Chauffeur Frank Forbes kennen, der ebenfalls für Hughes arbeitet und davon träumt, eines Tages selbst ein erfolgreicher Geschäftsmann zu werden. Obwohl beide aus streng religiösen Familien stammen und ihre eigenen Vorstellungen von Liebe und Zukunft haben, fühlen sie sich zunehmend zueinander hingezogen. Doch eine Beziehung zwischen Angestellten ist bei Howard Hughes streng verboten.\n\nWährend Marla und Frank versuchen, ihre wachsenden Gefühle zu verbergen, geraten sie immer tiefer in die bizarre Welt ihres unberechenbaren Arbeitgebers. Hughes mischt sich zunehmend in ihr Leben ein und stellt die beiden vor schwierige Entscheidungen. Zwischen Hollywood-Glamour, persönlichen Träumen und gesellschaftlichen Erwartungen müssen Marla und Frank herausfinden, ob sie bereit sind, für ihre Liebe und ihre Zukunft die Regeln zu brechen.\n#Film #ganzerFilm #lilycollins #taissafarmiga \n\nWerdet Fabella-Mitglied und genießt exklusive Vorteile:\nhttps://www.youtube.com/channel/UCww-ReMpc2FgiGb6vIQddWg/join\n\nFOLGT FABELLA AUF FACEBOOK: https://bit.ly/FabellaFacebook\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UCww-ReMpc2FgiGb6vIQddWg",
+      "channelTitle": "FABELLA - Spielfilme, Drama, Komödie, Liebe",
+      "thumbnail": "https://i.ytimg.com/vi/AXhHGg-AUsc/hqdefault.jpg",
+      "publishedAt": "2026-11-01T15:00:38Z",
+      "durationSeconds": 7619,
+      "matchedKeywords": [
+        "KI Drama Film vollständig"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:46.471Z",
+      "lastSeenAt": "2026-11-10T05:50:46.471Z",
+      "lastVerifiedAt": "2026-11-10T05:50:46.471Z",
       "unavailableAt": null
     }
   ]

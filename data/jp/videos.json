@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:29:00.830Z",
+  "generatedAt": "2026-11-10T05:50:23.474Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -293,7 +293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -932,14 +932,14 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
       "videoId": "i2cdf3hl4OA",
       "url": "https://www.youtube.com/watch?v=i2cdf3hl4OA",
       "title": "Telur Naga Tertinggi Di Tangannya Full Movie Drama AI",
-      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Supreme Dragon Egg in His Hand - Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
+      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Dragonless Beggar Commands Nine Dragons | Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
       "channelId": "UCZyg67AK1lbTkwN3otFitsw",
       "channelTitle": "Reynold Bronson Official",
       "thumbnail": "https://i.ytimg.com/vi/i2cdf3hl4OA/hqdefault.jpg",
@@ -1016,7 +1016,7 @@
     {
       "videoId": "7-rWFqxL7dw",
       "url": "https://www.youtube.com/watch?v=7-rWFqxL7dw",
-      "title": "A City That Decides What You Become — and Takes Those Who Refuse | Invisible Shackles, Part 1",
+      "title": "The Happening: A Sci-Fi Thriller About the Shackles You Can't See",
       "description": "Watch this chilling dystopian sci-fi thriller movie in 4K. When citizens turn 21, they vanish into a dark fantasy world where survival means uncovering why they are taken.\n\nINVISIBLE SHACKLES, Part 1: a dystopian science fiction film set in ASU, a city where everyone is born without a gender and the state decides who you become.\n\nEach person waits for the Happening, the day their body changes and they become a man or a woman, witnessed and recorded by the state. Those who haven't changed by twenty-one are taken in the night. Protest is permitted, but only in silence.\n\nMagec and Tanit are two months from their twenty-first birthday. Beyond the white walls lie the Beautiful City, where every smile is a performance, and Djena, where a stranger's life can end in an alley. Between them stands Hatt Kushim, who decides who gets to become who, and the chain that links every door.\n\nAn original cinematic film written and directed by Hafid Abdelmoula, for viewers who like dystopian science fiction, slow-burn world-building and stories about the shackles nobody sees.\n\nIf silence were the only protest you were allowed, would you break it? Tell me in the comments.\n\nCHAPTERS\n0:00 The Night Raid\n2:34 The Happening\n5:00 The Silent Square\n6:01 The Enforcer Hall\n6:31 The Cell\n6:50 Oiz, Guardian of ASU\n8:10 The Argument\n9:22 Twenty-One Years Ago\n10:50 Sherri's Offer\n11:40 The Beautiful City\n12:45 The Intake\n13:00 Arthur and Donald\n16:00 The Carriage\n16:20 The Ballroom\n17:20 The Hatt Room\n19:53 Love Is Weakness\n21:35 The Bathroom\n25:30 Into Djena\n28:00 The Baby\n28:40 Back to the Present\n29:40 The Change\n30:43 To Be Continued\n\nWritten and Directed by Hafid Abdelmoula\nProduced by Trudel Abdelmoula and Manfred Strobach\nA THDFILMS production. Created with AI tools (Seedance 2.5, Seedream, Higgsfield) and edited in DaVinci Resolve.\n\nMore films from THDFILMS on this channel.\n\n#InvisibleShackles #ScienceFictionFilm #DystopianFilm #IndieFilm\n\nThis is a work of fiction. All characters and events are imaginary.\n© THDFILMS LLC",
       "channelId": "UCkRmY0s0NtBIg0_3U15OTqw",
       "channelTitle": "THDFILMS ",
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1148,7 +1148,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1265,7 +1265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1361,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1440,7 +1440,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:00.830Z",
       "lastSeenAt": "2026-11-09T04:29:00.830Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     },
     {
@@ -1454,12 +1454,13 @@
       "publishedAt": "2026-11-02T08:07:46Z",
       "durationSeconds": 2788,
       "matchedKeywords": [
-        "AI 映画 フル"
+        "AI 映画 フル",
+        "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:00.830Z",
       "lastSeenAt": "2026-11-09T04:29:00.830Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-10T05:50:23.474Z",
       "unavailableAt": null
     }
   ]

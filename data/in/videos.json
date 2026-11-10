@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:28:51.780Z",
+  "generatedAt": "2026-11-10T05:50:13.201Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1245,7 +1245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:44.977Z",
       "lastSeenAt": "2026-10-24T03:07:44.977Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1457,7 +1457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1819,7 +1819,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2028,7 +2028,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2066,7 +2066,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2123,7 +2123,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2161,7 +2161,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2237,7 +2237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2313,7 +2313,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     },
     {
@@ -2351,7 +2351,83 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "YXkwa1c7X58",
+      "url": "https://www.youtube.com/watch?v=YXkwa1c7X58",
+      "title": "The Dragon Mother 🐉 | Full Fantasy Movie in Hindi | Elena & Luna की जादुई कहानी",
+      "description": "The Dragon Mother 🐉 | Full Fantasy Movie in Hindi | Elena & Luna की जादुई कहानी\n\n🐉 THE DRAGON MOTHER – Full Fantasy Adventure Movie\n\nएक ऐसी लड़की की कहानी, जिसकी किस्मत ड्रैगन की दुनिया से जुड़ी हुई है। Elena और उसकी छोटी ड्रैगन Luna एक खतरनाक सफर पर निकलते हैं, जहाँ उनका सामना प्राचीन ड्रैगन्स, रहस्यमयी शक्तियों और एक बड़े रहस्य से होता है।\n\nक्या Elena सभी ड्रैगन्स को बचा पाएगी? क्या Luna अपनी असली ताकत पहचान पाएगी? जानने के लिए पूरी फिल्म देखिए!\n\n✨ अगर आपको Fantasy, Dragon और Adventure Movies पसंद हैं, तो वीडियो को Like करें और चैनल को Subscribe करें।\n\nयह एक ओरिजिनल AI-generated fantasy story है।\n\n#TheDragonMother #DragonMovie #FantasyMovie #HindiMovie #AIMovie #DragonStory #FantasyAdventure #FullMovie #Elena #Luna #EpicFantasy #HollywoodStyle\n\nSEO Tags:\n\nThe Dragon Mother, The Dragon Mother movie, dragon movie in Hindi, full fantasy movie, Hindi fantasy movie, AI generated movie, dragon adventure movie, fantasy adventure story, Elena and Luna, baby dragon movie, ancient dragon story, epic fantasy movie, dragon mother story, magical dragon movie, AI fantasy film, full movie Hindi",
+      "channelId": "UC9svnhOYQScdhmFRnlkwb1Q",
+      "channelTitle": "Flying Stories ",
+      "thumbnail": "https://i.ytimg.com/vi/YXkwa1c7X58/hqdefault.jpg",
+      "publishedAt": "2026-11-10T04:05:32Z",
+      "durationSeconds": 2990,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:13.201Z",
+      "lastSeenAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "j3HcBiKmw_M",
+      "url": "https://www.youtube.com/watch?v=j3HcBiKmw_M",
+      "title": "KGF CHAPTER 3  (2026)🔥 Rocky Bhai Returns | Full Hindi Movie | 4K Action Thriller | Monster Films",
+      "description": "🔥 ROCKY BHAI IS BACK! | KGF CHAPTER 3 – FAN-MADE AI MOVIE\n\nThe empire is waiting for its king! Experience an intense fictional continuation of the KGF universe, featuring Rocky Bhai, powerful enemies, shocking twists, explosive action and an unforgettable gangster story.\n\nCan Rocky Bhai rule the world once again? Watch till the end to discover what happens next!\n\n🎬 VIDEO DETAILS:\nMovie Concept: KGF Chapter 3\nGenre: Action | Crime | Thriller | Gangster\nLanguage: Hindi\nFormat: Fan-Made AI Cinematic Movie\nQuality: 4K (if available)\n\n⚠️ DISCLAIMER:\nThis is an unofficial, fan-made  concept movie created for entertainment purposes. It is not an official KGF Chapter 3 movie and is not affiliated with Yash, Hombale Films, or the original filmmakers. All respective trademarks and copyrights belong to their owners.\n\n👍 LIKE the video if you love Rocky Bhai!\n💬 COMMENT: Are you Team Rocky Bhai?\n🔔 SUBSCRIBE for more cinematic action movies and fan-made AI stories.\n\n#KGF3 #RockyBhai #AIMovie",
+      "channelId": "UCHHnxa-tzruWKe0_KbsS0OA",
+      "channelTitle": "Monster Films",
+      "thumbnail": "https://i.ytimg.com/vi/j3HcBiKmw_M/hqdefault.jpg",
+      "publishedAt": "2026-11-09T01:22:55Z",
+      "durationSeconds": 7507,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:13.201Z",
+      "lastSeenAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uFWMO-Ms-tc",
+      "url": "https://www.youtube.com/watch?v=uFWMO-Ms-tc",
+      "title": "Book of Enoch & AI Movie | Fallen Angels & Watchers | Hindi Christian Sci-Fi",
+      "description": "PROJECT TRIPLE THREE (333) | Full Hindi Biblical Sci-Fi Movie | 1 Hour 20 Minutes\n\nWhat if humanity's greatest technological revolution was hiding an ancient deception?\n\nFrom the mysterious Watchers and the forbidden knowledge described in the Book of Enoch to artificial intelligence, secret societies, nuclear warfare, and a terrifying vision of the future, PROJECT TRIPLE THREE (333) takes you on an epic 80-minute biblical science-fiction journey.\n\nAs a fictional Illuminati conspiracy threatens humanity, ancient mysteries collide with futuristic technology. But behind the chaos lies a far greater question: Can human intelligence save the world without faith in God?\n\nInspired by biblical themes from Genesis, the story of Enoch, and Christian teachings, this Hollywood-style Hindi Christian sci-fi movie explores deception, fallen angels, spiritual warfare, free will, and the eternal hope found in Jesus Christ.\n\nThis film combines biblical inspiration with fictional science-fiction storytelling. Its futuristic conspiracies and technological connections are creative dramatizations, not established historical or biblical facts.\n\nWatch until the end to discover the powerful message of Enoch's faith and why walking with God matters more than worldly power.\n\n🙏 If this movie inspires you, LIKE, SHARE, and SUBSCRIBE to Bible Movies. Help us share God's Word, biblical stories, and the message of Jesus Christ with people around the world.\n\nAll glory to God!\n\n____________________________________________________________________________________\n\n#JesusChrist #Christianity #ChristianFaith #ChristianMovies #BibleMovies #BibleStories #BibleStudy #HolyBible #WordOfGod #JesusSaves #GospelOfJesusChrist #ChristianFilms #HindiChristianMovie #HindiBibleMovie #BibleMoviesInHindi #BiblicalSciFi #ChristianSciFi #BibleScienceFiction #BookOfEnoch #Enoch #FallenAngels #Watchers #AngelsOfGod #Heaven #SpiritualWarfare #Genesis #BiblicalProphecy #EndTimes #ScienceFictionMovies #SciFiMovies #AIMovie #HollywoodStyleMovie #FullMovie #ViralVideos #ProjectTripleThree\n#viral #viralvideo",
+      "channelId": "UCdmC8VgE9gqufnOYZ4-2aHg",
+      "channelTitle": "Bible movies ",
+      "thumbnail": "https://i.ytimg.com/vi/uFWMO-Ms-tc/hqdefault.jpg",
+      "publishedAt": "2026-11-10T01:40:43Z",
+      "durationSeconds": 4821,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:13.201Z",
+      "lastSeenAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "uQxBdwUOc2g",
+      "url": "https://www.youtube.com/watch?v=uQxBdwUOc2g",
+      "title": "Sinbad and the Seven Voyages  — The Giant Spiders and the Ship-Swallowing Sea",
+      "description": "Sinbad is trapped in a canyon of diamonds, giant spiders rule the walls, and somewhere out at sea, something is swallowing ships whole.\n\nSeason 2 of Sinbad and the Seven Voyages picks up where the first film ended. Sinbad and Tariq are stranded at the bottom of the Valley of Diamonds, a canyon no man has ever climbed out of. When two giant spiders go to war over their prey, they make a desperate escape up the canyon walls, only to face the burning desert beyond.\n\nReunited with their crew, they set sail again, straight into a sea of floating wreckage. Dozens of ruined ships drift in silence. No storm could have done this. Something lives beneath the surface, and it is waiting.\n\nWhen the sea opens beneath them, the crew lose their ship, and one of their own. Days adrift. A storm at night. And a shore no map has ever shown, where the birds flee the forest and a voice cries for help in the dark.\n\nIf you missed, Watch Season 1 first: Sinbad and the Seven Voyages — The Sea Beast and the Valley of Diamonds \n\nIf you enjoyed this voyage, subscribe and turn on notifications so you don't miss Season 3. Tell us in the comments: who do you think is calling for help?\n\nThis film was created with AI tools by Directed by Human\n\n#Sinbad #ArabianNights #AIFilm",
+      "channelId": "UCEbhMBucfh4N48Av0NJp2WQ",
+      "channelTitle": "The Next Show | Stories That Feel Like Movies",
+      "thumbnail": "https://i.ytimg.com/vi/uQxBdwUOc2g/hqdefault.jpg",
+      "publishedAt": "2026-10-20T09:28:09Z",
+      "durationSeconds": 3067,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:13.201Z",
+      "lastSeenAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
       "unavailableAt": null
     }
   ]

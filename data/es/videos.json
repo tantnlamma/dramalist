@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:29:09.875Z",
+  "generatedAt": "2026-11-10T05:50:32.050Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1200,7 +1200,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:51.706Z",
       "lastSeenAt": "2026-11-06T04:56:51.706Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1219,7 +1219,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1295,7 +1295,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:09.875Z",
       "lastSeenAt": "2026-11-09T04:29:09.875Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": null
     },
     {
@@ -1311,11 +1311,11 @@
       "matchedKeywords": [
         "drama IA película completa"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-09T04:29:09.875Z",
       "lastSeenAt": "2026-11-09T04:29:09.875Z",
-      "lastVerifiedAt": "2026-11-09T04:29:09.875Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "unavailableAt": "2026-11-10T05:50:32.050Z"
     }
   ]
 }

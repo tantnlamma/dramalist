@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:29:05.891Z",
+  "generatedAt": "2026-11-10T05:50:28.160Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -589,7 +589,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -934,7 +934,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -954,7 +954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1258,7 +1258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1312,11 +1312,11 @@
       "matchedKeywords": [
         "人工智能 剧情电影"
       ],
-      "status": "unavailable",
+      "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
-      "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
-      "unavailableAt": "2026-11-08T04:14:45.627Z"
+      "lastSeenAt": "2026-11-10T05:50:28.160Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
+      "unavailableAt": null
     },
     {
       "videoId": "29BR5GH8hFY",
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-08T04:14:45.627Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1546,7 +1546,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1617,12 +1617,13 @@
       "publishedAt": "2026-10-23T08:40:10Z",
       "durationSeconds": 4458,
       "matchedKeywords": [
+        "人工智能 剧情电影",
         "人工智能 电影 完整版"
       ],
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1679,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1699,7 +1700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:51.582Z",
       "lastSeenAt": "2026-10-26T03:01:51.582Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1737,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1813,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1833,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1928,7 +1929,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -1947,7 +1948,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2081,7 +2082,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:52.999Z",
       "lastSeenAt": "2026-11-01T04:08:52.999Z",
-      "lastVerifiedAt": "2026-11-02T04:12:49.447Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2097,11 +2098,11 @@
       "matchedKeywords": [
         "人工智能 电影 完整版"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-01T04:08:52.999Z",
       "lastSeenAt": "2026-11-01T04:08:52.999Z",
-      "lastVerifiedAt": "2026-11-03T05:11:42.638Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
+      "unavailableAt": "2026-11-10T05:50:28.160Z"
     },
     {
       "videoId": "vKX3XokZQSE",
@@ -2195,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2252,7 +2253,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2385,7 +2386,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2404,7 +2405,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2423,7 +2424,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2442,14 +2443,14 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:45.627Z",
       "lastSeenAt": "2026-11-08T04:14:45.627Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
       "videoId": "i2cdf3hl4OA",
       "url": "https://www.youtube.com/watch?v=i2cdf3hl4OA",
       "title": "Telur Naga Tertinggi Di Tangannya Full Movie Drama AI",
-      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Supreme Dragon Egg in His Hand - Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
+      "description": "Hallo Guys Tonton ya Seru banget loh 🔥\nThe Dragonless Beggar Commands Nine Dragons | Telur Naga Tertinggi Di Tangannya Full Movie Drama AI\n\nCerita nya : Di Kekaisaran Kronos, Anggota kerajaan wajib menjinakkan naga. Lalu Klan naga Xeros dipuja bak dewa, Pangeran Reyn berikatan dengan Xeros, setelah sepuluh tahun kemudian, Xeros memberinya 9 telur naga suci dan di takdirkan sebagai pewaris kekuatan naga tertinggi, lalu ia kembali ke rumah kerajaan nya, Sang Pangeran Reyn sengaja menguji kesetiaan Saudara, Pasukan dan Tunangan nya serta pada akhirnya sang pangeran Reyn terungkap dan menyelamatkan tahkta peninggalan orang tua nya dan hidup bahagia.\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️",
       "channelId": "UCZyg67AK1lbTkwN3otFitsw",
       "channelTitle": "Reynold Bronson Official",
       "thumbnail": "https://i.ytimg.com/vi/i2cdf3hl4OA/hqdefault.jpg",
@@ -2480,7 +2481,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2499,7 +2500,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2518,7 +2519,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2537,7 +2538,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2556,7 +2557,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2575,7 +2576,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     },
     {
@@ -2614,6 +2615,25 @@
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
       "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9HSmMgJEaWA",
+      "url": "https://www.youtube.com/watch?v=9HSmMgJEaWA",
+      "title": "Hla Sij Hawm Mus Nrhiav Koj | FULL MOVIE (EP.1–12) | Remastered Edition",
+      "description": "🎬 HLA SIJ HAWM MUS NRHIAV KOJ | FULL MOVIE EP.1–12 | REMASTERED EDITION\n\nDisclaimer: This AI-generated film is a fictional story inspired by real events, combined with original creative storytelling.\n\n\n\n❤️ Ib Txoj Kev Hlub Hla Sij Hawm\n\nYuav ua li cas yog tias muaj ib hnub koj tau rov qab mus rau yav tag los, thiab tau ntsib ib tug neeg uas hloov koj lub neej mus ib txhis?\n\nZaj dab neeg no hais txog Jua, ib tug ntxhais uas tau hla sij hawm rov qab mus rau yav tag los. Nyob rau lub neej ntawd, nws tau ntsib kev hlub, kev zoo siab, kev tu siab thiab ntau yam kev nyuaj siab uas nws yeej tsis tau xav txog.\n\nTxawm sij hawm yuav dhau mus ntev npaum li cas los, tej kev nco thiab txoj kev hlub tseem nyob hauv lub siab mus ib txhis.\n\nPuas yog txoj hmoo yuav coj cov neeg uas sib hlub rov los sib ntsib dua?\n\nSaib zaj yeeb yaj kiab no kom txog thaum kawg, koj thiaj paub lo lus teb. ❤️\n\n⸻\n\n🎥 FULL MOVIE — REMASTERED EDITION\n\nZaj yeeb yaj kiab no yog muab ntu 1 txog ntu 12 los txuas ua ib zaj kom nej tau saib txij thaum pib mus txog thaum xaus.\n\n⏰ Ntev: 3 teev 34 feeb\n\n✨ Tej yam uas tau kho tshiab:\n\n* Kho cov suab txiv neej hauv ntu 1–5 kom zoo dua qub.\n* Tshem kuv lub suab piav dab neeg tawm tag nrho.\n* Tshem cov ntawv subtitles uas nyob saum daim video tawm.\n* Kho thiab txuas txhua ntu kom zaj dab neeg mus tau sib txuas zoo dua qub.\n* Muab tag nrho 12 ntu los ua ib zaj yeeb yaj kiab ntev.\n\n⸻\n\n❤️ UA TSAUG RAU TXHUA TUS\n\nUa tsaug ntau ntau rau nej txhua tus uas tau nrog kuv saib thiab txhawb nqa zaj dab neeg no txij ntu 1 mus txog ntu 12.\n\nKuv zoo siab heev uas nej tseem nrog kuv nyob thiab txhawb nqa kuv cov dab neeg.\n\nYog nej nyiam zaj yeeb yaj kiab no, thov pab nias Like, Comment, Share thiab Subscribe rau Hmong AI DabNeeg thiab nawb.\n\n💬 Nej nyiam ntu twg tshaj plaws hauv zaj dab neeg no? Sau qhia kuv hauv qab comments tau nawb! ❤️\n\n⸻\n\n🎬 Tsim los ntawm Hmong AI DabNeeg\n\nZaj yeeb yaj kiab no yog ib zaj dab neeg tsim tawm nrog kev pab ntawm AI, suav nrog cov duab, cov suab cim neeg thiab kev txiav video.\n\n#HlaSijHawmMusNrhiavKoj #HmongAIDabNeeg #HmongMovie #FullMovie #HmongDabNeeg #RemasteredEdition\n\n\n\n🎬 HLA SIJ HAWM MUS NRHIAV KOJ — FULL MOVIE (EP.1–12) | REMASTERED EDITION\n\n❤️ A Love That Transcends Time\n\nWhat happens when fate takes you to another time, where love, sacrifice, heartbreak, and destiny change your life forever?\n\nFollow Jua on an unforgettable journey through time, where she discovers love, faces difficult choices, and experiences a life she could never have imagined.\n\nSome memories last a lifetime. Some love stories are never forgotten. And sometimes, fate has a way of bringing people together when they least expect it.\n\nWill love survive the passage of time?\n\nWatch the complete story to find out. ❤️\n\n⸻\n\n🎥 ABOUT THIS SPECIAL EDITION\n\nThis Full Movie combines all 12 episodes of Hla Sij Hawm Mus Nrhiav Koj into one continuous cinematic experience.\n\nRuntime: 3 Hours 34 Minutes\n\nWhat’s new in this Remastered Edition:\n\n* Improved male character voices in Episodes 1–5\n* Original narration removed\n* On-screen subtitles removed\n* Re-edited episode transitions for a smoother viewing experience\n* All 12 episodes combined into one complete movie\n\nThis edition has been carefully re-edited to provide a more immersive and uninterrupted storytelling experience.\n\n⸻\n\n❤️ THANK YOU FOR WATCHING!\n\nThank you to everyone who has followed and supported this story from Episode 1 to Episode 12.\n\nYour love and encouragement mean so much.\n\nIf you enjoyed this movie, please LIKE, COMMENT, SHARE, and SUBSCRIBE to Hmong AI DabNeeg for more original AI storytelling.\n\n💬 What was your favorite moment in the story? Share your thoughts in the comments!\n\n⸻\n\n🎬 Created by Hmong AI DabNeeg\n\nAn original AI-assisted fictional drama, developed through creative storytelling, AI-generated visuals, character dialogue, and video editing.\n\n© Hmong AI DabNeeg. All rights reserved to the extent applicable to the original creative elements.\n\n#HlaSijHawmMusNrhiavKoj #HmongAIDabNeeg #HmongMovie #FullMovie #RemasteredEdition #HmongDrama #TimeTravelRomance",
+      "channelId": "UClaZlIGWKKIm0s52Ra6iyYg",
+      "channelTitle": "Hmong AI DabNeeg",
+      "thumbnail": "https://i.ytimg.com/vi/9HSmMgJEaWA/hqdefault.jpg",
+      "publishedAt": "2026-11-03T22:10:49Z",
+      "durationSeconds": 12863,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-10T05:50:28.160Z",
+      "lastSeenAt": "2026-11-10T05:50:28.160Z",
+      "lastVerifiedAt": "2026-11-10T05:50:28.160Z",
       "unavailableAt": null
     }
   ]
