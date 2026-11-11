@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:50:18.757Z",
+  "generatedAt": "2026-11-11T04:32:31.096Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -170,7 +170,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -211,7 +211,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -269,7 +269,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -288,7 +288,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -425,7 +425,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -445,7 +445,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -465,7 +465,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -485,7 +485,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -681,7 +681,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1072,7 +1072,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1093,7 +1093,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1188,14 +1188,14 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
       "videoId": "6pFIXW5rahE",
       "url": "https://www.youtube.com/watch?v=6pFIXW5rahE",
       "title": "[전설의 경로당 1~4화 몰아보기] 미녀 형사 윤서하, 재벌가 하수인들 참교육 한 번에 보기 | AI드라마",
-      "description": "경로당 할머니들을 건드린 재벌가 사람들, 신입 여형사 윤서하가 할머니 곁을 지킵니다. 1화부터 4화까지 한 번에 보세요.\n🌏 자막 13개 언어: ⚙ 설정 → 자막 | Subtitles in 13 languages: ⚙ Settings → Subtitles/CC | 日本語字幕あり：⚙ 設定 → 字幕\n💛 재밌게 보셨다면 「레디악숀 후원회」로 응원해 주세요(채널 「가입」 단추 · 월 3,990원). 봐 주시는 것만으로도 감사합니다.\n\n0:00 1화 할머니 목도리를 건드렸다\n10:32 2화 형사에게 손 떼라고?\n18:48 3화 참던 할머니가 움직인다\n29:43 4화 장롱 속 할머니의 상자\n\n▶ 5화 보기: https://youtu.be/hNkfHnttRPE\n\n🎬 4K 화질 · 설정(⚙)에서 바꿀 수 있어요\n\n구독·좋아요는 다음 화를 만드는 데 큰 도움이 됩니다. 좋아요·댓글·구독·알림 부탁드려요.\n💬 보고 싶은 이야기나 다뤄 줬으면 하는 주제가 있으면 댓글로 남겨 주세요. 하나하나 읽고 다음 작품 아이디어로 참고하겠습니다.\n\n※ 이 영상은 AI로 만든 드라마입니다. 등장인물·단체·사건은 지어낸 것입니다.\n\n#전설의경로당 #AI드라마 #통쾌 #여형사 #몰아보기",
+      "description": "경로당 할머니들을 건드린 재벌가 사람들, 신입 여형사 윤서하가 할머니 곁을 지킵니다. 1화부터 4화까지 한 번에 보세요.\n🌏 자막 13개 언어: ⚙ 설정 → 자막 | Subtitles in 13 languages: ⚙ Settings → Subtitles/CC | 日本語字幕あり：⚙ 設定 → 字幕\n💛 재밌게 보셨다면 「레디악숀 후원회」로 응원해 주세요(채널 「가입」 단추 · 월 3,990원). 봐 주시는 것만으로도 감사합니다.\n\n0:00 1화 할머니 목도리를 건드렸다\n10:32 2화 형사에게 손 떼라고?\n18:48 3화 참던 할머니가 움직인다\n29:43 4화 장롱 속 할머니의 상자\n\n▶ 5화 보기: https://youtu.be/hNkfHnttRPE\n\n🎬 4K 화질 · 설정(⚙)에서 바꿀 수 있어요\n\n구독·좋아요는 다음 화를 만드는 데 큰 도움이 됩니다. 좋아요·댓글·구독·알림 부탁드려요.\n💬 보고 싶은 이야기나 다뤄 줬으면 하는 주제가 있으면 댓글로 남겨 주세요. 하나하나 읽고 다음 작품 아이디어로 참고하겠습니다.\n\n📅 새 이야기는 요일을 정해 찾아옵니다: 전설의 경로당 · 화요일 / 귀문어사 · 금요일 (일정은 조금 바뀔 수 있지만 최대한 맞추겠습니다)\n🎬 「전설의 경로당」 시즌 2는 완성도를 더 높여서 열심히 만드는 중입니다. 조금만 기다려 주세요!\n\n※ 이 영상은 AI로 만든 드라마입니다. 등장인물·단체·사건은 지어낸 것입니다.\n\n#전설의경로당 #AI드라마 #통쾌 #여형사 #몰아보기",
       "channelId": "UCmDv5ahQ2CjQUo7mbsHOpDA",
       "channelTitle": "레디악숀",
       "thumbnail": "https://i.ytimg.com/vi/6pFIXW5rahE/hqdefault.jpg",
@@ -1227,7 +1227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1266,7 +1266,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1439,7 +1439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:40.760Z",
       "lastSeenAt": "2026-10-25T03:02:40.760Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1477,7 +1477,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1496,7 +1496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1667,7 +1667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:12.177Z",
       "lastSeenAt": "2026-10-28T03:50:12.177Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1743,7 +1743,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:53.850Z",
       "lastSeenAt": "2026-10-29T04:12:53.850Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1781,7 +1781,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:37.077Z",
       "lastSeenAt": "2026-10-30T04:12:37.077Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1800,7 +1800,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:37.077Z",
       "lastSeenAt": "2026-10-30T04:12:37.077Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1839,7 +1839,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1859,7 +1859,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1878,7 +1878,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1897,7 +1897,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1916,7 +1916,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1954,7 +1954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -1973,7 +1973,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2011,7 +2011,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2068,7 +2068,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-08T04:14:35.612Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2183,7 +2183,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2221,7 +2221,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2278,7 +2278,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2317,7 +2317,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2336,7 +2336,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2374,7 +2374,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-06T04:56:37.936Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2469,7 +2469,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2488,7 +2488,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2507,7 +2507,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2526,7 +2526,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:58.544Z",
       "lastSeenAt": "2026-11-07T04:28:58.544Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2545,7 +2545,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2564,7 +2564,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2622,7 +2622,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2641,7 +2641,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2679,7 +2679,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2717,7 +2717,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2774,7 +2774,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:18.757Z",
       "lastSeenAt": "2026-11-10T05:50:18.757Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     },
     {
@@ -2793,7 +2793,121 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:18.757Z",
       "lastSeenAt": "2026-11-10T05:50:18.757Z",
-      "lastVerifiedAt": "2026-11-10T05:50:18.757Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oOCyZrnlkoo",
+      "url": "https://www.youtube.com/watch?v=oOCyZrnlkoo",
+      "title": "[몰아보기] 실화 100% AI-BL웹드라마 ‘구원의 소년’ #BL #kdrama #blseries #aivideo",
+      "description": "\"스무 살이 되면 이 동네를 떠날 생각뿐이었다. 그 애를 만나기 전까지는.\"\n\n집안 사정으로 낯선 동네에 전학 온 까칠한 서울 소년 '우재하'.\n그의 목표는 오직 하나, 1년 반 동안 아무에게도 관심받지 않고 조용히 공부만 해서 다시 서울로 돌아가는 것.\n하지만 등교 첫날부터 학교 최고의 일진에게 찍히며 계획은 꼬이기 시작하고, 설상가상으로 늦은 밤 골목길에서 불량배들에게 쫓기는 신세가 되는데…\n\n절대 엮이지 않을 것 같던 극과 극 두 소년의 거리가 조금씩 좁혀지기 시작한다.\n찬란하고 서툰 10대의 끝자락, 서로의 마음에 스며든 두 사람이 써 내려가는 청춘 성장 로맨스 🌸\n\n경험담을 토대로 주인장 맘대로 각색하여 제작한 100% AI 드라마입니다!\n(고증 오류와 옥에 티 지적은 언제나 환영하며 감사히 받고 있습니다 ㅎㅎ)\n\n📺 '노벨라플레이'에서 다음 시리즈 선공개 중입니다!\n\n웹소설과 웹툰의 재미를 TV 드라마 수준의 고품질 영상으로 만나보세요. 1분짜리 숏폼이 아닌, 끝까지 빠져드는 서사와 영화 같은 가로 화면으로 몰입감을 선사합니다. BL 매니아를 위한 드라마 플랫폼에서 지금 바로 감상하세요!\n\n초대코드 [ lobecat ] 을 입력하면 100코인 즉시 지급!\n\n🔗 노벨라플레이 앱 다운로드 :\n링크: https://novelaplay.onelink.me/0ysq/2z1q84c5\n\n#청춘로맨스 #BL드라마 #AI드라마 #노벨라플레이 #웹드라마 #bldrama #blseries",
+      "channelId": "UCDCHAkkqniwNX_pFLcARyzw",
+      "channelTitle": "lobeCAT studio",
+      "thumbnail": "https://i.ytimg.com/vi/oOCyZrnlkoo/hqdefault.jpg",
+      "publishedAt": "2026-11-10T14:49:45Z",
+      "durationSeconds": 4986,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Mr7B2nGRFrY",
+      "url": "https://www.youtube.com/watch?v=Mr7B2nGRFrY",
+      "title": "북한이 어느날 오물풍선으로 좀비 바이러스를 보냈다.. [남침] 1-3화 몰아보기 AI 드라마",
+      "description": "비즈니스문의:unisontd0328@gmail.com\n\n#오물풍선 #좀비 #ai드라마  #이서하 #이프씨네마",
+      "channelId": "UCLhrixP2Rrj30JLOMrqg88Q",
+      "channelTitle": "이프씨네마",
+      "thumbnail": "https://i.ytimg.com/vi/Mr7B2nGRFrY/hqdefault.jpg",
+      "publishedAt": "2026-11-10T06:13:51Z",
+      "durationSeconds": 2089,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "V5I5wmzApPE",
+      "url": "https://www.youtube.com/watch?v=V5I5wmzApPE",
+      "title": "눈이 녹기 전에 1~5화 몰아보기 | 완결 정주행 | Before the Thaw | AI 로판 드라마 🥂",
+      "description": "인멜의 로판 한 잔 — AI로 만든 로맨스 판타지 드라마\n\n〈눈이 녹기 전에〉 1화부터 5화 완결까지, 한 번에 이어 보세요.\n\n\"눈이 녹는 날, 북부의 딸이 죽는다.\"\n북부 하르벤 성의 영애 이졸데에게 남은 날은 마흔아홉 날. 약혼자 없이 죽으면 영지는 황실로 넘어갑니다.\n그녀는 황실이 명령할 수 없는 유일한 남자, 장갑을 절대 벗지 않는 흑기사단장 렌에게 해빙까지만의 거짓 약혼을 청합니다.\n눈보라 속 동굴, 얼어붙은 호수의 무도회, 불타는 서고, 그리고 해빙일 정오의 광장. 장갑 밑에 새겨진 비밀과 예언에서 바뀐 단 한 낱말이 두 사람의 마지막 날을 바꿉니다.\n\n▶ 챕터\n0:00 EP.1 약혼의 조건 (The Terms of Betrothal)\n6:33 EP.2 눈보라 속 하룻밤 (A Night in the Blizzard)\n13:02 EP.3 얼음 호수의 무도회 (The Ball on the Frozen Lake)\n19:34 EP.4 예언의 필사본 (The Prophecy Manuscript)\n25:43 EP.5 해빙 (The Thaw) · 완결\n\n▶ English\n\"On the day the snow melts, the daughter of the North dies.\"\nAll five episodes of Before the Thaw in one video. Lady Isolde of Harven has forty-nine days left, so she asks Ren, the gloved commander of the Black Knights, for a fake engagement until the thaw. A blizzard, a ball on a frozen lake, a burning library and one forged word in a prophecy later, thaw day arrives. (Episodes 1-5, complete · English dialogue with Korean subtitles · subtitles in 21 languages)\n\n▶ 등장인물 Characters\n이졸데 하르벤 (Isolde Harven) — 해빙일에 죽는다는 예언을 받은 북부의 영애\n렌 아스켈 (Ren Askel) — 흑기사단장, 장갑을 절대 벗지 않는다\n카시안 로엔 (Cassian Loen) — 황실 사절\n브리타 (Britta) — 하르벤 성의 집사장\n에이리크 (Eirik) — 흑기사단 부관\n오토 (Otto) — 성탑 사서\n\n▶ 안내\n본 영상은 AI 기술(이미지·영상·음성 생성)을 활용해 제작한 창작 드라마입니다. 인물과 사건은 모두 허구입니다. 영상·음악의 무단 복제와 재업로드를 금지합니다.\nThis is a fictional drama created with AI tools (images, video and voices). All characters and events are fictional. Do not re-upload.\n\n#AI로판 #로판드라마 #몰아보기 #정주행 #완결 #거짓약혼 #기사단장 #겨울로판 #로맨스판타지 #AI드라마 #AIRomanceFantasy #Romantasy #AIDrama #FakeEngagement",
+      "channelId": "UCjP2ZFZMybrS-69WWHczDWA",
+      "channelTitle": "인멜의 로판 한 잔 In Mel’s Romantasy",
+      "thumbnail": "https://i.ytimg.com/vi/V5I5wmzApPE/hqdefault.jpg",
+      "publishedAt": "2026-11-09T22:15:30Z",
+      "durationSeconds": 1950,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "i2EIgAswhqE",
+      "url": "https://www.youtube.com/watch?v=i2EIgAswhqE",
+      "title": "Ep1🔥중국AI드라마 인기순 1등🔥현대인이 과거로 타임슬립해 기억잃은채 노예로 붙잡혀온 절박한 상황,그를 구해준사냥꾼!두사람의 운명은 어떻게 될까[산야춘조]몰아보기Multi Sub",
+      "description": "✨다음 이야기는  다음주 공개됩니다.\n\n✨중국 현지에서 폭발적인 인기 1위를  AI 숏드라마 [산야춘조(山野春潮)]\n\n✨1화부터 23화까지의 주요 서사와 몰아보기 관람 포인트를 깔끔하게 정리해 드립니다\n\n🌿 [산야춘조] 주요 서사 및 관람 포인트\n\n①현대인의 타임슬립과 기억 상실(모든 것의 시작)\n낯선 과거의 산골짜기! 게다가 기억까지 잃은 채 노예로 붙잡혀 온 절박한 상황 속에서 이야기가 급박하게 전개됩니다.\n\n② 모두가 외면하고 위기에 처한 순간, 거칠지만 다정하고 듬직한사냥꾼이 등장해……\n\n③달달함 뒤에 찾아오는 위기와 운명의 반전…..\n\n회차마다 눈을 뗄 수 없는 전개와 AI 숏드라마 특유의 화려하고 감각적인 연출이 더해져 시간 순삭을 경험할 수 있는 최고의 정주행 코스입니다\n\n💡 감상 팁: 주인공들의 감정선이 급변하는 순간과 서서히 드러나는 복선들을 놓치지 말고 감상하시면 훨씬 더 몰입해서 즐기실 수 있습니다.\n\n━━━━━━━━━━━━━━━━━━\n🎬 작품 정보\n• 오디오: 중국어 원어 / 자막: 한국어 (영상에 포함)\n━━━━━━━━━━━━━━━━━━\n💗 좋아요 · 구독 · 알림 설정 꾹! 더 많은 중국 로맨스 드라마를 한 번에 정주행하세요.\n\n#산야춘조 #중국드라마 #사극로맨스 #중드 #기억상실 #공주 #달달한드라마 #몰아보기 #전편 #결말포함 #한글자막 #설렘주의보",
+      "channelId": "UC8pSY5vld-USdaotvNyahvg",
+      "channelTitle": "Caitou AI Drama Global",
+      "thumbnail": "https://i.ytimg.com/vi/i2EIgAswhqE/hqdefault.jpg",
+      "publishedAt": "2026-11-07T09:00:27Z",
+      "durationSeconds": 4122,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "UbtE8LvfPgI",
+      "url": "https://www.youtube.com/watch?v=UbtE8LvfPgI",
+      "title": "거지 왕 숨은 천하제일검 1화~7화 몰아보기 | 거지 노인의 정체는 천하제일검",
+      "description": "강가 작은 마을, 국밥집 앞에 앉은 거지 노인.\n왈패들은 그를 비웃었지만, 그는 스무 해 전 천하를 떨게 했던 천하제일검이었습니다.\n\n복면 검객의 습격, 궁궐에서 내려온 어명,\n임금을 노린 대감과 검은 기마대 흑풍,\n스승의 유언을 품고 찾아온 삿갓 쓴 검객,\n그리고 스무 해 만에 돌아온 사형, 흑룡방주와의 대결까지.\n거지 왕 1화부터 7화까지 한 번에 몰아보세요.\n\n00:00 1화 숨은 천하제일검\n08:23 2화 천하제일검의 귀환\n16:32 3화 어명\n24:40 4화 흑풍\n32:49 5화 흑풍의 최후\n40:57 6화 삿갓 쓴 검객\n49:05 7화 흑룡방주\n\n▶ 8화에서 계속됩니다.\n\n※ 본 영상은 실존 인물·사건과 무관한 창작 픽션이며, 모든 등장인물과 사건은 허구입니다.\n\n#거지왕 #천하제일검 #몰아보기 #무협 #숨은고수 #참교육 #사극 #조선 #K무협 #AI영화 #AI단편영화 #말본",
+      "channelId": "UCKjBqUEkOvjSJqn7PUXwD1A",
+      "channelTitle": "영화 말본",
+      "thumbnail": "https://i.ytimg.com/vi/UbtE8LvfPgI/hqdefault.jpg",
+      "publishedAt": "2026-11-05T15:00:33Z",
+      "durationSeconds": 3435,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1UhMM2H-wsU",
+      "url": "https://www.youtube.com/watch?v=1UhMM2H-wsU",
+      "title": "시즌2! 회귀했는데 연애를 왜 해? 사정하는 퀸카를 차버리고 천억을 쓸어 담다! 💰🔥",
+      "description": "🔥 인생 역전 드라마\n🔥 재벌 복수극\n🔥 도시 액션 드라마\n🔥 강자 성장 스토리\n🔥 판타지 액션\n🔥 통쾌한 사이다 전개\n\n매일 업데이트되는 고퀄리티 AI 실사 단편 드라마!\n\n先锋AI短剧와 함께 AI가 만들어가는 새로운 영상 시대를 경험하세요.\n\n⚠️ 본 채널의 모든 콘텐츠는 AI 기술을 활용한 오리지널 작품이며, 무단 복제 및 재업로드를 금지합니다.",
+      "channelId": "UCXBtJtqsm982JcBPr_LjntQ",
+      "channelTitle": "AI 드라마 스튜디오",
+      "thumbnail": "https://i.ytimg.com/vi/1UhMM2H-wsU/hqdefault.jpg",
+      "publishedAt": "2026-11-04T04:01:03Z",
+      "durationSeconds": 12317,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:31.096Z",
+      "lastSeenAt": "2026-11-11T04:32:31.096Z",
+      "lastVerifiedAt": "2026-11-11T04:32:31.096Z",
       "unavailableAt": null
     }
   ]

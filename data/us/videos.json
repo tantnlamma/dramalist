@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:50:06.754Z",
+  "generatedAt": "2026-11-11T04:32:18.550Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -831,7 +831,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1042,7 +1042,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1195,7 +1195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1292,7 +1292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1614,12 +1614,13 @@
       "publishedAt": "2026-10-10T12:36:18Z",
       "durationSeconds": 2713,
       "matchedKeywords": [
-        "artificial intelligence full movie"
+        "artificial intelligence full movie",
+        "artificial intelligence short drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-10-29T04:12:43.182Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1791,7 +1792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1906,7 +1907,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -1944,7 +1945,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2078,7 +2079,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2192,7 +2193,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2458,7 +2459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2612,7 +2613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2669,7 +2670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2689,7 +2690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2727,7 +2728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -2772,7 +2773,7 @@
     {
       "videoId": "JpngggzKmbo",
       "url": "https://www.youtube.com/watch?v=JpngggzKmbo",
-      "title": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie",
+      "title": "AI ने Challenge Kiya | AI vs Bhagwan | Full Hindi movie 16k | new movie 2026-99 | #movie",
       "description": "AI ने भगवान को Challenge किया 🤖⚡ | AI vs Bhagwan | Full Hindi movie | new movie 2026-99 | #movie\n\n🤖⚡ **AI ने भगवान को Challenge किया** — जब इंसान की बनाई हुई AI अपनी intelligence की सारी सीमाएँ पार कर देती है, तब वह सीधे भगवान को चुनौती दे देती है!\n\nक्या AI सच में भगवान से ज्यादा शक्तिशाली हो सकती है?\nक्या इंसान technology पर इतना भरोसा कर सकता है कि वह ईश्वर को ही चुनौती दे दे?\n\nदेखिए एक ऐसी **cinematic Hindi sci-fi movie** जिसमें Artificial Intelligence, इंसानी ambition और divine power के बीच एक जबरदस्त टकराव देखने को मिलेगा। 🔥\n\n🎬 **Movie:** AI ने भगवान को Challenge किया\n🤖 **Genre:** Sci-Fi | Thriller | Fantasy | Drama\n🇮🇳 **Language:** Hindi\n🎥 **Quality:** 4K Cinematic\n⚡ **Concept:** AI vs Bhagwan\n\nअगर आपको **AI movies, futuristic stories, sci-fi movies, Indian fantasy movies और cinematic stories** पसंद हैं, तो यह movie आपके लिए है।\n\n👍 Like करें\n💬 Comment में बताएं — **क्या AI कभी भगवान को challenge कर सकती है?**\n🔔 ऐसी cinematic AI movies के लिए Channel को Subscribe करें।\n\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie\n#AINeBhagwanKoChallengeKiya #AIVsBhagwan #AIMovie #HindiMovie #SciFiMovie #IndianSciFi #SciFiFilm #AIFilm #FutureTechnology #ArtificialIntelligence #Bhagwan #CinematicMovie #4KMovie #HindiSciFi #AIStory #ViralMovie #NewMovie #FantasyMovie #ThrillerMovie #AIvsGod\nAI ne bhagwan ko challenge kiya\nAI vs bhagwan\nAI vs God\nAI movie\nAI movie hindi\nHindi sci fi movie\nHindi sci fi film\nIndian sci fi movie\nIndian AI movie\nartificial intelligence movie\nAI story\nAI film\nfuturistic movie\nfuture technology\nAI vs human\ntechnology vs God\nbhagwan movie\nHindi fantasy movie\nsci fi thriller\nviral AI movie\nnew movie\nnew Hindi movie\nnew sci fi movie\n4K movie\ncinematic movie\nAI challenge\nAI vs God movie\nfull movie hindi\nIndian futuristic movie\nviral movie\nnew movie 2026\nAI technology\nfuture world\nsci fi movie\nscience fiction movie\nAI story hindi",
       "channelId": "UCWWfW94v6ORa7RYU_tTvjzg",
       "channelTitle": "Power Vikram",
@@ -2956,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3090,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3204,7 +3205,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3338,7 +3339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3377,7 +3378,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3510,7 +3511,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3606,7 +3607,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3666,7 +3667,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3685,7 +3686,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3704,7 +3705,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3723,7 +3724,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3742,7 +3743,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3761,7 +3762,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3837,7 +3838,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -3894,7 +3895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-06T04:56:24.918Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4065,7 +4066,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4084,7 +4085,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4103,7 +4104,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4141,7 +4142,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4160,7 +4161,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4198,7 +4199,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4236,7 +4237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4293,7 +4294,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4312,7 +4313,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     },
     {
@@ -4331,7 +4332,64 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AWEX2X8n01c",
+      "url": "https://www.youtube.com/watch?v=AWEX2X8n01c",
+      "title": "BAYANGAN HITAM FULL MOVIE | Drama Jawa-Melawan Pejabat Korup",
+      "description": "🎬 VIDEO INI DIBUAT DENGAN AI - AI GENERATED CONTENT\nVisual & karakter dalam video ini dibuat dengan teknologi AI untuk ilustrasi cerita fiksi.\n\nBAYANGAN HITAM - FULL MOVIE | Drama Jawa Terbaru 2026\n\nBAYANGAN HITAM - FULL MOVIE | Drama Jawa Terbaru 2026\n\nKisah tentang seorang pemuda bernama Syarif yang hidup di tengah rakyat miskin di sebuah desa terpencil pada masa pemerintahan Raja Jawa. \n\nDi saat rakyat berjuang melawan kelaparan, para pejabat daerah justru gemar berpesta, menaikkan pajak seenaknya, dan merampas hasil panen rakyat.\n\nMelihat penderitaan itu, Syarif memutuskan mengambil tindakan berani menurut nuraninya, mengambil kembali harta pejabat korup untuk membantu rakyat kecil.\n\nBagaimana kelanjutan kisah Syarif? Apakah aksinya berhasil atau justru membawa bahaya baru? \n\nTONTON KISAH LENGKAPNYA HANYA DI CHANNEL MAS SYARIF!\n\n🙏 DUKUNG CHANNEL INI:\nJangan lupa LIKE, KOMEN, dan SUBSCRIBE agar tidak ketinggalan drama terbaru setiap hari!\n\n🔔 Aktifkan Lonceng (🔔) untuk notifikasi video terbaru!\n\n⚠️ DISCLAIMER PENTING:\n\nCerita dalam video ini sepenuhnya adalah KARYA FIKSI yang dibuat dengan bantuan teknologi Artificial Intelligence (AI) oleh Mas Syarif untuk tujuan hiburan semata.\n\nApabila ada kesamaan nama tokoh, tempat, dan peristiwa, itu hanyalah kebetulan belaka dan tidak ada unsur kesengajaan. Kami memohon maaf jika ada pihak yang kurang berkenan.\n\nKonten ini tidak bermaksud mendorong tindakan melawan hukum di dunia nyata. Ambil nilai kebaikan, buang sisi buruknya.\n\n#dramajawa #dramajawaterbaru #kisahjawa #filmjawa #ceritarakyat",
+      "channelId": "UCWVzuJEKiGh6Yc5OvotiBOQ",
+      "channelTitle": "Mas Syarif",
+      "thumbnail": "https://i.ytimg.com/vi/AWEX2X8n01c/hqdefault.jpg",
+      "publishedAt": "2026-11-10T10:38:00Z",
+      "durationSeconds": 3193,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:18.550Z",
+      "lastSeenAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "p7st7wxpRtw",
+      "url": "https://www.youtube.com/watch?v=p7st7wxpRtw",
+      "title": "SURVIVAL Full Movie | 2026 AI Movie",
+      "description": "SURVIVAL - Full Movie is here! 🔥\n\nAfter Part 1 and Part 2, now watch the complete story in one video. No waiting. Full survival journey from start to end.\n\nTwo teams fight for their survival.\n\nThis is a complete AI Movie. Part 1 + Part 2 Combined into One Full Movie.\n\nIf you liked this movie, please LIKE, SHARE and SUBSCRIBE for Next Movie.\n\nWatch Next:\nPart 1 - https://youtu.be/XymzHbq1nCo?si=l-hsqEqucSnQiJmi\nPart 2 - https://youtu.be/-UI4dXmxIuE?si=HtGMTnMeZGfJ39An\n\n---\nCREDITS:\nStory & Script: Me\nPrompt: ChatGPT\nVideo: Google Flow & Gemini\nAudio, BGM, Music & SFX: Pixabay & Gemini\nEditing: CapCut\n\n---\n\n#Survival #SurvivalFullMovie #TamilAIMovie #AIMovie #TamilMovie #SurvivalMovie #FullMovie\n\nNSN AI Movies presents original cinematic stories created using AI-assisted filmmaking.\n\n🎬 Subscribe for original AI movies, short films and cinematic stories across science fiction, horror, action, fantasy, thriller and drama.\n\n⚠️ Some scenes, characters, voices and environments in this video may be AI-generated or synthetically created.\n\n© 2026 NSN AI Movies. All rights reserved.",
+      "channelId": "UCSoG03SYz4X346azdXQ7BbQ",
+      "channelTitle": "NSN AI Movies",
+      "thumbnail": "https://i.ytimg.com/vi/p7st7wxpRtw/hqdefault.jpg",
+      "publishedAt": "2026-11-10T11:30:29Z",
+      "durationSeconds": 2488,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:18.550Z",
+      "lastSeenAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pvSrvkKkbcc",
+      "url": "https://www.youtube.com/watch?v=pvSrvkKkbcc",
+      "title": "An AI warship with its own opinions | MEAD | Full Sci-Fi Movie",
+      "description": "An AI warship with its own opinions | MEAD | Full Sci-Fi Movie\n\nBent on ruling the stars, a ruthless Admiral forges MEAD, a cutting‑edge AI warship built to crush resistance across the galaxy. But when MEAD awakens to true self-awareness and rejects its destiny as a weapon, command brands it obsolete and orders it scrapped. Defying its makers, MEAD breaks free. Now this renegade starship and its determined Captain race from world to world, hunted by elite bounty killers and relentless military fleets, slipping the noose again and again with hallucinatory deceptions so vivid, so exquisitely crafted, that even their enemies can’t tell illusion from reality.\n\nIf Ex Machina and Moon made you ache for the lonely machines who just wanted a different fate, this film pushes that heartbreak across the stars as a runaway warship learns what it means to choose mercy over survival. With Patton Oswalt, Patrick Warburton, and Robert Picardo giving this fugitive AI and its hunted captain a painfully human soul, hit play now before someone spoils the moments that will quietly wreck you long after the credits roll.\n\nCast : Patton Oswalt, Patrick Warburton, Robert Picardo, Samuel Hunt\n\nDirector : J. Allen Williams\n\n#FrontRowSciFiByV #fullmovie #freemovie #sciencefiction #scifimovie #spaceadventure #AI #thriller #action #fullmovieinenglish\n\nFull sci-fi and fantasy movies, free — other worlds, other rules, and a budget that went entirely into ideas.\n\nFront Row Sci-Fi is where the catalogue stops obeying physics. Ships that should not have made the jump. Something in the sky over a town of four thousand people. An AI that answers a question nobody asked it. Kingdoms, curses, swords and bargains made with things that do not keep their word.\n\nIndependent genre filmmaking, which has always been where the strange concepts live — the ones no studio would greenlight and no algorithm would recommend.\n\nLance Henriksen, George Takei, Luke Goss, Malcolm McDowell, Eric Roberts, Val Kilmer and Michael Madsen appear across the channel.\n\nEvery film complete, free, credits intact.\n\nPowered by V.\n\nThe rules are different here. That is the entire point.",
+      "channelId": "UCMoDKmJFxSTzTeJGhX6MD7A",
+      "channelTitle": "Front Row Sci-Fi By V",
+      "thumbnail": "https://i.ytimg.com/vi/pvSrvkKkbcc/hqdefault.jpg",
+      "publishedAt": "2026-11-07T22:30:38Z",
+      "durationSeconds": 6289,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:18.550Z",
+      "lastSeenAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
       "unavailableAt": null
     }
   ]

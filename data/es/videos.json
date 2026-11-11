@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:50:32.050Z",
+  "generatedAt": "2026-11-11T04:32:44.912Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1219,7 +1219,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
       "unavailableAt": null
     },
     {
@@ -1316,6 +1316,25 @@
       "lastSeenAt": "2026-11-09T04:29:09.875Z",
       "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
       "unavailableAt": "2026-11-10T05:50:32.050Z"
+    },
+    {
+      "videoId": "Ju1O4ViBgWU",
+      "url": "https://www.youtube.com/watch?v=Ju1O4ViBgWU",
+      "title": "La Corona de Drakmor – LA SAGA COMPLETA (Temporadas 1, 2 y 3) | Película completa",
+      "description": "🐉 LA CORONA DE DRAKMOR – LA SAGA COMPLETA\nLas 3 temporadas en un solo video: traiciones, secretos, dragones y una corona que lo cambió todo.\n\nEl rey Aldemar muere la misma noche en que iba a revelar cuál de sus gemelos nació primero. Torvyn y Severyn se enfrentan por la corona de Drakmor con sus dragones, sin saber que detrás de la guerra hay una madre que mintió, un banquero que lo compra todo… y una jinete misteriosa en un dragón blanco que nadie esperaba. Cuando el Imperio del Sol llega desde el mar, los herederos de Drakmor tendrán que unirse o perderlo todo.\n\n🔥 Temporada 1: La guerra de los gemelos\n🤍 Temporada 2: La sangre oculta\n🌊 Temporada 3: Mar de fuego\n\n👑 ¿Team Torvyn, Team Severyn o Team Elwyn? Cuéntanos quién fue tu personaje favorito de toda la saga.\n🔔 Suscríbete y activa la campanita: en Tronos y Leyendas vienen más sagas épicas.\n\nCapítulos:\n00:00 T1 · Ep. 1 – El último brindis\n04:30 T1 · Ep. 2 – Dos coronas\n08:50 T1 · Ep. 3 – El oro del sur\n13:00 T1 · Ep. 4 – La novia del norte\n17:10 T1 · Ep. 5 – El vino del rey\n21:10 T1 · Ep. 6 – La mentira de la reina\n25:00 T1 · Ep. 7 – Fuego entre hermanos\n29:10 T1 · Ep. 8 – El tercer dragón\n33:10 T2 · Ep. 1 – La jinete blanca\n37:00 T2 · Ep. 2 – Lo que decía la carta\n40:40 T2 · Ep. 3 – El precio del oro\n44:20 T2 · Ep. 4 – La traición del norte\n48:10 T2 · Ep. 5 – Las confesiones del sanador\n51:50 T2 · Ep. 6 – Sangre de Drakmor\n55:30 T2 · Ep. 7 – La caída de la reina\n59:30 T2 · Ep. 8 – Velas en el horizonte\n1:03:20 T3 · Ep. 1 – El enemigo del mar\n1:06:59 T3 · Ep. 2 – Una tregua imposible\n1:10:48 T3 · Ep. 3 – Hermanos de sangre\n1:14:27 T3 · Ep. 4 – El asedio de Drakmor\n1:18:06 T3 · Ep. 5 – Las alas caídas\n1:21:55 T3 · Ep. 6 – El sacrificio\n1:25:06 T3 · Ep. 7 – La última batalla\n1:28:35 T3 · Ep. 8 – Una sola corona\n\nSerie original de fantasía medieval creada con inteligencia artificial (Google Flow). Personajes e historia ficticios.\n\n#LaCoronaDeDrakmor #dragones  #fantasiamedieval  #SerieConIA #peliculacompleta",
+      "channelId": "UCC8GbzcWq3rNNOmYqbfMtFA",
+      "channelTitle": "Tronos Y Leyendas",
+      "thumbnail": "https://i.ytimg.com/vi/Ju1O4ViBgWU/hqdefault.jpg",
+      "publishedAt": "2026-11-09T03:04:59Z",
+      "durationSeconds": 5519,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-11T04:32:44.912Z",
+      "lastSeenAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "unavailableAt": null
     }
   ]
 }
