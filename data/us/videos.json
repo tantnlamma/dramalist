@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:32:18.550Z",
+  "generatedAt": "2026-11-12T05:37:31.325Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -750,7 +750,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -811,7 +811,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1195,7 +1195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1292,7 +1292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1313,7 +1313,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1410,7 +1410,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1620,7 +1620,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1659,7 +1659,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1792,7 +1792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1907,7 +1907,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -1945,7 +1945,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2046,8 +2046,8 @@
     {
       "videoId": "KigQvS7KRNI",
       "url": "https://www.youtube.com/watch?v=KigQvS7KRNI",
-      "title": "From Poverty to Billionaire with AI content creation episode 1 and 2 full movie",
-      "description": "🔥 FROM POVERTY TO BILLIONAIRE WITH AI CONTENT CREATION — EPISODES 1 & 2 | THE COMPLETE STORY SO FAR! 🎬💰\n\n💔 From struggling to survive to discovering an opportunity that could change his life forever!\n\nWhat happens when a man who has experienced poverty, rejection, disappointment, and financial hardship refuses to give up on his dreams?\n\nWelcome to FROM POVERTY TO BILLIONAIRE WITH AI CONTENT CREATION, an inspiring, emotional, and suspense-filled cinematic series brought to you by MR. CHIDI BENSON ORIGINAL PRODUCTION.\n\n🎬 EPISODE 1 — A NEW BEGINNING\n\nFollow Chidi's emotional journey as he struggles through financial difficulties while searching for an opportunity to transform his future.\n\nWhen he discovers the possibilities of artificial intelligence and AI content creation, a new chapter of hope, determination, and ambition begins.\n\nBut will his determination be enough to overcome the challenges ahead?\n\n🎬 EPISODE 2 — THE SECRET BEHIND THE PHOTOGRAPH\n\nJust when Chidi begins to believe that his life is changing for the better, a mysterious photograph introduces unexpected questions, hidden secrets, and shocking discoveries.\n\nTogether with Amara, Chidi begins investigating clues that could reveal a dangerous truth.\n\nWho is hiding behind the photograph?\n\nWhat secrets are waiting to be uncovered?\n\nAnd how will these discoveries affect Chidi's journey towards success?\n\n🔥 WATCH EPISODES 1 AND 2 TOGETHER AND EXPERIENCE THE STORY FROM THE BEGINNING!\n\n💡 POWERFUL LESSONS FROM THIS MOVIE\n\n✅ Never allow poverty to destroy your dreams.\n\n✅ Your present financial situation does not determine your future.\n\n✅ Learning valuable digital skills can create new opportunities.\n\n✅ Artificial intelligence is changing how people create content and build businesses.\n\n✅ Determination, patience, and consistency are essential for success.\n\n✅ Every successful journey begins with a decision to start.\n\n❤️ A SPECIAL MESSAGE TO OUR VIEWERS\n\nThis movie is more than entertainment. It is a story of hope, perseverance, ambition, technology, and the courage to pursue a better future.\n\nIf you are struggling financially, searching for opportunities, or dreaming of building a successful future, this inspirational movie is for you.\n\n🙏 PLEASE SUPPORT OUR GROWING YOUTUBE CHANNEL!\n\n👍 LIKE this video.\n\n💬 COMMENT: What lessons have you learned from Chidi's journey?\n\n❤️ SHARE this movie with your friends and family.\n\n🔔 SUBSCRIBE to MR CHIDI BENSON and turn on notifications so you never miss the next exciting episode.\n\n🎥 MORE EPISODES ARE COMING!\n\nThe journey from poverty to billionaire has only just begun!\n\nDREAM BIG. LEARN NEW SKILLS. CREATE OPPORTUNITIES. NEVER GIVE UP! 🚀💰\n\n🎬 A MR. CHIDI BENSON ORIGINAL PRODUCTION\n\n#frompovertytobillionaire #aicontentcreation #inspirationalmovie #aifilmmaking #mrchidibenson #facelessyoutube #youtube #makemoneyfromhome #makemoneyonline",
+      "title": "From Poverty to Billionaire With AI Content Creation | Episodes 1 & 2 | Full AI Movie",
+      "description": "🎬 FROM POVERTY TO BILLIONAIRE WITH AI CONTENT CREATION | EPISODES 1 & 2 | FULL MOVIE\n\nWatch this inspirational Nigerian AI-generated movie about poverty, determination, family struggles, love, suspense, and the journey toward financial success.\n\n🔥 THE COMPLETE STORY SO FAR!\n\nEPISODE 1: A NEW BEGINNING\n\nMeet Chidi, a struggling young man determined to escape poverty and create a better future.\n\nDespite life's difficulties, Chidi refuses to give up. His journey takes an unexpected turn when he discovers the possibilities of AI content creation.\n\nEPISODE 2: THE SECRET BEHIND THE PHOTOGRAPH\n\nJust as Chidi begins making progress, a mysterious photograph raises disturbing questions.\n\nWho took the photograph? Who is watching Chidi and Amara? And what secrets are waiting to be uncovered?\n\nWatch Episodes 1 and 2 together to experience the emotional drama, suspense, and unexpected discoveries.\n\n🎥 MOVIE HIGHLIGHTS\n\n✅ Inspirational Nigerian Drama\n✅ AI-Generated Nigerian Movie\n✅ Poverty to Success Story\n✅ Love, Family and Betrayal\n✅ Suspense and Unexpected Discoveries\n✅ AI Content Creation and Entrepreneurship\n\n🎓 LEARN AI CONTENT CREATION\n\nWould you like to learn how to create AI-generated videos using your Android phone?\n\nOur AI Content Creation Training covers:\n\n✅ AI Image Generation\n✅ AI Voiceover Creation\n✅ AI Image-to-Video Creation\n✅ Professional CapCut Video Editing\n✅ YouTube Channel Creation and Growth\n\n🎓 START LEARNING HERE:\nhttps://selar.com/f76bv5x994\n\n❤️ SUPPORT MR CHIDI BENSON\n\n👍 Like this movie\n💬 Tell us your favourite scene\n🔔 Subscribe for upcoming episodes\n📢 Share this inspirational movie with friends and family\n\n🎬 MOVIE: From Poverty to Billionaire With AI Content Creation\n🎥 EPISODES: 1 & 2 — Complete Story So Far\n📺 CHANNEL: Mr Chidi Benson\n\n#NigerianMovies #AIMovies #FromPovertyToBillionaire",
       "channelId": "UCeOmmvXs_htNezComeAtFew",
       "channelTitle": "Mr Chidi Benson ",
       "thumbnail": "https://i.ytimg.com/vi/KigQvS7KRNI/hqdefault.jpg",
@@ -2079,7 +2079,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2193,7 +2193,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2459,7 +2459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2478,7 +2478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2533,11 +2533,11 @@
         "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-10-28T03:50:01.095Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "unavailableAt": "2026-11-12T05:37:31.325Z"
     },
     {
       "videoId": "FTiBW_GCE6I",
@@ -2670,7 +2670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2690,7 +2690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2728,7 +2728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2795,7 +2795,7 @@
       "title": "The Mother's Son of Dragon 2 | Full Fantasy AI Movie 2026 | Free Movie in English [4K] #4kvideo ",
       "description": "The Mother's Son of Dragon Part 2 - Watch Free Full Fantasy AI Movie 2026\n\nAfter the fall of the Dragon Mother, her son must rise. A young half-dragon, half-human warrior discovers his true power and faces an ancient enemy that threatens both humans and dragons.\n\nWill he become the savior or the destroyer?\n\n🎬 Movie Details:\nMovie: The Mother's Son of Dragon - Part 2\nGenre: Fantasy / Action / Adventure / Drama\nYear: 2026\nQuality: 4K Ultra HD\nLanguage: English\nType: AI Generated Movie | AI Fantasy Film\n\nThis is a fully AI-generated movie. All characters, story, and visuals are created using Artificial Intelligence for entertainment.\n\n🔔 Subscribe for Part 3: [Apna Channel Link Yaha Dal Do]\n▶️ Watch Part 1: [Part 1 ka Link Yaha Dal Do]\n\n#sonofdragon #motherofdragon #aimovie #fantasymovie #fullmovie\n\n---\n⚠️ DISCLAIMER: This is a work of fiction created with AI. No real actors. Made for entertainment purposes only.",
       "channelId": "UCAzFSIOaV1JDzvGgLJmIRsA",
-      "channelTitle": "FilmyAi",
+      "channelTitle": "Filmy ai studio ",
       "thumbnail": "https://i.ytimg.com/vi/GYno_Ol720k/hqdefault.jpg",
       "publishedAt": "2026-10-27T17:41:46Z",
       "durationSeconds": 3835,
@@ -2805,7 +2805,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-10-30T04:12:26.529Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -2957,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3091,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3282,7 +3282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3339,7 +3339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3378,7 +3378,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3473,7 +3473,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3511,7 +3511,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3686,7 +3686,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3705,7 +3705,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3724,7 +3724,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3743,7 +3743,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3762,7 +3762,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3800,7 +3800,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3838,7 +3838,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3895,7 +3895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3914,7 +3914,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3952,7 +3952,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -3971,7 +3971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-08T04:14:23.477Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4066,7 +4066,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4085,7 +4085,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4142,7 +4142,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4177,11 +4177,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-08T04:14:23.477Z",
       "lastSeenAt": "2026-11-08T04:14:23.477Z",
-      "lastVerifiedAt": "2026-11-10T05:50:06.754Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "unavailableAt": "2026-11-12T05:37:31.325Z"
     },
     {
       "videoId": "lsZn_x7EJuk",
@@ -4199,7 +4199,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4218,7 +4218,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4237,7 +4237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4256,7 +4256,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4275,7 +4275,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4294,7 +4294,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4313,7 +4313,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4332,7 +4332,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4370,7 +4370,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     },
     {
@@ -4390,6 +4390,44 @@
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
       "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zo1OJ8xqefU",
+      "url": "https://www.youtube.com/watch?v=zo1OJ8xqefU",
+      "title": "FULL EPISODE | MAYAMANG DALAGA, UMIBIG SA BINATANG MAY MATINDING SIKRETO | PINOY AI DRAMA STORY",
+      "description": "MAYAMANG DALAGA, UMIBIG SA BINATANG MAY MATINDING SIKRETO!💔😱\n\nPaano kung ang taong pinakamamahal mo ay may itinatagong sikreto na kayang baguhin ang inyong kinabukasan?\n\nSi **Isadora**, isang mayamang dalagang sanay sa marangyang buhay, ay hindi inaasahang umibig kay **Leandro**, isang simpleng binatang mabait, masayahin, at puno ng pangarap.\n\nSa kabila ng malaking agwat ng kanilang katayuan sa buhay at pagtutol ng pamilya, pinili nilang ipaglaban ang kanilang pagmamahalan. ❤️\n\nNgunit sa likod ng matatamis na ngiti at masasayang sandali ni Leandro ay may isang **matinding sikretong matagal na niyang itinatago.**\n\nIsang sikretong susubok sa kanilang pagmamahalan at maaaring magbago sa lahat ng kanilang mga pangarap! 😭💔\n\n😱 Ano ang mangyayari kapag nalaman ni Isadora ang katotohanan?\n\n💔 Kaya ba nilang ipaglaban ang pag-ibig kahit mismong tadhana ang humahadlang?\n\n😭 Hanggang saan kayang magsakripisyo ang isang taong tunay na nagmamahal?\n\n**Panoorin ang FULL STORY** ng isang nakakaiyak at nakakaantig na Filipino love story na puno ng kilig, sakripisyo, pag-asa, at mga aral na tatatak sa inyong puso!\n\n❤️ **LIKE** kung naniniwala ka sa tunay na pag-ibig!\n\n💬 **COMMENT:** Kung ikaw si Isadora, ipaglalaban mo pa rin ba ang taong mahal mo kahit maraming pagsubok ang inyong haharapin?\n\n🔔 **SUBSCRIBE sa SeryeNationPH** para sa mas marami pang nakakakilig, nakakaiyak, at kapana-panabik na Filipino AI drama stories!\n\n📺 **SeryeNationPH — Mga Kuwentong Aantig sa Puso ng Bawat Pilipino!**\n\n🎬 **DISCLAIMER:** Ang kuwentong ito ay kathang-isip lamang. Ang mga karakter, larawan, at eksena ay nilikha sa tulong ng Artificial Intelligence (AI) para sa entertainment at storytelling purposes.\n\n#SeryeNationPH #MayamangDalaga #TagalogLoveStory #FilipinoDrama #AIStories #AIShortFilm #NakakaiyakNaKwento #RomanticDrama #FullStory #LoveStory #PinoyDrama",
+      "channelId": "UCD3ailoH09halJxI81olplA",
+      "channelTitle": "SeryeNation PH",
+      "thumbnail": "https://i.ytimg.com/vi/zo1OJ8xqefU/hqdefault.jpg",
+      "publishedAt": "2026-11-07T23:59:07Z",
+      "durationSeconds": 2478,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:31.325Z",
+      "lastSeenAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cZPPJQQE8iw",
+      "url": "https://www.youtube.com/watch?v=cZPPJQQE8iw",
+      "title": "Eclipse Cinema AI LIVE | Original AI Movies & Series",
+      "description": "Welcome to the Eclipse Cinema AI LIVE Stream, featuring original AI-powered movies, cinematic series, superheroes, supernatural stories, action, drama, romance, and more.\nSit back and enjoy stories from the growing Eclipse Cinema AI universe, including characters and series like Black Nova, Solaris, Solara, Justice, Seraphina, Amaya, and other original creations.\nThis channel is focused on building original cinematic stories using AI video, animation, storytelling, visual effects, and creative filmmaking.\nIf you enjoy original AI movies and episodic series, make sure you subscribe, like the stream, and leave a comment letting me know which character or series you want to see more of.\nSubscribe to Eclipse Cinema AI:\nhttps://www.youtube.com/@EclipseCinemaAI-o6r\n🔥 Original AI Films\n🎬 Cinematic Series\n⚡ Superheroes & Action\n❤️ Romance & Drama\n🌌 Sci-Fi & Supernatural Stories\nThanks for watching and supporting Eclipse Cinema AI.\n#EclipseCinemaAI #AIFilms #AILivestream #AIMovies #AIAnimation #BlackNova #Solaris #Solara #Justice #CinematicAI",
+      "channelId": "UCFTSRryrz-IsC7-RmWelb-A",
+      "channelTitle": "Eclipse Cinema AI",
+      "thumbnail": "https://i.ytimg.com/vi/cZPPJQQE8iw/hqdefault.jpg",
+      "publishedAt": "2026-10-10T06:40:19Z",
+      "durationSeconds": 36032,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:31.325Z",
+      "lastSeenAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
       "unavailableAt": null
     }
   ]

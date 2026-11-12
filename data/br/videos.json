@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:32:49.705Z",
+  "generatedAt": "2026-11-12T05:38:00.068Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -208,7 +208,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-11T04:32:49.705Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     },
     {
@@ -904,7 +904,7 @@
       "videoId": "1KmhRF0kZ6Y",
       "url": "https://www.youtube.com/watch?v=1KmhRF0kZ6Y",
       "title": "MACABEUS — A Família Que Enfrentou um Império | Filme Completo",
-      "description": "Uma família se recusa a abandonar sua fé, enfrenta o poder de um império e muda o destino de Jerusalém. Acompanhe a história dos Macabeus: a perseguição de Antíoco, a resistência de Matatias, as batalhas de Judas e a retomada do Templo.\n\nUma história narrada a partir de Primeiro e Segundo Macabeus, sobre coragem, fidelidade e o preço das escolhas.\n\n00:00 A família e o império\n01:01 Quanto custa um sumo sacerdote?\n08:50 A abominação\n24:11 O martelo\n35:58 Oito dias\n43:46 Elefantes\n50:50 Debaixo da túnica\n56:10 O braço e a espada\n1:03:30 Oitocentos\n\nO que você não troca? Conte nos comentários. Curta o vídeo, inscreva-se no História do Dia para acompanhar as próximas histórias e envie este filme a alguém que precisa de coragem para manter seus princípios.\n\nProdução com narração e imagens criadas com auxílio de inteligência artificial.\n\n#Macabeus #HistoriasBiblicas #Biblia",
+      "description": "Uma família se recusa a abandonar sua fé, enfrenta o poder de um império e muda o destino de Jerusalém. Acompanhe a história dos Macabeus: a perseguição de Antíoco, a resistência de Matatias, as batalhas de Judas e a retomada do Templo.\n\nUma história narrada a partir de Primeiro e Segundo Macabeus, sobre coragem, fidelidade e o preço das escolhas.\n\n00:00 A família e o império\n01:01 Quanto custa um sumo sacerdote?\n08:50 A abominação\n24:11 O martelo\n35:58 Oito dias\n43:46 Elefantes\n50:50 Debaixo da túnica\n56:10 O braço e a espada\n1:03:30 Oitocentos\n\nO que você não troca? Conte nos comentários. Curta o vídeo, inscreva-se no História do Dia para acompanhar as próximas histórias e envie este filme a alguém que precisa de coragem para manter seus princípios.\n\nSeja membro e ajude essa palavra a chegar até quem ainda precisa ouvir: https://www.youtube.com/@historiadodia.oficial/join\n\nProdução com narração e imagens criadas com auxílio de inteligência artificial.\n\n#Macabeus #HistoriasBiblicas #Biblia",
       "channelId": "UCOzm0f1p9Oyf6iG5Ln7n77g",
       "channelTitle": "Historia do Dia",
       "thumbnail": "https://i.ytimg.com/vi/1KmhRF0kZ6Y/hqdefault.jpg",
@@ -955,6 +955,25 @@
       "discoveredAt": "2026-11-09T04:29:13.870Z",
       "lastSeenAt": "2026-11-09T04:29:13.870Z",
       "lastVerifiedAt": "2026-11-09T04:29:13.870Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "t9BrhsZMwNY",
+      "url": "https://www.youtube.com/watch?v=t9BrhsZMwNY",
+      "title": "Filme completo ficção aventura em português ",
+      "description": "Perseguido por inimigos que desejam sua morte, um jovem pirata é lançado ao mar e acaba sendo salvo por uma misteriosa e encantadora sereia.\n\nMas o que parecia ser sua salvação se transforma em algo inimaginável…\n\n🌊 Para mudar seu destino, a sereia toma uma decisão chocante: afogá-lo para que ele renasça como um poderoso tritão!\n\nAgora, capaz de viver tanto como humano quanto como criatura do mar, ele descobre um mundo subaquático repleto de segredos, perigos e criaturas extraordinárias.\n\n🧜‍♀️ Quando a irmã da sereia é capturada, o pirata precisa enfrentar um inimigo terrível e arriscar tudo para salvá-la.\n\n❤️ Entre batalhas, traições e um amor impossível, nasce uma história que une dois mundos que jamais deveriam se encontrar.\n\n⚔️ ELE ERA UM PIRATA. ELA ERA UMA SEREIA. O DESTINO OS TRANSFORMOU EM UMA LENDA!\n\n🎬 Uma produção original de RM Digital Filmes, criada com inteligência artificial, trazendo uma aventura cinematográfica de fantasia, romance e ação.\n\n✨ Se você ama filmes de sereias, piratas, mundos mágicos e histórias de amor, prepare-se para uma aventura inesquecível!\n\n❤️ Deixe seu LIKE 👍\n💬 Comente o que achou dessa história!\n🔔 INSCREVA-SE no canal para assistir a novos filmes!\n\n#FilmeCompleto #Filmes2026 #FilmeDeFantasia #Sereia #Tritão #Piratas #FilmeDeSereia #FilmeDePirata #RomanceEFantasia #FilmeDeAventura #FilmesDeRomance #FilmesCompletosDublados #FilmesEmPortugues #CinemaFantastico #FilmeCriadoComIA #InteligenciaArtificial",
+      "channelId": "UCQ4wozYGO89AKTRxGNcaXiQ",
+      "channelTitle": "Verse IA",
+      "thumbnail": "https://i.ytimg.com/vi/t9BrhsZMwNY/hqdefault.jpg",
+      "publishedAt": "2026-11-04T18:49:47Z",
+      "durationSeconds": 2076,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:38:00.068Z",
+      "lastSeenAt": "2026-11-12T05:38:00.068Z",
+      "lastVerifiedAt": "2026-11-12T05:38:00.068Z",
       "unavailableAt": null
     }
   ]

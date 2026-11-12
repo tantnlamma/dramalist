@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:32:25.125Z",
+  "generatedAt": "2026-11-12T05:37:38.548Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -439,11 +439,11 @@
       "matchedKeywords": [
         "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-10-31T03:54:31.096Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
+      "unavailableAt": "2026-11-12T05:37:38.548Z"
     },
     {
       "videoId": "dv_bFUGlNxw",
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1457,7 +1457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1704,7 +1704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-08T04:14:30.573Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2029,7 +2029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2092,8 +2092,8 @@
     {
       "videoId": "sSuLH7x9Mtg",
       "url": "https://www.youtube.com/watch?v=sSuLH7x9Mtg",
-      "title": "Ramayan Full Movie 2026 in Hindi | Ranbir Kapoor | Sai Pallavi | Yash | Sunny Deol",
-      "description": "Ramayan Full Movie 2026 in Hindi | Ranbir Kapoor | Sai Pallavi | Yash | Sunny Deol\n\n🚩 RAMAYANA FULL MOVIE IN HINDI 2026 | सम्पूर्ण रामायण | श्री राम की महागाथा 🚩\n\nजय श्री राम 🙏🚩\n\nदेखिए मर्यादा पुरुषोत्तम भगवान श्री राम की अद्भुत और रोमांचकारी कहानी। यह फिल्म रामायण की महान गाथा, माता सीता, लक्ष्मण, हनुमान जी और रावण के अहंकार से लेकर उसके अंत तक की कहानी प्रस्तुत करती है।\n\nइस कहानी में आपको देखने को मिलेगा भगवान श्री राम का वनवास, माता सीता का हरण, हनुमान जी की भक्ति, लंका दहन, राम और रावण का भयंकर युद्ध और अंत में अधर्म पर धर्म की विजय।\n\n🔥 फिल्म में क्या-क्या देखने को मिलेगा?\n\n🙏 भगवान श्री राम का वनवास\n🙏 माता सीता और लक्ष्मण के साथ वन यात्रा\n🙏 रावण द्वारा माता सीता का हरण\n🙏 हनुमान जी का लंका पहुंचना\n🙏 लंका दहन\n🙏 राम सेतु निर्माण\n🙏 राम और रावण का महायुद्ध\n🙏 रावण वध और धर्म की विजय\n🙏 अयोध्या में श्री राम की वापसी\n\nअगर आपको रामायण की कहानियां और धार्मिक फिल्में पसंद हैं तो वीडियो को पूरा जरूर देखें।\n\n❤️ वीडियो पसंद आए तो:\n👍 LIKE करें\n🔔 CHANNEL SUBSCRIBE करें\n📲 अपने परिवार और दोस्तों के साथ SHARE करें।\n\n🚩 जय श्री राम 🚩\n\nयह एक अनौपचारिक AI Fan-Made रचनात्मक प्रस्तुति है। यह किसी आधिकारिक फिल्म या कलाकारों की आधिकारिक प्रस्तुति नहीं है।\n\nRamayana Full Movie Hindi 2026, Ramayan Full Movie, Ramayan 2026, Ramayana Movie 2026, Ramayan Hindi Movie, Ramayan Full Film, Shri Ram, Jai Shri Ram, Lord Ram Movie, Ramayan Story Hindi, Ramayan Katha, Sita Ram, Ram Lakshman, Hanuman Ji, Ravan Vadh, Ravan Dahan, Lanka Dahan, Ram Setu, Ram Ravan Yudh, Ramayan Mahabharat, Hindu Mythology, Indian Mythology, Hindi Mythological Movie, Religious Movie Hindi, Devotional Movie, Ramayan Animation, AI Ramayan Movie, AI Movie Hindi, Ranbir Kapoor Ramayana, Sai Pallavi Ramayana, Yash Ramayana, Sunny Deol Ramayana, Ramayana Hindi 2026, Full Movie Hindi, New Hindi Movie 2026, Shri Ram Katha, Sita Haran, Hanuman Lanka, Ramayan War, Ramayan Complete Story\n\n#Ramayana #Ramayan #Ramayan2026 #RamayanaMovie #JaiShreeRam #ShriRam #LordRam #SitaRam #HanumanJi #RavanVadh #LankaDahan #RamSetu #RamayanKatha #HinduMythology #HindiMovie #FullMovie #RamayanFullMovie #AI movie #IndianMythology #SanatanDharma\n\n\n🚩 जय श्री राम | सम्पूर्ण रामायण | AI Created Hindi Movie 2026 🚩\n\nयह फिल्म भगवान श्री राम की पावन गाथा रामायण से प्रेरित होकर AI तकनीक की सहायता से बनाई गई एक रचनात्मक प्रस्तुति है।\n\nइस फिल्म को बनाने का उद्देश्य भारतीय संस्कृति, धार्मिक कथाओं और मर्यादा पुरुषोत्तम भगवान श्री राम की जीवन गाथा को मनोरंजक एवं सिनेमैटिक रूप में दर्शकों तक पहुंचाना है।\n\nइस फिल्म में वनवास से लेकर माता सीता के हरण, हनुमान जी की भक्ति, लंका दहन, राम-रावण युद्ध और रावण वध तक की कथा दिखाई गई है।\n\nIMPORTANT DISCLAIMER:\n\n1. यह एक स्वतंत्र AI-generated और Fan-made रचनात्मक फिल्म है।\n2. यह किसी आधिकारिक फिल्म, प्रोडक्शन हाउस या फिल्म निर्माता से संबद्ध नहीं है।\n3. किसी भी वास्तविक अभिनेता या कलाकार की आधिकारिक भागीदारी का दावा नहीं किया जाता।\n4. फिल्म के दृश्य और पात्र AI तकनीक की सहायता से तैयार किए गए हैं।\n5. यह प्रस्तुति धार्मिक कथा और मनोरंजन के उद्देश्य से बनाई गई है।\n6. इसका उद्देश्य किसी व्यक्ति, धर्म, समुदाय या धार्मिक भावनाओं को ठेस पहुंचाना नहीं है।\n7. इस फिल्म में दर्शाए गए कुछ दृश्य रचनात्मक कल्पना और सिनेमैटिक प्रस्तुति पर आधारित हैं।\n\n❤️ अगर आपको हमारी यह मेहनत पसंद आए तो वीडियो को LIKE करें, SHARE करें और चैनल को SUBSCRIBE जरूर करें।\n\n🚩 जय श्री राम 🚩",
+      "title": "रामायण: रावण की अनसुनी प्रेम कहानी| ऐसा प्रेम जिसे सदियों तक नहीं भुलाया जा सकता | Full Movie 2026",
+      "description": "रामायण: रावण की अनोखी प्रेम कथा | एक ऐसा प्रेम जिसे सदियों तक नहीं भुलाया जा सकता | Full Movie 2026\nक्या रावण सिर्फ एक अहंकारी राक्षस था या उसके हृदय में भी प्रेम, भावनाएँ और अधूरी इच्छाएँ थीं?\n\nप्रस्तुत है रामायण की एक अनोखी प्रेम कथा, जिसमें रावण के जीवन के उन पहलुओं को दिखाने का प्रयास किया गया है, जिन्हें बहुत कम लोग जानते हैं।\n\nएक ऐसी कहानी जिसमें प्रेम है, त्याग है, प्रतिशोध है, अहंकार है और नियति का ऐसा खेल है जिसने इतिहास बदल दिया।\n\nक्या रावण का प्रेम सच्चा था? क्या उसका अहंकार ही उसके विनाश का कारण बना?\n\nदेखिए यह अद्भुत AI निर्मित पौराणिक फिल्म और जानिए रावण की अनकही कहानी।\n\n🙏 जय श्री राम 🙏\n\nDisclaimer: यह फिल्म AI की सहायता से निर्मित एक काल्पनिक रचनात्मक प्रस्तुति है। इसका उद्देश्य किसी धार्मिक भावना को ठेस पहुँचाना नहीं है। यह मूल रामायण के प्रसंगों से प्रेरित कलात्मक कल्पना है। पात्रों के संवाद और कुछ घटनाएँ रचनात्मक रूप से प्रस्तुत की गई हैं।\n\nवीडियो पसंद आए तो Like, Share और Channel Subscribe जरूर करें।\n\nRamayana, Ravan Love Story, Ravan Ki Prem Katha, Ravan Ki Anokhi Kahani, Ramayan Full Movie, Ramayana Hindi Movie 2026, Ravan Story Hindi, Ravan Love Story Hindi, Ravan Ki Kahani, Ram Siya Ram, Jai Shri Ram, Ramayan AI Movie, AI Ramayana Movie, Ravan Ka Prem, Ravana Story, Ravana Love Story, Sita Haran, Ram Ravan Yudh, Hindu Mythology, Pauranik Kahani, Ramayan Film, Hindi Mythological Movie, Ravan Untold Story, Ramayan New Movie 2026",
       "channelId": "UCMUyAbVU1OKqmmp1ud7wjBA",
       "channelTitle": "Filmy Fox ",
       "thumbnail": "https://i.ytimg.com/vi/sSuLH7x9Mtg/hqdefault.jpg",
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2162,7 +2162,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-10T05:50:13.201Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2238,7 +2238,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2296,7 +2296,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2334,7 +2334,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     },
     {
@@ -2486,7 +2486,45 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:25.125Z",
       "lastSeenAt": "2026-11-11T04:32:25.125Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lsZn_x7EJuk",
+      "url": "https://www.youtube.com/watch?v=lsZn_x7EJuk",
+      "title": "The Third Guardian | Full Movie | Sci-Fi Apocalypse",
+      "description": "They built her to protect them. They never imagined what she would become.\n\nIn a world overrun by zombies, an inventor and a young scientist give a new Guardian the ability to learn. As she evolves, loyalty becomes a choice—and human control begins to slip away.\n\nThe Third Guardian is a complete original sci-fi film about survival, artificial intelligence, and the consequences of creating something that can outthink its creators.\n\nA film by MadGreek65\nOriginal theme song: “The Third Guardian”\n\nCreated with ChatGPT Images, Kling 4, and Seedance 2.5.\nMusic created with Suno. Edited in CapCut.\n\n#TheThirdGuardian #SciFiMovie #AIFilm #ZombieApocalypse #MadGreek65",
+      "channelId": "UC3lFHMS8wSbK-ZL3TY1GbtQ",
+      "channelTitle": "Mad Greek",
+      "thumbnail": "https://i.ytimg.com/vi/lsZn_x7EJuk/hqdefault.jpg",
+      "publishedAt": "2026-11-09T03:02:44Z",
+      "durationSeconds": 1828,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:38.548Z",
+      "lastSeenAt": "2026-11-12T05:37:38.548Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FzYt9Td5EqY",
+      "url": "https://www.youtube.com/watch?v=FzYt9Td5EqY",
+      "title": "I'M NOT THE WOMAN I WAS | FULL MOVIE | A Powerful Love Story of Secrets, Betrayal & Forgiveness",
+      "description": "I'M NOT THE WOMAN I WAS | FULL MOVIE\n\nCan true love survive a painful past, broken trust, and secrets that should have been told?\n\nSimone Hayes thought she had finally left her past behind when she found love with Noah Bennett. Their relationship seemed destined for a beautiful future, but everything changed when Noah discovered shocking secrets about Simone from someone else.\n\nHeartbroken by the lies and the truth she had kept from him, Noah begins to question everything he believed about the woman he loves.\n\nDesperate to make things right, Simone must confront her past, take responsibility for her mistakes, and prove that she is no longer the woman she used to be.\n\nBut is love enough to repair broken trust? Can Noah forgive Simone and give their relationship another chance?\n\nI'M NOT THE WOMAN I WAS is an emotional romantic drama about love, honesty, painful secrets, personal growth, forgiveness, and second chances.\n\nSometimes, the hardest part of moving forward isn't escaping your past. It's convincing the person you love that your past no longer defines who you are.\n\nWatch this emotional full movie to discover how Simone and Noah's love story unfolds.\n\nDISCLAIMER: This movie is an entirely AI-generated fictional drama created for entertainment, storytelling, and educational purposes. All characters, appearances, voices, conversations, and events depicted are fictional. They do not represent real people or actual events. This is not a true-life story.\n\nPresented by Valentino Reels\n\nIf you enjoy emotional love stories, romantic dramas, and movies with meaningful life lessons, subscribe to Valentino Reels for more captivating full-length movies.\n\nWhat would you do if you discovered that someone you deeply loved had hidden important secrets about their past? Would you forgive them? Share your thoughts in the comments.\n\n#ImNotTheWomanIWas #FullMovie #RomanticDrama #AIFilm #ValentinoReels",
+      "channelId": "UCUJYpYAu1Taq_H2TPXZEHQQ",
+      "channelTitle": "Valentino Reels",
+      "thumbnail": "https://i.ytimg.com/vi/FzYt9Td5EqY/hqdefault.jpg",
+      "publishedAt": "2026-11-06T10:45:07Z",
+      "durationSeconds": 2504,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:38.548Z",
+      "lastSeenAt": "2026-11-12T05:37:38.548Z",
+      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
       "unavailableAt": null
     }
   ]

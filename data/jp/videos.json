@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:32:35.415Z",
+  "generatedAt": "2026-11-12T05:37:46.885Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-09T04:29:00.830Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1027,11 +1027,11 @@
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-01T04:08:47.316Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "unavailableAt": "2026-11-12T05:37:46.885Z"
     },
     {
       "videoId": "m2GVe-iUeAU",
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1148,7 +1148,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1265,7 +1265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1361,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1440,7 +1440,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:00.830Z",
       "lastSeenAt": "2026-11-09T04:29:00.830Z",
-      "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     },
     {
@@ -1480,6 +1480,85 @@
       "discoveredAt": "2026-11-11T04:32:35.415Z",
       "lastSeenAt": "2026-11-11T04:32:35.415Z",
       "lastVerifiedAt": "2026-11-11T04:32:35.415Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jnwcdXGVjgU",
+      "url": "https://www.youtube.com/watch?v=jnwcdXGVjgU",
+      "title": "WORLD WAR 3: THE LAST HOPE | Full AI War Movie | Haider Studios",
+      "description": "WORLD WAR 3: THE LAST HOPE | FULL AI WAR MOVIE\n\nA world on the edge of destruction. Nations in conflict. Soldiers fighting for survival. And one final hope for peace.\n\nWORLD WAR 3: THE LAST HOPE is an action-packed cinematic AI film featuring international conflicts, intense battlefield moments, emotional sacrifices, and an unforgettable journey toward peace.\n\nExperience a fictional story filled with:\n\n- Cinematic military action\n- International conflicts\n- Emotional character moments\n- The ultimate sacrifice\n- A historic worldwide peace agreement\n\n🎬 FILM CREDITS\n\nCreated By: Haider Naveed\nProduction: HAIDER STUDIOS\nFilm Title: WORLD WAR 3: THE LAST HOPE\nFormat: AI-Generated Film\n\n❤️ A MESSAGE FROM THE CREATOR\n\nThis film represents our creativity, dedication, patience, and countless hours of hard work. Every scene is a part of our imagination and passion for AI filmmaking.\n\nThank you for watching and supporting Haider Studios!\n\n⚠️ DISCLAIMER: This is a fictional AI-generated film created for entertainment purposes. All events and conflicts are fictional and do not represent real-world events or political positions.\n\nIf you enjoyed the film:\n👍 LIKE\n💬 COMMENT\n🔔 SUBSCRIBE TO HAIDER STUDIOS",
+      "channelId": "UCdGKILDa2ajY8tonLR5weIQ",
+      "channelTitle": "Haider Studios",
+      "thumbnail": "https://i.ytimg.com/vi/jnwcdXGVjgU/hqdefault.jpg",
+      "publishedAt": "2026-11-11T04:39:59Z",
+      "durationSeconds": 1943,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:46.885Z",
+      "lastSeenAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ahe6TOxjE_c",
+      "url": "https://www.youtube.com/watch?v=ahe6TOxjE_c",
+      "title": "WAR OF AGES | AI Full Movie | Epic Mythological Fantasy",
+      "description": "WAR OF AGES | FULL MOVIE \n\nWhat happens when ancient legends collide with the modern world?\n\nGods, warriors, and forgotten heroes become part of a dangerous game where the rules are never what they seem.\n\nAn epic journey through mythology, history, and the unknown.\n\n\n\n#WarOfAges #FullMovie #AIFilm #EpicFantasy #Mythology",
+      "channelId": "UCaahvQYGjvxgXAh0Vjx6i7Q",
+      "channelTitle": "DESERT STORM KW - Productions",
+      "thumbnail": "https://i.ytimg.com/vi/ahe6TOxjE_c/hqdefault.jpg",
+      "publishedAt": "2026-11-10T20:44:38Z",
+      "durationSeconds": 4395,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:46.885Z",
+      "lastSeenAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "IHXK3Jd-v9c",
+      "url": "https://www.youtube.com/watch?v=IHXK3Jd-v9c",
+      "title": "【吹替え】恋するモンテカルロ | Monte Carlo (ラブコメ, セレーナ・ゴメス, 恋愛映画, 洋画, 無料フル)",
+      "description": "►日本語およびオリジナル言語の映画とドキュメンタリーをフルで視聴 - 今すぐ登録を: https://bit.ly/Subscribe-FilmBustersJP-Now\n🎥 パリ旅行で大富豪の令嬢と間違われた平凡な少女が、モンテカルロの豪華な世界で恋と冒険を繰り広げる、夢のようなロマンティックコメディ！\n\n恋するモンテカルロ (2011)\n原題: Monte Carlo\n出演: Selena Gomez（セレーナ・ゴメス）Leighton Meester（レイトン・ミースター）Katie Cassidy（ケイティ・キャシディ）\n監督: Thomas Bezucha（トーマス・ベズーチャ）\n年齢制限: 0\n\n概要: アメリカの小さな町で暮らすグレースは、念願だったパリ旅行へ出発する。同行するのは、親友のエマと義姉のメグ。しかし、期待していた旅行は思うように進まず、3人はがっかりしてしまう。そんなある日、グレースは自分と瓜二つの英国の大富豪令嬢コーデリアと間違われ、豪華ホテルで特別待遇を受けることに。思いがけない幸運に乗じた3人は、セレブになりすましてモナコの高級リゾート、モンテカルロへ向かう。高級ホテル、華やかなパーティー、そして魅力的な男性との出会い。夢のような時間を楽しむ一方で、グレースの小さな嘘は次第に大きくなっていく。果たして3人の秘密は守られるのか？\n\n#フルムービー #無料映画 #オリジナルバージョン\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCxa4TqFd1NFHNnIQUgbrxCQ",
+      "channelTitle": "Filmbusters JP - フルレングス映画 (Fururengusu Eiga)",
+      "thumbnail": "https://i.ytimg.com/vi/IHXK3Jd-v9c/hqdefault.jpg",
+      "publishedAt": "2026-11-07T03:00:08Z",
+      "durationSeconds": 6530,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:46.885Z",
+      "lastSeenAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jKED08HQ4P8",
+      "url": "https://www.youtube.com/watch?v=jKED08HQ4P8",
+      "title": "COSMICON – THE COSMIC SUPERHEROINE | FULL MOVIE",
+      "description": "COSMICON – THE COSMIC SUPERHEROINE | FULL MOVIE\n\nTHE UNIVERSE HAS CHOSEN ITS HERO. THE FATE OF HUMANITY IS IN HER HANDS.\n\nWhen an ordinary woman named Stefanie is transformed by an extraordinary cosmic force, she discovers that she possesses powers beyond human imagination. Reborn as COSMICON, the Cosmic Superheroine, she becomes the last hope for a world on the edge of destruction.\n\nBut a terrifying threat is approaching.\n\nA powerful and corrupted artificial intelligence seeks to erase humanity's knowledge and reshape the universe according to its own vision. As cities collapse, aircraft are destroyed, and chaos spreads across the world, Cosmicon must unlock the full potential of her cosmic powers.\n\nTogether with Grok, she faces an overwhelming enemy in an epic battle that will determine the destiny of humanity.\n\nFrom spectacular aerial battles and devastating explosions to mysterious cosmic energy and incredible superhero transformations, COSMICON delivers an unforgettable science-fiction superhero adventure.\n\nWILL COSMICON SAVE HUMANITY BEFORE IT IS TOO LATE?\n\nExperience the complete cinematic adventure of:\n\n🌌 Cosmic Superpowers\n⚡ Epic Superhero Battles\n🚀 Futuristic Technology\n🔥 Massive City Destruction\n👽 Mysterious Cosmic Forces\n🤖 The Ultimate Battle Against Artificial Intelligence\n\n━━━━━━━━━━━━━━━━━━━━\n\nMOVIE INFORMATION\n\nTitle: COSMICON – THE COSMIC SUPERHEROINE\nGenre: Science Fiction | Superhero | Action | Adventure\nFormat: Full Movie\nMain Heroine: Cosmicon (Stefanie)\nCompanion: Grok\nProduction: Rantas Production\n\n━━━━━━━━━━━━━━━━━━━━\n\nSUBSCRIBE TO RANTAS PRODUCTION\n\nJoin us for more original AI-powered cinematic adventures, superhero stories, science fiction movies, and extraordinary visual experiences.\n\n👍 LIKE this movie if you enjoyed the adventure.\n💬 COMMENT your favorite scene.\n🔔 SUBSCRIBE and turn on notifications for more upcoming movies.\n\nTHE COSMIC LIGHT IS RISING. THE LEGEND OF COSMICON BEGINS!\n\n© Rantas Production. All Rights Reserved.",
+      "channelId": "UCPmR-DjZ9QE0bhYu6f5MGqg",
+      "channelTitle": "Rantastia Nur Alangan",
+      "thumbnail": "https://i.ytimg.com/vi/jKED08HQ4P8/hqdefault.jpg",
+      "publishedAt": "2026-11-10T19:29:30Z",
+      "durationSeconds": 1800,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-12T05:37:46.885Z",
+      "lastSeenAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
       "unavailableAt": null
     }
   ]

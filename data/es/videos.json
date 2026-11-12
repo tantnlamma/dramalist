@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:32:44.912Z",
+  "generatedAt": "2026-11-12T05:37:55.419Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1200,7 +1200,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:51.706Z",
       "lastSeenAt": "2026-11-06T04:56:51.706Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1214,12 +1214,13 @@
       "publishedAt": "2026-11-07T00:00:21Z",
       "durationSeconds": 4442,
       "matchedKeywords": [
+        "drama IA película completa",
         "película completa inteligencia artificial"
       ],
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     },
     {
@@ -1263,8 +1264,8 @@
     {
       "videoId": "DgD_cPbYsD8",
       "url": "https://www.youtube.com/watch?v=DgD_cPbYsD8",
-      "title": "EL CONDE DE MONTECRISTO: El Padre, el Conde y el Banquero | Película Completa | 6/12",
-      "description": "Suscríbete 👉 https://www.youtube.com/@TheChroniclesOfLegendsES?sub_confirmation=1\nParte 1/12 👉 https://youtu.be/PZGfcX6pUgA\nParte 2/12 👉 https://youtu.be/75H0QYQ_5uM\nParte 3/12 👉 https://youtu.be/SCYZmUU4WpE\nParte 4/12 👉 https://youtu.be/0CJlqmBX7XY\nParte 5/12 👉 https://youtu.be/o438L2jCLF4\nParte 6/12 👉 https://youtu.be/DgD_cPbYsD8\n\n🎬 Una producción de The Chronicles Of Legends\n⚔️ Grandes historias clásicas, mitos y leyendas narradas como una película, capítulo por capítulo.\n\nAviso importante: nuestros videos son adaptaciones narradas, con fines de entretenimiento y cultura. Las historias se basan en obras clásicas y relatos históricos o mitológicos, y pueden condensar, ordenar o reinterpretar episodios para la narración. No promovemos ni glorificamos la violencia, y no ofrecemos consejos de ningún tipo. Las imágenes son ilustraciones, no registros reales de personas, lugares ni hechos.\n\n📜 Aviso legal: las imágenes y la narración de este video son creaciones propias, producidas con ayuda de inteligencia artificial. Los nombres, fechas y hechos se basan en las obras y fuentes en que se inspira cada historia.\n\n📚 Obra en que se basa este video: (pegar aquí el título y el autor)\n\n🚫 Cualquier reclamo de derechos de autor injustificado o uso abusivo de este video será impugnado por las vías que YouTube prevé y, si es necesario, judicialmente.\n\n#TheChroniclesOfLegends #HistoriasClásicas #Mitología #Leyendas #Narración",
+      "title": "EL CONDE DE MONTECRISTO: ¡Llega a París y Nadie Está a Salvo! | Película Completa | 6/12",
+      "description": "Suscríbete 👉 https://www.youtube.com/@TheChroniclesOfLegendsES?sub_confirmation=1\nParte 1/12 👉 https://youtu.be/PZGfcX6pUgA\nParte 2/12 👉 https://youtu.be/75H0QYQ_5uM\nParte 3/12 👉 https://youtu.be/SCYZmUU4WpE\nParte 4/12 👉 https://youtu.be/0CJlqmBX7XY\nParte 5/12 👉 https://youtu.be/o438L2jCLF4\nParte 6/12 👉 https://youtu.be/DgD_cPbYsD8\n\nUn misterioso sacerdote ofrece un diamante de valor incalculable a cambio de una sola cosa: la verdad sobre el Conde de Montecristo.\n\nCatorce años después de ser traicionado, el antiguo marinero Edmond Dantès regresa bajo nuevos disfraces para desentrañar su pasado. Bajo la apariencia del abate Busoni, confronta a Caderousse en una posada aislada, utilizando una joya de inmenso valor para arrancar la confesión sobre la carta que destruyó su juventud.\n\nMientras tanto, la antaño orgullosa casa comercial Morrel se enfrenta a la ruina absoluta. Con sus navíos hundidos y los acreedores exigiendo el pago, el patriarca se prepara para un desenlace fatal con el fin de limpiar el honor de su familia ante la inminente bancarrota. Es en este instante crítico cuando la intervención secreta que el Conde de Montecristo ejecuta altera el destino de todos. Una vieja bolsa de seda roja y la llegada de una réplica exacta del navío Pharaon al puerto de Marsella sirven para saldar antiguas deudas de lealtad.\n\nLa bondad y la protección han sido entregadas a los justos. Ahora, los verdaderos traidores que prosperaron en París aguardan sin saber lo que se avecina, ignorando que el Conde de Montecristo ya ha comenzado a mover sus piezas. El tiempo de la gratitud ha terminado; la verdadera venganza está por desatarse.\n\nSi te ha apasionado este episodio, deja tu me gusta, suscríbete al canal y cuéntanos en los comentarios qué habrías hecho tú en el lugar de la familia Morrel.\n\n0:00 El sacerdote y el diamante\n6:18 La confesión de la traición\n13:02 El inspector de prisiones\n17:12 El colapso de la casa Morrel\n22:04 La trágica noticia del Pharaon\n26:24 La carta de Simbad el Marino\n31:51 La misión secreta de Julie\n35:08 La bolsa de seda roja\n40:02 El último instante del armador\n45:00 El milagro en el puerto\n48:58 El juramento contra los enemigos\n\n#CondeDeMontecristo #EdmondDantes #LiteraturaClasica #Venganza #AlexandreDumas\n\n🎬 Una producción de The Chronicles Of Legends\n⚔️ Grandes historias clásicas, mitos y leyendas narradas como una película, capítulo por capítulo.\n\nAviso importante: nuestros videos son adaptaciones narradas, con fines de entretenimiento y cultura. Las historias se basan en obras clásicas y relatos históricos o mitológicos, y pueden condensar, ordenar o reinterpretar episodios para la narración. No promovemos ni glorificamos la violencia, y no ofrecemos consejos de ningún tipo. Las imágenes son ilustraciones, no registros reales de personas, lugares ni hechos.\n\n📜 Aviso legal: las imágenes y la narración de este video son creaciones propias, producidas con ayuda de inteligencia artificial. Los nombres, fechas y hechos se basan en las obras y fuentes en que se inspira cada historia.\n\n📚 Obra en que se basa este video: El Conde de Montecristo.\n\n🚫 Cualquier reclamo de derechos de autor injustificado o uso abusivo de este video será impugnado por las vías que YouTube prevé y, si es necesario, judicialmente.\n\n#TheChroniclesOfLegends #HistoriasClásicas #Mitología #Leyendas #Narración",
       "channelId": "UCxyvzoPJc1bFO51Gjh8FHUA",
       "channelTitle": "The Chronicles Of Legends ES",
       "thumbnail": "https://i.ytimg.com/vi/DgD_cPbYsD8/hqdefault.jpg",
@@ -1333,7 +1334,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:44.912Z",
       "lastSeenAt": "2026-11-11T04:32:44.912Z",
-      "lastVerifiedAt": "2026-11-11T04:32:44.912Z",
+      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
       "unavailableAt": null
     }
   ]
