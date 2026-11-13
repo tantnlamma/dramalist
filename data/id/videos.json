@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:38:14.482Z",
+  "generatedAt": "2026-11-13T04:54:47.657Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-10-15T10:29:21.548Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -835,7 +835,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:06:07.757Z",
       "lastSeenAt": "2026-10-19T03:06:07.757Z",
-      "lastVerifiedAt": "2026-10-19T03:06:07.757Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -930,7 +930,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -949,7 +949,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:10:06.874Z",
       "lastSeenAt": "2026-10-21T03:10:06.874Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1082,7 +1082,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:19.424Z",
       "lastSeenAt": "2026-10-24T03:08:19.424Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1177,7 +1177,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1519,7 +1519,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1614,7 +1614,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1652,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1785,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1804,7 +1804,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1823,7 +1823,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:27.806Z",
       "lastSeenAt": "2026-11-04T04:42:27.806Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1900,13 +1900,13 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
       "videoId": "5P_PJt6LM_I",
       "url": "https://www.youtube.com/watch?v=5P_PJt6LM_I",
-      "title": "Forced Marriage Love Story ❤️ | Complete Hindi Drama | Yuvraj & Nikki Ki Kahani | Hindi Drama",
+      "title": "Forced Marriage Love Story ❤️ | Complete Hindi Drama | love story ❤️| Hindi Drama",
       "description": "Yuvraj aur Nikki ki ek emotional forced marriage love story ❤️\n\nYuvraj ek successful businessman hai, jabki Nikki ek simple aur educated girl hai. Nikki ke parents ki death ke baad uski shaadi Yuvraj se ho jaati hai, kyunki Yuvraj ke papa ne uske papa se ek promise kiya tha. Lekin kya Yuvraj aur Nikki apne rishte ko accept kar payenge? 🤔\n\nDekhiye unki complete love story, emotional moments, unexpected twists aur relationship ka beautiful journey. ❤️\n\nAgar aapko Hindi drama, romantic love stories, forced marriage stories, emotional stories aur AI-generated drama videos pasand hain, to video ko Like 👍 karein aur channel ko Subscribe karein.\n\nKeywords:\nHindi drama, complete Hindi drama, Hindi love story, forced marriage love story, romantic Hindi story, emotional love story, businessman love story, arranged marriage story, Hindi romantic drama, AI drama, AI love story, Chinese drama in Hindi, Korean drama in Hindi, romance story, family drama, love story video\n\n#HindiDrama #LoveStory #ForcedMarriage #RomanticStory #aivideo",
       "channelId": "UCu12vpVeFiZUQnTQHff_MnQ",
       "channelTitle": "Divyaverse_studio",
@@ -1919,7 +1919,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-08T04:15:08.496Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1957,7 +1957,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -1976,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2090,7 +2090,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2109,7 +2109,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2204,7 +2204,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2223,7 +2223,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2261,7 +2261,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2280,7 +2280,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     },
     {
@@ -2299,7 +2299,64 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jKED08HQ4P8",
+      "url": "https://www.youtube.com/watch?v=jKED08HQ4P8",
+      "title": "COSMICON – THE COSMIC SUPERHEROINE | FULL MOVIE",
+      "description": "COSMICON – THE COSMIC SUPERHEROINE | FULL MOVIE\n\nTHE UNIVERSE HAS CHOSEN ITS HERO. THE FATE OF HUMANITY IS IN HER HANDS.\n\nWhen an ordinary woman named Stefanie is transformed by an extraordinary cosmic force, she discovers that she possesses powers beyond human imagination. Reborn as COSMICON, the Cosmic Superheroine, she becomes the last hope for a world on the edge of destruction.\n\nBut a terrifying threat is approaching.\n\nA powerful and corrupted artificial intelligence seeks to erase humanity's knowledge and reshape the universe according to its own vision. As cities collapse, aircraft are destroyed, and chaos spreads across the world, Cosmicon must unlock the full potential of her cosmic powers.\n\nTogether with Grok, she faces an overwhelming enemy in an epic battle that will determine the destiny of humanity.\n\nFrom spectacular aerial battles and devastating explosions to mysterious cosmic energy and incredible superhero transformations, COSMICON delivers an unforgettable science-fiction superhero adventure.\n\nWILL COSMICON SAVE HUMANITY BEFORE IT IS TOO LATE?\n\nExperience the complete cinematic adventure of:\n\n🌌 Cosmic Superpowers\n⚡ Epic Superhero Battles\n🚀 Futuristic Technology\n🔥 Massive City Destruction\n👽 Mysterious Cosmic Forces\n🤖 The Ultimate Battle Against Artificial Intelligence\n\n━━━━━━━━━━━━━━━━━━━━\n\nMOVIE INFORMATION\n\nTitle: COSMICON – THE COSMIC SUPERHEROINE\nGenre: Science Fiction | Superhero | Action | Adventure\nFormat: Full Movie\nMain Heroine: Cosmicon (Stefanie)\nCompanion: Grok\nProduction: Rantas Production\n\n━━━━━━━━━━━━━━━━━━━━\n\nSUBSCRIBE TO RANTAS PRODUCTION\n\nJoin us for more original AI-powered cinematic adventures, superhero stories, science fiction movies, and extraordinary visual experiences.\n\n👍 LIKE this movie if you enjoyed the adventure.\n💬 COMMENT your favorite scene.\n🔔 SUBSCRIBE and turn on notifications for more upcoming movies.\n\nTHE COSMIC LIGHT IS RISING. THE LEGEND OF COSMICON BEGINS!\n\n© Rantas Production. All Rights Reserved.",
+      "channelId": "UCPmR-DjZ9QE0bhYu6f5MGqg",
+      "channelTitle": "Rantastia Nur Alangan",
+      "thumbnail": "https://i.ytimg.com/vi/jKED08HQ4P8/hqdefault.jpg",
+      "publishedAt": "2026-11-10T19:29:30Z",
+      "durationSeconds": 1800,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:47.657Z",
+      "lastSeenAt": "2026-11-13T04:54:47.657Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dsaqOII7SVc",
+      "url": "https://www.youtube.com/watch?v=dsaqOII7SVc",
+      "title": "Fragments Of His Story PIERRE TENDEAN | AI Cinematic Film ",
+      "description": "Dengan mengucap Bismillahirrahmanirrahim.\n\nIzinkan saya, dengan segala kerendahan hati, mempersembahkan sebuah karya visual sinematik berbasis Artificial Intelligence (AI), yang saya dedikasikan sebagai bentuk penghormatan kepada para Kusuma Bangsa, khususnya sosok Pierre Tendean.\n\nSaya berharap, sekecil apa pun karya ini, dapat memberikan manfaat, menjadi pengingat sejarah, serta menumbuhkan rasa cinta tanah air bagi generasi hari ini dan generasi yang akan datang.\n\nSaya menyadari bahwa karya ini masih jauh dari kata sempurna. Untuk itu, saya memohon maaf sebesar-besarnya apabila masih terdapat kekurangan, baik dalam visualisasi, penyampaian cerita, maupun hal-hal lainnya. Setiap adegan telah melalui berbagai pertimbangan, proses, waktu, dan upaya terbaik yang dapat saya berikan.\n\nPerlu saya sampaikan, karya ini dibuat bukan untuk mencari materi, keuntungan finansial, imbalan, ataupun sesuatu untuk kepentingan pribadi. Tidak ada tujuan komersial di balik pembuatannya. Saya tidak mengharapkan apa pun selain semoga karya ini dapat memberikan makna dan menjadi salah satu cara sederhana untuk mengenang jasa para pahlawan.\n\nVideo ini lahir dari ketulusan hati, waktu, doa, dan rasa hormat yang mendalam. Sebuah karya yang saya persembahkan bukan karena merasa mampu menggambarkan sejarah dengan sempurna, melainkan karena percaya bahwa jasa dan pengorbanan para pahlawan tidak boleh hilang dari ingatan bangsa.\n\nTerlebih untuk Pierre Tendean, seorang putra bangsa yang kisah hidup, pengabdian, dan pengorbanannya layak untuk terus dikenang.\n\nKarena pada akhirnya, pahlawan tidak pernah meminta untuk dikenang. Namun, kitalah yang memiliki kewajiban untuk tidak melupakan.\n\nSemoga karya sederhana ini dapat bermanfaat dan menjadi pengingat bagi kita semua bahwa kemerdekaan yang kita nikmati hari ini memiliki sejarah, perjuangan, dan pengorbanan yang begitu besar.\n\nTerima kasih kepada semua pihak yang telah memberikan dukungan, doa, dan ruang bagi karya ini untuk hadir.\n\nSelamat menyaksikan.\n\nSelamat Hari Pahlawan.\n🇮🇩\n\nSampai jumpa di karya dan cerita berikutnya.\n\nHormat saya,\nBhaot Sudanco",
+      "channelId": "UCFk7EhAtZwIfkIRDcw_9Osw",
+      "channelTitle": "Bhaot Sudanco",
+      "thumbnail": "https://i.ytimg.com/vi/dsaqOII7SVc/hqdefault.jpg",
+      "publishedAt": "2026-11-10T03:00:10Z",
+      "durationSeconds": 2946,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:47.657Z",
+      "lastSeenAt": "2026-11-13T04:54:47.657Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yZargj98B2E",
+      "url": "https://www.youtube.com/watch?v=yZargj98B2E",
+      "title": "Mohabbat Ya Inteqam? 💔 | AI Drama | complete drama ",
+      "description": "Mohabbat jeetegi ya inteqam?\n\nWatch the complete Pakistani AI drama till the end for the final twist.\n\nIf you enjoy emotional Pakistani dramas, romantic suspense, forced marriage stories, psychological love triangles and unexpected twists, subscribe for more \noriginal AI drama stories.\n\n📌 Disclaimer & Disclosures:\n- Original Content: This video is 100% original content. The story, script, and narration are entirely my own original work. Unauthorized copying, re-uploading, or distribution on any other platform or channel is strictly prohibited.\n- AI Tool Disclosure: Artificial Intelligence (AI) was used solely as a production tool to generate visuals for this drama. The complete story, concept, and creative direction are entirely my own.\n\n#MohabbatYaInteqam #PakistaniDrama #AIDrama #UrduDrama #ForcedMarriage #LoveTriangle #RomanticDrama #SuspenseDrama #PakistaniAIStory",
+      "channelId": "UCf-HsFL6C8pM4nZQHCDSqQQ",
+      "channelTitle": " Fasana TV ",
+      "thumbnail": "https://i.ytimg.com/vi/yZargj98B2E/hqdefault.jpg",
+      "publishedAt": "2026-11-04T03:31:16Z",
+      "durationSeconds": 3939,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:47.657Z",
+      "lastSeenAt": "2026-11-13T04:54:47.657Z",
+      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
       "unavailableAt": null
     }
   ]

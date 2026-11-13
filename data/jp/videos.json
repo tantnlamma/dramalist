@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:37:46.885Z",
+  "generatedAt": "2026-11-13T04:54:18.775Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -56,7 +56,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -77,7 +77,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -274,7 +274,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -428,7 +428,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:15.685Z",
       "lastSeenAt": "2026-10-17T02:51:15.685Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -622,7 +622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -796,7 +796,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1108,7 +1108,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:39.683Z",
       "lastSeenAt": "2026-10-31T03:54:39.683Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1148,7 +1148,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1265,7 +1265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1361,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1440,7 +1440,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:00.830Z",
       "lastSeenAt": "2026-11-09T04:29:00.830Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1485,8 +1485,8 @@
     {
       "videoId": "jnwcdXGVjgU",
       "url": "https://www.youtube.com/watch?v=jnwcdXGVjgU",
-      "title": "WORLD WAR 3: THE LAST HOPE | Full AI War Movie | Haider Studios",
-      "description": "WORLD WAR 3: THE LAST HOPE | FULL AI WAR MOVIE\n\nA world on the edge of destruction. Nations in conflict. Soldiers fighting for survival. And one final hope for peace.\n\nWORLD WAR 3: THE LAST HOPE is an action-packed cinematic AI film featuring international conflicts, intense battlefield moments, emotional sacrifices, and an unforgettable journey toward peace.\n\nExperience a fictional story filled with:\n\n- Cinematic military action\n- International conflicts\n- Emotional character moments\n- The ultimate sacrifice\n- A historic worldwide peace agreement\n\n🎬 FILM CREDITS\n\nCreated By: Haider Naveed\nProduction: HAIDER STUDIOS\nFilm Title: WORLD WAR 3: THE LAST HOPE\nFormat: AI-Generated Film\n\n❤️ A MESSAGE FROM THE CREATOR\n\nThis film represents our creativity, dedication, patience, and countless hours of hard work. Every scene is a part of our imagination and passion for AI filmmaking.\n\nThank you for watching and supporting Haider Studios!\n\n⚠️ DISCLAIMER: This is a fictional AI-generated film created for entertainment purposes. All events and conflicts are fictional and do not represent real-world events or political positions.\n\nIf you enjoyed the film:\n👍 LIKE\n💬 COMMENT\n🔔 SUBSCRIBE TO HAIDER STUDIOS",
+      "title": "World War 3 Movie | The Last Hope — Full AI Film (2032)",
+      "description": "World War 3 Movie: The Last Hope — a full AI movie set in 2032, where one captain holds the last chance for peace. 32 minutes. Complete film.\n\nA world on the edge of destruction. Nations in conflict. Soldiers fighting for survival — and one final hope to end it all.\n\nTHE LAST HOPE is a full AI movie built from start to finish with AI filmmaking tools. International conflict, battlefield tension, sacrifice, and a peace agreement that decides everything.\n\nIN THIS AI FILM:\n- Cinematic military action\n- Rising international tension\n- Emotional character moments\n- One captain's final mission\n- A historic worldwide peace agreement\n\n⏱ 32 MINUTES — WATCH TO THE END\n\n🎬 FILM CREDITS\nCreated By: Haider Naveed\nProduction: HAIDER STUDIOS\nFilm Title: WORLD WAR 3: THE LAST HOPE\nFormat: AI-Generated Film\nRuntime: 32 minutes\n\n❤️ A MESSAGE FROM THE CREATOR\nThis film is our creativity, dedication, patience, and countless hours of hard work. Every scene is our imagination and our passion for AI filmmaking.\nThank you for watching and supporting Haider Studios.\n\n⚠️ DISCLAIMER: This is a fictional AI-generated film made for entertainment. All events and conflicts are fictional and do not represent real-world events or political positions.\n\n👍 LIKE  💬 COMMENT  🔔 SUBSCRIBE TO HAIDER STUDIOS for the next AI film\n\n#WorldWar3 #FullAIMovie #AIFilm #WarMovie #AIMovie #HaiderStudios #CinematicAI #SciFiMovie #FutureWar #AIFilmmaking",
       "channelId": "UCdGKILDa2ajY8tonLR5weIQ",
       "channelTitle": "Haider Studios",
       "thumbnail": "https://i.ytimg.com/vi/jnwcdXGVjgU/hqdefault.jpg",
@@ -1499,7 +1499,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1519,7 +1519,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1539,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     },
     {
@@ -1558,7 +1558,45 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-12T05:37:46.885Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Bp3xWJ14L94",
+      "url": "https://www.youtube.com/watch?v=Bp3xWJ14L94",
+      "title": "【吹き替え】アンセイン 狂気の真実 | Unsane (サイコスリラー, 監禁, 恐怖, 洋画, フル)",
+      "description": "🎦 映画ファン必見！名作＆話題作を、フルで毎週公開中！\nhttps://bit.ly/MoviedomeJP-SUB\n🌍 ストーカーの恐怖から逃れたはずの女性が精神科病院に強制入院させられ、現実と妄想が交錯する逃げ場のない悪夢に巻き込まれていく！\n\nアンセイン 狂気の真実 (2018)\n原題: Unsane\n出演: Claire Foy（クレア・フォイ）Joshua Leonard（ジョシュア・レナード）Jay Pharoah（ジェイ・ファロー）\n監督: Steven Soderbergh（スティーヴン・ソダーバーグ）\n年齢制限: R15+\n\n概要: ストーカー被害による深いトラウマを抱え、故郷を離れて新たな生活を始めた女性ソーヤー。過去の恐怖から抜け出せずにいた彼女は、精神科施設でカウンセリングを受けることに。しかし、何気なく署名した書類によって、本人の意思に反して施設への入院が決定してしまう。外部との連絡も制限され、閉ざされた病棟で絶望するソーヤー。さらに、かつて自分を執拗につけ回していたストーカーにそっくりな男が職員として現れる。彼は本当に追跡者なのか、それとも彼女の妄想なのか？ 誰にも信じてもらえない状況で、ソーヤーは恐ろしい真実に迫っていく。\n\n#MoviedomeJP #フルムービー #洋画\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UC_RKuoBMRI_Ut0SCOcBIaoQ",
+      "channelTitle": "Moviedome JP みんなのホームエンタメ ",
+      "thumbnail": "https://i.ytimg.com/vi/Bp3xWJ14L94/hqdefault.jpg",
+      "publishedAt": "2026-11-07T01:00:17Z",
+      "durationSeconds": 5866,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:18.775Z",
+      "lastSeenAt": "2026-11-13T04:54:18.775Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cwCNa3LbKl0",
+      "url": "https://www.youtube.com/watch?v=cwCNa3LbKl0",
+      "title": "【AIドラマ🌙なぜ誰も助けない？】猫の事務所（宮沢賢治）×いじめの四層構造（森田洋司）",
+      "description": "仲間はずれにされた、一匹の猫。\n昨日まで普通に話していた同僚たちが、ある日突然、口をきかなくなった――。\n\n宮沢賢治『猫の事務所』。\n猫たちが働く不思議な事務所を舞台に、いじめと孤独を描いた物語です。\n\n物語の後半では、社会学者・森田洋司の「いじめの四層構造」をもとに、いじめる人、いじめられる人、はやし立てる人、見ているだけの人、それぞれの心理を考えます。\n\n「なぜ、誰も助けてくれなかった？」\n\nいじめられている人がいても、誰も声を上げない。\n自分が次の標的になるのが怖いから。\n周囲に合わせていたほうが、安心だから。\nそれとも、自分には関係ないと思ってしまうから。\n\n宮沢賢治が描いたのは、猫たちの小さな事務所。\nけれど、そこで起きた出来事は、学校や職場、私たちの日常にもつながっています。\n\n優秀でまじめな竈猫（かまねこ）。\nそんな彼を疎ましく思う三毛猫。\n少しずつ変わっていく仲間たちの態度。\nそして、何も言わずに見ていた猫たち。\n\n物語の後半では、事務所がなくなったその先を、オリジナルストーリーとして描きます。\n\nなぜ、いじめは起きるのか。\nなぜ、誰も止められなかったのか。\nそして、私たちにできることは、本当に何もなかったのでしょうか。\n\n誰かの居場所を守るために、できる小さな選択があります。\n\n物語を見終えたあと、あなたが感じたことを、ぜひコメントで教えてください。\n\n【チャプター】\n00:00    前編　猫の事務所（宮沢賢治）\n02:35    ぜいたく猫の訪問\n05:52    とら猫のお弁当箱\n09:23    三毛猫の筆\n11:21　窯猫とは\n12:18    最悪な一日\n\n17:44　後編　居場所を作る小さな選択（森田洋司「いじめの四層構造」より）\n19:36　第1章　傷ついた側から見える景色\n22:42　第2章　同じ場面をもう一度\n\n27:34　次回作　不思議の国のアリスと言語哲学\n28:23　イーハトーブをめぐる小さな旅\n\n\n【登場人物】\n・竈猫（かまねこ）・・まじめで優秀な事務員\n・三毛猫・・・・・・   竈猫を疎ましく思う同僚\n・事務所で働く猫たち\n・事務長\n\n・森田洋司　日本のいじめ研究の第一人者\n・月の羊\n\n【着想のもととなった作品・研究】\n・宮沢賢治『猫の事務所』\n・森田洋司のいじめ研究「いじめの四層構造」\n\n前編は、宮沢賢治の原作をもとに、その物語と世界観を映像化しています。\n\n後編は、原作の結末から着想を広げ、社会学の研究を参考に制作したオリジナルストーリーです。\n\n作中の人物の会話や心理描写には、映像作品としての創作を含みます。研究者の思想や研究内容を紹介する部分も、著作の文章をそのまま引用したものではなく、作品のために再構成しています。\n\n【制作について】\n生成AIを制作に活用しながら、脚本・構成、人物と舞台の設定、映像の演出・編集を組み合わせて制作しています。\n\n猫たちの表情や仕草、宮沢賢治の幻想的なイーハトーブの風景を通して、物語の世界を映画のように楽しんでいただけたらうれしいです。\n\n【音楽】\nYouTubeオーディオライブラリ\n※実際の使用楽曲に合わせて更新します。\n\n【月の羊_ 教養シネマ】\n文学と哲学を、物語と映像で身近に。\n世界の見え方が変わる夜をお届けします。\n\n次の物語も、チャンネル登録してお待ちいただけたらうれしいです。\n\n#猫の事務所 #宮沢賢治 #いじめ #集団心理 #森田洋司 #大人の教養 #ファンタジー",
+      "channelId": "UC1WbYlUrjfrpB2lxG8wCGjw",
+      "channelTitle": "月の羊_大人の教養シネマ",
+      "thumbnail": "https://i.ytimg.com/vi/cwCNa3LbKl0/hqdefault.jpg",
+      "publishedAt": "2026-11-12T09:45:09Z",
+      "durationSeconds": 1818,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:18.775Z",
+      "lastSeenAt": "2026-11-13T04:54:18.775Z",
+      "lastVerifiedAt": "2026-11-13T04:54:18.775Z",
       "unavailableAt": null
     }
   ]

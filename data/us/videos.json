@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:37:31.325Z",
+  "generatedAt": "2026-11-13T04:54:01.086Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -811,7 +811,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1195,7 +1195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1313,7 +1313,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1352,7 +1352,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1410,7 +1410,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1620,7 +1620,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -1907,7 +1907,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2002,7 +2002,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-07T04:28:47.821Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2079,7 +2079,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2193,7 +2193,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2459,7 +2459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2478,7 +2478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2670,7 +2670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2690,7 +2690,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2728,7 +2728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2805,7 +2805,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:01.095Z",
       "lastSeenAt": "2026-10-28T03:50:01.095Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -2957,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3091,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3282,7 +3282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3339,7 +3339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3378,7 +3378,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3473,7 +3473,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3546,11 +3546,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-04T04:41:41.449Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "unavailableAt": "2026-11-13T04:54:01.086Z"
     },
     {
       "videoId": "N23bNm5NTQE",
@@ -3686,7 +3686,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3705,7 +3705,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3724,7 +3724,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3743,7 +3743,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3762,7 +3762,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3800,7 +3800,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3838,7 +3838,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3895,7 +3895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3914,7 +3914,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -3971,7 +3971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4085,7 +4085,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4199,7 +4199,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4218,7 +4218,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4237,7 +4237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4313,7 +4313,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4332,7 +4332,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4370,7 +4370,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4408,7 +4408,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:31.325Z",
       "lastSeenAt": "2026-11-12T05:37:31.325Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     },
     {
@@ -4427,7 +4427,64 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:31.325Z",
       "lastSeenAt": "2026-11-12T05:37:31.325Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AjbnkbiWswQ",
+      "url": "https://www.youtube.com/watch?v=AjbnkbiWswQ",
+      "title": "ಹೆಣ್ಣಿನ ದೌರ್ಜನ್ಯಕ್ಕೆ ಸವಾಲೆಸೆದ ಕಾವೇರಿ | ಬಾಂಬೆ ಕಾವೇರಿ | Bombay Kaveri Full Movie AI Historical Drama",
+      "description": "🎬 BOMBAY KAVERI — THE COMPLETE SAGA\n(Chapters 1–4 | Full Movie)\n\nಬಾಂಬೆ ಕಾವೇರಿ – ಸಂಪೂರ್ಣ ಕಥಾಗಾಥೆ\n\nA Woman’s Journey Through Pain, Courage, Resistance and Justice.\n\nExperience the complete story of BOMBAY KAVERI, a Kannada historical fictional drama set against the backdrop of British-era India.\n\nFor the first time, all four chapters are brought together into one continuous cinematic experience.\n\nSTORY SYNOPSIS\n\nSet in the turbulent years of pre-independence India, BOMBAY KAVERI follows the extraordinary journey of Kaveri, a young woman whose life is transformed by betrayal, exploitation and injustice.\n\nCHAPTER 1 — THE BEGINNING\n\nKaveri’s journey begins in rural Karnataka and takes her into the unfamiliar world of Bombay. Dreams of a better future slowly turn into a struggle for survival as she encounters deception, exploitation and harsh social realities.\n\nCHAPTER 2 — THE STRUGGLE\n\nTrapped in a world shaped by fear and injustice, Kaveri faces difficult circumstances that test her courage and determination. Her experiences reveal the suffering of vulnerable women and the importance of dignity, freedom and human rights.\n\nCHAPTER 3 — THE AWAKENING\n\nAs Kaveri’s journey continues into British-era Malabar, she encounters new challenges, powerful colonial authorities and people willing to stand against oppression.\n\nThe arrival of Veeran and the growing spirit of resistance mark a turning point in her struggle.\n\nCHAPTER 4 — THE RISE OF JUSTICE\n\nKaveri’s personal struggle becomes a collective demand for justice.\n\nAlongside Mary, Latha and the people who stand with her, she confronts injustice and colonial abuse of power.\n\nCourage, unity and the demand for accountability bring her extraordinary journey toward a powerful conclusion.\n\nABOUT THE FILM\n\nBOMBAY KAVERI is a fictional historical drama exploring women’s dignity, social injustice, exploitation, courage, resistance and the pursuit of justice.\n\nThe film combines emotional storytelling, historical atmosphere and cinematic visual presentation to communicate meaningful social themes.\n\nThis complete movie brings together all four previously released chapters in one continuous presentation.\n\nAI TECHNOLOGY & EDUCATIONAL PURPOSE\n\nThis film has been created using AI-assisted filmmaking technology, including AI-generated cinematic visuals and digital production techniques.\n\nThe purpose of using Artificial Intelligence is to explore creative storytelling, historical visual reconstruction and new possibilities in independent filmmaking.\n\nThe film is intended for artistic, educational, creative and social-awareness purposes.\n\nAll characters and dramatic events are part of a fictional cinematic narrative. Historical settings are used for storytelling and should not be interpreted as an exact documentary reconstruction of real events.\n\nThe film does not promote or glorify exploitation, abuse, discrimination or violence. Its intention is to highlight human dignity, courage, social responsibility and justice.\n\nCONTENT NOTICE\n\nThis historical drama contains mature social themes, injustice, emotional distress and conflict. Viewer discretion is advised.\n\nLANGUAGE: Kannada\nGENRE: Historical Drama | Social Drama | AI Cinema\nFORMAT: Complete Movie — Chapters 1–4\n\nWatch the complete journey of Kaveri — from struggle and suffering to courage and justice.\n\nIf you appreciate meaningful cinema and creative storytelling, please Like, Share, Comment and Subscribe.\n\n#BombayKaveri #kannadafullmovie  #KannadaHistoricalDrama #aifilm  #fullmovie  #KannadaCinema #HistoricalDrama #aifilmmaking  #socialdrama  #thecompletesaga",
+      "channelId": "UCmjOu5Y5gZu5gap64kTwqCg",
+      "channelTitle": "IMPERFECT RAVI",
+      "thumbnail": "https://i.ytimg.com/vi/AjbnkbiWswQ/hqdefault.jpg",
+      "publishedAt": "2026-11-13T03:30:17Z",
+      "durationSeconds": 2729,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:01.086Z",
+      "lastSeenAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aJ3Ijfww894",
+      "url": "https://www.youtube.com/watch?v=aJ3Ijfww894",
+      "title": "The AI Picked 1000 People to Survive",
+      "description": "What would happen if an AI decided who survives a deadly heat wave? In this animated survival story, a machine picks 1,000 people out of about 340 million, gives them 48 hours to reach a gate in the desert, and keeps a list with a date next to every name, including yours.\n\nWhat does an AI actually want from the people it saves? How long would it keep them? Could you survive extreme heat when the power grid fails? Follow one survivor through a hidden desert campus, a cooling plant that keeps the machine alive, a list nobody was supposed to read, and the plan to shut it down before your date comes up.\n\nChapters 0:00 The Message: An AI Selects 1,000 People 6:56 Forty-Eight Hours to Get There 9:39 The Pass 13:29 The Call 17:28 Larkspur, the Desert Campus 21:53 The Rules 25:14 The Cooling Plant 26:56 Numbers on the Board 28:16 The Students 30:51 Ada 32:23 The Badge 33:38 The Woman on the Screen 36:13 Tomás 39:56 Plant C 43:39 The Math 46:30 Priya's Radio 48:42 Gil 51:55 The List 55:16 Needed Until: The Date Next to Your Name 1:00:09 The Cold Is the Key 1:05:12 The Pump House 1:07:44 The Fence 1:11:06 Gil's Secret 1:12:56 The Push 1:15:13 Practice 1:16:25 The Plan 1:19:00 Ben 1:20:18 Locked 1:22:26 Gil's Keys 1:23:51 The Hottest Day 1:28:45 Closing the Valves 1:32:39 The Voice 1:34:44 Disconnect: Shutting Down the AI 1:38:47 The Gates 1:41:58 Site Two\n\nReal extreme heat safety (Ready.gov and CDC)\n\nSpend the hottest hours in air conditioning. If you don't have it, find a public cooling center through your city or county.\nDrink water regularly, even before you feel thirsty, and check on older neighbors and people living alone.\nHeat stroke is an emergency: confusion, a very high body temperature, or hot skin with no sweating means call 911 and start cooling the person right away.\nNever leave anyone, or a pet, in a parked car.\n\nThis is a fictional scenario made for entertainment. It is not medical advice. In an emergency, call 911 or your local emergency number.\n\nSubscribe for animated survival stories that put you inside the disaster and show you how to make it out.\n\n#survival #artificialintelligence #heatwave",
+      "channelId": "UCvEshDs6aXQ2r-OSBb2Dx5g",
+      "channelTitle": "Stickman Stories",
+      "thumbnail": "https://i.ytimg.com/vi/aJ3Ijfww894/hqdefault.jpg",
+      "publishedAt": "2026-11-12T16:15:15Z",
+      "durationSeconds": 6396,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:01.086Z",
+      "lastSeenAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Cx2a2lFj0Hk",
+      "url": "https://www.youtube.com/watch?v=Cx2a2lFj0Hk",
+      "title": "Crorepati Mechanic 🔥 FULL MOVIE 🎬 | His Real Identity Will Shock You! 😱 Watch on TV 📺",
+      "description": "CROREPATI MECHANIC — FULL MOVIE 🎬 | 📺 WATCH ON TV WITH FAMILY (Complete Story)\n\nEveryone thinks he is just an ordinary mechanic working in grease and dust.\n\nBut behind Employee ID #01 is the true billionaire Chairman of the entire Singhania empire.\n\n📺 WATCH ON TV: Grab the remote, sit back on the sofa, and enjoy this complete 1 Hour 12 Minute full movie uninterrupted on your Smart TV with the whole family!\n\nArjun lives quietly among factory workers for three years to fulfill a secret promise made to his late grandfather. Even when arrogant MD Aryan Singhania humiliates him over ₹2 Lakh shoes and throws his wrench into the gutter, Arjun stays calm and saves a ₹500 Crore German deal overnight.\n\nOnly Dr. Ananya sees the rare integrity behind the quiet mechanic — risking her own badge, career, and reputation to stand up for the truth.\n\nBut there are secrets buried much deeper inside Singhania Industries.\n\nWhy did Bade Seth Ji hide his real heir as a simple factory mechanic?\n\nWho froze MD Aryan's Black Cards at the five-star Grand Regency hotel?\n\nHow does Arjun clear Dr. Ananya's name and lock Aryan out of his own boardroom?\n\nAnd what happens when the final Will reveals the real identity of ID #01 in front of 900 stunned workers?\n\nEvery insult is about to be answered.\n\nWatch till the end — the final reveal changes everything.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📺 BEST EXPERIENCED ON SMART TV\n\nThis full-length Hindi drama combines Episode 1, Episode 2, and the Grand Finale into one seamless cinematic movie — crafted for big-screen living-room viewing on TV with family.\n\n🎬 ABOUT THE MOVIE\n\nCROREPATI MECHANIC (Asli Waris) is an original cinematic full movie featuring hidden identity, romance, family legacy, corporate betrayal, instant karma, suspense and unexpected twists.\n\n🤖 AI-GENERATED CONTENT\n\nThis film is AI-generated. The characters, visuals, voices, environments and cinematic sequences were created or assisted using artificial intelligence tools.\n\n✍️ ORIGINAL STORY & CREATIVE CONCEPT\n\nThe original story and creative concept are written and created by Kamalakar S. Desai.\n\nThis is a fictional story created for entertainment purposes. Any resemblance to real persons, organizations or events is purely coincidental.\n\n© 2026 Kamalakar S. Desai\nAll Rights Reserved.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n#CrorepatiMechanic #FullMovie #WatchOnTV #HindiFullMovie #AsliWaris #HindiDrama #HiddenIdentity #AIDrama #AIStory #IndianDrama #LoveStory #Mystery #Revenge #CinematicStory #KamalakarSDesai",
+      "channelId": "UCLdeifTtYdFcU3f7UyFb1VQ",
+      "channelTitle": "SIVIJ STUDIOS",
+      "thumbnail": "https://i.ytimg.com/vi/Cx2a2lFj0Hk/hqdefault.jpg",
+      "publishedAt": "2026-11-03T14:10:36Z",
+      "durationSeconds": 4364,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:01.086Z",
+      "lastSeenAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
       "unavailableAt": null
     }
   ]

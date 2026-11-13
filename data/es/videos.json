@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:37:55.419Z",
+  "generatedAt": "2026-11-13T04:54:28.342Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-03T05:11:46.423Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1200,7 +1200,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:51.706Z",
       "lastSeenAt": "2026-11-06T04:56:51.706Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1220,7 +1220,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     },
     {
@@ -1334,7 +1334,26 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:44.912Z",
       "lastSeenAt": "2026-11-11T04:32:44.912Z",
-      "lastVerifiedAt": "2026-11-12T05:37:55.419Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7CjjsrIWTiA",
+      "url": "https://www.youtube.com/watch?v=7CjjsrIWTiA",
+      "title": "El hombre bicentenario y la inteligencia artificial explicados /Habla el Chamo",
+      "description": "El hombre bicentenario no predijo exactamente la inteligencia artificial actual, pero sí anticipó algunas de sus preguntas más importantes: ¿qué ocurre cuando una máquina aprende, crea, recuerda, trabaja, ama y reclama una identidad propia?\n\nEn este vídeo revisamos la película de Robin Williams desde la perspectiva de 2026 y la conectamos con la realidad de los chatbots, la IA generativa, los robots humanoides, las voces clonadas, la automatización laboral, la regulación europea y el futuro de la conciencia artificial.\n\nAnalizamos la historia de Andrew desde sus primeros días como robot doméstico hasta su lucha por ser reconocido como persona. Hablamos de trabajo, propiedad, esclavitud, creatividad, derechos, memoria, cuerpo artificial, amor, mortalidad y poder tecnológico.\n\nTambién veremos ejemplos actuales:\n\n- La llegada de ChatGPT al público en 2022.\n- El crecimiento de la inteligencia artificial generativa en empresas.\n- Las voces artificiales utilizadas en campañas políticas.\n- Los robots industriales y humanoides que ya trabajan en fábricas y servicios.\n- La aplicación progresiva del Reglamento Europeo de Inteligencia Artificial.\n- Los riesgos de confundir una simulación convincente con una conciencia real.\n- El debate sobre quién controla los datos, los modelos y el trabajo creado por la IA.\n\nLa gran pregunta de la película no es solamente si Andrew puede ser humano.\n\nLa pregunta es qué haremos nosotros si algún día una inteligencia artificial puede aprender, crear, actuar y reclamar una identidad propia.\n\nEste vídeo no afirma que los sistemas actuales sean conscientes como Andrew. Distingue entre inteligencia, imitación, autonomía y conciencia, y utiliza la película como una herramienta para pensar en el futuro.\n\nFUENTES PRINCIPALES\n\n- Stanford AI Index 2025.\n- OpenAI, presentación de ChatGPT.\n- Comisión Europea, Reglamento de Inteligencia Artificial.\n- Federación Internacional de Robótica.\n- Brennan Center for Justice.\n- Associated Press y otras fuentes sobre inteligencia artificial, elecciones y robótica.\n\nSi la película te hizo pensar cuando la viste por primera vez, quizá ahora te haga otras preguntas.\n\n#ElHombreBicentenario #inteligenciaartificial  #cienciaficción \n#chatgpt  #claude  #gemini  #ias  #grok  #perplexity  \n\nColaboración con  @Maryelinolivera    compositora venezolana y creadora de Fortaleciendo Voces Silenciadas.\n📍 Fortaleciendo Voces Silenciadas: [enlace o usuario que te pase Maryelin]\n📞 España: 016 (24 h, gratuito) · WhatsApp 600 000 016 · https://violenciagenero.igualdad.gob.es \n\n#noalacoso  #fortaleciendovoces #vocessilenciadas  #maryelinolivera\n\n\n📧 Contacto directo: contacto.hablaelchamo@gmail.com\n\n🔴 APOYA EL CANAL: \n☕ DONACIONES: paypal.me/hablaelchamo \n*******************************************\n\nAbrí un canal hermano: 👉 @ElChamoRecomienda, donde te muestro cómo empezar en el mundo del contenido con lo que tienes a mano, compartiendo mi experiencia real y sin adornos.\nhttps://www.youtube.com/@ElChamoRecomienda \n🎯 ¿Qué encontrarás allí?\n🔹 Tips y herramientas esenciales para creadores.\n🔹 Recomendaciones reales, sin humo ni marketing barato.\n🔹 Productos que uso en mi día a día, con enlaces de afiliado.\n🔹 Canales y creadores que me han inspirado.\n\n🔧 MI SETUP ACTUAL ACTUALIZADO\nEQUIPOS O HERRAMIENTAS QUE ME HAN SIDO UTILES, ECONOMICOS Y QUE RECOMIENDO PARA EMPEZAR (TODOS EN USO)\n📦 Enlaces afiliados (gracias por apoyar el canal):\n\nhttps://www.ulanzi.de/?ref=hablaelchamo\n\nAMAZON:\n✅ Logitech C922 Pro Stream Webcam ➡️ https://amzn.to/4evVEMp\n✅ Micrófono DJI Mic Mini ➡️ https://amzn.to/4evTgFc\n✅ Micrófono DJI Transmisor Mic 2 ➡️ https://amzn.to/4evTgFc\n✅ Receptor móvil de la Serie dji Mic ➡️ https://amzn.to/4oESHxI\n✅ FIFINE XLR Micrófono Dinámico ➡️ https://amzn.to/4xxw6Hj\n✅ Brazo Soporte Micrófono ➡️ https://amzn.to/4vY9cay\n✅ Teclado Mecánico RK100 ➡️ https://amzn.to/4uIYa7U\n✅ Hub USB-C Lemorele ➡️ https://amzn.to/3SQzCws\n✅ Trípode JOILCAN 171cm ➡️ https://amzn.to/4gtPuim\n✅ Auriculares KZ EDX Pro ➡️ https://amzn.to/4vXMYoX\n✅ Soporte TARION Magic Arm ➡️ https://amzn.to/3QewdHb\n✅ BONTEC Soporte Monitor y Portatil ➡️ https://amzn.to/43JZuww\n✅ Soporte de Escritorio VIJIM LS02 ➡️ https://amzn.to/4eh6d7c\n✅ Luz de vídeo LED ULANZI K20 ➡️ https://amzn.to/442Vuay\n\n📦 Enlaces afiliados (gracias por apoyar el canal):\nALIEXPRESS:\n\n✅ FIFINE XLR Micrófono Dinámico ➡️ https://s.click.aliexpress.com/e/_c4ncaCHF\n✅ Brazo Soporte Micrófono ➡️ https://s.click.aliexpress.com/e/_c3EbS5Av\n✅ Ulanzi MT-79 Extendable Tripod ➡️  https://s.click.aliexpress.com/e/_c3620q4p\n✅ Teleprompter ULANZI  ➡️ https://s.click.aliexpress.com/e/_c3Yftqct\n✅ Luz LED VIJIM Ulanzi VL200 ➡️ https://s.click.aliexpress.com/e/_c2IgYIPr\n✅ Monitor de cámara trasera para transmisión en vivo ➡️ \nhttps://s.click.aliexpress.com/e/_c4beXwO1\n\nGet vidIQ to grow your channel faster! 🚀\nhttps://vidiq.com/CesarFares-Habla",
+      "channelId": "UCA-FuA6BogU6B5C7YbZoF5A",
+      "channelTitle": "Habla el Chamo - César Fares",
+      "thumbnail": "https://i.ytimg.com/vi/7CjjsrIWTiA/hqdefault.jpg",
+      "publishedAt": "2026-10-03T17:00:06Z",
+      "durationSeconds": 3582,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-13T04:54:28.342Z",
+      "lastSeenAt": "2026-11-13T04:54:28.342Z",
+      "lastVerifiedAt": "2026-11-13T04:54:28.342Z",
       "unavailableAt": null
     }
   ]
