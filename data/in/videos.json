@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:54:08.050Z",
+  "generatedAt": "2026-11-14T04:48:05.232Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:37.007Z",
       "lastSeenAt": "2026-10-26T03:01:37.007Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1457,7 +1457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:07.108Z",
       "lastSeenAt": "2026-10-28T03:50:07.108Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1704,7 +1704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-12T05:37:38.548Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2029,7 +2029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2140,11 +2140,11 @@
       "matchedKeywords": [
         "AI drama movie hindi full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-06T04:56:31.480Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
+      "unavailableAt": "2026-11-14T04:48:05.232Z"
     },
     {
       "videoId": "pZM0jsXk6cQ",
@@ -2162,7 +2162,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2197,11 +2197,11 @@
       "matchedKeywords": [
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-07T04:28:53.592Z",
       "lastSeenAt": "2026-11-07T04:28:53.592Z",
-      "lastVerifiedAt": "2026-11-09T04:28:51.780Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
+      "unavailableAt": "2026-11-14T04:48:05.232Z"
     },
     {
       "videoId": "3rjSvmunPVs",
@@ -2296,7 +2296,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2505,7 +2505,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2538,12 +2538,13 @@
       "publishedAt": "2026-11-12T01:00:26Z",
       "durationSeconds": 2872,
       "matchedKeywords": [
+        "AI drama movie hindi full",
         "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2600,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2790,7 +2791,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     },
     {
@@ -2810,6 +2811,45 @@
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
       "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "OzOYgQNFE2c",
+      "url": "https://www.youtube.com/watch?v=OzOYgQNFE2c",
+      "title": "माँ की कसम – अनाथ का इंसाफ | Full AI Hindi Movie | 2026",
+      "description": "🎬 माँ की कसम – अनाथ का इंसाफ | Full AI Hindi Movie | 2026\n\nIn this video:\nएक माँ की दुआ, एक बेटे का वादा और इंसाफ की सबसे बड़ी जंग!\n\n📖 फिल्म की कहानी:\n\nयह कहानी है करण की, जिसने बचपन में अपने पिता को खो दिया था। उसके पिता के साथ हुए अन्याय का सच सालों तक छिपा रहा। करण अपनी माँ सुमन के साथ मुश्किलों भरी जिंदगी जीता है।\n\nएक दिन उसे अपने पिता के अतीत से जुड़ा ऐसा राज पता चलता है, जो उसकी पूरी जिंदगी बदल देता है। करण अपने पिता को इंसाफ दिलाने की कसम खाता है।\n\nइस सफर में उसका सामना खतरनाक अपराधी भैरव सिंह और उसके पीछे छिपे मास्टरमाइंड विक्रम मल्होत्रा से होता है।\n\nकरण का दोस्त अमन भी एक समय उसका भरोसा तोड़ देता है। लेकिन सच्चाई, दोस्ती और हिम्मत के सहारे करण आगे बढ़ता रहता है।\n\nइंस्पेक्टर कविता, रघुवीर और एक अहम गवाह की मदद से करण अपने पिता के साथ हुए अन्याय के सबूत जुटाता है। आखिरकार मामला अदालत तक पहुँचता है और सच सबके सामने आ जाता है।\n\nलेकिन करण की लड़ाई यहीं खत्म नहीं होती। वह गरीबों और जरूरतमंदों को उनका हक दिलाने का संकल्प लेता है।\n\n❤️ फिल्म का संदेश:\nबदला नहीं, इंसाफ सबसे बड़ी जीत है। माँ का प्यार, पिता के सपने और सच्चाई की ताकत कभी हार नहीं मानती।\n\n🎥 Movie Details:\nMovie Name: माँ की कसम – अनाथ का इंसाफ\nCategory: AI Hindi Movie\nGenre: Family Drama, Emotional, Action, Justice\nLanguage: Hindi\nYear: 2026\nFormat: Full Movie\n\n👍 फिल्म पसंद आए तो LIKE करें।\n🔔 नए वीडियो के लिए CHANNEL SUBSCRIBE करें।\n💬 COMMENT करके बताएं आपको करण का कौन-सा सीन सबसे अच्छा लगा।\n📲 अपने दोस्तों और परिवार के साथ SHARE करें।\n\n\n\n\n\n\nMaa Ki Kasam, Anath Ka Insaf, Maa Ki Kasam Anath Ka Insaf, Full AI Hindi Movie, AI Hindi Movie 2026, Hindi Movie 2026, Full Hindi Movie, New Hindi Movie, Hindi Film, AI Movie, Bollywood Style Movie, Emotional Hindi Movie, Family Drama Movie, Justice Story, Maa Ka Pyar, Baap Ka Sapna, Anath Ki Kahani, Hindi Action Drama, Hindi Movie Story, Indian AI Cinema, Karan Story, Insaf Ki Jung, Hindi Kahani\n\n\n\n\n\n\n\n\n\n#MaaKiKasam #AnathKaInsaf #FullHindiMovie #AIHindiMovie #HindiMovie2026 #NewHindiMovie #HindiFilm #BollywoodStyleMovie #EmotionalMovie #FamilyDrama #JusticeStory #MaaKaPyar #HindiKahani #AIFilm #IndianCinema #FullMovie #InsafKiJung #Karan #HindiDrama #2026Movie",
+      "channelId": "UC0QzhuIQwH3DzafxklDzsBw",
+      "channelTitle": "𝙉𝘼𝙕𝙄𝙈 𝙆𝙄 𝘿𝘼𝘼𝙎𝙏𝘼𝘼𝙉",
+      "thumbnail": "https://i.ytimg.com/vi/OzOYgQNFE2c/hqdefault.jpg",
+      "publishedAt": "2026-11-13T13:30:06Z",
+      "durationSeconds": 1819,
+      "matchedKeywords": [
+        "AI drama movie hindi full",
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-14T04:48:05.232Z",
+      "lastSeenAt": "2026-11-14T04:48:05.232Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "keEMa8-0n8U",
+      "url": "https://www.youtube.com/watch?v=keEMa8-0n8U",
+      "title": "A.M.I. – Artificial Machine Intelligence (2019) Full Hindi Dubbed Movie | Debs Howard | Horror",
+      "description": "🎬 Movie Details:\n\nMovie: A.M.I. – Artificial Machine Intelligence (2019)\nDirector: Rusty Nixon\nProducer: Blaine Anderson, James Clayton\nMusic Director: Benjamin Peever\nStar Cast: Debs Howard, Philip Granger, Sam Robert Muik, Havana Guppy, Bonnie Hay, Veronica Hampson, Lori Triolo, Andrew Coghlan, Laura Mitchell\nGenre: Horror | Thriller | Mystery\nLanguage: Hindi (Dubbed)\n\nA Seventeen Year Old Girl Forms A Co-dependent Relationship With An Artificial Intelligence On Her Phone And Goes On A Murderous Rampage.\n\n❤️ Enjoyed the movie?\nSubscribe to our channel for more full movies, comedy scenes, action-packed moments, romance, drama, suspense, and unlimited Bollywood entertainment.\n\n👍 Don’t forget to Like, Share & Subscribe! 🔔\nhttps://www.youtube.com/channel/UCyap4EIe1bVXK49VrWFgBeA\n\n#AMI #ArtificialMachineIntelligence #AIThriller #SuspenseMovie #HollywoodHindiDubbed",
+      "channelId": "UCyap4EIe1bVXK49VrWFgBeA",
+      "channelTitle": "Ultra Play",
+      "thumbnail": "https://i.ytimg.com/vi/keEMa8-0n8U/hqdefault.jpg",
+      "publishedAt": "2026-11-13T05:06:08Z",
+      "durationSeconds": 4645,
+      "matchedKeywords": [
+        "artificial intelligence hindi movie full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-14T04:48:05.232Z",
+      "lastSeenAt": "2026-11-14T04:48:05.232Z",
+      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
       "unavailableAt": null
     }
   ]

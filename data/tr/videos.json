@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:54:45.994Z",
+  "generatedAt": "2026-11-14T04:48:40.793Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -113,7 +113,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -133,7 +133,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:40.363Z",
       "lastSeenAt": "2026-10-28T03:50:40.363Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -152,7 +152,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:05.095Z",
       "lastSeenAt": "2026-11-03T05:12:05.095Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -172,7 +172,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:06.679Z",
       "lastSeenAt": "2026-11-08T04:15:06.679Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     },
     {
@@ -192,7 +192,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:49.039Z",
       "lastSeenAt": "2026-11-10T05:50:49.039Z",
-      "lastVerifiedAt": "2026-11-13T04:54:45.994Z",
+      "lastVerifiedAt": "2026-11-14T04:48:40.793Z",
       "unavailableAt": null
     }
   ]

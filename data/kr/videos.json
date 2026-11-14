@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:54:13.721Z",
+  "generatedAt": "2026-11-14T04:48:10.491Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -170,7 +170,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -211,7 +211,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -269,7 +269,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -288,7 +288,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +308,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +328,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +368,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +387,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +406,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -425,7 +425,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -445,7 +445,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -465,7 +465,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -681,7 +681,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -725,7 +725,7 @@
     {
       "videoId": "6eiCrRAtpPY",
       "url": "https://www.youtube.com/watch?v=6eiCrRAtpPY",
-      "title": "⚔️ 천하진검 1~6화 몰아보기 | 37명이 지킨 소년의 비밀 [60분·KDrama·AI 영화·AI드라마·무협 판타지드라마] | 武侠电影·古装武侠剧·武侠",
+      "title": "⚔️ 천하진검 1~6화 몰아보기 | 37명이 지킨 소년의 비밀 [60분·KDrama·AI 영화·AI드라마·무협 판타지드라마] | 武侠电影·古装武侠剧·武侠 | Wuxia·무림",
       "description": "37명이 지켜낸 아이. 17년 뒤, 부모의 원수가 그 소년의 힘을 노립니다.\n⚔️ AI 영화·AI드라마 《천하진검》 1화~6화 몰아보기 — 약 60분으로 이어 보는 창작 무협 판타지드라마.\n\n어머니가 남긴 흑옥, 여섯 번의 낙방, 그리고 길 위에서 만난 수상한 노인.\n자신의 뿌리를 찾아 강호로 나선 소년 하진은 감춰진 아버지의 정체와 마주합니다.\n소중한 사람을 지키려는 선택 끝에 도착한 무영곡.\n부모의 원수 ‘그림자’는 왜 하진 안의 힘을 원하는 걸까요?\n\n이번 영상은 《천하진검》 1화부터 6화까지를 이어 붙인 몰아보기입니다.\n탄생의 비밀부터 흑옥의 단서, 목 노인과의 인연, 추격과 대결까지 한 번에 감상하세요.\n전체 재생 시간: 60분 38초.\n\n🎬 작품 소개\n창작 무협소설을 영상으로 풀어낸 오리지널 무협 드라마 《천하진검》.\n강호에 감춰진 비밀과 검술 액션, 운명에 맞서는 소년의 성장을 담았습니다.\n실사풍 무협 영화, 동양 판타지, 사제의 인연과 성장 이야기를 좋아하신다면 함께해 주세요.\nAI 기술을 활용해 제작한 창작 작품입니다.\n\n📺 《천하진검》 본편 이어 보기\n1부 — 프롤로그·탄생의 비밀: https://www.youtube.com/watch?v=XKdFUuPgZ1k\n2부 — 흑옥의 비밀: https://www.youtube.com/watch?v=i43J_Snw1NU\n3부 — 수상한 노인과의 만남: https://www.youtube.com/watch?v=6fKF0MdtDz4\n4부 — 아버지의 정체: https://www.youtube.com/watch?v=Y8dzpUpRo00\n5부 — 소년의 결심: https://www.youtube.com/watch?v=tp8b_jcHYV8\n6부 — 부모의 원수와 숨겨진 힘: https://www.youtube.com/watch?v=J-TIOEhxwBA\n7부 — 아버지의 검을 배우다: 10월 21일 공개 예정\n\n👍 하진의 다음 여정도 함께해 주세요.\n구독과 좋아요는 후속편 제작에 큰 힘이 됩니다.\n가장 기억에 남은 장면과 궁금한 이야기를 댓글로 남겨 주세요.\n🔔 알림을 켜두시면 새 에피소드를 놓치지 않고 만나실 수 있습니다.\nStudio Glow: https://www.youtube.com/channel/UCaLfqgAemI8opLl805SBmyA\n\n#천하진검 #AI영화 #AI드라마 #판타지드라마 #무협영화 #무협드라마 #몰아보기\n\n관련 검색 키워드\n핵심 장르: 무협, 무협물, 무림, 무협판타지, 사극판타지, 동양판타지, 강호, 쾌검, 검술액션, 무협액션\n인접 콘텐츠(만화·애니·소설): 무협만화, 무협웹툰, 웹툰추천, 무협애니, 무협애니메이션, 무협소설, 무협웹소설, 중국무협, 홍콩무협영화, 쿵푸영화, 사극액션영화, 먼치킨무협, 정통무협, 신무협, 회귀물, 환생물, 빙의물\n흥행작 연계 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 열혈강호, 화산귀환, 마도조사, 전지적독자시점, 나혼자만레벨업, 일렉시드\n플랫폼명 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 네이버웹툰, 카카오페이지, 리디, 문피아, 조아라, 노벨피아\nAI 제작 관련: AI영화, AI무협, AI애니메이션, 인공지능영화, AI숏폼영화, AI시네마틱, 생성형AI영화, AI단편영화, AI장편영화\n영문 키워드: Wuxia, Wuxia film, Wuxia fantasy, Murim, Murim manhwa, Korean martial fantasy, AI generated film, Cinematic AI film, Kung fu fantasy, Sword fighting fantasy, AI short film\n롱테일(검색 문장형): 무협 웹툰 추천, 무협 소설 추천, 무협 영화 추천, AI로 만든 영화, 실사 무협, 한국 무협 영화, 무협 영화 2026, 유튜브 무협 영화, 볼만한 무협 영화, 요즘 무협 웹툰\n조합 키워드: AI 무협 영화, AI 장편 무협판타지 영화, 실사풍 무협 영화, 실사 AI 무협, 한국형 무협 판타지, 웹소설 원작 무협 영화, 창작 무협 스토리, 무협 성장물 영화, 무협 복수극 영화, 숨은 고수 무협, 사제 관계 무협, 내공 각성 영화, 무림 고수 액션 영화, 정통 무협 영화 추천, 무협 웹툰 좋아하면 추천, 무협 소설 좋아하면 추천, 무협 애니 좋아하면 추천\n조합 키워드(영문): AI Wuxia film, AI Murim series, Cinematic Wuxia short film, Korean Wuxia AI film\n몰아보기·드라마 관련: 천하진검 몰아보기, 천하진검 1화부터 6화, 무협 몰아보기, 무협 영화 몰아보기, AI 영화 몰아보기, AI드라마 몰아보기, 판타지드라마 몰아보기, 60분 무협 영화, 한 시간 영화, 한국형 무협 드라마, 무협 판타지드라마, 실사풍 AI 영화, AI 드라마, 판타지 드라마\n\n#KDrama #KoreanDrama #AIKDrama #WuxiaDrama\n\nKDrama 관련 검색 키워드\nKDrama, Korean Drama, Korean Fantasy Drama, AI KDrama, Wuxia Drama, Korean Wuxia, Martial Arts Drama, Korean historical fantasy, Korean martial arts series\n\n【中文搜索关键词｜繁體中文】\n《天下真剑》是一部韩国原创 AI 武侠系列，以中式武侠风格呈现江湖、武林、武林盟、剑客、剑术对决、门派纷争、人物成长与武侠爱情。适合喜欢武侠电影、武侠片、古装武侠、古装武侠电影、武侠剧、古装武侠剧、武侠电视剧、古装武侠电视剧、武侠短剧、古装武侠短剧、武侠动作片、古装动作片、经典武侠电影、经典武侠剧、武侠电影推荐、古装武侠电影推荐、江湖武侠、动作武侠、玄幻武侠、武侠玄幻剧、东方玄幻、武侠成长、AI武侠、AI武侠电影、AI武侠剧、AI古装剧、AI短片电影、AIGC武侠、原创武侠短片、中式武侠AI短片电影、韩国武侠剧与韩国奇幻剧的观众。\n\n《天下真劍》是一部韓國原創 AI 武俠系列，以中式武俠風格呈現江湖、武林、劍客、劍術對決、門派紛爭與人物成長。適合喜愛武俠電影、古裝武俠、古裝武俠電影、武俠劇、古裝武俠劇、武俠電視劇、武俠短劇、武俠動作片、古裝動作片、經典武俠電影、江湖武俠、東方玄幻、武俠愛情、AI武俠電影與原創武俠故事的觀眾。\n\n#武侠 #武侠电影 #古装武侠剧 #AI武侠\n1–6集合集适合搜索武侠剧合集、古装武侠合集、武侠连续剧、古装武侠连续剧与武侠电视剧全集的观众。",
       "channelId": "UCaLfqgAemI8opLl805SBmyA",
       "channelTitle": "Studio Glow",
@@ -953,7 +953,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1013,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1072,7 +1072,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1093,7 +1093,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1188,7 +1188,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1227,7 +1227,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1266,7 +1266,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1477,7 +1477,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1496,7 +1496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1839,7 +1839,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1859,7 +1859,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1878,7 +1878,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -1898,7 +1898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2012,7 +2012,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2164,7 +2164,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2184,7 +2184,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2222,7 +2222,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2318,7 +2318,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2337,7 +2337,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2457,7 +2457,7 @@
     {
       "videoId": "RCrY_mgNGc0",
       "url": "https://www.youtube.com/watch?v=RCrY_mgNGc0",
-      "title": "⚔️ 천하진검 7~12부 몰아보기 | 흑막을 향한 첫걸음 [53분·KDrama·AI 영화·AI드라마·무협 판타지드라마] | 武侠电影·古装武侠剧·武侠",
+      "title": "⚔️ 천하진검 7~12부 몰아보기 | 흑막을 향한 첫걸음 [53분·KDrama·AI 영화·AI드라마·무협 판타지드라마] | 武侠电影·古装武侠剧·武侠 | Wuxia·무림",
       "description": "아버지의 검을 배우던 소년이 무림맹 조사단과 함께 길을 나서기까지, 하진은 무엇을 지키려 했을까요?\n⚔️ AI 영화·AI드라마 《천하진검》 7~12부 몰아보기 — 목 노인의 수련부터 무림맹 입성, 밤의 습격과 조사단의 첫걸음까지.\n\n목 노인이 하진에게 건넨 첫 과제는 검을 휘두르는 일이 아니라 바람 속에 가만히 서는 일이었습니다. 대나무숲에서 상대의 검을 읽은 하진은 아영과 함께 무림맹에 들어섭니다.\n이름을 감추고 머물던 하진은 청이 연회장을 빠져나간 이유를 알게 됩니다. 곧이어 야영지에 닥친 습격. 동료들을 지키기 위해 힘을 드러낸 하진 앞에 수상한 환약이 남습니다. 그 단서는 강호의 누구를 가리키고 있을까요?\n\n이번 영상은 《천하진검》 7부부터 12부까지를 이어 보는 몰아보기입니다.\n전체 재생 시간: 52분 47초.\n\n🎬 작품 소개\n창작 무협소설을 영상으로 풀어낸 오리지널 무협 드라마 《천하진검》.\n강호에 감춰진 비밀과 검술 액션, 운명에 맞서는 소년의 성장을 담았습니다.\n실사풍 무협 영화, 동양 판타지, 사제의 인연과 성장 이야기를 좋아하신다면 함께해 주세요.\nAI 기술을 활용해 제작한 창작 작품입니다.\n\n📺 《천하진검》 본편 이어 보기\n1~6부 몰아보기: https://youtu.be/6eiCrRAtpPY\n7~9부 몰아보기: https://youtu.be/5fsDn7I1GBA\n7부 — 아버지의 검을 배우다: https://youtu.be/7TndqLWmyzQ\n8부 — 검보다 먼저 바람을 읽다: https://youtu.be/x3WKDqY6CnA\n9부 — 무림맹에 입성하다: https://youtu.be/Ncp4ahleRrs\n10부 — 숨겨온 실력이 드러나다: https://youtu.be/5OiT5RVciCY\n11부 — 피할 수 없는 혈투: https://youtu.be/VsIH31vwHDM\n12부 — 흑막을 향한 첫걸음: https://youtu.be/ytivYJnu9tg\n\n👍 하진의 다음 여정도 함께해 주세요.\n구독과 좋아요는 후속편 제작에 큰 힘이 됩니다.\n가장 기억에 남은 장면과 궁금한 이야기를 댓글로 남겨 주세요.\n🔔 알림을 켜두시면 새 에피소드를 놓치지 않고 만나실 수 있습니다.\nStudio Glow: https://www.youtube.com/channel/UCaLfqgAemI8opLl805SBmyA\n\n#천하진검 #AI영화 #AI드라마 #판타지드라마 #무협영화 #무협드라마 #몰아보기\n\n관련 검색 키워드\n핵심 장르: 무협, 무협물, 무림, 무협판타지, 사극판타지, 동양판타지, 강호, 쾌검, 검술액션, 무협액션\n인접 콘텐츠(만화·애니·소설): 무협만화, 무협웹툰, 웹툰추천, 무협애니, 무협애니메이션, 무협소설, 무협웹소설, 중국무협, 홍콩무협영화, 쿵푸영화, 사극액션영화, 먼치킨무협, 정통무협, 신무협, 회귀물, 환생물, 빙의물\n흥행작 연계 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 열혈강호, 화산귀환, 마도조사, 전지적독자시점, 나혼자만레벨업, 일렉시드\n플랫폼명 — 다른 작품·플랫폼 관련 검색어(본편의 원작·제휴를 뜻하지 않습니다): 네이버웹툰, 카카오페이지, 리디, 문피아, 조아라, 노벨피아\nAI 제작 관련: AI영화, AI무협, AI애니메이션, 인공지능영화, AI숏폼영화, AI시네마틱, 생성형AI영화, AI단편영화, AI장편영화\n영문 키워드: Wuxia, Wuxia film, Wuxia fantasy, Murim, Murim manhwa, Korean martial fantasy, AI generated film, Cinematic AI film, Kung fu fantasy, Sword fighting fantasy, AI short film\n롱테일(검색 문장형): 무협 웹툰 추천, 무협 소설 추천, 무협 영화 추천, AI로 만든 영화, 실사 무협, 한국 무협 영화, 무협 영화 2026, 유튜브 무협 영화, 볼만한 무협 영화, 요즘 무협 웹툰\n조합 키워드: AI 무협 영화, AI 장편 무협판타지 영화, 실사풍 무협 영화, 실사 AI 무협, 한국형 무협 판타지, 웹소설 원작 무협 영화, 창작 무협 스토리, 무협 성장물 영화, 무협 복수극 영화, 숨은 고수 무협, 사제 관계 무협, 내공 각성 영화, 무림 고수 액션 영화, 정통 무협 영화 추천, 무협 웹툰 좋아하면 추천, 무협 소설 좋아하면 추천, 무협 애니 좋아하면 추천\n조합 키워드(영문): AI Wuxia film, AI Murim series, Cinematic Wuxia short film, Korean Wuxia AI film\n몰아보기·드라마 관련: 천하진검 몰아보기, 천하진검 7부부터 12부, 무협 몰아보기, 무협 영화 몰아보기, AI 영화 몰아보기, AI드라마 몰아보기, 판타지드라마 몰아보기, 53분 무협 영화, 7~12부 연속 감상, 한국형 무협 드라마, 무협 판타지드라마, 실사풍 AI 영화, AI 드라마, 판타지 드라마\n\n#KDrama #KoreanDrama #AIKDrama #WuxiaDrama\n\nKDrama 관련 검색 키워드\nKDrama, Korean Drama, Korean Fantasy Drama, AI KDrama, Wuxia Drama, Korean Wuxia, Martial Arts Drama, Korean historical fantasy, Korean martial arts series\n\n【中文搜索关键词｜繁體中文】\n《天下真剑》是一部韩国原创 AI 武侠系列，以中式武侠风格呈现江湖、武林、武林盟、剑客、剑术对决、门派纷争、人物成长与武侠爱情。适合喜欢武侠电影、武侠片、古装武侠、古装武侠电影、武侠剧、古装武侠剧、武侠电视剧、古装武侠电视剧、武侠短剧、古装武侠短剧、武侠动作片、古装动作片、经典武侠电影、经典武侠剧、武侠电影推荐、古装武侠电影推荐、江湖武侠、动作武侠、玄幻武侠、武侠玄幻剧、东方玄幻、武侠成长、AI武侠、AI武侠电影、AI武侠剧、AI古装剧、AI短片电影、AIGC武侠、原创武侠短片、中式武侠AI短片电影、韩国武侠剧与韩国奇幻剧的观众。\n\n《天下真劍》是一部韓國原創 AI 武俠系列，以中式武俠風格呈現江湖、武林、劍客、劍術對決、門派紛爭與人物成長。適合喜愛武俠電影、古裝武俠、古裝武俠電影、武俠劇、古裝武俠劇、武俠電視劇、武俠短劇、武俠動作片、古裝動作片、經典武俠電影、江湖武俠、東方玄幻、武俠愛情、AI武俠電影與原創武俠故事的觀眾。\n\n#武侠 #武侠电影 #古装武侠剧 #AI武侠\n7–12集合集适合搜索武侠剧合集、古装武侠合集、武侠连续剧、古装武侠连续剧与武侠电视剧全集的观众。",
       "channelId": "UCaLfqgAemI8opLl805SBmyA",
       "channelTitle": "Studio Glow",
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2491,7 +2491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2510,7 +2510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2548,7 +2548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2567,7 +2567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2625,7 +2625,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2644,7 +2644,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2777,7 +2777,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:18.757Z",
       "lastSeenAt": "2026-11-10T05:50:18.757Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2815,7 +2815,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2834,7 +2834,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -2853,14 +2853,14 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
       "videoId": "i2EIgAswhqE",
       "url": "https://www.youtube.com/watch?v=i2EIgAswhqE",
       "title": "Ep1🔥중국AI드라마 인기순 1등🔥현대인이 과거로 타임슬립해 기억잃은채 노예로 붙잡혀온 절박한 상황,그를 구해준사냥꾼!두사람의 운명은 어떻게 될까[산야춘조]몰아보기Multi Sub",
-      "description": "✨다음 이야기는 다음주 공개됩니다.\n\n✨중국 현지에서 폭발적인 인기 1위를  AI 숏드라마 [산야춘조(山野春潮)]\n\n✨1화부터 23화까지의 주요 서사와 몰아보기 관람 포인트를 깔끔하게 정리해 드립니다\n\n🌿 [산야춘조] 주요 서사 및 관람 포인트\n\n①현대인의 타임슬립과 기억 상실(모든 것의 시작)\n낯선 과거의 산골짜기! 게다가 기억까지 잃은 채 노예로 붙잡혀 온 절박한 상황 속에서 이야기가 급박하게 전개됩니다.\n\n② 모두가 외면하고 위기에 처한 순간, 거칠지만 다정하고 듬직한사냥꾼이 등장해……\n\n③달달함 뒤에 찾아오는 위기와 운명의 반전…..\n\n회차마다 눈을 뗄 수 없는 전개와 AI 숏드라마 특유의 화려하고 감각적인 연출이 더해져 시간 순삭을 경험할 수 있는 최고의 정주행 코스입니다\n\n💡 감상 팁: 주인공들의 감정선이 급변하는 순간과 서서히 드러나는 복선들을 놓치지 말고 감상하시면 훨씬 더 몰입해서 즐기실 수 있습니다.\n\n━━━━━━━━━━━━━━━━━━\n🎬 작품 정보\n• 오디오: 중국어 원어 / 자막: 한국어 (영상에 포함)\n━━━━━━━━━━━━━━━━━━\n💗 좋아요 · 구독 · 알림 설정 꾹! 더 많은 중국 로맨스 드라마를 한 번에 정주행하세요.\n\n#산야춘조 #중국드라마 #사극로맨스 #중드 #기억상실 #공주 #달달한드라마 #몰아보기 #전편 #결말포함 #한글자막 #설렘주의보\n\n━━━━━━━━━━━━━━━━━━\n📖 챕터\n0:00 예고 – 황제의 명령\n0:37 꿈속에서 부르는 목소리\n1:23 매복당한 공주\n2:11 유리 잔도 사고, 그리고 타임슬립\n2:57 기억을 잃은 채 노예 시장으로\n4:06 열 냥에 그녀를 산 사냥꾼 푸정\n7:29 낯선 집, 따뜻한 손길\n11:06 \"양양\", 그리고 \"푸정\"\n14:16 푸정을 기다리며\n16:22 목욕과 첫날 밤\n22:44 소꿉친구 샤오치 등장\n26:18 이름 쓰는 법을 가르쳐 줄게\n28:25 비 오는 산길, 둘만의 시간\n33:09 첫 장날, 그림 솜씨를 발견하다\n37:22 \"나 돈 벌었어!\" 푸정에게 줄 선물\n39:29 황궁 – 공주를 찾아라\n41:42 새 옷을 입은 푸정\n47:19 까막눈 양양의 글공부\n49:21 아주 매운 토끼 요리\n56:58 푸정이 만든 이젤\n1:01:03 돌아오지 않는 푸정\n1:02:54 다친 푸정과 함께 집으로\n1:06:16 \"아버지, 어머니, 정이에게 다시 가족이 생겼어요\"\n1:07:38 \"이제 내가 당신을 먹여 살릴게\"\n\n━━━━━━━━━━━━━━━━━━\n🎬 제작 정보\n• 한국어 번역·자막·편집: Caitou AI Drama Global\n• 원작자의 허가를 받아 업로드한 영상입니다\n• 다음 이야기 24~35화 👉 https://youtu.be/aiWIG3u9xGw\n\n🔔 구독하기 👉 https://www.youtube.com/channel/UC8pSY5vld-USdaotvNyahvg?sub_confirmation=1",
+      "description": "✨중국 현지에서 폭발적인 인기 1위를 차지한 AI 숏드라마 [산야춘조(山野春潮)]\n\n✨Ep1 주요 서사와 몰아보기 관람 포인트를 깔끔하게 정리해 드립니다\n\n🌿 [산야춘조] 주요 서사 및 관람 포인트\n\n① 현대인의 타임슬립과 기억 상실 (모든 것의 시작)\n낯선 과거의 산골짜기! 게다가 기억까지 잃은 채 노예로 붙잡혀 온 절박한 상황 속에서 이야기가 급박하게 전개됩니다.\n\n② 모두가 외면하고 위기에 처한 순간, 거칠지만 다정하고 듬직한 사냥꾼이 등장해……\n\n③ 달달함 뒤에 찾아오는 위기와 운명의 반전…..\n\n회차마다 눈을 뗄 수 없는 전개와 AI 숏드라마 특유의 화려하고 감각적인 연출이 더해져 시간 순삭을 경험할 수 있는 최고의 정주행 코스입니다\n\n💡 감상 팁: 주인공들의 감정선이 급변하는 순간과 서서히 드러나는 복선들을 놓치지 말고 감상하시면 훨씬 더 몰입해서 즐기실 수 있습니다.\n\n━━━━━━━━━━━━━━━━━━\n🎬 작품 정보\n• 오디오: 중국어 원어 / 자막: 한국어 (영상에 포함)\n━━━━━━━━━━━━━━━━━━\n💗 좋아요 · 구독 · 알림 설정 꾹! 더 많은 중국 로맨스 드라마를 한 번에 정주행하세요.\n\n#산야춘조 #중국드라마 #사극로맨스 #중드 #기억상실 #공주 #달달한드라마 #몰아보기 #한글자막 #설렘주의보\n\n━━━━━━━━━━━━━━━━━━\n📖 챕터\n0:00 예고 – 황제의 명령\n0:37 꿈속에서 부르는 목소리\n1:23 매복당한 공주\n2:11 유리 잔도 사고, 그리고 타임슬립\n2:57 기억을 잃은 채 노예 시장으로\n4:06 열 냥에 그녀를 산 사냥꾼 푸정\n7:29 낯선 집, 따뜻한 손길\n11:06 \"양양\", 그리고 \"푸정\"\n14:16 푸정을 기다리며\n16:22 목욕과 첫날 밤\n22:44 소꿉친구 샤오치 등장\n26:18 이름 쓰는 법을 가르쳐 줄게\n28:25 비 오는 산길, 둘만의 시간\n33:09 첫 장날, 그림 솜씨를 발견하다\n37:22 \"나 돈 벌었어!\" 푸정에게 줄 선물\n39:29 황궁 – 공주를 찾아라\n41:42 새 옷을 입은 푸정\n47:19 까막눈 양양의 글공부\n49:21 아주 매운 토끼 요리\n56:58 푸정이 만든 이젤\n1:01:03 돌아오지 않는 푸정\n1:02:54 다친 푸정과 함께 집으로\n1:06:16 \"아버지, 어머니, 정이에게 다시 가족이 생겼어요\"\n1:07:38 \"이제 내가 당신을 먹여 살릴게\"\n\n━━━━━━━━━━━━━━━━━━\n🎬 제작 정보\n• 한국어 번역·자막·편집: Caitou AI Drama Global\n• 원작자의 허가를 받아 업로드한 영상입니다\n• '인기순 1등'은 중국 숏드라마 플랫폼 홍궈의 인기 순위를 기준으로 한 표현입니다.\n• 인물관계도·줄거리 4분 정리 👉 https://youtu.be/56udFHkTlmk\n• 다음 이야기 Ep2 👉 https://youtu.be/aiWIG3u9xGw\n\n🔔 구독하기 👉 https://www.youtube.com/channel/UC8pSY5vld-USdaotvNyahvg?sub_confirmation=1",
       "channelId": "UC8pSY5vld-USdaotvNyahvg",
       "channelTitle": "Caitou AI Drama Global",
       "thumbnail": "https://i.ytimg.com/vi/i2EIgAswhqE/hqdefault.jpg",
@@ -2910,13 +2910,13 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
       "videoId": "XVLal3mK6b4",
       "url": "https://www.youtube.com/watch?v=XVLal3mK6b4",
-      "title": "낙하 707 시즌3 풀버전 | 조선에 떨어진 707 여군 대위, 최후의 결전 | FALL 707 Season 3 Full",
+      "title": "조선에 남은 707 대위, 마지막 선택 | 낙하 707 시즌3 풀버전 | Her Last Choice · FALL 707 Season 3 Full",
       "description": "조선에 떨어진 707 특임단 대위, 열린 문 너머로 서울이 무너진다.\nA 707 special forces captain trapped in Joseon. When the door opens, Seoul falls.\n\n〈낙하 707: 리부트〉 시즌3 풀버전 — 1화부터 6화까지 전편 몰아보기\n\n조선 땅에 홀로 떨어진 707 특임단 민서아 대위.\n할머니 무당이 깨운 진(陣)은 조선을 넘어 현대 서울까지 삼키기 시작하고,\n문을 여는 아이 연화, 염력소녀 유나, 혈맥선생 유하슬, 혈맥부대, 그리고 한국군까지.\n두 세계의 운명을 건 마지막 싸움이 시작된다.\n\n시즌3 완결편을 끊김 없이 한 번에 감상하세요.\n\n▶ 챕터\n00:00 인트로\n00:37 1화 「그 문은 열지 마라」\n20:01 2화 「물러서지 마라」\n35:59 3화 「서울이 깨어났다」\n55:18 4화 「끊어진 줄」 파트1\n1:10:23 4화 「끊어진 줄」 파트2\n1:24:32 5화 「마지막 열쇠」\n1:36:38 5화 「최후의 결전」\n1:51:17 6화 「문을 닫을 사람」\n\n▶ 이전 이야기\n시즌1 풀버전 : https://youtu.be/4f6Zguf7c2M\n시즌2 풀버전 : https://youtu.be/sFw17ZPE42A\n시즌3 5화 파트2 「최후의 결전」 : https://youtu.be/N9r2KjycidE\n시즌3 6화 「문을 닫을 사람」 : https://youtu.be/mwZaUitxlm8\n\n장르 : 밀리터리 · 사극 · 판타지 액션\n제작 : DRA9ON CINEMA\n공식 사이트 : https://dra9oncinema.com\n\n🌐 자막 : CC 버튼을 눌러 한국어 · English · Tiếng Việt · Bahasa Indonesia · 日本語 · 繁體中文 · Español 자막을 선택하세요.\n\n※ 본 작품은 AI로 제작된 픽션이며, 등장하는 인물·단체·사건은 실제와 무관합니다.\n\n#낙하707 #FALL707 #시즌3 #풀버전 #몰아보기 #AI드라마 #AI영화 #밀리터리 #사극 #판타지 #DRA9ONCINEMA",
       "channelId": "UCEZSQzQw7lIy2DBbojztyqg",
       "channelTitle": "DRA9ON CINEMA(드래곤시네마)",
@@ -2967,7 +2967,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:13.721Z",
       "lastSeenAt": "2026-11-13T04:54:13.721Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     },
     {
@@ -3006,6 +3006,63 @@
       "discoveredAt": "2026-11-13T04:54:13.721Z",
       "lastSeenAt": "2026-11-13T04:54:13.721Z",
       "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zjmscEWZwLY",
+      "url": "https://www.youtube.com/watch?v=zjmscEWZwLY",
+      "title": "Deewangi — Pyaar Ya Junoon? ❤️‍🔥 | Ek Ankahi Kahani | Emotional Love Story | AI Story",
+      "description": "",
+      "channelId": "UCmKydxYGZwQWKIZAOodlHjg",
+      "channelTitle": "AI GHIBLI TV ",
+      "thumbnail": "https://i.ytimg.com/vi/zjmscEWZwLY/hqdefault.jpg",
+      "publishedAt": "2026-11-14T01:30:04Z",
+      "durationSeconds": 4314,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-14T04:48:10.491Z",
+      "lastSeenAt": "2026-11-14T04:48:10.491Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mvtan_X8xpY",
+      "url": "https://www.youtube.com/watch?v=mvtan_X8xpY",
+      "title": "욕쟁이 국밥집 할매가 로판에 빙의했다 EP.7 | 그럼 오늘로 하지 뭐 | AI 로판 드라마",
+      "description": "\"그럼 오늘로 하지 뭐. 미역도 이렇게 있는데, 우리끼리 축하하자.\"\n자기 생일이 언제인지도 모르는 마리. 할매는 그날 바닷가에서 생일상을 차리기로 한다.\n\n《욕쟁이 국밥집 할매가 로판에 빙의했다》\nEP.7 — 그럼 오늘로 하지 뭐\n\n의사의 권유로 바닷바람을 쐬러 나선 엘리제.\n평생 바다 구경 한 번 못 해 본 할매는 설렘에 밤잠을 설친다.\n\n물가에서 다시 만난 도감의 학자, 거름으로나 쓴다던 바다풀,\n그리고 조개 캐고, 미역 데치고, 바닷가에서 끓이는 생일 미역국 한 솥.\n\n그사이 저택에는 번쩍이는 마차를 탄 손님이 다녀가고……\n\n엔딩 크레딧에는 멤버십으로 함께해 주시는 21분과 6화 공개 뒤 댓글로 함께해 주신 188분, 모두 209분의 닉네임을 담았습니다.\n크레딧 뒤에는 쿠키 영상이 있어요. 끝까지 함께해 주세요!\n\n🎟 본편 밖의 이야기는 멤버십 [에밀리의 뒷이야기]에서 이어 가고 있어요. (채널의 '가입' 버튼)\n본편은 앞으로도 모든 분께 공개됩니다.\n\n▶ 1편 「마지막 손님, 첫 번째 내 삶」: https://www.youtube.com/watch?v=aWHINh3YXqg\n▶ 2편 「내 밥은 내가 끓인다」: https://www.youtube.com/watch?v=ev1sL9ebM1k\n▶ 3편 「내가 안 쓰면 네 거냐?」: https://www.youtube.com/watch?v=qg7LflwidZM\n▶ 4편 「개도 안 먹는 뼈」: https://www.youtube.com/watch?v=AyRMj-I-AaA\n▶ 5편 「술 이기는 국」: https://www.youtube.com/watch?v=IEb5ZSf_ouY\n▶ 6편 「국은 끓여 보고 써라」: https://www.youtube.com/watch?v=BgYtcZ1xxgI\n▶ 4.5편 「첫 쌀밥」(멤버십 특별편 미리보기): https://www.youtube.com/watch?v=xwRR0bNjPU8\n▶ 5.5편 「도라는 아무도 모르게」(멤버십 특별편): https://www.youtube.com/watch?v=xWIOO96nQBA\n▶ 6.5편 「오늘은 조금만 먹어야지」(멤버십 특별편): https://www.youtube.com/watch?v=t_LIkU6uw-A\n\n이 영상은 직접 기획한 이야기와 대본을 바탕으로, AI 이미지·영상·음성 도구를 활용해 제작한 창작 드라마입니다.\n\n#로판 #AI드라마 #욕쟁이국밥집할매가로판에빙의했다\n\n0:00 바닷바람\n2:43 내일은 바다\n4:15 평생 못 해 본 거\n7:17 잠깐 쉬어 갑시다\n8:34 이름이 있는 바다풀\n10:32 테레사의 눈썰미\n12:22 손님\n12:56 그럼 오늘로 하지 뭐\n14:32 없는 게 없는 짐\n16:17 해감하는 동안\n19:13 솥을 걸다\n20:44 다 같이 생일상\n23:15 해 지기 전에\n26:26 오면 저한테 전해 주세요\n27:13 다음 달이면 스물\n28:06 엇갈린 마차\n28:22 오늘의 표시\n29:25 같은 행낭\n31:22 하이라이트와 엔딩 크레딧\n33:10 쿠키 · 재료는 다 적었는데",
+      "channelId": "UCT-Pjcpg7bt--33Gd81_PWg",
+      "channelTitle": "에밀리",
+      "thumbnail": "https://i.ytimg.com/vi/mvtan_X8xpY/hqdefault.jpg",
+      "publishedAt": "2026-11-13T10:00:32Z",
+      "durationSeconds": 2135,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-14T04:48:10.491Z",
+      "lastSeenAt": "2026-11-14T04:48:10.491Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5ZSK_ydJxsU",
+      "url": "https://www.youtube.com/watch?v=5ZSK_ydJxsU",
+      "title": "48분 순삭.내 짝꿍은 이무기 몰아보기(완결) | 승천에 실패한 이무기가 전학생으로 돌아왔다 [AI 판타지 드라마] #k드라마 #ai드라마 #aifilm",
+      "description": "※ 이 영상은 생성형 AI로 제작되었습니다.\n※ 등장하는 인물·단체·사건은 모두 허구입니다.\n\n승천에 실패한 이무기, 400년 뒤 전학생이 되어 돌아오다.\n#AI드라마 #이무기 #판타지드라마\n\n내 짝꿍은 인간이 아니었다 | 내 짝꿍은 이무기 1~5화 몰아보기\n\n천 년을 수행한 이무기 유하람.\n승천하던 그날 밤, 한 사람의 눈에 띄는 바람에 하늘로 오르지 못한다.\n힘을 잃은 틈을 타 인간들은 여의주를 빼앗고,\n여의주를 되찾으려던 하람의 앞을 산군이 막아선다.\n\n400년 뒤, 현대의 한 고등학교.\n할머니에게 물려받은 옥반지를 끼고 다니는 윤채경의 반에 낯선 전학생이 들어온다.\n그리고 채경의 곁에는, 400년 전 그를 막아섰던 산군이 있었다.\n\n옥반지를 노리는 또 다른 이무기까지 나타나고,\n하람에게 남은 시간은 얼마 되지 않는다.\n\n▶ 챕터\n0:00 1화\n8:10 2화\n17:08 3화\n25:44 4화\n36:36 5화\n\n▶ 등장인물\n윤채경 – 할머니에게 물려받은 옥반지(여의주)를 끼고 다니는 고등학생\n유하람 – 400년 만에 깨어난 이무기, 채경의 짝꿍. 원래 여의주의 주인\n서준호 – 채경의 곁을 지키는 산군(호랑이 수호신)\n한도경 – 채경의 옥반지를 노리는 또 다른 이무기\n서아 – 채경의 단짝 친구\n노스님 – 산군을 모시는 월령사의 노스님\n\n[조선 · 1화]\n이금옥 – 산군을 도운 보답으로 그에게서 옥반지(여의주)를 받은 여인, 채경의 선조\n박덕구 – 이무기의 승천을 목격해 승천을 실패하게 만든 원흉\n\n[조선 · 4화]\n박덕구 – 관아로 달려가 이무기 사냥을 불러온 장본인\n현감 – 이무기 사냥을 명한 고을 수령\n무당 – 여의주를 잃고 사라져 가는 하람을 돕고, 400년의 잠에 들게 해 다시 깨어나기를 빌어 준 무당\n\n재밌게 보셨다면 좋아요·구독·하이프로 응원해 주세요. 다음 작품 제작에 큰 힘이 됩니다.\n\n기획·각본·연출·편집: Been Film\n영상 생성: Seedance 2.5\n음악: Suno\n사운드 편집: Been Film\n※ 직접 기획하고 각본을 쓴 오리지널 이야기를 AI 영상 생성 도구로 제작한 창작물입니다.\n\n비즈니스·협업 문의: syb2175@gmail.com\n\n──────────────────\n〈내 짝꿍은 이무기〉\n조선시대 승천에 실패한 이무기와 그를 막아선 산군.\n400년 뒤, 두 존재가 한 소녀의 교실에서 다시 마주친다.\nAI로 만드는 한국형 판타지 드라마.\n\n#내짝꿍은이무기 #AI영상 #한국판타지 #몰아보기 #정주행",
+      "channelId": "UCReDDNvQtQ4vV1-JHlJyXOA",
+      "channelTitle": "빈 필름 : Been Film",
+      "thumbnail": "https://i.ytimg.com/vi/5ZSK_ydJxsU/hqdefault.jpg",
+      "publishedAt": "2026-11-08T05:00:30Z",
+      "durationSeconds": 2881,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-14T04:48:10.491Z",
+      "lastSeenAt": "2026-11-14T04:48:10.491Z",
+      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
       "unavailableAt": null
     }
   ]
