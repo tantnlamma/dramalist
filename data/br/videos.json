@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:48:28.004Z",
+  "generatedAt": "2026-11-15T04:39:55.610Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-13T04:54:32.006Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     },
     {
@@ -974,6 +974,44 @@
       "discoveredAt": "2026-11-12T05:38:00.068Z",
       "lastSeenAt": "2026-11-12T05:38:00.068Z",
       "lastVerifiedAt": "2026-11-14T04:48:28.004Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6L2B-9j0aS0",
+      "url": "https://www.youtube.com/watch?v=6L2B-9j0aS0",
+      "title": "EZEQUIEL E O VALE DOS OSSOS SECOS | Filme Bíblico Completo",
+      "description": "Poderiam aqueles ossos voltar a viver? Entre o exílio na Babilônia, a notícia da queda de Jerusalém e a visão do vale dos ossos secos, Ezequiel recebe uma mensagem para um povo que já não conseguia enxergar o futuro.\n\nNeste filme original do Caminho da Fé, acompanhe a jornada do profeta em uma dramatização com narração em português, diálogos e imagens cinematográficas.\n\nBase bíblica: Ezequiel 1–3, 33, 36 e 37. O vale dos ossos secos é apresentado como a visão narrada em Ezequiel 37 e sua mensagem de restauração para Israel. Asaf e Raquel são personagens dramáticos criados para representar experiências do exílio. Seus diálogos, e as conversas dramatizadas de Ezequiel, são adaptações do roteiro, não transcrições literais da Bíblia.\n\nEste vídeo contém cenas, atuações e vozes realistas produzidas com inteligência artificial, organizadas e editadas para contar esta história.\n\nQual passagem da história de Ezequiel mais tocou você? Deixe seu comentário e inscreva-se no Caminho da Fé para acompanhar os próximos filmes bíblicos.\n\n#Ezequiel #HistóriasBíblicas #CaminhoDaFé\n\nCAPÍTULOS\n00:00 A pergunta que ninguém queria ouvir\n03:30 O chamado em terra estrangeira\n07:04 A responsabilidade de avisar\n10:36 A notícia de Jerusalém\n14:07 Quando a esperança se esgota\n17:40 Um coração capaz de sentir\n21:11 No meio do vale\n24:44 O sopro de vida\n28:15 A mensagem volta para casa\n31:46 Um povo novamente de pé\n\nhttps://www.youtube.com/@bibliaemfoco--jesus?sub_confirmation=1",
+      "channelId": "UCDO37R9faHTFg2BLHf7pvUQ",
+      "channelTitle": "Caminho da Fé",
+      "thumbnail": "https://i.ytimg.com/vi/6L2B-9j0aS0/hqdefault.jpg",
+      "publishedAt": "2026-10-17T11:15:28Z",
+      "durationSeconds": 2117,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:55.610Z",
+      "lastSeenAt": "2026-11-15T04:39:55.610Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Wv9952AafzA",
+      "url": "https://www.youtube.com/watch?v=Wv9952AafzA",
+      "title": "Astro Boy - DUBLADO (Completo) | Sim Sou Filmes",
+      "description": "Astro Boy (2009) | Animação, Ação e Aventura\n\nEm uma cidade futurista, o cientista Dr. Tenma cria um menino robô com habilidades extraordinárias. Porém, quando Astro Boy percebe que não é como os outros garotos, ele parte em uma jornada para descobrir seu lugar no mundo. Enquanto conhece novos amigos e aprende a lidar com seus poderes, acaba se envolvendo em uma aventura que pode mudar o destino de toda a cidade.\n\nDirigido por David Bowers, o filme conta com as vozes originais de Freddie Highmore, Nicolas Cage e Kristen Bell.\n\nID: 423685",
+      "channelId": "UC_iWp0YP91eil3vcZyzfYmQ",
+      "channelTitle": "Sim Sou Filmes",
+      "thumbnail": "https://i.ytimg.com/vi/Wv9952AafzA/hqdefault.jpg",
+      "publishedAt": "2026-11-13T22:00:02Z",
+      "durationSeconds": 5630,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:55.610Z",
+      "lastSeenAt": "2026-11-15T04:39:55.610Z",
+      "lastVerifiedAt": "2026-11-15T04:39:55.610Z",
       "unavailableAt": null
     }
   ]

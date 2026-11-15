@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:47:58.739Z",
+  "generatedAt": "2026-11-15T04:39:26.233Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -671,7 +671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -750,7 +750,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -811,7 +811,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1195,7 +1195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1292,7 +1292,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1313,7 +1313,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1659,7 +1659,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1792,7 +1792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1907,7 +1907,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -1945,7 +1945,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2079,7 +2079,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2193,7 +2193,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2459,7 +2459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2613,7 +2613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2670,7 +2670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2728,7 +2728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -2888,7 +2888,7 @@
       "videoId": "SDGsNLAaXbo",
       "url": "https://www.youtube.com/watch?v=SDGsNLAaXbo",
       "title": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie",
-      "description": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie\n\n⚔️ WELCOME:\nExperience epic full-length cinematic movies crafted with advanced Artificial Intelligence. From ancient mythologies and historical sagas to breathtaking fantasy realms, we bring imagination to life through AI cinema.\n\n🔔 SUBSCRIBE for more cinematic AI films:\n\n✨ SUPPORT & CONNECT / تواصل معنا:\n• Business Inquiries: []\n• Follow our journey and share your thoughts in the comments!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ Disclaimer: This video is a creative cinematic project generated and enhanced using Artificial Intelligence tools for storytelling, entertainment, and educational exploration of history and folklore.\n\n#AIFilm #FullMovie #FantasyMovie #HistoricalEpic #Mythology #AlaaEzz #CinematicAI",
+      "description": "The Forest Healer: Rise of the Shadow Sorcerer — Full Fantasy Movie\n\n⚔️ WELCOME:\nExperience epic full-length cinematic movies crafted with advanced Artificial Intelligence. From ancient mythologies and historical sagas to breathtaking fantasy realms, we bring imagination to life through AI cinema.\n\n🔔 SUBSCRIBE for more cinematic AI films:\n\n✨ SUPPORT & CONNECT / تواصل معنا:\n• Business Inquiries: []\n• Follow our journey and share your thoughts in the comments!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ Disclaimer: This video is a creative cinematic project generated and enhanced using Artificial Intelligence tools for storytelling, entertainment, and educational exploration of history and folklore.\n\n#AIFilm #FullMovie #FantasyMovie #HistoricalEpic #Mythology #AlaaEzz #CinematicAI Stranded in the Arctic: Survival Against the Unknown | Sci-Fi Thriller\nhttps://youtu.be/z6GrB_vl4kc",
       "channelId": "UCGGVwYaMVBNIxzTrpnrdFvA",
       "channelTitle": "ALAA EZZ",
       "thumbnail": "https://i.ytimg.com/vi/SDGsNLAaXbo/hqdefault.jpg",
@@ -2957,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3091,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3282,7 +3282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3339,7 +3339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3387,7 +3387,7 @@
       "title": "THE FIRST MEMORY (2026) | Ancient Egyptian Mystery Thriller | Full Movie",
       "description": "THE FIRST MEMORY (2026) | FULL MOVIE | Ancient Egyptian Mystery & Conspiracy Thriller | MLV Productions\n\nBuy me a cup of tea\nhttps://ko-fi.com/matthewlubienvidal\n\nTwo Lives. One Secret. One Forgotten Truth.\nWhat if your dreams were not dreams at all? What if they were memories of a life you had lived thousands of years ago?\nTHE FIRST MEMORY is a full-length, AI-produced cinematic mystery adventure from MLV Productions, bringing together the ancient civilisation of Kemet (Egypt) and modern-day London in a story of forgotten knowledge, hidden secrets, betrayal and the extraordinary power of human memory.\nTHE STORY\nIn modern-day London, Dr Gabriel Morgan, a respected British academic, begins experiencing vivid and disturbing dreams of ancient Kemet.\nAs the visions become increasingly powerful, Gabriel discovers a mysterious connection to Amun-Ra Seneb, an ancient Egyptian scholar who lived more than 3,000 years ago.\nWhen a missing professor, a secret society and a powerful financier searching for sacred artefacts become entangled in his investigation, Gabriel finds himself drawn into a dangerous conspiracy that stretches across centuries.\nAlongside his trusted research partner, Nia Bennett, and his son, Tariq Morgan, Gabriel must uncover the truth behind the mysterious sacred vessels before they fall into the wrong hands.\nBut not everyone is who they appear to be.\nAnd some secrets were buried for a reason.\nABOUT THE FILM\nThe First Memory is an independent AI-assisted feature film, created using emerging artificial intelligence filmmaking.",
       "channelId": "UCXWwyr-UhnNAzwBNk5JiLfg",
-      "channelTitle": "Matthew L.V.",
+      "channelTitle": "MLV PRODUCTIONS",
       "thumbnail": "https://i.ytimg.com/vi/RTYCOH19Vbc/hqdefault.jpg",
       "publishedAt": "2026-10-30T23:09:40Z",
       "durationSeconds": 5151,
@@ -3397,7 +3397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-09T04:28:44.971Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3473,7 +3473,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3511,7 +3511,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3667,7 +3667,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3686,7 +3686,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3705,7 +3705,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3724,7 +3724,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3743,7 +3743,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3800,7 +3800,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3838,7 +3838,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3895,7 +3895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -3914,7 +3914,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4066,7 +4066,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4085,7 +4085,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4142,7 +4142,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4199,7 +4199,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4237,7 +4237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4256,7 +4256,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-12T05:37:31.325Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4313,7 +4313,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4351,7 +4351,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4389,7 +4389,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4446,7 +4446,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:01.086Z",
       "lastSeenAt": "2026-11-13T04:54:01.086Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4504,7 +4504,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     },
     {
@@ -4523,7 +4523,122 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aTZ9Id_J2Co",
+      "url": "https://www.youtube.com/watch?v=aTZ9Id_J2Co",
+      "title": "BAADSHAH 2 | Full Movie Made on Phone Using AI | செல்போனில் உருவான முழு AI படம்! #aimovie #aimovie",
+      "description": "முழுக்க முழுக்க AI பயன்படுத்தி ஒரு முழுநீளத் திரைப்படத்தை உருவாக்க முடியுமா? இந்தக் கேள்விக்கான பதிலைத் தேடும் முயற்சிதான் ‘BADSHAH 2’. லாப நோக்கமின்றி, எனக்குத் தெரிந்த தொழில்நுட்பங்களைப் பயன்படுத்தி, என்னுடைய செல்போனிலேயே உருவாக்கிய ஒரு பரிசோதனைப் படம் இது.\n\nஇந்தப் பயணத்தில் பல விஷயங்களைக் கற்றுக்கொண்டேன்; AI மூலம் ஒரு முழுநீளப் படத்தை உருவாக்க முடியும் என்பதையும் என்னால் இயன்ற அளவில் நிரூபித்திருக்கிறேன் என்று நம்புகிறேன். \n\nஆனால், இப்படிப்பட்ட AI திரைப்படங்களைப் பார்க்க ஆர்வமுள்ள பார்வையாளர்கள் இருக்கிறார்களா என்பதற்கான பதிலை நீங்கள்தான் சொல்ல வேண்டும். நீங்கள் இந்தப் படத்தை முழுமையாகப் பார்த்து, உங்கள் நேர்மையான கருத்துகளைப் பகிர்வதே என் உழைப்புக்குக் கிடைக்கும் மிகப்பெரிய அங்கீகாரம்.\n\nCan an entire feature film be made using AI? BADSHAH 2 is my attempt to answer that question. Created entirely on my cellphone using the technology available to me, this film is an experiment, made without a profit motive. \n\nI learned a great deal along the way, and I believe this effort demonstrates, to the best of my ability, that creating a full-length film with AI is possible. But is there an audience for films like this? That is a question only you, the viewers, can answer. \n\nWatching the film in full and sharing your honest feedback would be the greatest recognition of the effort I have put into this project.\n\n#Badshah2 #TamilAIMovie #AIMovie #TamilFullMovie #TamilCinema #AIFilm #AIFilmmaking #AIGeneratedMovie #AICinema #GenerativeAI #ArtificialIntelligence #MadeOnPhone #MobileFilmmaking #SmartphoneFilmmaking #IndependentFilm #ExperimentalFilm #FeatureFilm #TamilMovie #தமிழ்சினிமா #தமிழ்படம்",
+      "channelId": "UC9VWgswSNo2weoRzNFuJKow",
+      "channelTitle": "Suthan Mahalingam Show",
+      "thumbnail": "https://i.ytimg.com/vi/aTZ9Id_J2Co/hqdefault.jpg",
+      "publishedAt": "2026-11-15T03:32:43Z",
+      "durationSeconds": 3819,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7bIAtZ0pexI",
+      "url": "https://www.youtube.com/watch?v=7bIAtZ0pexI",
+      "title": "The Underground War - English | War Action Movie, Full Movie HD",
+      "description": "Synopsis: The sci-fi war action movie \"The Underground War\" tells the story of the dormant C40 team leader Fang Yi (played by Ren Tianye) and his team members Liu Huo (played by Wang Tao) and Duan Yishan (played by Cheng Han) in 2988. They were awakened by the artificial intelligence control system \"Light of the Long Night\" and will perform a top-secret mission - sneak into the Gene Drug Research Center and destroy all drugs and test data. The research center has been invaded by the Black Feather Society led by Mr. Dee (played by Ding Haifeng). In order to obtain the authority to extend the dormancy, the C40 team must accept this life-and-death operation...\n\nStudio: Tmeng Picture.\nProduced by: Wu Jing, Wang Zidong, Liu Jinlu.\nDirected by: Zhang Zheng.\nScreenplay by: Bai Lu, Liu Zhe.\nStarring: Ren Tianye, Ding Haifeng, Wang Tao, Wei Ziqian, Zhang Qiaoer, Cheng Han.\nGenres: #movie  #fullmovie  #englishmovies #actionmovies  #warmovies #action #war \n\nIntroduction of Channels & Contents\n1, Q1Q2 Movie Channel Official: \nhttps://www.youtube.com/channel/UCU5qmd5NvJljDBeM1sD-D1A\n\n2, Q1Q2 Chinese Drama Channel:\nhttps://www.youtube.com/channel/UCTF6rwqpN-QgtNK1ROAXu6g\n\n3, Moxi Movie Channel Official :\nhttps://www.youtube.com/channel/UCtexkc9tRP3eZrv3bjIjtsA\n\n4, Moxi Youth & Love Theater \nhttps://www.youtube.com/channel/UCyBhxb6ttn8cIu7FqO1ig6A\n\n5, Moxi Music Channel:\nhttps://www.youtube.com/channel/UCsKDL1xo2hsKHNvpblbD-yg",
+      "channelId": "UCEycVhEfW8HdZo0MqPa7BrA",
+      "channelTitle": "Moxi Movie English Official",
+      "thumbnail": "https://i.ytimg.com/vi/7bIAtZ0pexI/hqdefault.jpg",
+      "publishedAt": "2026-11-14T22:00:09Z",
+      "durationSeconds": 4512,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4GBkd-KRILQ",
+      "url": "https://www.youtube.com/watch?v=4GBkd-KRILQ",
+      "title": "Create Professional AI Movies Step by Step – Full Workflow LIVE!",
+      "description": "DESCRIPTION\n\n Welcome to the ultimate AI Movie Making Masterclass LIVE!\n\nIn this livestream, I'm going to show you the complete process of creating amazing AI movies from scratch, even if you have no previous filmmaking experience.\n\nLearn how to turn your ideas into cinematic AI movies using artificial intelligence tools. From writing your movie story to generating realistic characters, creating cinematic scenes, animating images, adding AI voices, sound effects, background music, and editing everything into a professional movie.\n\n🔥 WHAT YOU WILL LEARN:\n\nHow to create movie stories and scripts using AI.\nHow to design consistent AI movie characters.\nHow to generate realistic cinematic AI images.\nHow to turn AI images into moving video scenes.\nHow to create AI voiceovers and dialogues.\nHow to add cinematic sound effects and music.\nHow to edit and combine scenes into a complete movie.\nHow to export and publish your finished AI movie.\n\nWhether you're a beginner, content creator, YouTuber, or aspiring filmmaker, this livestream will help you understand the complete AI filmmaking workflow.\n\nJoin the livestream, follow along, ask questions, and start creating your own AI movies!\n\nLIKE, SHARE & SUBSCRIBE for more AI filmmaking tutorials.\n\n#AIMovie #AIFilmmaking #AIVideoCreation #AITutorial #ArtificialIntelligence\n\nSEO KEYWORDS\n\nhow to create AI movies, AI movie making tutorial, how to make AI films, AI filmmaking for beginners, create movies with AI, AI video generation, cinematic AI videos, AI movie workflow, AI animation tutorial, AI character consistency, AI storytelling, AI voice generation, AI video editing, full AI movie creation process, make AI movies step by step.\n\nYOUTUBE TAGS\n\nAI movie, AI movies, AI filmmaking, AI movie making, AI film tutorial, how to create AI movies, AI video generator, AI video creation, AI filmmaking tutorial, AI animation, AI cinematic video, AI movie creator, AI storytelling, AI tools, AI voiceover, AI character consistency, filmmaking with AI, AI video editing, make movies with AI, AI movie masterclass, beginner AI tutorial, artificial intelligence, cinematic video creation.\n\n\n#FreeAITools #AIGenerator #AITools2026 #AITutorial #AIVideoGenerator #AIImageGenerator #FacelessContent #ContentCreation #thecorporationstack",
+      "channelId": "UCI2R2l5ZmbqqJLMONfF01Lg",
+      "channelTitle": "TheCorporationStack",
+      "thumbnail": "https://i.ytimg.com/vi/4GBkd-KRILQ/hqdefault.jpg",
+      "publishedAt": "2026-11-14T18:11:27Z",
+      "durationSeconds": 2446,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rxsklkyyJ_E",
+      "url": "https://www.youtube.com/watch?v=rxsklkyyJ_E",
+      "title": "The Mothers Monster Part 2 - Official Full Movie | Dragons & Epic War | 4K AI Movie",
+      "description": "The Mothers Monster Part 2 is finally here! Immerse yourself in this 1-hour and 2-minute epic AI fantasy movie featuring breathtaking dragon battles, emotional depths, and a gripping storyline that will keep you hooked from start to finish.\n  \nIf you love cinematic AI films, fantasy adventures, and dragon stories, make sure to watch till the end and share it with your friends!\n🔹 Movie Details:\n• Title: The Mothers Monster Part 2 (Official)\n• Runtime: 1 Hour 2 Minutes\n• Resolution: 4K Ultra HD\n• Genre: AI Fantasy / Action / Drama / Dragons\n  \n🔔 Don't forget to Subscribe and hit the bell icon for more epic AI-generated full movies!\n#TheMothersMonster #AIMovie #FantasyMovie #DragonMovie #FullMovie #4KAI #EpicBattles #ArtificialIntelligence #CinematicFilm #SciFiFantasy",
+      "channelId": "UCy4iTOJG3wqPJeGb1a-8Zyg",
+      "channelTitle": "Candys ASMR Official",
+      "thumbnail": "https://i.ytimg.com/vi/rxsklkyyJ_E/hqdefault.jpg",
+      "publishedAt": "2026-11-14T17:37:14Z",
+      "durationSeconds": 3771,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "YCZxW0BRxIg",
+      "url": "https://www.youtube.com/watch?v=YCZxW0BRxIg",
+      "title": "LAHORE DA MAHARAJA | Maharaja Ranjit Singh Full Movie | New Punjabi Movie 2026",
+      "description": "Movie : Lahore Da Maharaja ( ਲਾਹੌਰ ਦਾ ਮਹਾਰਾਜਾ )\nA Film By : Sweet Chilli Films\n\nThis is a new punjabi movie based on the life of maharaja ranjit singh. in this movie part you will get to know how ranjit  singh became king of lahore.\n\nImportant Note:\nSome visuals, faces, and representations in this project have been created or enhanced using Artificial Intelligence (AI) technologies. This means certain facial features or appearances may not be exact replicas of real historical figures. This work does not claim to be a documentary or an absolute historical account — it is a work of respect, imagination, and inspiration.\n\nsikh history movie\nsikh history movies in punjabi\nsikh history film\nnew punjabi web series 2026\nmaharaja ranjit singh movie\nmaharaja ranjit singh movie punjabi\nhari singh nalwa khalsa general\nhari singh nalwa\nhari singh nalwa movie",
+      "channelId": "UCHKSLw02khpXAgbItYh2CwA",
+      "channelTitle": "Sweet Chilli Films",
+      "thumbnail": "https://i.ytimg.com/vi/YCZxW0BRxIg/hqdefault.jpg",
+      "publishedAt": "2026-11-13T14:44:30Z",
+      "durationSeconds": 8741,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RajTXbes_LE",
+      "url": "https://www.youtube.com/watch?v=RajTXbes_LE",
+      "title": "The Gloom | Full Movie - Sci-Fi Dystopian Film",
+      "description": "Two hundred years ago, a cloud swallowed London. The people above it kept the sun. The people below it were given new eyes — and a pipe.\n\nTHE GLOOM is a two-hour film about what happens when the pipe is cut. A line engineer who reads the numbers out loud in the wrong room. A woman who hunts light for a living and has never seen the real thing. A courier sent back down blind with one instruction: count the days. A rider in a stolen mask. A judge who never switches off her recorder. And a man who rules the sky, hiding what his own eyes look like.\n\nFour episodes, cut together as one film, in order — from the day they cut the sun in half to the day the cloud is switched off.\n\nSet in a far-future London where sunlight is piped like water and the eyes of the poor were built for the dark.\n\n🎧 Best experienced with headphones. Watch in 4K.\n\nCreated by Bladeworn Studios using AI filmmaking and AI video production tools.\n\n#fullmovie #scifi #dystopia #aifilm #cinematic",
+      "channelId": "UCpyipwdDjy5nvlQ8VfD6EyQ",
+      "channelTitle": "Bladeworn Studios",
+      "thumbnail": "https://i.ytimg.com/vi/RajTXbes_LE/hqdefault.jpg",
+      "publishedAt": "2026-11-10T15:00:36Z",
+      "durationSeconds": 7913,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:26.233Z",
+      "lastSeenAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:48:23.654Z",
+  "generatedAt": "2026-11-15T04:39:51.439Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -226,7 +226,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1220,7 +1220,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1334,7 +1334,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:44.912Z",
       "lastSeenAt": "2026-11-11T04:32:44.912Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:28.342Z",
       "lastSeenAt": "2026-11-13T04:54:28.342Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1373,7 +1373,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:23.654Z",
       "lastSeenAt": "2026-11-14T04:48:23.654Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,26 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:23.654Z",
       "lastSeenAt": "2026-11-14T04:48:23.654Z",
-      "lastVerifiedAt": "2026-11-14T04:48:23.654Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KS3OuLPk3Fs",
+      "url": "https://www.youtube.com/watch?v=KS3OuLPk3Fs",
+      "title": "Perseo vs Cronos Furia de Titanes 2 Película Completa en Español Latino ",
+      "description": "⚠️ Obra de ficción original creada con inteligencia artificial, inspirada en la mitología griega. Personajes, historia y escenas son producto de nuestra imaginación. No tiene relación con ningún estudio ni película comercial.\n\n🎬 FURIA DE TITANES 2 PELÍCULA COMPLETA EN ESPAÑOL LATINO. Perseo y sus guerreros cruzan el Tártaro, enfrentan al Minotauro en el laberinto y se miran cara a cara con el titán Cronos en una aventura épica de mitología griega.\n\n⏱️ Duración: 1 hora y 1 minuto, los 4 episodios completos sin cortes.\n\n🔥 Batallas, monstruos, poderes y fantasía en una película de acción cinematográfica. Si te gustan las películas de mitología griega, fantasía épica y aventura en español latino, esta historia es para ti.\n\n📺 ¿Te perdiste la primera parte? Búscala en nuestro canal y mira la saga completa.\n👍 Dale like, 💬 cuéntanos en los comentarios qué escena fue tu favorita y 🔔 suscríbete para no perderte la siguiente película.\n\n⚠️ Obra de ficción original creada con inteligencia artificial, inspirada en la mitología griega. Personajes, historia y escenas son producto de nuestra imaginación. No tiene relación con ningún estudio ni película comercial.\n\n#PeliculaCompleta #FuriaDeTitanes2 #PeliculasEnEspañolLatino #MitologiaGriega #PeliculasDeFantasia #PeliculasDeAccion #PeliculaEpica #Perseo #Cronos #Minotauro #PeliculasDeMitologia #CineLatino #PeliculaEnEspañol #AventuraEpica #FantasiaEpica\n\npelícula completa en español latino, furia de titanes 2, furia de titanes 2 película completa, furia de titanes 2 español latino, furia de titanes, perseo y cronos, perseo, cronos, el minotauro, laberinto del minotauro, el tártaro, mitología griega, películas de mitología griega, películas de fantasía, películas de acción, película épica, películas en español latino, película completa en español, películas completas, aventura épica, impacto divino\n\n⏱️ CAPÍTULOS\n00:00 Episodio 1\n15:00 Episodio 2\n30:00 Episodio 3\n45:00 Episodio 4",
+      "channelId": "UC7YjYN43c41Lco6kNo1mfBw",
+      "channelTitle": " IMPACTO DIVINO Cinematic Estudios",
+      "thumbnail": "https://i.ytimg.com/vi/KS3OuLPk3Fs/hqdefault.jpg",
+      "publishedAt": "2026-11-14T19:00:38Z",
+      "durationSeconds": 3701,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-15T04:39:51.439Z",
+      "lastSeenAt": "2026-11-15T04:39:51.439Z",
+      "lastVerifiedAt": "2026-11-15T04:39:51.439Z",
       "unavailableAt": null
     }
   ]
