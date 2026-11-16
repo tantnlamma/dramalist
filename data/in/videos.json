@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T04:39:32.907Z",
+  "generatedAt": "2026-11-16T04:36:20.530Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1704,7 +1704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-14T04:48:05.232Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2162,7 +2162,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2296,7 +2296,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2353,7 +2353,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2388,11 +2388,11 @@
       "matchedKeywords": [
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-10T05:50:13.201Z",
       "lastSeenAt": "2026-11-10T05:50:13.201Z",
-      "lastVerifiedAt": "2026-11-11T04:32:25.125Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": "2026-11-16T04:36:20.530Z"
     },
     {
       "videoId": "uFWMO-Ms-tc",
@@ -2505,7 +2505,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2544,7 +2544,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2601,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2734,7 +2734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2779,9 +2779,9 @@
       "videoId": "MWl5znD_dgM",
       "url": "https://www.youtube.com/watch?v=MWl5znD_dgM",
       "title": "ख़ामोश दहाड़ | The Silent Roar | Hindi AI Full Movie 🐻",
-      "description": "ख़ामोश दहाड़ (The Silent Roar) – एक हिंदी AI फ़िल्म, जहाँ घने जंगल में फँसी एक युवा वाइल्डलाइफ़ फ़ोटोग्राफ़र का सामना होता है 30 फ़ुट ऊँचे, 50 टन के काले भालू से। 🐻\nKhamosh Dahaad (The Silent Roar) is a Hindi AI film about a jungle helicopter crash, a giant black bear and an unforgettable bond.\n\nदो बहनें, मीरा और परी, वाइल्डलाइफ़ फ़ोटोग्राफ़र हैं। अपने दोस्त रोहन और पायलट विक्रम सिंह के साथ वे हेलीकॉप्टर से दंडकारण्य की रहस्यमयी \"काली घाटी\" के ऊपर उड़ान भरती हैं। अचानक हेलीकॉप्टर क्रैश हो जाता है… और जंगल में जागता है एक काला साया – \"कालू\"।\n\nजिसे दुनिया दानव समझती है, उसके ज़ख़्मों के पीछे एक ऐसा सच छुपा है जो इंसानों ने लिखा है। डर, दर्द, सर्वाइवल और एक अनोखी दोस्ती की ये कहानी आपको आख़िरी पल तक बाँधे रखेगी।\n\n⏱️ चैप्टर\n00:00 शुरुआत – काली घाटी की उड़ान\n__:__ हेलीकॉप्टर क्रैश\n__:__ काला साया\n__:__ जंगल में सर्वाइवल\n29:55 लोरी\n36:40 कालू और परी\n44:10 क्लाइमेक्स\n50:55 छह महीने बाद\n\n💬 आपके हिसाब से असली दानव कौन था – भालू या इंसान? कमेंट में ज़रूर बताइए।\n🔔 ऐसी ही और हिंदी AI फ़िल्मों के लिए चैनल को सब्सक्राइब करें।\n\n🎬 कहानी, स्क्रिप्ट और निर्देशन: [आपका नाम]\n🤖 यह फ़िल्म AI टूल्स की मदद से बनाई गई है। सभी किरदार, जगहें और घटनाएँ काल्पनिक हैं; किसी असली व्यक्ति या घटना से इनका कोई संबंध नहीं है।\n🌿 संदेश: जंगल और जंगली जानवरों को उनका घर लौटाइए। अवैध शिकार या फंदे दिखें, तो तुरंत वन विभाग को सूचना दें।\n\n#KhamoshDahaad #AIMovie #HindiMovie",
+      "description": "ख़ामोश दहाड़ (The Silent Roar) – एक हिंदी AI फ़िल्म, जहाँ घने जंगल में फँसी एक युवा वाइल्डलाइफ़ फ़ोटोग्राफ़र का सामना होता है 30 फ़ुट ऊँचे, 50 टन के काले भालू से। 🐻\n\nKhamosh Dahaad (The Silent Roar) is a Hindi AI film about a jungle helicopter crash, a giant black bear and an unforgettable bond.\n\nदो बहनें, मीरा और परी, वाइल्डलाइफ़ फ़ोटोग्राफ़र हैं। अपने दोस्त रोहन और पायलट विक्रम सिंह के साथ वे हेलीकॉप्टर से दंडकारण्य की रहस्यमयी 'काली घाटी' के ऊपर उड़ान भरती हैं। अचानक हेलीकॉप्टर क्रैश हो जाता है... और जंगल में जागता है एक काला साया – 'कालू'।\n\nजिसे दुनिया दानव समझती है, उसके ज़ख़्मों के पीछे एक ऐसा सच छुपा है जो इंसानों ने लिखा है। डर, दर्द, सर्वाइवल और एक अनोखी दोस्ती की ये कहानी आपको आख़िरी पल तक बाँधे रखेगी।\n\n⏱️ चैप्टर\n00:00 शुरुआत – काली घाटी की उड़ान\n__:__ हेलीकॉप्टर क्रैश\n__:__ काला साया\n__:__ जंगल में सर्वाइवल\n29:55 लोरी\n36:40 कालू और परी\n44:10 क्लाइमेक्स\n50:55 छह महीने बाद\n\n💬 आपके हिसाब से असली दानव कौन था – भालू या इंसान? कमेंट में ज़रूर बताइए।\n\n🔔 ऐसी ही और हिंदी AI फ़िल्मों के लिए चैनल को सब्सक्राइब करें।\n\n🎬 कहानी, स्क्रिप्ट और निर्देशन: AImoviesstory\n\n🤖 यह फ़िल्म AI टूल्स की मदद से बनाई गई है। सभी किरदार, जगहें और घटनाएँ काल्पनिक हैं, किसी असली व्यक्ति या घटना से इनका कोई संबंध नहीं है।\n\n🌿 संदेश: जंगल और जंगली जानवरों को उनका घर लौटाइए। अवैध शिकार या फंदे दिखें, तो तुरंत वन विभाग को सूचना दें।\n\n#KhamoshDahaad #AIMovie #HindiMovie",
       "channelId": "UCTFLiW_9A8WDiaUxz2LAiaA",
-      "channelTitle": "AImoviesstory",
+      "channelTitle": "KahaniSaz",
       "thumbnail": "https://i.ytimg.com/vi/MWl5znD_dgM/hqdefault.jpg",
       "publishedAt": "2026-11-12T08:36:15Z",
       "durationSeconds": 3137,
@@ -2849,7 +2849,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2868,7 +2868,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:32.907Z",
       "lastSeenAt": "2026-11-15T04:39:32.907Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2887,7 +2887,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:32.907Z",
       "lastSeenAt": "2026-11-15T04:39:32.907Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     },
     {
@@ -2906,7 +2906,104 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:32.907Z",
       "lastSeenAt": "2026-11-15T04:39:32.907Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PATaB6gU-m4",
+      "url": "https://www.youtube.com/watch?v=PATaB6gU-m4",
+      "title": "PARISTAAN – DO JAHANO KI AAKHIRI PARI 👑✨ | Full AI Fantasy Movie | Magical Fairy Kingdom | Hindi",
+      "description": "✨ PARISTAAN – DO JAHANO KI AAKHIRI PARI ✨\n\nWelcome to a magical world where fairies have extraordinary powers, two kingdoms share an ancient destiny, and one princess holds the power to change everything!\n\n👑 THE STORY\n\nAyla is no ordinary fairy princess. Born with seven extraordinary magical powers, she is destined to change the fate of two mysterious kingdoms: Paristaan and Parilok.\n\nBut an ancient prophecy, a dark queen, a dangerous betrayal and a mysterious Eighth Noor threaten everything she loves.\n\nWith the brave warrior Zavian by her side, Ayla must discover the truth about her birth, protect her kingdom and face a shocking secret that could change her destiny forever.\n\nWill the seven magical powers save both worlds? And who is the mysterious Eighth Noor?\n\n🌟 MOVIE FEATURES\n✨ Magical fairy kingdoms\n👑 Beautiful fairy princess and royal warriors\n🪽 Extraordinary magical wings\n❤️ Friendship, courage and romance\n🔥 Powerful battles and supernatural magic\n😱 An unexpected ending and shocking mystery\n\n🎬 MOVIE: PARISTAAN – DO JAHANO KI AAKHIRI PARI\n🎭 GENRE: Indian Ai Mythological Fantasy | Adventure | Magic | Romance\n🌍 LANGUAGE: Hindi / Urdu style\n⏱️ DURATION: Approximately 60 minutes\n\nIf you love magical fairy stories, fantasy adventures and royal kingdoms, this movie is for you!\n\n❤️ LIKE the video\n💬 COMMENT your favourite character\n🔔 SUBSCRIBE for more original AI fantasy movies.\n\nThank you for watching!\n\nA magical journey ends... but the mystery of the Eighth Noor has only begun!\n\n#Paristaan #DoJahanoKiAakhiriPari #FantasyMovie #HindiFantasyMovie #FairyTale #MagicalKingdom #Ayla #Zavian #IndianFantasy #FairyPrincess #AIAnimatedMovie #MythologicalFantasy #FantasyAdventure #MagicalFairies #FullMovie",
+      "channelId": "UC0Edzf_rtgW8XycbxHaQaOw",
+      "channelTitle": "Scripted Soul",
+      "thumbnail": "https://i.ytimg.com/vi/PATaB6gU-m4/hqdefault.jpg",
+      "publishedAt": "2026-11-14T13:46:50Z",
+      "durationSeconds": 2774,
+      "matchedKeywords": [
+        "AI drama movie hindi full",
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:20.530Z",
+      "lastSeenAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zEtbTOSF_8A",
+      "url": "https://www.youtube.com/watch?v=zEtbTOSF_8A",
+      "title": "BLACK MONSOON: THE LAST SIGNAL (2027) | Full Hindi Spy Action Revenge Movie",
+      "description": "🔥 BLACK MONSOON: THE LAST SIGNAL (2027) | Full Hindi Action Thriller Movie\n\nOne secret mission. One deadly betrayal. One man determined to uncover the truth.\n\nWhen a dangerous criminal network threatens an entire city, an undercover operative must enter a world of deception, corruption, and ruthless enemies.\n\nAs secrets emerge and loyalties collapse, his mission becomes a personal battle for justice and revenge.\n\nMovie Details:\n- Movie: Black Monsoon: The Last Signal\n- Release: 2027\n- Genre: Spy Action | Crime | Revenge | Thriller\n- Language: Hindi\n- Subtitles: English\n- Duration: 65 Minutes\n- Production: AI-Generated Original Film\n\nWhat to Expect:\n- Intense undercover spy missions\n- High-stakes action and chase sequences\n- Powerful villains and unexpected betrayals\n- Emotional revenge storyline\n- Explosive cinematic final showdown\n\nDisclaimer: This is an original AI-generated fictional movie created for entertainment. It is not affiliated with any existing film, actor, or production studio.\n\n👍 LIKE the movie  \n💬 COMMENT your favorite scene  \n🔔 SUBSCRIBE for more full-length AI action movies!\n\n#BlackMonsoon #FullHindiMovie #ActionMovie #SpyThriller #AIFilm #RevengeMovie #HindiActionMovie #FullMovie2026",
+      "channelId": "UC41lLfGazN53I-mUB6w_jcw",
+      "channelTitle": "Chase Your Dreams Fearlessly",
+      "thumbnail": "https://i.ytimg.com/vi/zEtbTOSF_8A/hqdefault.jpg",
+      "publishedAt": "2026-11-14T13:48:09Z",
+      "durationSeconds": 3833,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:20.530Z",
+      "lastSeenAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ly8V6wgQR78",
+      "url": "https://www.youtube.com/watch?v=Ly8V6wgQR78",
+      "title": "Hazrat Ali (RA) Full Movie in Hindi | Vilaadat Se Shahadat Tak | Poori Zindagi",
+      "description": "Hazrat Ali (RA) ki poori zindagi | Hazrat Ali full movie in Hindi | Vilaadat se Shahadat tak. Is cinematic Islamic history docu-drama mein Hazrat Ali bin Abi Talib (RA) ki kahani hai: bachpan, Nabi (SAW) ke ghar mein parvarish, Islam qabool karna, Khandaq ka muqabla aur Kufa ki aakhri subah tak.\nहज़रत अली की पूरी ज़िंदगी | शेर-ए-ख़ुदा | Lion of Allah | इस्लामी इतिहास हिंदी में\n\n🔔 Aisi kahaniyan chahiye to Deen History ko subscribe karein.\n\nIs movie mein aap dekhenge:\n• Opening: Khandaq ki jung aur Amr ibn Abd Wudd ka muqabla\n• Hazrat Ali (RA) ki vilaadat (Kaaba mein vilaadat ki riwayat, jis par ulama mein ikhtilaf hai) aur unka bachpan\n• Nabi (SAW) ke ghar mein parvarish aur unka Islam qabool karna\n• Hijrat ki raat, Madina aur Nabi (SAW) se bhaichare ka rishta\n• Jang-e-Badr aur Jang-e-Uhud mein unki bahaduri\n• Zulfiqar talwar ka waqia\n• Khilafat-e-Ali (RA): mushkil dino mein adl aur insaaf\n• Jang-e-Jamal aur Jang-e-Siffin: musalmano ke beech ikhtilaf ka dardnaak daur\n• Khawarij ka uthna aur unki saazish (riwayaton ke mutabiq)\n• Masjid-e-Kufa ki aakhri subah\n• Aakhri alfaaz, apne qaatil par reham ki riwayat aur unki virasat\n\n⏱ Chapters:\n* Khandaq: Amr ibn Abd Wudd ka muqabla\n* Vilaadat aur bachpan\n* Nabi (SAW) ke ghar mein parvarish \n* Islam qabool karna\n*  Hijrat ki raat aur Madina\n* Jang-e-Badr\n* Jang-e-Uhud\n* Zulfiqar ka waqia\n* Khilafat-e-Ali (RA)\n* Jang-e-Jamal aur Siffin\n* Khawarij\n*  Kufa ki aakhri subah\n* Aakhri alfaaz aur virasat\n\n📌 Source note: Ye movie Quran, Hadees aur Seerah/Tareekh ki kitabon par mabni hai. Jahan ulama ya itihaaskaaron mein ikhtilaf hai ya riwayat kamzor hai, wahan video mein saaf kaha gaya hai. Dialogue scenes (jahan hain) kalpnik punarnirman hain, aitihasik uddharan nahi. Tafseelat ke liye ahle-ilm aur asal sroton se tasdeeq karein.\n\n⚠ Disclaimer: Is video ke saare visuals AI-generated hain. Nabi (SAW), Ahle Bait aur Sahaba (RA) ke chehre jaanbujh kar saaf nahi dikhaye gaye.\n\nKeywords: hazrat ali, hazrat ali full movie, hazrat ali ki poori zindagi, hazrat ali ki kahani, hazrat ali story in hindi, hazrat ali ka waqia, hazrat ali life story, hazrat ali full movie in hindi, lion of allah, sher e khuda, hazrat ali history, khandaq ki jung, amr ibn abd wud, jang e jamal, jang e siffin, khawarij, masjid e kufa, hazrat ali shahadat, islamic history in hindi, islamic movie hindi, हज़रत अली, deen history\n\n\nAapko Hazrat Ali (RA) ki zindagi ka kaun sa hissa sabse zyada pasand aaya? Neeche comment mein bataiye 👇\n\n#HazratAli #LionOfAllah #IslamicHistory #HazratAliFullMovie #DeenHistory",
+      "channelId": "UCnAq8a0lKRDJS3op2Dlrryw",
+      "channelTitle": "Deen History",
+      "thumbnail": "https://i.ytimg.com/vi/Ly8V6wgQR78/hqdefault.jpg",
+      "publishedAt": "2026-11-10T13:04:37Z",
+      "durationSeconds": 4801,
+      "matchedKeywords": [
+        "AI drama movie hindi full",
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:20.530Z",
+      "lastSeenAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aNZhDNIOmV8",
+      "url": "https://www.youtube.com/watch?v=aNZhDNIOmV8",
+      "title": "The Story of Laila | Forced Marriage Turned Into True Love | Hindi full movie story ",
+      "description": "The Story of Laila | Forced Marriage Turned Into True Love | Hindi full movie story \n\n❤️ THE STORY OF LAILA ❤️\n\nA beautiful yet heartbreaking story of love, sacrifice, betrayal, and family!\n\nLaila is a poor but kind-hearted girl whose life takes an unexpected turn when she is forced to marry Arman, a wealthy businessman and a single father.\n\nArman has a little daughter named Zoya, who is still waiting for her real mother. Laila enters their house as a wife, but Arman makes it clear that she is only there to take care of Zoya.\n\nAt first, Laila faces rejection, humiliation, and countless challenges. But with her unconditional love and kindness, she slowly wins Zoya's heart.\n\nAs time passes, Arman's cold heart begins to melt. But his past, his ex-wife, and unexpected secrets threaten to destroy their beautiful family.\n\nWill Laila find true love?\nWill Arman trust her?\nCan Zoya finally get the mother she always wanted?\n\nWatch this emotional Hindi movie story till the end to discover the beautiful journey of Laila, Arman, and Zoya.\n\n✨ STORY CHARACTERS:\n❤️ Hero: Arman\n❤️ Heroine: Laila\n❤️ Daughter: Zoya\n\n🎬 Genre: Emotional Drama | Family Drama | Romantic Story | Love Story | Heart Touching Story\n\nIf you enjoyed this story:\n👍 Like the video\n💬 Comment your favourite character\n❤️ Share with your friends\n🔔 Subscribe for more emotional Hindi movie stories!\n\nThank you for watching! ❤️\n\n#TheStoryOfLaila #HindiMovieStory #forcemarriage #hindiailovestory #hindiaimovie #HindiStory #EmotionalStory #LoveStory #HeartTouchingStory #FamilyDrama #RomanticStory #ArmanAndLaila #LailaStory #EmotionalLoveStory #StepMotherStory #DaughterLove #HindiKahani #MoralStories",
+      "channelId": "UCHVH0AbOk5BfJ-3jnWhl5gA",
+      "channelTitle": "Hindi ai drama ",
+      "thumbnail": "https://i.ytimg.com/vi/aNZhDNIOmV8/hqdefault.jpg",
+      "publishedAt": "2026-11-16T03:00:26Z",
+      "durationSeconds": 2121,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:20.530Z",
+      "lastSeenAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WDlfeoLXatI",
+      "url": "https://www.youtube.com/watch?v=WDlfeoLXatI",
+      "title": "MY EX IS MY BOSS【FULL MOVIE】Jis Ladke Ko Chhoda, Wahi Bana Crorepati CEO! 😱 Chinese Movie Hindi Dub",
+      "description": "A machine can translate words, but only a heart can translate love. ❤️✨ Watch My Ex Is My Boss  Full Movie | Chinese movie In Hindi Dubbed \n\n❤️ ABOUT MY EX IS MY BOSS ( Our Interpreter ) ❤️\n\n💔 8 साल बाद लौटा EX… अब वही बन गया उसका BOSS! 😱❤️\n\nEight years ago, Lin Xi broke Xiao Yicheng's heart to chase her dreams, leaving him believing she chose money over love. Now a successful interpreter, Lin Xi unexpectedly reunites with her ex, who has become the powerful CEO of an AI technology company! 😱🔥\n\nForced to work together on a high-stakes translation project, their professional rivalry reignites old feelings and painful memories. As jealousy, family pressure, office politics, and hidden truths complicate their lives, the two must decide whether ambition is worth losing love all over again. 💕✨\n\nWill their unfinished love story get a second chance, or will their past keep them apart forever? 💍❤️\n\nA machine can translate words, but only a heart can translate love. ❤️✨\n\n➣ Drama: Our Interpreter\n➣ Original Title: 我们的翻译官 \n➣ Total Episodes: 36\n➣ Genres: Business, Romance, Life, Drama\n➣ Cast:\nVictoria Song as Lin Xi \nChen Xing Xu as Xiao Yi Cheng\nFei Qi Ming as Cheng Yao\nWang Sen as Wei Tian\nLin Zi Lu as Tan Sha Sha\n➣ Director: Zhang Tong\n\nWatch More Movies in Hindi Dubbed 👉\n\n⦿  Fake Love Real Marriage: https://youtu.be/8eKqKohFYC4\n⦿ Love Trap: https://youtu.be/roelwBcqBAY\n⦿ City Cinderella and Romeo: https://youtu.be/uZ6Nfua64KU\n⦿ Mera Secret Crush: https://youtu.be/sTvUcPMsCBk\n⦿ Rival Se Pyaar: https://youtu.be/9fjfgjUvXNs\n\n#MyExIsMyBoss #ChineseMovieHindiDubbed #ChineseRomanticMovie #HindiDubbedMovie #CDrama #LoveStory #ExReturns #EnemiesToLovers #OfficeRomance #AIvsHuman #RomanticMovie #FullMovieHindi\n\n🎭 About C-Drama Mania 🎭\n\nWelcome to C-Drama Mania, your ultimate destination for Chinese dramas, now dubbed in Hindi! We are passionate about bringing the best of C-Dramas to Hindi-speaking audiences, making it easier for you to enjoy the magic of C-Dramas without language barriers.\n\n🔔 Subscribe and hit the notification bell to stay updated! \nhttps://www.youtube.com/channel/UCJrx8YdtX5SK1pXOTE6CxCA?sub_confirmation=1\n\n🏷️ 𝐞𝐦𝐨𝐭𝐢𝐨𝐧 𝐭𝐚𝐠𝐬:\nAge Gap Romance, Lovers Reunited, Workplace Drama, Ex-Lovers Relationship, Bickering Couple, Office Romance, Teamwork Goals, Emotional Reunion\n\n🏷️ more tags\n\nOur Interpreter | our interpreter | our interpreter episodes hindi | 我們的翻譯官 | our interpreter full ep | our interpreter in Hindi | our interpreter Episode #1 | our interpreter all episodes | our interpreter dubbed in Hindi | our interpreter hindi dubbed |our interpreter Episode 01 | our interpreter drama series | our interpreter Chinese drama | Korean drama in hindi dubbed | korean drama | K drama full episode in hindi dubbed | Chinese drama in hindi dubbed | K drama in hindi dubbed | Korean drama in hindi | C drama in hindi dubbed | Korean movie in hindi dubbed | K drama | Chinese drama | Korean drama in hindi dubbed full episodes | new korean drama in hindi dubbed | Victoria Song | Chen Xing Xu | korean drama hindi dubbed | kdrama in hindi | cdrama in hindi dubbed | Hindi Dub | Chinese drama hindi dubbed | Cdrama | TRM Chinese Drama | C-drama mania | Romantic | Drama Full Episodes | Hindi Dubbed Chinese Drama | Romantic Chinese Drama in Hindi | Hindi Dubbed Office Romance | Second Chance Love Story Hindi Dubbed | Ex-Lovers Drama Hindi Dubbed | Best Hindi Dubbed Chinese Series | Workplace Drama in Hindi | Chinese Drama 2024 Hindi Dubbed | Romantic Hindi Dubbed Series | Latest Chinese Series in Hindi | our interpreter movie | Chinese movie | New Chinese Movie | Chinese movie in hindi | Chinese movie 2026 | new Chinese movie 2026",
+      "channelId": "UCJrx8YdtX5SK1pXOTE6CxCA",
+      "channelTitle": "C-Drama Mania",
+      "thumbnail": "https://i.ytimg.com/vi/WDlfeoLXatI/hqdefault.jpg",
+      "publishedAt": "2026-11-15T06:30:10Z",
+      "durationSeconds": 12075,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:20.530Z",
+      "lastSeenAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
       "unavailableAt": null
     }
   ]

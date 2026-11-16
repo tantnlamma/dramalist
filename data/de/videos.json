@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T04:40:06.477Z",
+  "generatedAt": "2026-11-16T04:36:53.542Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-03T05:12:02.310Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     },
     {
@@ -492,6 +492,44 @@
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
       "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Hxiq1prgdsQ",
+      "url": "https://www.youtube.com/watch?v=Hxiq1prgdsQ",
+      "title": "The Possessed | 2021 | Unglaublicher DÄMONEN HORROR | Ganzer Film in HD",
+      "description": "🧟‍♂️💥 ZOMBIEWORLD für die besten Zombie-Filme, Horror-Klassiker & apokalyptische Schocker! 📺 Jetzt abonnieren: https://bit.ly/ZombieworldAbo\n\nTHE POSSESSED (2021)\nOriginaltitel: The Possessed\nMit: John Jarratt; Lincoln Lewis; Angie Kent\nRegie: Chris Sun\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nJacob Chandler (John Jarratt) ist ein ganz normaler Mann mit einer außergewöhnlichen Gabe. Jacob ist Exorzist und zusammen mit seinem Neffen Liam (Lincoln Lewis) hat er sich eine Karriere geschmiedet, um Dämonen aus den Körpern ihrer Klienten zu befreien. In letzter Zeit hat sich etwas verändert und dämonische Besessenheit ist auf dem Vormarsch, und um die, die er liebt, vor dem Zorn des unaussprechlichen Bösen zu bewahren, muss Jacob für ihr Überleben kämpfen. Als er Liams neue Freundin, Atalie Carlisle (Lauren Grimson), kennenlernt, erkennt er etwas in ihrem dunklen, gebrochenen Blick - auch sie kann die Verdammten sehen. Jacob hätte nie erwartet, jemanden zu treffen, der so ist wie er. Als er zu einem gespenstisch schönen Anwesen mit einer tragischen Vergangenheit gerufen wird, muss Jacob all seine Erfahrung aufbieten, um die Schichten dämonischer Täuschung aufzudecken, die im Spiel sind. Der Tod ist hier, und er wird alles tun, um frei zu sein.\n#zombies #horror #zombiefilm #horrorfilme #apokalypse\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \n\nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UCDD1U4CEvLz6kKuIQwGivdg",
+      "channelTitle": "ZOMBIEWORLD - Horrorfilme, Zombies & Apokalypse",
+      "thumbnail": "https://i.ytimg.com/vi/Hxiq1prgdsQ/hqdefault.jpg",
+      "publishedAt": "2026-10-13T17:15:04Z",
+      "durationSeconds": 5850,
+      "matchedKeywords": [
+        "künstliche Intelligenz Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:53.542Z",
+      "lastSeenAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NcEU842IOfk",
+      "url": "https://www.youtube.com/watch?v=NcEU842IOfk",
+      "title": "Er reist zurück – und findet eine Zukunft voller Killerroboter Ganzer Film Action Auf Deutsch",
+      "description": "Science-Fiction-Action mit Zeitreisen und Killerrobotern: führt in eine zerstörte Zukunft, in der ein Wissenschaftler die Folgen eines gescheiterten Experiments aufhalten muss.\n\nIm Jahr 2073 arbeitet Nicholas Sinclair an einem Zeitreiseprojekt. Als eine Sonde im Jahr 1973 den Lauf der Geschichte verändert, kehrt er in eine andere Zukunft zurück: Eine Krankheit verwüstet die Erde, und bewaffnete Roboter jagen die Überlebenden. Selbst seine Frau ist nun eine Widerstandskämpferin, die ihn kaum wiedererkennt.\n\nSinclair sucht einen Weg, den Fehler zu korrigieren. Doch im Kampf um die Zukunft steht auch seine eigene Existenz auf dem Spiel.\n\nMit Richard Keats, Mitchell Cox, Lisa Ann Russell und Marcus Aurelius.\nRegie: Phillip J. Roth.\n\nWürdest du die Vergangenheit ändern, wenn du dadurch deine eigene Existenz riskierst? Schreib deine Antwort in die Kommentare.\n\n#ScienceFiction #Zeitreise #SciFiAction",
+      "channelId": "UCAsU4g5ehWUOH40mTbbhE5g",
+      "channelTitle": "Amelia ",
+      "thumbnail": "https://i.ytimg.com/vi/NcEU842IOfk/hqdefault.jpg",
+      "publishedAt": "2026-10-29T13:34:13Z",
+      "durationSeconds": 5649,
+      "matchedKeywords": [
+        "Roboter Film komplett deutsch"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:53.542Z",
+      "lastSeenAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
       "unavailableAt": null
     }
   ]

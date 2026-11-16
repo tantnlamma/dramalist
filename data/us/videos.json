@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T04:39:26.233Z",
+  "generatedAt": "2026-11-16T04:36:14.086Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -517,7 +517,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -613,7 +613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -651,7 +651,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -1313,7 +1313,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -1792,7 +1792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:28.710Z",
       "lastSeenAt": "2026-10-20T03:14:28.710Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -1907,7 +1907,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -1945,7 +1945,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2079,7 +2079,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2193,7 +2193,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2459,7 +2459,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2478,7 +2478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2613,7 +2613,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2670,7 +2670,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2728,7 +2728,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -2957,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3091,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3282,13 +3282,13 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
       "videoId": "fjPki79ebpY",
       "url": "https://www.youtube.com/watch?v=fjPki79ebpY",
-      "title": "THE ASHEN CODE – Meeoiba Pumnamak Manghanba AI! Short sci fi film ",
+      "title": "THE ASHEN CODE – Meeoiba Pumnamak Manghanba AI! Short sci fi film",
       "description": "THE ASHEN CODE | Full Sci-Fi Animated Movie | AI Science Fiction Film\n\nWhat happens when Artificial Intelligence becomes more powerful than humanity? Can humans survive a future controlled by mysterious technology?\n\n🔥 THE ASHEN CODE takes you into a dark futuristic world filled with advanced AI, mysterious secrets, unexpected dangers, and an epic fight for humanity's survival.\n\nExperience an exciting science fiction animated adventure featuring futuristic technology, AI mysteries, cinematic animation, suspense, action, and an unforgettable story.\n\n🚀 WELCOME TO THE WORLD OF THE ASHEN CODE!\n\n🎬 WHAT YOU WILL EXPERIENCE:\n• Full Sci-Fi Animated Movie\n• Artificial Intelligence and Future Technology\n• Futuristic World and Mystery\n• Epic Science Fiction Adventure\n• Cinematic Animated Storytelling\n• Humanity vs Artificial Intelligence\n\n🌎 FOR USA & GLOBAL SCI-FI MOVIE LOVERS\n\nIf you love Hollywood-style sci-fi movies, futuristic adventures, AI stories, robots, and mind-blowing animated films, this movie is for you!\n\n❤️ MANIPURI VIEWERS (ꯃꯩꯇꯩ ꯃꯌꯥꯝꯒꯤꯗꯃꯛ)\n\nSci-Fi movie, AI animation, futuristic technology amasung anouba dunia-gi wari nungshiba Manipuri meeyam pumnamakta TAMOVERSE-da yaifare!\n\nNongna Sci-Fi movie amasung AI-generated animated film yengninglibra? THE ASHEN CODE asi yengbiyu. Video asi nungairabadi LIKE tou, COMMENT-da nahakki thought haibiyu amasung nahakki marup-singgada SHARE tou!\n\n🔔 SUBSCRIBE TO TAMOVERSE\n\nOur goal is to reach our first 1,000 subscribers. Nahakki support-na eigi channel asi henna chaokhat-hanbigani!\n\n👍 LIKE | 💬 COMMENT | 🔔 SUBSCRIBE | 📢 SHARE\n\nThank you for watching!\n\n#TheAshenCode #SciFiMovie #AnimatedMovie #AIMovie #ScienceFiction #FullMovie #SciFiAnimation #ArtificialIntelligence #FutureTechnology #TAMOVERSE #Manipuri #Meitei #Manipur",
       "channelId": "UCVOrLBZ8Be809epWl3-6-lA",
       "channelTitle": "TAMO VERSE",
@@ -3339,7 +3339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3397,7 +3397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3511,7 +3511,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3607,7 +3607,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3686,7 +3686,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3705,7 +3705,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3724,7 +3724,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3838,7 +3838,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -3971,7 +3971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:46.414Z",
       "lastSeenAt": "2026-11-05T04:56:46.414Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4066,7 +4066,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:24.918Z",
       "lastSeenAt": "2026-11-06T04:56:24.918Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4085,7 +4085,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4142,7 +4142,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4161,7 +4161,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-11T04:32:18.550Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4218,7 +4218,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4237,7 +4237,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4332,7 +4332,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-13T04:54:01.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4351,7 +4351,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4490,8 +4490,8 @@
     {
       "videoId": "0WLXWlDHeeg",
       "url": "https://www.youtube.com/watch?v=0WLXWlDHeeg",
-      "title": "THE SECRET EXPERIMENT: PROJECT ZIVARA | Latest full sci-fi movie",
-      "description": "THE SECRET EXPERIMENT: PROJECT ZIVARA is a thrilling full-length science fiction movie about artificial intelligence, a secret robotics experiment, and the creation of the world's first human-like humanoid robot. But what happens when a groundbreaking experiment becomes a secret that powerful people are desperate to protect?\n\nSet in Abuja, Nigeria, in the year 2035, this futuristic sci-fi movie follows Marcus, a brilliant young university student who accidentally discovers a highly classified robotics project hidden inside a secret laboratory.\n\nAt the centre of the experiment is Zivara, an extraordinary humanoid robot designed to look and behave like a real human being. Created by an advanced robotics scientist and secretly funded by powerful politicians, Zivara is unlike anything the world has ever seen.\n\nWhen Marcus discovers the truth about Zivara, he finds himself caught in a dangerous situation involving artificial intelligence, political power, hidden secrets and an experiment that could change the future of humanity.\n\nAs the truth begins to emerge, questions arise:\n\nCan a humanoid robot truly live among humans?\nWhat happens when artificial intelligence becomes more advanced than anyone expected?\nAnd what will happen when powerful people discover that their secret experiment is no longer under their control?\n\nWatch this exciting Nigerian science fiction movie to discover the full story of Project Zivara.\n\nIf you enjoy science fiction movies, futuristic movies, artificial intelligence movies, humanoid robot movies, technology thrillers and African storytelling, this movie is for you.\n\n🎬 MOVIE: The Secret Experiment: Project Zivara\n🎭 GENRE: Science Fiction | Technology Thriller | Drama\n📍 SETTING: Abuja, Nigeria – 2035\n🎥 PRODUCTION: Stories by Annie Production\n\nEnjoyed the movie? Please LIKE, SHARE, and SUBSCRIBE to Stories by Annie for more original African stories, exciting AI science fiction movies, fantasy films and cinematic storytelling.\n\nThank you for watching!\n\n0:00 The Neural Pathways Stabilize\n1:45 Meet the First Humanoid Robot\n4:06 Excursion to the Robotics Lab\n6:05 A Chance Encounter in the Lab\n10:41 The Truth Behind the Project\n23:14 The Project Goes Missing\n33:20 Caught in the Middle of Power\n55:43 The World Finds Out\n\n#TheSecretExperiment #ProjectZivara #SciFiMovie #RobotMovie #StoriesByAnnie",
+      "title": "She Looks Human, But She's Not | PROJECT ZIVARA (Full Sci-Fi Movie)",
+      "description": "PROJECT ZIVARA is a gripping AI science fiction movie featuring a humanoid robot, artificial intelligence, advanced robotics, and a futuristic world where machines look and behave like humans. Watch this full sci-fi movie to discover the truth behind a mysterious human-like robot.\n\nSet in Nigeria in 2035, PROJECT ZIVARA takes you into a technologically advanced world where artificial intelligence and humanoid robots have become part of everyday life.\n\nBehind the impressive achievements of Aurelix Robotics lies an extraordinary creation: Zivara, an advanced humanoid robot designed to look remarkably human.\n\nBut Zivara is not an ordinary robot.\n\nAs she enters the human world, unexpected friendships, unusual connections, hidden secrets, and dangerous discoveries begin to unfold. What happens when an artificial intelligence creation becomes part of human society? Can a machine understand human emotions, friendship, and trust?\n\nPROJECT ZIVARA is an original futuristic science fiction thriller exploring artificial intelligence, human-like robots, robotics technology, human-machine relationships, and the future of humanity.\n\nMOVIE GENRE: Science Fiction | Sci-Fi Thriller | Artificial Intelligence | Robotics | Futuristic Drama\n\nMOVIE TITLE: PROJECT ZIVARA\n\nSETTING: Nigeria, 2035\n\nIf you enjoy science fiction movies, AI robot movies, humanoid robot films, futuristic technology movies, artificial intelligence thrillers, and full-length sci-fi movies, PROJECT ZIVARA is worth watching.\n\nSubscribe for more original AI-generated movies, cinematic science fiction stories, futuristic adventures, and exciting original films.\n\nLIKE, COMMENT, SHARE AND SUBSCRIBE!\n\nSEARCH KEYWORDS:\nAI science fiction movie, sci-fi full movie, artificial intelligence movie, humanoid robot movie, robot science fiction film, futuristic sci-fi movie, AI robot movie, human-like robot, robotics movie, science fiction thriller, futuristic movie 2035, technology science fiction movie, original sci-fi film, full science fiction movie.\n\n#ProjectZivara #SciFiMovie #AIMovie #ScienceFiction #RobotMovie",
       "channelId": "UCz_Bp_oU8TNaK7P0Zl6EURw",
       "channelTitle": "Stories by Annie",
       "thumbnail": "https://i.ytimg.com/vi/0WLXWlDHeeg/hqdefault.jpg",
@@ -4504,7 +4504,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4523,14 +4523,14 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
       "videoId": "aTZ9Id_J2Co",
       "url": "https://www.youtube.com/watch?v=aTZ9Id_J2Co",
       "title": "BAADSHAH 2 | Full Movie Made on Phone Using AI | செல்போனில் உருவான முழு AI படம்! #aimovie #aimovie",
-      "description": "முழுக்க முழுக்க AI பயன்படுத்தி ஒரு முழுநீளத் திரைப்படத்தை உருவாக்க முடியுமா? இந்தக் கேள்விக்கான பதிலைத் தேடும் முயற்சிதான் ‘BADSHAH 2’. லாப நோக்கமின்றி, எனக்குத் தெரிந்த தொழில்நுட்பங்களைப் பயன்படுத்தி, என்னுடைய செல்போனிலேயே உருவாக்கிய ஒரு பரிசோதனைப் படம் இது.\n\nஇந்தப் பயணத்தில் பல விஷயங்களைக் கற்றுக்கொண்டேன்; AI மூலம் ஒரு முழுநீளப் படத்தை உருவாக்க முடியும் என்பதையும் என்னால் இயன்ற அளவில் நிரூபித்திருக்கிறேன் என்று நம்புகிறேன். \n\nஆனால், இப்படிப்பட்ட AI திரைப்படங்களைப் பார்க்க ஆர்வமுள்ள பார்வையாளர்கள் இருக்கிறார்களா என்பதற்கான பதிலை நீங்கள்தான் சொல்ல வேண்டும். நீங்கள் இந்தப் படத்தை முழுமையாகப் பார்த்து, உங்கள் நேர்மையான கருத்துகளைப் பகிர்வதே என் உழைப்புக்குக் கிடைக்கும் மிகப்பெரிய அங்கீகாரம்.\n\nCan an entire feature film be made using AI? BADSHAH 2 is my attempt to answer that question. Created entirely on my cellphone using the technology available to me, this film is an experiment, made without a profit motive. \n\nI learned a great deal along the way, and I believe this effort demonstrates, to the best of my ability, that creating a full-length film with AI is possible. But is there an audience for films like this? That is a question only you, the viewers, can answer. \n\nWatching the film in full and sharing your honest feedback would be the greatest recognition of the effort I have put into this project.\n\n#Badshah2 #TamilAIMovie #AIMovie #TamilFullMovie #TamilCinema #AIFilm #AIFilmmaking #AIGeneratedMovie #AICinema #GenerativeAI #ArtificialIntelligence #MadeOnPhone #MobileFilmmaking #SmartphoneFilmmaking #IndependentFilm #ExperimentalFilm #FeatureFilm #TamilMovie #தமிழ்சினிமா #தமிழ்படம்",
+      "description": "முழுக்க முழுக்க AI பயன்படுத்தி ஒரு முழுநீளத் திரைப்படத்தை உருவாக்க முடியுமா? இந்தக் கேள்விக்கான பதிலைத் தேடும் முயற்சிதான் ‘BADSHAH 2’. லாப நோக்கமின்றி, எனக்குத் தெரிந்த தொழில்நுட்பங்களைப் பயன்படுத்தி, என்னுடைய செல்போனிலேயே உருவாக்கிய ஒரு பரிசோதனைப் படம் இது.\n\nஇந்தப் பயணத்தில் பல விஷயங்களைக் கற்றுக்கொண்டேன்; AI மூலம் ஒரு முழுநீளப் படத்தை உருவாக்க முடியும் என்பதையும் என்னால் இயன்ற அளவில் நிரூபித்திருக்கிறேன் என்று நம்புகிறேன். \n\nஆனால், இப்படிப்பட்ட AI திரைப்படங்களைப் பார்க்க ஆர்வமுள்ள பார்வையாளர்கள் இருக்கிறார்களா என்பதற்கான பதிலை நீங்கள்தான் சொல்ல வேண்டும். நீங்கள் இந்தப் படத்தை முழுமையாகப் பார்த்து, உங்கள் நேர்மையான கருத்துகளைப் பகிர்வதே என் உழைப்புக்குக் கிடைக்கும் மிகப்பெரிய அங்கீகாரம்.\n\nCan an entire feature film be made using AI? BADSHAH 2 is my attempt to answer that question. Created entirely on my cellphone using the technology available to me, this film is an experiment, made without a profit motive. \n\nI learned a great deal along the way, and I believe this effort demonstrates, to the best of my ability, that creating a full-length film with AI is possible. But is there an audience for films like this? That is a question only you, the viewers, can answer. \n\nWatching the film in full and sharing your honest feedback would be the greatest recognition of the effort I have put into this project.\n\n#Badshah2 #TamilAIMovie #AIMovie #TamilFullMovie #TamilCinema #AIFilm #AIFilmmaking #AIGeneratedMovie #AICinema #GenerativeAI #ArtificialIntelligence #MadeOnPhone #MobileFilmmaking #SmartphoneFilmmaking #IndependentFilm #ExperimentalFilm #FeatureFilm #TamilMovie #தமிழ்சினிமா #தமிழ்படம்\n\n0:00 The stage is set\n13:32 The underground tournament\n23:18 Conflict and confrontation\n33:00 The power struggle continues\n41:52 Treachery and retaliation\n51:12 The final judgment day",
       "channelId": "UC9VWgswSNo2weoRzNFuJKow",
       "channelTitle": "Suthan Mahalingam Show",
       "thumbnail": "https://i.ytimg.com/vi/aTZ9Id_J2Co/hqdefault.jpg",
@@ -4542,7 +4542,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4562,7 +4562,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4600,7 +4600,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4619,7 +4619,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     },
     {
@@ -4638,7 +4638,122 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NS2r1DwOLQE",
+      "url": "https://www.youtube.com/watch?v=NS2r1DwOLQE",
+      "title": "ETERNAL LIFE: MEMORY BACKUP | Full Sci-Fi AI Movie",
+      "description": "The entire film was created with Seedance 2.5. All images and characters were created using Midjourney and Nano Banana Pro.\n\nETERNAL LIFE: MEMORY BACKUP is a cinematic AI sci-fi movie about the future of human consciousness, memory transfer, artificial intelligence, and the possibility of eternal life.\n\nIn the year 2060, brilliant scientist Alen Carter faces every parent’s worst nightmare when his young daughter, Rebecca, is critically injured in an accident involving an autonomous vehicle. With her life hanging in the balance, Alen refuses to accept that he might lose the person who means everything to him.\n\nDesperate to save his daughter, he becomes involved in a groundbreaking project that could change humanity forever: the preservation and transfer of human memories into a new body.\n\nBut the technology behind eternal life comes with a price.\n\nAs Alen and his closest companion, Elana, travel from New York to Shenzhen, they discover the extraordinary capabilities of ZENCORE Corporation — a powerful technology company developing a revolutionary form of human biological engineering. Their technology may offer Rebecca a second chance at life, but it also raises serious questions about ownership, control, identity, and the future of humanity.\n\nWhen powerful forces begin to interfere, the mission to save Rebecca becomes a fight for survival. And as the boundaries between science and human existence begin to disappear, Alen must face one ultimate question:\n\nIf our memories can be saved, can we truly live forever?\n\nExperience a futuristic science fiction story combining emotional family drama, advanced artificial intelligence, human memory preservation, consciousness transfer, futuristic technology, corporate power, and cinematic action.\n\nWhat would you do if you had the chance to save the memories of someone you love forever?\n\n💬 JOIN THE DISCUSSION!\n\nDo you believe that one day humanity will be able to save and transfer memories into another body? Could eternal life become a reality?\n\nIf you enjoyed the film, leave a comment, share your thoughts, and let me know what you think about the future of this technology.\n\nSubscribe and check out my other original AI sci-fi films for more cinematic stories!\n\n⸻\n\nIMPORTANT AI DISCLAIMER\n\nThis entire film was created using AI tools. All characters are completely original fictional creations. The characters are not real people, and the story is fictional. Any resemblance to actual persons, living or deceased, is purely coincidental.\n\n#AIMovie #AIFilm #AISciFi #SciFiMovie #ScienceFiction #AIFilmmaking #AIShortFilm #FullMovie #CinematicAI #Seedance25 #Midjourney #NanoBananaPro #ArtificialIntelligence #FutureTechnology #EternalLife #MemoryBackup #ConsciousnessTransfer #AIHorror #SciFiAction #OriginalStory",
+      "channelId": "UCVQh9_Ph9v-AzujSv4OnG5A",
+      "channelTitle": "Xyronth | AI Sci-Fi Cinema, Films & Documentaries⁠",
+      "thumbnail": "https://i.ytimg.com/vi/NS2r1DwOLQE/hqdefault.jpg",
+      "publishedAt": "2026-11-14T18:20:28Z",
+      "durationSeconds": 2359,
+      "matchedKeywords": [
+        "AI science fiction drama full movie",
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ciBxOoGPHbE",
+      "url": "https://www.youtube.com/watch?v=ciBxOoGPHbE",
+      "title": "A GODDESS FALLS IN LOVE WITH A MORTAL | FULL MOVIE | Epic Fantasy Romance",
+      "description": "Experience the complete epic fantasy romance movie!\n\nWhat happens when a powerful goddess falls in love with an ordinary mortal?\n\nAethra, the Goddess of War, has faced countless battles and witnessed the power of the gods. But destiny leads her to Theron, a mysterious and humble man whose true identity holds a secret beyond imagination.\n\nAs their love grows, their world is shaken by betrayal, devastating battles, ancient powers, and sacrifices that will change the fate of gods and mortals forever.\n\n❤️ A GODDESS FALLS IN LOVE WITH A MORTAL is a full-length fantasy romance movie about love, destiny, sacrifice, and a bond that transcends immortality.\n\n🎬 Created by: Neo AI Cinema\n\nSPECIAL THANKS\n\nSpecial thanks to InAudio for providing music resources and Seedance 2.5 for helping bring this cinematic project to life.\n\nYour support and creative tools have been an important part of this production.\n\n❤️ SUPPORT NEO AI CINEMA\n\nIf you enjoy my films and would like to support my future projects, please visit my Sociabuzz page:\n\nhttps://sociabuzz.com/neoaicinema/tribe\n\nEvery contribution is sincerely appreciated and helps me continue creating more cinematic AI films.\n\nThank you so much for watching!\n\nIf you enjoyed this movie, please LIKE, COMMENT, SHARE, and SUBSCRIBE to Neo AI Cinema for more epic fantasy movies.\n\n#FullMovie #AGoddessFallsInLoveWithAMortal #FantasyMovie #EpicFantasy #RomanceMovie #AIFilm #NeoAICinema #Seedance25 #InAudio",
+      "channelId": "UC8RfXibwXUY0QH9tMhJ2kkg",
+      "channelTitle": "NeoAI Cinema | Where Stories Become Cinematic ",
+      "thumbnail": "https://i.ytimg.com/vi/ciBxOoGPHbE/hqdefault.jpg",
+      "publishedAt": "2026-11-09T08:42:08Z",
+      "durationSeconds": 5965,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1ghKKfKQys8",
+      "url": "https://www.youtube.com/watch?v=1ghKKfKQys8",
+      "title": "THE AMAZING STORY OF LANKA DAHAN | MIGHTY POWER |Lanka Dahan Full Movie| Hanuman Hanuman",
+      "description": "THE AMAZING STORY OF LANKA DAHAN | MIGHTY POWER |Lanka Dahan Full Movie| Hanuman Hanuman\n\nWitness the extraordinary and inspiring story of Lanka Dahan from the great Ramayana!\n\nWhen Ravana refused to return Mata Sita, the mighty Hanuman Ji showed his incredible strength, courage, and devotion to Lord Shri Ram. After his tail was set on fire by Ravana's soldiers, Hanuman Ji transformed the punishment into a powerful demonstration of divine strength and set the golden city of Lanka ablaze.\n\nWatch this spectacular mythological episode filled with devotion, courage, action, and the victory of righteousness over arrogance.\n\n🙏 May Lord Shri Ram and Hanuman Ji bless everyone with strength, wisdom, and happiness.\n\n🚩 JAI SHREE RAM! JAI HANUMAN! 🚩\n\nLanka Dahan Full Movie, Ramayana 2026 Full Movie , \n Ramayan Full Movie\n\nYour Query:\nhanuman hanuman\nLanka Dahan Full Movie, ramayana 2026 full movie\n\nश्री राम की वानरसैना ने बनाया सागर पर लंका तक राम सेतु ||ShrimadRamayan\n\nलंका दहन की अद्भुत कथा || \nHANUMAN Ji Lanka Dahan Full movie || Lanka Dahan Ai Movie\n\nमाता सीता की रक्षा में लक्ष्मण ने बनाई कुटिया के चारों तरफ़ दिव्य रेखा || Shrimad Ramayan\n\nDISCLAIMER:\nThis video is created using AI technology for entertainment and storytelling purposes only. All characters, events, scenes, and dialogues presented in this video are fictional and created for creative representation. This content does not intend to hurt the religious, cultural, or personal sentiments of any individual or community. It does not promote hatred, disrespect, or discrimination against anyone. The video is a fictional mythological presentation inspired by the Ramayana.\n\n❤️ If you enjoyed this video:\n\nLike the video.\nShare it with your friends and family.\nSubscribe to our channel- ReyanshCreations1M\nPress the bell icon to watch more devotional and mythological stories.\n\n🙏 Thank you for watching!\n\nJAI SHREE RAM! 🚩\n\n#LankaDahan #HanumanJi #LankaDahanStory #Hanuman  #HanumanStory #Ramayan #Ramayana #HanumanKatha #HinduMythology #Ravan #SitaMata #JaiHanuman #JaiShriRam #AIStory #DevotionalVideo #LankaDahan #HanumanJi #JaiShreeRam #JaiHanuman #Ramayan #Ramayana #Hanuman #LordHanuman #LankaDahanKatha #SitaHarana #Ravan #Ravana #RamBhaktHanuman #HanumanPower #ShreeRam #HinduMythology #MythologicalStories #RamayanKatha #AIStoryKatha #DevotionalStories #HindiKahani #Bhakti #SanatanDharma #RamKatha #HanumanBhakti\n\n@reyanshcreations1M\n\nLanka Dahan, Lanka Dahan Ki Katha, The Amazing Story of Lanka Dahan, Hanuman Ji, Hanuman Ji Lanka Dahan, Hanuman Burns Lanka, Jai Shree Ram, Jai Hanuman, Ramayan, Ramayana, Sampurna Ramayan, Ramayan Katha, Hanuman Ka Parakram, Ravan, Ravana, Sita Mata, Ram Bhakt Hanuman, Lord Hanuman Story, Hanuman Ji Story, Lanka Kand, Sundar Kand, Ramayan Story in Hindi, Hindi Mythological Story, Hindu Mythology, Devotional Story, Bhakti Kahani, AI Story Katha\n\n🔊 Disclaimer / डिस्क्लेमर:-👇\n\n📖 Original Story & Script\nइस वीडियो की कहानी पूरी तरह से मौलिक (Original) है और इसकी स्क्रिप्ट चैनल के मालिक द्वारा खुद लिखी गई है। किसी भी AI Writing Tool (जैसे ChatGPT आदि) का इस्तेमाल स्क्रिप्ट तैयार करने में नहीं किया गया है।\n\n🎙️ Voiceover\nवीडियो में उपयोग की गई आवाज़ केवल नैरेशन (Narration) के लिए AI Voice Tool (Professional -जैसे ElevenLabs) से जनरेट की गई है।\n\n🖼️ Visuals & Editing\nकुछ विज़ुअल्स/इमेजेज़ AI Tools से बनाए गए हैं, लेकिन उन्हें मैन्युअली एडिट, एनिमेट और ट्रांज़िशन इफेक्ट्स के साथ कस्टमाइज़ किया गया है ताकि वीडियो का प्रेज़ेंटेशन यूनिक और आकर्षक लगे।\n\n🎬 Video Editing\nपूरा वीडियो प्रोफेशनल तरीके से एडिट किया गया है (Filmora 15/CapCut आदि सॉफ्टवेयर की मदद से) जिसमें Zoom In/Out, Background Music, Sound Effects और Smooth Transitions का इस्तेमाल किया गया है।\n\n⚠️ Purpose of the Video\nयह वीडियो केवल शैक्षिक (Educational), प्रेरणादायक (Inspirational) और मनोरंजन (Entertainment) के उद्देश्य से बनाया गया है। इसका मकसद किसी को गुमराह करना, गलत जानकारी फैलाना या किसी की भावनाओं को ठेस पहुँचाना नहीं\n\nDISCLAIMER ⚠️\n\nThis video is created with the assistance of Artificial Intelligence (AI) for entertainment and storytelling purposes only.\n\nAll characters, events, dialogues, and scenes shown in this video are fictional and presented as a creative mythological adaptation inspired by the Ramayana.\n\nWe respect all religions, cultures, beliefs, and communities. This video is not intended to hurt anyone's religious sentiments, disrespect any individual or community, or promote hatred, violence, or discrimination.\n\nOur (@ReyanshCreations1M) content is created with the intention of providing entertainment and sharing moral and devotional messages.\n\nWe strive to follow YouTube's Community Guidelines and applicable content policies. No harmful or offensive message is intended through this presentation.\n\nThank you for your love and support.\n\n🙏 JAI PRABHU SHREE RAM! 🚩",
+      "channelId": "UCstlkcPlIjkRPTu8ul_PQRw",
+      "channelTitle": "ReyanshCreations1M",
+      "thumbnail": "https://i.ytimg.com/vi/1ghKKfKQys8/hqdefault.jpg",
+      "publishedAt": "2026-11-07T01:53:17Z",
+      "durationSeconds": 1842,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3sMP3Z5rkvY",
+      "url": "https://www.youtube.com/watch?v=3sMP3Z5rkvY",
+      "title": "THE SECOND BIRTH | Two Lives, One Fate | PART 1 | Full Sci-Fi Movie (2026)",
+      "description": "Written, directed, produced, and published by Alay Demir. Created with limited AI-assisted production support.\n\nTHE SECOND BIRTH | Two Lives, One Fate | PART 1 | Full Sci-Fi Movie (2026)\n\nIn the year 2588, twelve-year-old Ethan Rourke notices a mistake in an old continuity chamber diagram at a science museum in New Zealand. The engineers confirm he is right—but Ethan has never studied the technology. How could he know?\n\nTwelve years earlier, scientist Daniel Mercer helped develop continuity coupling at the New Life Center in western Australia: a treatment in which one person remains alive in a preservation chamber while a second, naturally born life begins elsewhere on Earth. The two lives are biologically separate, yet inexplicably connected.\n\nAs Ethan grows up, strange memories surface: a white corridor, a scientific equation, and a small metal bird. Following these clues, he searches for a connection to a scientist he has never met—and confronts questions about identity, family, and what makes a life one's own.\n\nTHE SECOND BIRTH — PART 1 begins this original science-fiction mystery drama. Its first chapter follows Ethan's discovery and leaves the future of the connection unresolved.\n\nGenre: Science Fiction | Mystery | Drama\nFilm duration: 32 minutes 34 seconds (32:34)\nLanguage: English\nFormat: Full Sci-Fi Movie | Part 1\n\n\nPRODUCTION INFORMATION\n\nThis film was created with approximately 25–30% support from artificial intelligence. The original idea, research, subject, creative direction, story, and final decisions were developed through human thought and imagination. Artificial intelligence was used only as a supporting production tool.\n\nPRODUCTION CREDITS\n\nStory, concept, screenplay, narrative design, creative direction, and editing: Alay Demir\n\nWritten, directed, produced, and published by: Alay Demir\n\nVideo production: Flow and VideoExpress\n\nStory organization, scene planning, prompt development, and production assistance: Bionic Platform\n\nArtificial intelligence was used only to support selected stages of visual production, prompt preparation, scene planning, and workflow organization. All final creative decisions, story development, direction, editing, and publishing were completed by Alay Demir.\n\n\nVIDEOEXPRESS.AI – VIDEO CREATION TOOL\n\nIf you would like to explore or purchase VideoExpress.ai, you can visit the official sales page through my link:\nhttps://paykstrt.com/58224/178366\n\nAffiliate disclosure: This is an affiliate link. If you make a purchase through it, I may earn a commission.\n\n\n#TheSecondBirth #TheSecondBirthPart1 #SciFiMovie #FullSciFiMovie #ScienceFiction #SciFiMystery #SciFiDrama #OriginalSciFi #SciFiPart1 #IdentityMystery #FutureTechnology #MemoryMystery #SciFiStory #FutureStories #AlayDemir",
+      "channelId": "UCE17RazHyHfZ5D6XlgalvxA",
+      "channelTitle": "Future Stories by AI",
+      "thumbnail": "https://i.ytimg.com/vi/3sMP3Z5rkvY/hqdefault.jpg",
+      "publishedAt": "2026-11-16T00:40:44Z",
+      "durationSeconds": 1955,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "b5Q8RhPJzIw",
+      "url": "https://www.youtube.com/watch?v=b5Q8RhPJzIw",
+      "title": "THE MECHANIC 2 | The Forgotten Starship | Full Sci-Fi Movie",
+      "description": "**THE MECHANIC 2 — The Forgotten Starship**\n\nDeep beneath the mountains of a devastated Earth, an abandoned spacecraft has been waiting for decades.\n\nKaira, a gifted mechanic, discovers that the forgotten Earth Fleet vessel may still have a future.\n\nTogether with Reyn, her loyal little robot companion, and Ultra — a powerful Anunnaki combat android — she takes on an extraordinary challenge: bringing the ancient starship back to life.\n\nBut restoring a spacecraft is only the beginning.\n\nBeyond the mountain hangar lies a vast world. Beyond the atmosphere lies something even greater.\n\n**Some machines are built to survive. Others are built to take us beyond the stars.**\n\nA cinematic science-fiction adventure from **NEXORA CINEMA**.\n\n🎬 Film: THE MECHANIC 2  \n🎥 Genre: Science Fiction / Adventure / Futuristic  \n🌌 Featuring: Kaira, Reyn, Little and Ultra\n\n**Watch THE MECHANIC and THE MECHANIC: ANUNNAKI WAR to explore more of this universe.**\n\nSubscribe to NEXORA CINEMA for more original sci-fi films and cinematic adventures.\n\n#TheMechanic2 #SciFiMovie #NexoraCinema",
+      "channelId": "UCHHsDi7UtNc5X90QPBpwP9Q",
+      "channelTitle": "NEXORA CINEMA",
+      "thumbnail": "https://i.ytimg.com/vi/b5Q8RhPJzIw/hqdefault.jpg",
+      "publishedAt": "2026-11-12T19:49:12Z",
+      "durationSeconds": 1865,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xy3arW7-MbI",
+      "url": "https://www.youtube.com/watch?v=xy3arW7-MbI",
+      "title": "(Full Movie) Future Hokage Naruto Went Back in Time to Save Everyone? | What If Naruto",
+      "description": "(Full Movie) Naruto Revived The Uzumaki Empire | What If Naruto\n\nWhat if Naruto Uzumaki uncovered the true history of Uzushiogakure early on and vowed to rebuild his fallen clan from the ground up? From surviving harsh betrayals and grueling training as an outcast to forging powerful new alliances, watch the complete 3-hour alternate timeline of how Naruto restored the Uzumaki Empire and reshaped the shinobi world forever.\n\n🔥 In This Full Movie:\n\nThe truth behind the fall of the Uzumaki Clan revealed\n\nNaruto's awakening, secret training, and rise to power\n\nRebuilding Uzushiogakure and forming new shinobi alliances\n\nFull timeline from Academy days to the birth of the Uzumaki Empire\n\n💬 Question for the Clan:\nIf Naruto rebuilt Uzushiogakure, who should be his first outside ally? Drop your theories in the comments!\n\n🔔 Subscribe to Uzumaki Tales for more full-length Naruto What If movies and alternate timelines!\n\n⚖️ Fair Use & AI Disclaimer:\nAI tools were used to assist with voice generation and select visual elements. The story concept, scriptwriting, editing, pacing, and arrangement of visuals and audio are entirely original work created to deliver an engaging fan experience.\n\nThis is an unofficial, fan-made series created purely for entertainment purposes. All rights to the original characters and universe belong to Masashi Kishimoto, Shueisha, TV Tokyo, and Studio Pierrot. Always support the official releases!\n\n#Naruto #WhatIfNaruto #NarutoShippuden #NarutoUzumaki #UzumakiClan #NarutoWhatIf #NarutoFanfic #AnimeWhatIf #Hinata #NarutoFullMovie",
+      "channelId": "UCfyUtDz4Uqz1s8u2HuncdgA",
+      "channelTitle": "Uzumaki Tales",
+      "thumbnail": "https://i.ytimg.com/vi/xy3arW7-MbI/hqdefault.jpg",
+      "publishedAt": "2026-11-14T18:30:19Z",
+      "durationSeconds": 6620,
+      "matchedKeywords": [
+        "AI future movie full film"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-16T04:36:14.086Z",
+      "lastSeenAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
       "unavailableAt": null
     }
   ]
