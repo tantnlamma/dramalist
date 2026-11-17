@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:36:53.542Z",
+  "generatedAt": "2026-11-17T06:22:58.355Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-15T04:40:06.477Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -510,7 +510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,45 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-16T04:36:53.542Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2n4BvyNdu0M",
+      "url": "https://www.youtube.com/watch?v=2n4BvyNdu0M",
+      "title": "Sci-Fi WELTRAUM Abenteuer: Forsaken - Mission Mars (2018) (HD)",
+      "description": "🌌 Jeden Tag neue Sci-Fi Filme auf Utopja - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Nach einer Reihe tragischer Unfälle auf einem fernen Planeten ist der Kosmonaut Chapayev ganz allein. Sein Leben ist in ständiger Gefahr. Etwas Unerklärliches, mit dem er in Kontakt kam, wird sein Leben für immer verändern.\n\nFORSAKEN - MISSION MAR\nOriginaltitel: Forsaken - Mission Mar\nMit: Anna Banshchikova; Rodrigo Borges; Andrey Da!\nRegie: Alexander Kulikov; Karina Mirzoyan; Mikhail Raskhodnikov\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nAstronaut Chapajew und seine Besatzung wird beim Anflug auf den Mars von einem heftigen Sturm überrascht. Zwar kann der Captain seine Crew retten, stürzt aber selbst ab. Alle glauben, dass er tot ist. Aber dann werden sie durch ein Signal überrascht. Er lebt, aber seine Chancen sind gering. Alle machen sich bereit, ihn zu retten. \n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/2n4BvyNdu0M/hqdefault.jpg",
+      "publishedAt": "2026-10-18T14:15:18Z",
+      "durationSeconds": 5423,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:58.355Z",
+      "lastSeenAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZkVH3b6zIkc",
+      "url": "https://www.youtube.com/watch?v=ZkVH3b6zIkc",
+      "title": "ALIEN INVASION Horror: Area 51 - Das Alien-Portal (2022) (HD)",
+      "description": "🌌 Täglich neue Sci-Fi Filme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 In der berüchtigten Area 51 bricht eine tödliche Seuche aus. Eine Gruppe Überlebender flüchtet in einen unterirdischen Bunker und muss dort feststellen, dass sie nicht allein sind.\n\nAREA 51 - DAS ALIEN-PORTAL (2022)\nOriginaltitel: The Area 51 Incident\nMit: Scott Chambers; Toby Wynn-Davies; Megan Purvis\nRegie: Rhys Frake-Waterfield\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nEin Experiment in der berüchtigten, militärisch abgeriegelten Basis Area 51 geht schief und eine Katastrophe passiert: Horden von Aliens fallen ein. Trent und seine Freunde und Kollegen müssen in Area 51 – Das Alien-Portal irgendwo Zuflucht vor den Horden der Außerirdischen finden, aber das ist leichter gesagt, als getan. \n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/ZkVH3b6zIkc/hqdefault.jpg",
+      "publishedAt": "2026-10-02T14:15:18Z",
+      "durationSeconds": 4915,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:58.355Z",
+      "lastSeenAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
       "unavailableAt": null
     }
   ]

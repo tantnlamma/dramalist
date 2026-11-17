@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:36:20.530Z",
+  "generatedAt": "2026-11-17T06:22:26.029Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1666,7 +1666,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1704,7 +1704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2009,7 +2009,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2162,7 +2162,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2353,7 +2353,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2544,7 +2544,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2601,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2734,7 +2734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2827,11 +2827,11 @@
         "AI drama movie hindi full",
         "AI movie full hindi"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-15T04:39:32.907Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": "2026-11-17T06:22:26.029Z"
     },
     {
       "videoId": "keEMa8-0n8U",
@@ -2849,7 +2849,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2868,7 +2868,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:32.907Z",
       "lastSeenAt": "2026-11-15T04:39:32.907Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2887,7 +2887,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:32.907Z",
       "lastSeenAt": "2026-11-15T04:39:32.907Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2926,7 +2926,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2945,7 +2945,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2965,7 +2965,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2979,12 +2979,13 @@
       "publishedAt": "2026-11-16T03:00:26Z",
       "durationSeconds": 2121,
       "matchedKeywords": [
-        "AI drama movie hindi full"
+        "AI drama movie hindi full",
+        "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     },
     {
@@ -3003,7 +3004,102 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_NLW0M4qi3g",
+      "url": "https://www.youtube.com/watch?v=_NLW0M4qi3g",
+      "title": "🥊🏆 Boxing Ka Raja 2026 Full Hindi Ai Movie | Hindi Dubbed Full Movie |",
+      "description": "🥊 BOXING KA RAJA (Hindi Dubbed) | Full Action Movie | ABIMA F8LMS Presents\n\nTwo fearless fighters. One legendary championship. One final battle that will decide who is the true BOXING KA RAJA. As ambition, betrayal, and revenge collide inside the boxing ring, every punch brings them closer to glory—or complete destruction.\n\nWitness explosive fight sequences, emotional drama, powerful rivalries, and Hollywood-style action in this Hindi dubbed blockbuster. Will the underdog rise to become the undisputed king, or will the reigning champion crush every dream?\n\n🔥 Watch till the end for the ultimate championship showdown!\n\n👍 Like | 💬 Comment | 🔔 Subscribe | 📢 Share\n\n#BoxingKaRaja #HindiDubbedMovie #ActionMovie #FullMovie #Boxing #FightMovie #HollywoodStyle #Champion #RingBattle #Underdog #MartialArts #NewMovie #TrendingMovie #ActionThriller #ABIMAF8LMS\n\n@SangmaUniverse",
+      "channelId": "UCb3IhW6-1Z5AeQQZmQP7k4A",
+      "channelTitle": "ABIMA FILMS",
+      "thumbnail": "https://i.ytimg.com/vi/_NLW0M4qi3g/hqdefault.jpg",
+      "publishedAt": "2026-11-17T03:30:03Z",
+      "durationSeconds": 4635,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:26.029Z",
+      "lastSeenAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vk-wEUaLqMY",
+      "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA #romance #drama #ai",
+      "description": "A woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
+      "channelTitle": "Ai Drama House",
+      "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
+      "publishedAt": "2026-11-13T03:55:14Z",
+      "durationSeconds": 10889,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:26.029Z",
+      "lastSeenAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LcENA8vrtaQ",
+      "url": "https://www.youtube.com/watch?v=LcENA8vrtaQ",
+      "title": "He Adopted a Baby Dragon - FULL MOVIES 4K",
+      "description": "A movie marathon featuring the best films from the channel, starting with the incredible story of a lonely hunter who adopted a baby dragon.\n\n\nCreated with Dreamina AI\n@dreamina_ai\n\n#DreaminaCPP @dreamina_cpp\n#dreamina #dreaminacreators",
+      "channelId": "UCS97ctTfb7CxQvUGCAfbu2g",
+      "channelTitle": "Neural Pictures",
+      "thumbnail": "https://i.ytimg.com/vi/LcENA8vrtaQ/hqdefault.jpg",
+      "publishedAt": "2026-11-03T23:54:17Z",
+      "durationSeconds": 6671,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:26.029Z",
+      "lastSeenAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ynK-0mgmQqY",
+      "url": "https://www.youtube.com/watch?v=ynK-0mgmQqY",
+      "title": "Ishq Ki Manzil || Complete Ai Drama || Pakistani Drama || Pakistani Serial  || AI Drama",
+      "description": "Ishq Ki Manzil | A Heart-Touching Romantic Urdu Drama | AI Drama\n\nWelcome to AI Drama!\n\nPresenting \"Ishq Ki Manzil\", a heart-touching romantic Urdu drama about love, trust, sacrifice, destiny, and the power of true relationships.\n\nManiba, an innocent village girl, finds herself trapped in a cruel conspiracy that threatens her honor and life. When everyone turns against her, a man named Faris stands up to protect her and accepts her as his wife to save her life.\n\nWhat begins as an unexpected marriage slowly turns into a beautiful love story. But destiny has another test waiting for them. A sudden accident separates the two lovers, leaving Maniba waiting for the man who promised to return.\n\nWill Faris wake up and remember his beloved wife? Will their love overcome the pain of separation? And will Maniba finally reach her destination of love?\n\nWatch Ishq Ki Manzil till the end to discover a beautiful story of unconditional love, patience, and an unbreakable bond.\n\n❤️ Drama Name: Ishq Ki Manzil\n🎬 Channel: AI Drama\n💕 Genre: Romantic Drama | Emotional Story | Family Drama | Love Story\n🌸 Language: Urdu\n\nIf you enjoy emotional love stories and romantic Urdu dramas, don't forget to:\n\n👍 Like the video\n💬 Share your thoughts in the comments\n🔔 Subscribe to AI Drama and turn on notifications for more AI-generated dramas and beautiful stories.\n\nThank you for watching!\n\n#IshqKiManzil #AIDrama #PakistaniDramaSerial #PakistaniSerial #newpakistanidrama #newdrama #aivideo #AiNovelDrama #PakistaniRomanticDrama #UrduDrama #RomanticDrama #UrduLoveStory #EmotionalDrama #AIStory  #PakistaniDrama",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/ynK-0mgmQqY/hqdefault.jpg",
+      "publishedAt": "2026-11-06T13:30:12Z",
+      "durationSeconds": 1942,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:26.029Z",
+      "lastSeenAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VVjFVbd9bUY",
+      "url": "https://www.youtube.com/watch?v=VVjFVbd9bUY",
+      "title": "Sardar Ki Sardarni || Complete Ai Drama || Pakistani Drama || Pakistani Serial || AI Drama",
+      "description": "👑 SARDAR KI SARDARNI | COMPLETE URDU AI DRAMA ❤️\n\nA powerful tribal chief, a confident girl from Punjab, and a marriage neither of them expected!\n\nSardar Ki Sardarni is an emotional and romantic AI-generated Urdu drama featuring Sardar Zarghaam Khan and Dilkash Noman.\n\nDilkash's life takes an unexpected turn when she travels to Peshawar to attend a family wedding. Due to unexpected circumstances, she finds herself married to Sardar Zarghaam Khan, a powerful and respected Pashtun tribal chief.\n\nBut Dilkash is not an ordinary girl. She has her own dreams, opinions, and personality. Can she adjust to a completely different lifestyle? Will Zarghaam win her trust and love?\n\nA story filled with unexpected twists, family secrets, emotional moments, misunderstandings, and a beautiful journey from an unexpected marriage to love.\n\n❤️ Watch this complete AI romantic drama and discover how two different personalities become connected through an unforgettable relationship.\n\n━━━━━━━━━━━━━━━━━━\n\n🎬 DRAMA DETAILS\n\nDrama Name: Sardar Ki Sardarni\nMain Characters: Sardar Zarghaam Khan & Dilkash Noman\nGenre: Romantic Drama | Family Drama | Tribal Romance\nLanguage: Urdu\nContent Type: AI-Generated Drama\nChannel: AI DRAMA\n\n━━━━━━━━━━━━━━━━━━\n\n🤖 WELCOME TO AI DRAMA\n\nAI DRAMA is your destination for AI-generated fictional dramas, romantic love stories, emotional family stories, and cinematic storytelling.\n\nWe use Artificial Intelligence technology to bring creative stories and fictional characters to life through AI-generated visuals and videos.\n\nOur content is created for entertainment and storytelling purposes.\n\nIf you enjoy AI-generated dramas, Urdu AI stories, romantic dramas, and cinematic storytelling, make sure to:\n\n❤️ LIKE this video\n💬 SHARE your thoughts in the comments\n🔔 SUBSCRIBE to AI DRAMA\n📢 SHARE this drama with your friends\n\nThank you for watching!\n\n#AIDrama #AIGeneratedDrama #Pakistanidrama #UrduAIDrama #aistory #Pakistaniserial #pakistanilatestdrama #ainovel #pakistaniserialfullepisode #bestpakistanidrama #pakistanidramalove story #pakistaniserialdikhaiye",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/VVjFVbd9bUY/hqdefault.jpg",
+      "publishedAt": "2026-11-01T13:30:11Z",
+      "durationSeconds": 2495,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-17T06:22:26.029Z",
+      "lastSeenAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
       "unavailableAt": null
     }
   ]
