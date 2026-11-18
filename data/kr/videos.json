@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:31.426Z",
+  "generatedAt": "2026-11-18T05:47:26.620Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -165,12 +165,13 @@
       "durationSeconds": 3977,
       "matchedKeywords": [
         "AI 드라마 영화",
-        "AI 영화 풀버전"
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -211,7 +212,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -269,7 +270,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -288,7 +289,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -308,7 +309,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -328,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -348,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -368,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -387,7 +388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -406,7 +407,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -425,7 +426,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -687,7 +688,7 @@
     {
       "videoId": "jJpwnuxJLJ0",
       "url": "https://www.youtube.com/watch?v=jJpwnuxJLJ0",
-      "title": "국정원 학교가다 1~5부 몰아보기 | 2026 국정원 드라마 통합본",
+      "title": "국정원 학교가다  [시즌 1]  1~5부 몰아보기 | 2026 국정원 드라마 통합본",
       "description": "2026 K-드라마 | 국정원 학교가다 1~5부 몰아보기 | 한국 드라마 통합본\n\n00:00 국정원 학교가다 1부 | 2026 국정원 드라마\n12:22 국정원 학교가다 2부 | 학교 잠입 액션 드라마\n22:06 국정원 학교가다 3부 | 국정원 학교 드라마\n32:59 국정원 학교가다 4부 | K-드라마 로맨스 액션\n47:28 국정원 학교가다 5부 | AI 드라마 통합본\n\nK-POP 감성과 K-드라마의 설렘을 담은 AI 드라마, 〈국정원 학교가다〉 1부부터 5부까지 한 번에 공개합니다.\n\n정체를 숨긴 국정원 요원 미르가 천휘고에 잠입하면서 시작된 비밀 임무.\n효신, 운희, 그리고 개성 강한 친구들과 함께 학교 안에서 벌어지는 로맨스·액션·코미디를 만나보세요.\n\n수상한 인물들의 움직임, 예상 밖의 대결, 설레는 만남과 웃음까지.\n국정원 학교가다 전편을 지금 바로 몰아보기로 즐겨주세요.\n\n좋아요와 구독은 다음 이야기를 만드는 큰 힘이 됩니다.\n\n판타지와 역사, 드라마와 액션이 만나는 시네마틱 스토리 채널입니다.\n\n과거의 전쟁터, 현대의 특수요원, 숨겨진 능력을 가진 인물들과 새로운 세계관을 바탕으로 영화와 드라마 같은 이야기를 제작합니다.\n\n역사적 사건을 새로운 상상력으로 재해석한 작품부터 현실과 판타지가 교차하는 창작 드라마까지, 매 작품마다 하나의 영화처럼 몰입감 있는 이야기를 보여드리고자 합니다.\n\n대본, 세계관, 등장인물, 장면 구성, 이미지, 영상, 자막, 음향과 편집까지 전 제작 과정을 직접 기획하고 제작합니다.\n\n본 영상은 실제 역사와 창작을 결합한 판타지 드라마 콘텐츠이며, 일부 인물과 사건, 설정은 극적인 연출을 위해 재구성되었습니다.\n\n영상과 캐릭터의 무단 복제, 재편집 및 재업로드를 금지합니다.\n\n구독과 좋아요는 다음 이야기를 제작하는 데 큰 힘이 됩니다.\n\n#Kpop #KDrama #KoreanDrama #AIDrama #Anime #Animation #RomanticKDrama #HighSchoolKDrama #SpyDrama #AI드라마 #국정원학교가다 #국정원드라마 #한국드라마 #드라마몰아보기 #로맨스드라마 \n#판타지드라마 #역사판타지 #시네마틱영화 #최신드라마 #웹툰추천\n\n역사쇼츠.\n📧 sayzen@naver.com\n📧 sayzen03@gmail.com",
       "channelId": "UCnrjvi3ZW9tUhyJfBduEHFA",
       "channelTitle": "AI Drama Box 🎬",
@@ -700,7 +701,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -953,7 +954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +993,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1013,7 +1014,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1072,7 +1073,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1093,7 +1094,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1170,7 +1171,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1189,7 +1190,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1228,7 +1229,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1267,7 +1268,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1363,7 +1364,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1442,7 +1443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:40.760Z",
       "lastSeenAt": "2026-10-25T03:02:40.760Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1480,7 +1481,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1499,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1842,7 +1843,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1862,7 +1863,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -1901,7 +1902,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2130,7 +2131,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2188,7 +2189,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2213,7 +2214,7 @@
     {
       "videoId": "avc2TiYTO9Q",
       "url": "https://www.youtube.com/watch?v=avc2TiYTO9Q",
-      "title": "국정원 학교가다 시즌2 1~6부 통합본🔥｜미르의 전설·707 설화｜AI 드라마 몰아보기",
+      "title": "국정원 학교가다 [시즌2 ] 1~6부 통합본🔥｜미르의 전설·707 설화｜AI 드라마 몰아보기",
       "description": "🔥 **국정원 학교가다 시즌2 1~6부 통합본 | 미르의 전설 | AI 드라마 몰아보기**\n\n707 특수부대 출신 설화의 통쾌한 참교육!\n평범한 고등학생처럼 살아가는 미르의 숨겨진 정체!\n그리고 5천 년의 봉인을 깨고 깨어난 치우천왕까지!\n\n액션, 참교육, 코미디, 로맨스, 감동이 함께하는 한국형 판타지 액션 드라마!\n\n《국정원 학교가다 시즌2》 1화부터 6화까지 한 번에 감상하실 수 있도록 통합본으로 준비했습니다.\n\n🔥 압도적인 힘을 지닌 미르의 활약\n🔥 707 특수부대 출신 설화의 화끈한 참교육\n🔥 운희, 효신, 설화를 둘러싼 흥미진진한 이야기\n🔥 백두산에서 깨어난 전설의 치우천왕\n🔥 웃음과 감동이 함께하는 미르의 첫 아르바이트\n\n과연 치우천왕이 찾는 혈육은 누구일까요?\n\n지금부터 미르의 전설이 다시 시작됩니다.\n\n━━━━━━━━━━━━━━━━━━\n\n⏰ **시즌2 1~6화 타임스탬프**\n\n00:00 1화 | 깨어난 자\n\n08:51 2화 | 국정원 학교가다 시즌2\n\n26:20 3화 | 잘못 건드린 상대, 707 설화의 참교육\n\n43:25 4화 | 우리가 떠난 뒤에도, 강제 철거 참교육\n\n1:00:18 5화 | 치우천왕의 서막\n\n1:10:54 6화 | 미르의 첫 아르바이트\n\n━━━━━━━━━━━━━━━━━━\n\n❤️ **시청자 여러분께**\n\n언제나 AI 드라마 BOX를 찾아주시고 응원해 주시는 모든 분께 진심으로 감사드립니다.\n\n한 장면, 한 장면 정성을 담아 제작하고 있습니다.\n\n재미있게 보셨다면 구독과 좋아요, 알림 설정 부탁드립니다.\n\n여러분의 댓글과 응원은 다음 이야기를 제작하는 데 정말 큰 힘이 됩니다.\n\n특히 VIP 멤버십으로 후원해 주시는 모든 분께 깊이 감사드립니다.\n\n앞으로 더욱 멋진 액션과 감동적인 이야기로 보답하겠습니다.\n\n🎬 채널 : AI 드라마 BOX\n\n본 영상은 AI 영상 제작 기술을 활용한 창작 픽션 드라마입니다. 등장인물과 사건은 허구입니다.\n\n━━━━━━━━━━━━━━━━━━\n\n#참교육 #국정원학교가다 #국정원학교가다시즌2 #AI드라마 #몰아보기 #드라마몰아보기 #707특수부대 #특수부대 #설화 #미르의전설 #치우천왕 #액션드라마 #한국드라마 #판타지드라마 #AI드라마BOX\n© AiDramaBOX. All Rights Reserved.\n📧 sayzen@naver.com\n📧 sayzen03@gmail.com",
       "channelId": "UCnrjvi3ZW9tUhyJfBduEHFA",
       "channelTitle": "AI Drama Box 🎬",
@@ -2226,7 +2227,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-15T04:39:38.403Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2322,7 +2323,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2341,7 +2342,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2474,7 +2475,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-16T04:36:25.965Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2495,7 +2496,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2534,7 +2535,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:58.544Z",
       "lastSeenAt": "2026-11-07T04:28:58.544Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2572,7 +2573,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2630,7 +2631,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2649,7 +2650,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2783,7 +2784,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:18.757Z",
       "lastSeenAt": "2026-11-10T05:50:18.757Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2821,7 +2822,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -2922,7 +2923,7 @@
     {
       "videoId": "XVLal3mK6b4",
       "url": "https://www.youtube.com/watch?v=XVLal3mK6b4",
-      "title": "조선에 남은 707 대위, 마지막 선택 | 낙하 707 시즌3 풀버전 | Her Last Choice · FALL 707 Season 3 Full",
+      "title": "조선에 남은 707 대위, 마지막 선택 | 낙하 707 시즌3 몰아보기 | Her Last Choice · FALL 707 Season 3 Full",
       "description": "조선에 떨어진 707 특임단 대위, 열린 문 너머로 서울이 무너진다.\nA 707 special forces captain trapped in Joseon. When the door opens, Seoul falls.\n\n〈낙하 707: 리부트〉 시즌3 풀버전 — 1화부터 6화까지 전편 몰아보기\n\n조선 땅에 홀로 떨어진 707 특임단 민서아 대위.\n할머니 무당이 깨운 진(陣)은 조선을 넘어 현대 서울까지 삼키기 시작하고,\n문을 여는 아이 연화, 염력소녀 유나, 혈맥선생 유하슬, 혈맥부대, 그리고 한국군까지.\n두 세계의 운명을 건 마지막 싸움이 시작된다.\n\n시즌3 완결편을 끊김 없이 한 번에 감상하세요.\n\n▶ 챕터\n00:00 인트로\n00:37 1화 「그 문은 열지 마라」\n20:01 2화 「물러서지 마라」\n35:59 3화 「서울이 깨어났다」\n55:18 4화 「끊어진 줄」 파트1\n1:10:23 4화 「끊어진 줄」 파트2\n1:24:32 5화 「마지막 열쇠」\n1:36:38 5화 「최후의 결전」\n1:51:17 6화 「문을 닫을 사람」\n\n▶ 이전 이야기\n시즌1 풀버전 : https://youtu.be/4f6Zguf7c2M\n시즌2 풀버전 : https://youtu.be/sFw17ZPE42A\n시즌3 5화 파트2 「최후의 결전」 : https://youtu.be/N9r2KjycidE\n시즌3 6화 「문을 닫을 사람」 : https://youtu.be/mwZaUitxlm8\n\n장르 : 밀리터리 · 사극 · 판타지 액션\n제작 : DRA9ON CINEMA\n공식 사이트 : https://dra9oncinema.com\n\n🌐 자막 : CC 버튼을 눌러 한국어 · English · Tiếng Việt · Bahasa Indonesia · 日本語 · 繁體中文 · Español 자막을 선택하세요.\n\n※ 본 작품은 AI로 제작된 픽션이며, 등장하는 인물·단체·사건은 실제와 무관합니다.\n\n#낙하707 #FALL707 #시즌3 #풀버전 #몰아보기 #AI드라마 #AI영화 #밀리터리 #사극 #판타지 #DRA9ONCINEMA",
       "channelId": "UCEZSQzQw7lIy2DBbojztyqg",
       "channelTitle": "DRA9ON CINEMA(드래곤시네마)",
@@ -2956,7 +2957,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:43.565Z",
       "lastSeenAt": "2026-11-12T05:37:43.565Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3032,7 +3033,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:10.491Z",
       "lastSeenAt": "2026-11-14T04:48:10.491Z",
-      "lastVerifiedAt": "2026-11-16T04:36:25.965Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3051,7 +3052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:10.491Z",
       "lastSeenAt": "2026-11-14T04:48:10.491Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3090,7 +3091,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:38.403Z",
       "lastSeenAt": "2026-11-15T04:39:38.403Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3109,7 +3110,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:38.403Z",
       "lastSeenAt": "2026-11-15T04:39:38.403Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3223,7 +3224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3261,7 +3262,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3280,7 +3281,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3299,7 +3300,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-16T04:36:25.965Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3318,7 +3319,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3337,7 +3338,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3356,7 +3357,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:31.426Z",
       "lastSeenAt": "2026-11-17T06:22:31.426Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     },
     {
@@ -3394,7 +3395,102 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:31.426Z",
       "lastSeenAt": "2026-11-17T06:22:31.426Z",
-      "lastVerifiedAt": "2026-11-17T06:22:31.426Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ouu2DucrFOM",
+      "url": "https://www.youtube.com/watch?v=ouu2DucrFOM",
+      "title": "He Abandoned His Family for Her Lies | Full AI Movie | 2026 interesting movie",
+      "description": "He had a loving wife, two wonderful children, and a home full of laughter. Then a \"friends' vacation\" changed everything.\n\nIn this emotional AI-generated family drama, an old man looks back on the day he abandoned the best wife any man could ask for, and the woman who deceived him. Years later, his children have become successful beyond anything he imagined, and he is left with one question: should he go beg for forgiveness?\n\nBetrayal. Regret. Forgiveness. Watch to the end and tell me what you think he should do.\n\nLike, comment, and subscribe for more full-length AI movies and family dramas.\n\n#FullMovie #AIMovie #FamilyDrama #watchandlearn #movies",
+      "channelId": "UCi4qg5jIctKAZWkdaltwfkg",
+      "channelTitle": "MaggisTv1",
+      "thumbnail": "https://i.ytimg.com/vi/ouu2DucrFOM/hqdefault.jpg",
+      "publishedAt": "2026-11-18T04:00:28Z",
+      "durationSeconds": 2416,
+      "matchedKeywords": [
+        "AI 영화 풀버전"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:26.620Z",
+      "lastSeenAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aazjXJsqOzI",
+      "url": "https://www.youtube.com/watch?v=aazjXJsqOzI",
+      "title": "[취호권 시즌3(8~12화) 몰아보기] 혼자 걷던 호랑이, 식구가 생기다! 시즌3(8~12화) 완결 #액션드라마 #AI드라마 #취권",
+      "description": "무심사를 떠나 다시 길에 오른 홍매.\n그런데 이번에는 혼자가 아니다. 가는 곳마다 누군가 따라붙는다.\n\n까치와 누렁이까지 동원한 거지들의 수상한 미행.\n그 끝에서 홍매는 스승 오달구의 숨겨진 과거와 마주한다.\n\n열다섯 해 동안 딸을 멀리서만 지켜본 늙은 사형.\n딸의 혼례 날, 잔치를 엎으려는 왈패들 앞을 홍매가 막아선다.\n\n노름판에서 한 푼 남김없이 털린 홍매 앞에,\n제 돈을 들고 튄 산적 채홍이 고꾸라진다.\n붙잡힌 오라버니들을 구해 달라는 부탁에, 홍매는 청림 산채로 뛰어드는데....\n\n그날부터 \"형님\" 하며 졸졸 따라붙는 채홍.\n도련님들에게 얻어먹는 국수 한 상, 악명 높은 흑랑을 사칭하는 사내,\n그리고 주머니가 텅 빈 두 사람의 눈물겨운 품팔이까지.\n\n“흑랑? ……걔 내가 팼는데?”\n“형님, 제가 소처럼 일해서 갚겠습니다!”\n\n술 앞에서는 솔직하고, 식구 일이라면 그냥 넘기지 않는 홍매.\n웃음과 눈물, 박진감 넘치는 취권 승부가 함께하는 조선 무협 모험을 한 편으로 만나보세요.\n\n🍶 《취호권》 시즌3 — 8~12화 몰아보기\n[00:00:00] 8화 · 가는 곳마다 따라붙는 거지들, 스승의 숨겨진 과거\n[00:10:12] 9화 · 열다섯 해를 숨어 지켜본 아버지, 딸의 혼례 날\n[00:21:08] 10화 · 돈 떼먹은 산적을 구하러, 청림 산채에 뛰어든 홍매\n[00:31:46] 11화 · 따라붙은 채홍과 공짜 국수, 그리고 가짜 흑랑\n[00:42:23] 12화 · 빈털터리 둘의 품팔이, 소 노릇과 우렁이 한 상\n\n홍매의 다음 이야기도 ‘본거 또 보고’에서 이어집니다.\n\n본 영상은 《취호권》 8~12화를 한 편으로 모은 시즌3 몰아보기입니다.\nAI 기술을 활용해 제작한 창작 드라마이며, 등장인물과 사건은 허구입니다.\n실제 인물·단체·사건과 관련이 없습니다.\n본 영상에 사용된 음원은 모두 직접 제작한 창작 음원입니다.\n\n시청해주셔서 감사합니다. 구독과 좋아요는 다음 이야기 제작에 큰 힘이 됩니다!\n\n#취호권 #몰아보기 #취권 #무협 #액션드라마 #AI드라마 #사극 #무협코미디",
+      "channelId": "UCFH01qwY5XnVH-gQA6UJzWQ",
+      "channelTitle": "본거 또 보고",
+      "thumbnail": "https://i.ytimg.com/vi/aazjXJsqOzI/hqdefault.jpg",
+      "publishedAt": "2026-11-17T22:00:10Z",
+      "durationSeconds": 3174,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:26.620Z",
+      "lastSeenAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cwRij6xW9_M",
+      "url": "https://www.youtube.com/watch?v=cwRij6xW9_M",
+      "title": "[AI드라마] 죽은남편이 돌아왔다.   1~4화 몰아보기",
+      "description": "[죽은 남편이 돌아왔다 1~4화 몰아보기] 30억 보험금에 버려진 남편, 완전히 다른 얼굴로 아내의 결혼식에 나타났다\n\n\"그날 밤, 나는 가장 믿었던 두 사람에게 버려졌다.\"\n\n바닷가 포장마차에서 해물탕을 끓이던 남자 문태현.\n비 오는 날 우연히 만난 세라와 결혼해\n'바다한끼'라는 이름으로 고향 바다의 맛을 전국에 알리는 게 꿈이었다.\n\n하지만 7년 동안 처가에서 그는 사위가 아니었다.\n비린내 난다며 쓰레기통에 버려진 해물탕,\n그리고 아내 곁에서 웃고 있는 가장 친한 친구, 준호.\n\n🌊 1화 – 그날 밤, 바다\n30억짜리 생명보험, 술잔에 몰래 탄 약,\n그리고 난간 너머로 떨어지는 남편의 손을\n아내는 한 손가락씩 떼어 냈다.\n\"당신은 처음부터 내 인생에 안 어울렸어.\"\n\n🏝 2화 – 바다가 돌려보낸 남자\n모두가 죽었다고 믿은 그날 밤,\n부표를 붙잡은 손 하나가 작은 섬에 닿는다.\n그를 구한 건 섬 연구소의 서하, 그리고 윤해그룹 윤태섭 회장.\n\n🔥 3화 – 문태현은 바다에 두고 왔다\n\"복수만 할 거면 돕지 않겠네. 자네 걸 되찾게.\"\n1년간의 지옥 같은 훈련, 사라지는 살, 그리고 완전히 새로운 얼굴.\n이제 그의 이름은 BHG식품 대표 '한지훈'.\n그리고 도착한 한 장의 청첩장. 신랑 백준호, 신부 오세라.\n\"가야죠. 축하해 줘야죠.\"\n\n💍 4화 – 결혼식의 하객\n남편을 바다에 버린 아내와 그 친구의 결혼식.\nVIP 하객으로 나타난 낯선 남자를,\n아무도 알아보지 못한다. 아직은.\n\n👉 5화부터 본격 복수 시작!\n아내의 결혼식 축사에서, 그는 선전포고를 한다.\n\n⏱ 바로가기\n00:00 1화 그날 밤, 바다\n08:00 2화 바다가 돌려보낸 남자\n16:00 3화 문태현은 바다에 두고 왔다\n24:00 4화 결혼식의 하객\n\n🎬 등장인물\n문태현 / 한지훈 – 아내와 친구에게 버려졌다가 새 얼굴로 돌아온 남자\n오세라 – 30억 보험금에 남편의 손을 놓은 아내\n백준호 – 친구의 꿈과 아내를 모두 빼앗은 남자\n윤서하 – 바다에서 태현을 구해 낸 사람\n윤태섭 회장 – 태현에게 다시 일어설 기회를 준 윤해그룹 회장\n윤재하 – 태현을 혹독하게 단련시킨 서하의 오빠\n오만석 – 태현을 끝내 사위로 인정하지 않은 OS식품 회장\n\n📺 아로로띠의 AI 드라마\n1~4화를 한 번에 몰아보고, 5화부터 이어지는 통쾌한 복수를 만나 보세요!\n구독과 좋아요, 알림 설정 부탁드려요. 🔔\n가장 소름 돋았던 장면을 댓글로 남겨 주세요. 💬\n\n※ 이 영상은 AI로 제작된 창작 드라마이며, 등장하는 인물·단체·사건은 모두 허구입니다.\n\n#죽은남편이돌아왔다 #AI드라마 #몰아보기 #정주행 #복수극 #막장드라마 #아로로띠 #웹드라마 #한국드라마 #사이다 #1화 #2화 #3화 #4화",
+      "channelId": "UCdAcv4-9dzrXKGQURJTztag",
+      "channelTitle": "아로로띠의 AI막.드",
+      "thumbnail": "https://i.ytimg.com/vi/cwRij6xW9_M/hqdefault.jpg",
+      "publishedAt": "2026-11-17T04:01:19Z",
+      "durationSeconds": 1928,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:26.620Z",
+      "lastSeenAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "aNZhDNIOmV8",
+      "url": "https://www.youtube.com/watch?v=aNZhDNIOmV8",
+      "title": "The Story of Laila | Forced Marriage Turned Into True Love | Hindi full movie story ",
+      "description": "The Story of Laila | Forced Marriage Turned Into True Love | Hindi full movie story \n\n❤️ THE STORY OF LAILA ❤️\n\nA beautiful yet heartbreaking story of love, sacrifice, betrayal, and family!\n\nLaila is a poor but kind-hearted girl whose life takes an unexpected turn when she is forced to marry Arman, a wealthy businessman and a single father.\n\nArman has a little daughter named Zoya, who is still waiting for her real mother. Laila enters their house as a wife, but Arman makes it clear that she is only there to take care of Zoya.\n\nAt first, Laila faces rejection, humiliation, and countless challenges. But with her unconditional love and kindness, she slowly wins Zoya's heart.\n\nAs time passes, Arman's cold heart begins to melt. But his past, his ex-wife, and unexpected secrets threaten to destroy their beautiful family.\n\nWill Laila find true love?\nWill Arman trust her?\nCan Zoya finally get the mother she always wanted?\n\nWatch this emotional Hindi movie story till the end to discover the beautiful journey of Laila, Arman, and Zoya.\n\n✨ STORY CHARACTERS:\n❤️ Hero: Arman\n❤️ Heroine: Laila\n❤️ Daughter: Zoya\n\n🎬 Genre: Emotional Drama | Family Drama | Romantic Story | Love Story | Heart Touching Story\n\nIf you enjoyed this story:\n👍 Like the video\n💬 Comment your favourite character\n❤️ Share with your friends\n🔔 Subscribe for more emotional Hindi movie stories!\n\nThank you for watching! ❤️\n\n#TheStoryOfLaila #HindiMovieStory #forcemarriage #hindiailovestory #hindiaimovie #HindiStory #EmotionalStory #LoveStory #HeartTouchingStory #FamilyDrama #RomanticStory #ArmanAndLaila #LailaStory #EmotionalLoveStory #StepMotherStory #DaughterLove #HindiKahani #MoralStories",
+      "channelId": "UCHVH0AbOk5BfJ-3jnWhl5gA",
+      "channelTitle": "Hindi ai drama ",
+      "thumbnail": "https://i.ytimg.com/vi/aNZhDNIOmV8/hqdefault.jpg",
+      "publishedAt": "2026-11-16T03:00:26Z",
+      "durationSeconds": 2121,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:26.620Z",
+      "lastSeenAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dXyv9OVc5b8",
+      "url": "https://www.youtube.com/watch?v=dXyv9OVc5b8",
+      "title": "「오이 비누」 BL 영화 | 선생과 제자, 그리고 오이 향",
+      "description": "레트로 감성 BL 로맨틱 코미디\n녹턴의 첫 번째 영화 「오이 비누」\n\n닿지 못한 첫사랑.\n그놈은 오이 향기가 나.\n그 향기를 품은 채, 두 사람이 다시 마주친다.\n\n「Cucumber Soap」 Nocturne's First BL Full Movie\nA teacher, a student, and that cucumber scent.\n\n🗓️ 11월 7일 토요일 개봉 · 녹턴 유튜브 채널에서 전편 공개\n🍪 엔딩 크레딧 후 쿠키 영상이 있어요, 끝까지 놓치지 마세요!\n👍 재밌게 보셨다면 좋아요와 댓글로 응원해 주세요\n🔥 무료 하이프로 태오와 이준을 응원해 주세요!\n🔔 구독하고 알림 설정하면 녹턴의 다음 영화도 가장 먼저 만나요\n🌐 27개 언어 자막 지원 — CC 버튼 → ⚙️ 설정 → 자막\n\n🟪🥒🥒🟪🥒🥒🟪\n🥒🥒🥒🥒🥒🥒🥒\n🥒🥒🥒🥒🥒🥒🥒\n🟪🥒🥒🥒🥒🥒🟪\n🟪🟪🥒🥒🥒🟪🟪\n🟪🟪🟪🥒🟪🟪🟪\n\n#오이비누 #CucumberSoap #BL영화 #BL #녹턴 #nocturne #BL드라마 #AI드라마 #AIBL #BLmovie #KoreanBL",
+      "channelId": "UCJTySGBa3SF7vFnk81YoXiA",
+      "channelTitle": "녹턴 (Nocturne)",
+      "thumbnail": "https://i.ytimg.com/vi/dXyv9OVc5b8/hqdefault.jpg",
+      "publishedAt": "2026-11-07T10:45:07Z",
+      "durationSeconds": 5253,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:26.620Z",
+      "lastSeenAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
       "unavailableAt": null
     }
   ]

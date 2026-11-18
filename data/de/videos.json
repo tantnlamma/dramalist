@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:58.355Z",
+  "generatedAt": "2026-11-18T05:47:52.524Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -510,7 +510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -548,7 +548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     },
     {
@@ -567,7 +567,26 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-17T06:22:58.355Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Z8QzwGJ8yxc",
+      "url": "https://www.youtube.com/watch?v=Z8QzwGJ8yxc",
+      "title": "Die Erde unter Maschinenherrschaft: Robot Overlords – Herrschaft der Maschinen (2014) (HD)",
+      "description": "🌌 Täglich neue Sci-Fi Filme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Außerirdische Roboter haben die Erde unterworfen und die Menschen in ihre Häuser verbannt. Als vier Jugendliche ihre elektronischen Implantate ausschalten können, beginnt ein gefährlicher Aufstand gegen die Maschinen.\n\nROBOT OVERLORDS – HERRSCHAFT DER MASCHINEN (2014)\nOriginaltitel: Robot Overlords / Our Robot Overlords\nRegie: Jon Wright\nMit: Callan McAuliffe, Gillian Anderson, Ben Kingsley, Ella Hunt\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nDrei Jahre nach einer außerirdischen Invasion wird die Menschheit von gewaltigen Robotern kontrolliert. Elektronische Implantate überwachen jeden Menschen, und wer sein Haus verlässt, riskiert die sofortige Vernichtung durch mechanische Wächter.\n\nDer Jugendliche Sean Flynn glaubt weiterhin, dass sein seit der Invasion vermisster Vater lebt. Als Sean und seine Freunde Alexandra, Nathan und Connor durch einen Unfall ihre Implantate deaktivieren können, wagen sie sich unbemerkt auf die Straße. Ihre Suche führt sie durch eine verwüstete Stadt, vorbei an Roboterpatrouillen und menschlichen Kollaborateuren wie Robin Smythe.\n\nWährend ihrer Flucht entdeckt Sean, dass er auf ungewöhnliche Weise mit der Technologie der Besatzer interagieren und einzelne Maschinen kontrollieren kann. Damit wird er zugleich zur Hoffnung des Widerstands und zum wichtigsten Ziel der Roboter.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/Z8QzwGJ8yxc/hqdefault.jpg",
+      "publishedAt": "2026-11-17T15:15:39Z",
+      "durationSeconds": 5418,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:52.524Z",
+      "lastSeenAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
       "unavailableAt": null
     }
   ]

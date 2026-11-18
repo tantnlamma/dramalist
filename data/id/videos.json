@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:23:02.444Z",
+  "generatedAt": "2026-11-18T05:47:56.755Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1082,7 +1082,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:19.424Z",
       "lastSeenAt": "2026-10-24T03:08:19.424Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1538,7 +1538,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1652,7 +1652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1785,7 +1785,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1823,7 +1823,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:27.806Z",
       "lastSeenAt": "2026-11-04T04:42:27.806Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1957,7 +1957,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -1976,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2109,7 +2109,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2204,7 +2204,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-16T04:36:58.937Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2223,7 +2223,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2375,7 +2375,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:42.463Z",
       "lastSeenAt": "2026-11-14T04:48:42.463Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2413,7 +2413,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:11.055Z",
       "lastSeenAt": "2026-11-15T04:40:11.055Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2432,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:11.055Z",
       "lastSeenAt": "2026-11-15T04:40:11.055Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2489,7 +2489,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2508,7 +2508,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-16T04:36:58.937Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2546,7 +2546,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2565,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     },
     {
@@ -2622,7 +2622,64 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "WEok3Wr30pQ",
+      "url": "https://www.youtube.com/watch?v=WEok3Wr30pQ",
+      "title": "Kongzilla: The Complete Saga | Full Movie | Sci-Fi Movie",
+      "description": "KONGZILLA: THE COMPLETE SAGA is an original AI-generated sci-fi monster epic from Foxstar Cinema, compiling the entire 7-episode journey into one ultimate feature-length movie experience detailing how Kong became the terrifying hybrid titan known as Kongzilla.\n\nWitness the complete, uninterrupted saga:\n• Episode 1: Birth of Monster — Deep inside Hollow Earth, a rogue team of scientists deceive Jia and lure Kong into a research facility, injecting him with volatile Godzilla radiation and nuclear DNA cells to engineer a biological weapon. The experiment goes catastrophically wrong, triggering a violent lab breach.\n• Episode 2: Rise of Beast — Retreating into the subterranean caverns, the irreversible mutation takes hold as Kong transforms into Kongzilla, brutally obliterating a heavily armed military strike team in an explosive display of atomic rage.\n• Episode 3: Wrath & Bone — Consumed by atomic madness, the hybrid beast slaughters a swarm of predatory winged titans before marching straight toward a forbidden alpha titan graveyard zone.\n• Episode 4: Titan Rule — Kongzilla enters the ancient throne realm of King Thalor, sparking an earth-shattering war of monarchs for dominance over Hollow Earth.\n• Episode 5: Rampage — Bursting through a rift to the surface world, Kongzilla towers over skyscrapers and unleashes an unstoppable apocalyptic rampage as modern military defenses fail completely.\n• Episode 6: Titan vs Machine — Humanity deploys its classified ultimate defense protocol—a colossal mechanical titan armed with plasma cannons and kinetic energy blades to challenge the living atomic colossus in the urban ruins.\n• Episode 7: Redemption — As destruction reaches its peak, Jia steps forward in the heart of the chaos, reaching past the blind atomic fury through a bond that transcends corrupted DNA to purge the unstable energy and restore the true guardian.\n\nThe experiment started the nightmare... the rampage tested the world... witness the entire journey of redemption.\n\n🎬 KONGZILLA: The Complete Saga (Full Movie)\nA cinematic AI-generated sci-fi movie created by Foxstar Cinema.\n\n🔥 What to Expect\n• The complete 7-episode story in one epic feature presentation\n• Photorealistic titans, environments, and cinematic storytelling\n• The full transformation, rampage, mech battle, and ultimate redemption\n• Hollywood-style cinematic visuals, sound design, and scale\n• The definitive Foxstar Cinema monster epic\n\n🧩 Foxstar Cinema Original\nKONGZILLA is an original Foxstar Cinema series created with AI filmmaking technology, cinematic visual effects, sound design, and storytelling. This is a fictional entertainment concept project and is not affiliated with, endorsed by, or associated with Legendary Pictures, Warner Bros., Toho Co., Ltd., or any official Monsterverse production. Please do not copy, re-upload, or reproduce this content without permission.\n\n🌐 Follow Foxstar Cinema\nInstagram: https://www.instagram.com/foxstar.media\nFacebook: https://www.facebook.com/foxstarmediaofficial\n\n📩 Business / Collaboration:\nfoxstarmedia@yahoo.com\n\n💬 What was your favorite moment from the entire Kongzilla journey?\nWatch the full movie and experience the complete saga from start to finish!\n\n🔥 Watch the full movie and witness the legendary journey of Kongzilla! \n#kongzilla #kongzillafullmovie #kongzillamovie #kongzilla2027#aishortfilm #aimovie #foxstarcinema #aiseries #titans #fullmovie",
+      "channelId": "UCRd25lHNbB7pyKTipodksvw",
+      "channelTitle": "Foxstar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/WEok3Wr30pQ/hqdefault.jpg",
+      "publishedAt": "2026-11-16T17:30:24Z",
+      "durationSeconds": 4130,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:56.755Z",
+      "lastSeenAt": "2026-11-18T05:47:56.755Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wf2gdNaIWTs",
+      "url": "https://www.youtube.com/watch?v=wf2gdNaIWTs",
+      "title": "SUNAN GUNUNG JATI | AI MOVIE | FILM AKSI LAGA INDONESIA ",
+      "description": "DESKRIPSI YOUTUBE\n\n🔥 SUNAN GUNUNG JATI MENAKLUKKAN PENDEKAR SIHIR DAN PASUKAN SILUMAN CIREBON GIRANG | FILM LAGA KERAJAAN NUSANTARA\n\nSebuah kisah laga kolosal yang mengangkat sosok Sunan Gunung Jati dalam menghadapi ancaman pendekar ilmu hitam dan pasukan siluman yang meneror wilayah Cirebon Girang.\n\nPertarungan sengit pun terjadi! Jaya dan para pendekar berjuang menghadapi pasukan bertopeng, sementara Sunan Gunung Jati harus berhadapan langsung dengan Ki Suralaya dan Ki Jagaraksa yang memiliki kekuatan ilmu hitam.\n\nDi balik kekacauan tersebut, tersimpan sebuah rahasia besar. Siapakah sebenarnya pasukan siluman yang selama ini menebarkan ketakutan kepada rakyat?\n\nSaksikan pertarungan spektakuler, jurus kanuragan, aksi bela diri yang menegangkan, serta pesan kebijaksanaan tentang kekuatan, kesombongan, dan kebenaran.\n\n🎬 TENTANG PEMBUATAN VIDEO\n\nVideo ini dibuat menggunakan teknologi Artificial Intelligence (AI), mulai dari pengembangan cerita, pembuatan visual karakter, latar tempat, hingga proses pembuatan adegan film dan efek visual.\n\nCerita ini merupakan karya fiksi dan dramatiasi kreatif yang terinspirasi dari tokoh serta latar budaya Nusantara. Adegan, karakter pendukung, konflik, dan peristiwa dalam film tidak dimaksudkan sebagai rekonstruksi sejarah atau catatan sejarah yang sepenuhnya faktual.\n\nKami berharap karya film AI ini dapat menjadi hiburan sekaligus memperkenalkan kekayaan budaya dan cerita Nusantara melalui teknologi modern.\n\n👍 Jangan lupa LIKE, KOMENTAR, dan SUBSCRIBE untuk mendukung karya film AI Nusantara berikutnya.\n\nAktifkan lonceng notifikasi agar tidak ketinggalan kisah-kisah laga kolosal lainnya!\n\nSelamat menyaksikan!\n\nHASHTAG\n\n#SunanGunungJati #FilmAI #FilmKolosal #FilmLagaNusantara #CeritaNusantara #SejarahNusantara #Cirebon #CirebonGirang #PendekarSakti #IlmuKanuragan #PasukanSiluman #PendekarIlmuHitam #FilmPendekar #FilmFantasiIndonesia #AIIndonesia #AIFilm #FilmAction #KisahNusantara #BudayaNusantara #CeritaRakyat",
+      "channelId": "UCN8Q5BRKRQfTPY2fYqvV-Ng",
+      "channelTitle": "SAPTA82",
+      "thumbnail": "https://i.ytimg.com/vi/wf2gdNaIWTs/hqdefault.jpg",
+      "publishedAt": "2026-11-17T09:00:14Z",
+      "durationSeconds": 2329,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:56.755Z",
+      "lastSeenAt": "2026-11-18T05:47:56.755Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cyJLEE6fr40",
+      "url": "https://www.youtube.com/watch?v=cyJLEE6fr40",
+      "title": "FULL MOVIE || Mantu Idaman Cinta Yang Tulus (SEASON 3) #drama #film #viral #fyp ",
+      "description": "FULL MOVIE || Mantu Idaman Cinta Yang Tulus (SEASON 3)\n\nDISCLAIMER❗️\nCerita dalam video ini adalah fiktif belaka. Nama tokoh, tempat, dan kejadian hanyalah karangan penulis. \nTidak ada unsur kesengajaan untuk menyinggung pihak manapun. Tujuan video ini hanya untuk hiburan dan dibuat oleh Ai.\n\n#drama #dramaseries #viral #dramakantor #fyp #trending #perusahaan #Dramalndonesia #DramaViral #FilmPendek\n#CeritaViral #DramaKehidupan #KisahSedih\n#DramaKeluarga #Kisahlnspiratif #Virallndonesia\n#youtubeshorts #episode #YamYm",
+      "channelId": "UC9p3xSIds7x2WILXWFX7HHg",
+      "channelTitle": "YUMA YM",
+      "thumbnail": "https://i.ytimg.com/vi/cyJLEE6fr40/hqdefault.jpg",
+      "publishedAt": "2026-10-22T12:04:24Z",
+      "durationSeconds": 4900,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:56.755Z",
+      "lastSeenAt": "2026-11-18T05:47:56.755Z",
+      "lastVerifiedAt": "2026-11-18T05:47:56.755Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:44.356Z",
+  "generatedAt": "2026-11-18T05:47:38.723Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-16T04:36:38.666Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +627,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +646,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +703,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +818,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +837,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +971,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +991,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1029,7 +1029,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1067,7 +1067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:52.832Z",
       "lastSeenAt": "2026-11-02T04:12:52.832Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1105,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1143,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1220,7 +1220,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:09.875Z",
       "lastSeenAt": "2026-11-09T04:29:09.875Z",
-      "lastVerifiedAt": "2026-11-10T05:50:32.050Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1334,7 +1334,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:44.912Z",
       "lastSeenAt": "2026-11-11T04:32:44.912Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1373,7 +1373,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:23.654Z",
       "lastSeenAt": "2026-11-14T04:48:23.654Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:23.654Z",
       "lastSeenAt": "2026-11-14T04:48:23.654Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1411,7 +1411,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:51.439Z",
       "lastSeenAt": "2026-11-15T04:39:51.439Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     },
     {
@@ -1430,7 +1430,26 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:38.666Z",
       "lastSeenAt": "2026-11-16T04:36:38.666Z",
-      "lastVerifiedAt": "2026-11-17T06:22:44.356Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "k0zHIuYoG_U",
+      "url": "https://www.youtube.com/watch?v=k0zHIuYoG_U",
+      "title": "Lo mejor de la IA: Películas de ciencia ficción | 10 cortometrajes generados por IA | PELÍCULAS G...",
+      "description": "Adéntrate en un mundo de imaginación con diez cortometrajes de ciencia ficción generados por IA que exploran la memoria, la identidad, la supervivencia y las posibilidades de lo desconocido. Desde visiones futuristas hasta historias que invitan a la reflexión, descubre cómo la inteligencia artificial está dando forma a una nueva era del cine de ciencia ficción.\n\nMira más películas y relatos de ciencia ficción generados por IA en Canela.TV.\n\nDescarga Canela.TV https://2ly.link/1xmNK\nSíguenos en Instagram https://www.instagram.com/miracanelatv/\nSíguenos en TikTok: https://tiktok.com/@miracanelatv\n\n0:00 El amanecer del cine con IA\n1:33 Susurros de una identidad olvidada\n4:44 El protocolo de recuperación de la memoria\n6:52 La simbiosis viral\n10:35 El precio de la eternidad\n26:18 El proyecto de la habitación negra\n38:08 El descubrimiento de la Tierra gemela",
+      "channelId": "UCtxuSjOTho2cYiRdae9X21g",
+      "channelTitle": "CanelaTV",
+      "thumbnail": "https://i.ytimg.com/vi/k0zHIuYoG_U/hqdefault.jpg",
+      "publishedAt": "2026-11-13T01:00:18Z",
+      "durationSeconds": 2553,
+      "matchedKeywords": [
+        "película de ciencia ficción IA completa"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:38.723Z",
+      "lastSeenAt": "2026-11-18T05:47:38.723Z",
+      "lastVerifiedAt": "2026-11-18T05:47:38.723Z",
       "unavailableAt": null
     }
   ]

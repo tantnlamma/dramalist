@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:40.526Z",
+  "generatedAt": "2026-11-18T05:47:34.818Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-16T04:36:34.943Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -858,7 +858,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-13T04:54:24.224Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -954,7 +954,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1700,7 +1700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:51.582Z",
       "lastSeenAt": "2026-10-26T03:01:51.582Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1738,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1757,7 +1757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1814,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1853,7 +1853,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1929,7 +1929,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -1948,7 +1948,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2033,7 +2033,7 @@
       "title": "【AI电影】中世纪黑暗奇幻《救世的葬歌》第一季完整版",
       "description": "十九年前，一道光终结了灾难。\n十九年后，天空再次裂开。\n\n一个失去教团的圣女，一个失去君王的皇犬，结伴踏上旅途，拾起了十九年前被埋葬的秘密。\n无名的墓碑、藏起的手稿、被遗漏的一场瘟疫，让那段救世的传说渐渐露出另一副模样。\n\n有人追问光从何而来，\n有人只想知道，放出那道光的人，后来怎么样了。\n---------------------------------------------------------------\n\n每日更新，一起追剧！\n未滿18岁禁止观看!\n\n#短劇 #逆襲 #反轉 #爽劇  #爽文 #甜寵 #古代  #群像 #穿書 #系統 #團寵 #馬甲 #重生 #逆襲 #打臉 #宅鬥 #爽文 #先婚後愛 #權謀 #團寵 #女強 #馬甲 #古風 #甜寵 #穿越 #後宮 #熱血 #打臉 #命運反轉 #輕鬆 #搞笑 #現代 #言情 #AI剧 #AI漫剧 #AI真人剧",
       "channelId": "UC1Pxe8FX330wuHGdysEcTLg",
-      "channelTitle": "精品短剧漫剧",
+      "channelTitle": "拾光剧场",
       "thumbnail": "https://i.ytimg.com/vi/PTzHCXAjCEI/hqdefault.jpg",
       "publishedAt": "2026-10-31T13:00:27Z",
       "durationSeconds": 10677,
@@ -2043,7 +2043,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:52.999Z",
       "lastSeenAt": "2026-11-01T04:08:52.999Z",
-      "lastVerifiedAt": "2026-11-07T04:29:06.165Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2387,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2406,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2425,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2482,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2691,7 +2691,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2748,7 +2748,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:20.187Z",
       "lastSeenAt": "2026-11-14T04:48:20.187Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2767,7 +2767,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:20.187Z",
       "lastSeenAt": "2026-11-14T04:48:20.187Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2783,11 +2783,11 @@
       "matchedKeywords": [
         "人工智能 剧情电影"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-14T04:48:20.187Z",
       "lastSeenAt": "2026-11-14T04:48:20.187Z",
-      "lastVerifiedAt": "2026-11-14T04:48:20.187Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "unavailableAt": "2026-11-18T05:47:34.818Z"
     },
     {
       "videoId": "EJ3PHFSS1Kk",
@@ -2806,7 +2806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2882,7 +2882,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2901,7 +2901,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2920,7 +2920,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2939,7 +2939,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2958,7 +2958,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2977,7 +2977,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2996,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3015,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3034,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -3053,7 +3053,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -3072,7 +3072,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     },
     {
@@ -3092,6 +3092,44 @@
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
       "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TPRyeGvLGNw",
+      "url": "https://www.youtube.com/watch?v=TPRyeGvLGNw",
+      "title": "(首部本地原创AI动画-10集完整版) 看小男孩与小水獭如何一起守护美丽的新加坡河！中英双语 First Local Original AI Generated Animation (10 Eps)",
+      "description": "一个小男孩，一只小水獭，与一条母亲河的约定。\n\n原创温情动画电影，讲述一个小男孩“小杰”与一只小水獭“敢敢”在驳船码头（Boat Quay）意外相遇。为了守护美丽的新加坡河，这对人獭好朋友并肩作战，勇敢对抗破坏环境的垃圾虫“大灰鼠”！经历无奈的分别与漫长的等待，他们最终能否在河畔重逢？\n\n本片支持（中英双语配音）一键切换！\n点击视频右下角“设置” —“音轨（Audio Track）”，即可自由切换中文原声或地道英文配音。39分钟完整动画，适合全家共赏，环保教育与儿童双语磨耳朵！\n\n如果这个关于友情，勇气，环保与重逢的故事感动了你，请点赞，分享给身边的朋友，并订阅支持我们的原创动画！\n\nThis is the story of a little boy named Xiao Jie and a brave little otter named Gan Gan, who cross paths unexpectedly at Boat Quay. Together, this dynamic human-otter duo joins forces to protect the beautiful Singapore River, courageously standing up against Big Grey Rat, a litterbug destroying the environment! After a bittersweet separation and a long wait, will they finally reunite by the riverbank?\n\nThis video supports one-click switching between Chinese and English dubbing!\nSimply click \"Settings\" in the bottom right corner of the video and select \"Audio Track\" to freely switch between the original Chinese audio or authentic English dubbing. The full 39-minute animation is perfect for the whole family, combining environmental education with bilingual listening practice for children!\n\nIf this story of friendship, courage, environmental protection, and reunion touched your heart, please like, share it with your friends, and subscribe to support our original animation!\n\n#原创动画电影 #新加坡河 #水獭 #原创动画 #双语启蒙 #环保教育 #亲子电影 #SingaporeRiver #Otter",
+      "channelId": "UCG_xwhrYADelFsd7eHtee2g",
+      "channelTitle": "可梦创作室 - 每晚为你带来温馨的儿童故事。",
+      "thumbnail": "https://i.ytimg.com/vi/TPRyeGvLGNw/hqdefault.jpg",
+      "publishedAt": "2026-11-16T07:08:46Z",
+      "durationSeconds": 2341,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:34.818Z",
+      "lastSeenAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dxZg19rq9h0",
+      "url": "https://www.youtube.com/watch?v=dxZg19rq9h0",
+      "title": "《末法道士》香港殭屍潮與鬼門將開｜138分鐘AI電影完整版 #aifilm #hongkong #horror",
+      "description": "香港夜街爆發殭屍潮，連警方的封鎖線都擋不住異變。龍脈受損、鬼節逼近，更大的危機還在後頭。\n\n黃袍道長和警方聯手處理一樁樁怪事。學生失蹤、陰間追查、紅溪村舊案接連浮現，就連一趟看似平常的航班也成了困局。全片約 138 分鐘，把港式殭屍片的緊張感、民俗怪談與跨越古今的案件串在一起。\n\n章節\n00:00 香港街頭出現異象\n03:55 殭屍潮衝擊警方防線\n27:45 雨夜封鎖線上的女孩\n31:50 鬼節將至，龍脈告急\n43:45 陰間車站與追捕\n50:50 戰時往事浮現\n1:02:48 紅溪村追查旱魃\n1:21:30 桃木劍與落雷\n1:26:33 困在過去的航班\n1:45:30 龍虎山弟子與出馬仙組隊\n1:49:30 河中水鬼與鈴聲\n1:59:50 列車上的異常\n2:09:40 追查失蹤道長",
+      "channelId": "UCV3VVjUVpHh8eJWJuDbxv0g",
+      "channelTitle": "CNAI映画",
+      "thumbnail": "https://i.ytimg.com/vi/dxZg19rq9h0/hqdefault.jpg",
+      "publishedAt": "2026-11-15T10:00:07Z",
+      "durationSeconds": 8328,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:34.818Z",
+      "lastSeenAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
       "unavailableAt": null
     }
   ]

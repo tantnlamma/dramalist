@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:26.029Z",
+  "generatedAt": "2026-11-18T05:47:21.352Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -795,18 +795,18 @@
       "title": "Main Ladega Full Movie | Akash PratapSingh | Hindi Action Sports Movie FullHindi",
       "description": "Main Ladega Full Movie | Akash PratapSingh | Hindi Action Sports Movie FullHindi",
       "channelId": "UCpKkvJphe1esxfU7iQvjt_A",
-      "channelTitle": "Ai Men Edits 2M Views . 9 hour ago",
+      "channelTitle": "Ai Men Edits           2M Views   . 3 hour ago",
       "thumbnail": "https://i.ytimg.com/vi/JTpjCc254n0/hqdefault.jpg",
       "publishedAt": "2026-10-17T04:59:49Z",
       "durationSeconds": 8578,
       "matchedKeywords": [
         "AI movie full hindi"
       ],
-      "status": "unavailable",
+      "status": "available",
       "discoveredAt": "2026-10-18T02:52:36.184Z",
-      "lastSeenAt": "2026-10-18T02:52:36.184Z",
-      "lastVerifiedAt": "2026-10-19T03:05:32.912Z",
-      "unavailableAt": "2026-10-19T03:05:32.912Z"
+      "lastSeenAt": "2026-11-18T05:47:21.352Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
+      "unavailableAt": null
     },
     {
       "videoId": "HyIq086mdmc",
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1704,7 +1704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1799,7 +1799,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1826,7 +1826,7 @@
       "videoId": "HywXePq6lj8",
       "url": "https://www.youtube.com/watch?v=HywXePq6lj8",
       "title": "Ep:01 - AI Filmmaking | Creation से Editing तक | Prompts से Automation तक | Aman Sir",
-      "description": "AI Filmmaking Complete Class (Hindi) | Idea से Final Video तक – AI से फिल्म कैसे बनाएं 🎬\n\nइस class में आप सीखेंगे AI से पूरी filmmaking का process — एक idea से लेकर तैयार video तक। Animated video, 3D animation, multi-character story, avatar video, cinematic short film, explainer video और video ads — सब कुछ AI tools से कैसे बनता है, step by step समझें।\n\n📌 इस वीडियो में आप सीखेंगे:\n✅ AI Filmmaking का पूरा workflow – Idea, Script, Storyboard से Final Edit तक\n✅ AI से Animated Video और 3D Animation कैसे बनाएं\n✅ Multi-Character Video और TV Serial जैसी कहानी कैसे बनाएं\n✅ AI Avatar Video और Talking Character Video\n✅ Cinematic Short Film बनाने का तरीका\n✅ Explainer Video और Video Ads AI से कैसे बनाएं\n\n📌 WhatsApp Group Join करें\n‎https://chat.whatsapp.com/LaU1uDMkNSPDLbtCSpvMip?s=cl&p=a&iam=2\nhttps://chat.whatsapp.com/LaU1uDMkNSPDLbtCSpvMip?s=cl&p=a&iam=2\n━━━━━━━━━━━━━━━━━━━━━━\n📢 Telegram Channel\nhttps://t.me/AIUpdates2026\nhttps://t.me/AIUpdates2026\n━━━━━━━━━━━━━━━━━━━━━━\n📱 Download Bharat AI Research Centre Android App\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n━━━━━━━━━━━━━━━━━━━━━━\n🍎 iOS App\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\n━━━━━━━━━━━━━━━━━━━━━━\n💻 Laptop & Desktop Version\nhttps://bharatairesearchcentre.akamai.net.in/\nhttps://bharatairesearchcentre.akamai.net.in/\n━━━━━━━━━━━━━━━━━━━━━━\n📞 Admission & Support\n9671629862\n8708163606\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AIFilmmaking #AIVideo #AIAnimation #AIFilmmakingHindi #AIShortFilm #AIAvatar #3DAnimation #ExplainerVideo #AITools #aitutorialhindi \n\nAI filmmaking in Hindi, AI se video kaise banaye, AI se film kaise banaye, AI filmmaking course, AI video tutorial Hindi, AI animation video kaise banaye, 3D animation using AI, multi character AI video, AI avatar video, talking avatar AI, AI short film, cinematic AI video, AI explainer video, AI video ads, AI video generator, AI cartoon video kaise banaye, text to video AI, image to video AI, AI filmmaking for beginners, AI video editing Hindi",
+      "description": "AI Filmmaking Complete Class (Hindi) | Idea से Final Video तक – AI से फिल्म कैसे बनाएं 🎬\n\nइस class में आप सीखेंगे AI से पूरी filmmaking का process — एक idea से लेकर तैयार video तक। Animated video, 3D animation, multi-character story, avatar video, cinematic short film, explainer video और video ads — सब कुछ AI tools से कैसे बनता है, step by step समझें।\n\n📌 इस वीडियो में आप सीखेंगे:\n✅ AI Filmmaking का पूरा workflow – Idea, Script, Storyboard से Final Edit तक\n✅ AI से Animated Video और 3D Animation कैसे बनाएं\n✅ Multi-Character Video और TV Serial जैसी कहानी कैसे बनाएं\n✅ AI Avatar Video और Talking Character Video\n✅ Cinematic Short Film बनाने का तरीका\n✅ Explainer Video और Video Ads AI से कैसे बनाएं\n\n📌 WhatsApp Group Join करें\nhttps://chat.whatsapp.com/EiKGDlhlFxp0GdlVfRUm3h?s=cl&p=a&iam=2\nhttps://chat.whatsapp.com/EiKGDlhlFxp0GdlVfRUm3h?s=cl&p=a&iam=2\n\n━━━━━━━━━━━━━━━━━━━━━━\n📢 Telegram Channel\nhttps://t.me/AIUpdates2026\nhttps://t.me/AIUpdates2026\n━━━━━━━━━━━━━━━━━━━━━━\n📱 Download Bharat AI Research Centre Android App\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n👉 https://play.google.com/store/apps/details?id=com.lvgqik.duvriw\n━━━━━━━━━━━━━━━━━━━━━━\n🍎 iOS App\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\nhttps://apps.apple.com/in/app/bharat-ai-research-centre/id6771685452\n━━━━━━━━━━━━━━━━━━━━━━\n💻 Laptop & Desktop Version\nhttps://bharatairesearchcentre.akamai.net.in/\nhttps://bharatairesearchcentre.akamai.net.in/\n━━━━━━━━━━━━━━━━━━━━━━\n📞 Admission & Support\n9671629862\n8708163606\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AIFilmmaking #AIVideo #AIAnimation #AIFilmmakingHindi #AIShortFilm #AIAvatar #3DAnimation #ExplainerVideo #AITools #aitutorialhindi \n\nAI filmmaking in Hindi, AI se video kaise banaye, AI se film kaise banaye, AI filmmaking course, AI video tutorial Hindi, AI animation video kaise banaye, 3D animation using AI, multi character AI video, AI avatar video, talking avatar AI, AI short film, cinematic AI video, AI explainer video, AI video ads, AI video generator, AI cartoon video kaise banaye, text to video AI, image to video AI, AI filmmaking for beginners, AI video editing Hindi",
       "channelId": "UCAlDLInBXWHvmraqr7WZx7A",
       "channelTitle": "Bharat AI Research Centre",
       "thumbnail": "https://i.ytimg.com/vi/HywXePq6lj8/hqdefault.jpg",
@@ -1895,7 +1895,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:35.743Z",
       "lastSeenAt": "2026-11-02T04:12:35.743Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2162,7 +2162,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2353,7 +2353,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2544,7 +2544,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2563,7 +2563,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2601,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2734,7 +2734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2849,7 +2849,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2945,7 +2945,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2965,7 +2965,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -2985,14 +2985,14 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
       "videoId": "WDlfeoLXatI",
       "url": "https://www.youtube.com/watch?v=WDlfeoLXatI",
       "title": "MY EX IS MY BOSS【FULL MOVIE】Jis Ladke Ko Chhoda, Wahi Bana Crorepati CEO! 😱 Chinese Movie Hindi Dub",
-      "description": "A machine can translate words, but only a heart can translate love. ❤️✨ Watch My Ex Is My Boss  Full Movie | Chinese movie In Hindi Dubbed \n\n❤️ ABOUT MY EX IS MY BOSS ( Our Interpreter ) ❤️\n\n💔 8 साल बाद लौटा EX… अब वही बन गया उसका BOSS! 😱❤️\n\nEight years ago, Lin Xi broke Xiao Yicheng's heart to chase her dreams, leaving him believing she chose money over love. Now a successful interpreter, Lin Xi unexpectedly reunites with her ex, who has become the powerful CEO of an AI technology company! 😱🔥\n\nForced to work together on a high-stakes translation project, their professional rivalry reignites old feelings and painful memories. As jealousy, family pressure, office politics, and hidden truths complicate their lives, the two must decide whether ambition is worth losing love all over again. 💕✨\n\nWill their unfinished love story get a second chance, or will their past keep them apart forever? 💍❤️\n\nA machine can translate words, but only a heart can translate love. ❤️✨\n\n➣ Drama: Our Interpreter\n➣ Original Title: 我们的翻译官 \n➣ Total Episodes: 36\n➣ Genres: Business, Romance, Life, Drama\n➣ Cast:\nVictoria Song as Lin Xi \nChen Xing Xu as Xiao Yi Cheng\nFei Qi Ming as Cheng Yao\nWang Sen as Wei Tian\nLin Zi Lu as Tan Sha Sha\n➣ Director: Zhang Tong\n\nWatch More Movies in Hindi Dubbed 👉\n\n⦿  Fake Love Real Marriage: https://youtu.be/8eKqKohFYC4\n⦿ Love Trap: https://youtu.be/roelwBcqBAY\n⦿ City Cinderella and Romeo: https://youtu.be/uZ6Nfua64KU\n⦿ Mera Secret Crush: https://youtu.be/sTvUcPMsCBk\n⦿ Rival Se Pyaar: https://youtu.be/9fjfgjUvXNs\n\n#MyExIsMyBoss #ChineseMovieHindiDubbed #ChineseRomanticMovie #HindiDubbedMovie #CDrama #LoveStory #ExReturns #EnemiesToLovers #OfficeRomance #AIvsHuman #RomanticMovie #FullMovieHindi\n\n🎭 About C-Drama Mania 🎭\n\nWelcome to C-Drama Mania, your ultimate destination for Chinese dramas, now dubbed in Hindi! We are passionate about bringing the best of C-Dramas to Hindi-speaking audiences, making it easier for you to enjoy the magic of C-Dramas without language barriers.\n\n🔔 Subscribe and hit the notification bell to stay updated! \nhttps://www.youtube.com/channel/UCJrx8YdtX5SK1pXOTE6CxCA?sub_confirmation=1\n\n🏷️ 𝐞𝐦𝐨𝐭𝐢𝐨𝐧 𝐭𝐚𝐠𝐬:\nAge Gap Romance, Lovers Reunited, Workplace Drama, Ex-Lovers Relationship, Bickering Couple, Office Romance, Teamwork Goals, Emotional Reunion\n\n🏷️ more tags\n\nOur Interpreter | our interpreter | our interpreter episodes hindi | 我們的翻譯官 | our interpreter full ep | our interpreter in Hindi | our interpreter Episode #1 | our interpreter all episodes | our interpreter dubbed in Hindi | our interpreter hindi dubbed |our interpreter Episode 01 | our interpreter drama series | our interpreter Chinese drama | Korean drama in hindi dubbed | korean drama | K drama full episode in hindi dubbed | Chinese drama in hindi dubbed | K drama in hindi dubbed | Korean drama in hindi | C drama in hindi dubbed | Korean movie in hindi dubbed | K drama | Chinese drama | Korean drama in hindi dubbed full episodes | new korean drama in hindi dubbed | Victoria Song | Chen Xing Xu | korean drama hindi dubbed | kdrama in hindi | cdrama in hindi dubbed | Hindi Dub | Chinese drama hindi dubbed | Cdrama | TRM Chinese Drama | C-drama mania | Romantic | Drama Full Episodes | Hindi Dubbed Chinese Drama | Romantic Chinese Drama in Hindi | Hindi Dubbed Office Romance | Second Chance Love Story Hindi Dubbed | Ex-Lovers Drama Hindi Dubbed | Best Hindi Dubbed Chinese Series | Workplace Drama in Hindi | Chinese Drama 2024 Hindi Dubbed | Romantic Hindi Dubbed Series | Latest Chinese Series in Hindi | our interpreter movie | Chinese movie | New Chinese Movie | Chinese movie in hindi | Chinese movie 2026 | new Chinese movie 2026",
+      "description": "A machine can translate words, but only a heart can translate love. ❤️✨ Watch My Ex Is My Boss  Full Movie | Chinese movie In Hindi Dubbed \n\n❤️ ABOUT MY EX IS MY BOSS ( Our Interpreter ) ❤️\n\n💔 8 साल बाद लौटा EX… अब वही बन गया उसका BOSS! 😱❤️\n\nEight years ago, Lin Xi broke Xiao Yicheng's heart to chase her dreams, leaving him believing she chose money over love. Now a successful interpreter, Lin Xi unexpectedly reunites with her ex, who has become the powerful CEO of an AI technology company! 😱🔥\n\nForced to work together on a high-stakes translation project, their professional rivalry reignites old feelings and painful memories. As jealousy, family pressure, office politics, and hidden truths complicate their lives, the two must decide whether ambition is worth losing love all over again. 💕✨\n\nWill their unfinished love story get a second chance, or will their past keep them apart forever? 💍❤️\n\nA machine can translate words, but only a heart can translate love. ❤️✨\n\n➣ Drama: Our Interpreter\n➣ Original Title: 我们的翻译官 \n➣ Genres: Business, Romance, Life, Drama\n➣ Cast:\nVictoria Song as Lin Xi \nChen Xing Xu as Xiao Yi Cheng\nFei Qi Ming as Cheng Yao\nWang Sen as Wei Tian\nLin Zi Lu as Tan Sha Sha\n➣ Director: Zhang Tong\n\nWatch More Movies in Hindi Dubbed 👉\n\n⦿  Fake Love Real Marriage: https://youtu.be/8eKqKohFYC4\n⦿ Love Trap: https://youtu.be/roelwBcqBAY\n⦿ City Cinderella and Romeo: https://youtu.be/uZ6Nfua64KU\n⦿ Mera Secret Crush: https://youtu.be/sTvUcPMsCBk\n⦿ Rival Se Pyaar: https://youtu.be/9fjfgjUvXNs\n\n#MyExIsMyBoss #ChineseMovieHindiDubbed #ChineseRomanticMovie #HindiDubbedMovie #CDrama #LoveStory #ExReturns #EnemiesToLovers #OfficeRomance #AIvsHuman #RomanticMovie #FullMovieHindi\n\n🎭 About C-Drama Mania 🎭\n\nWelcome to C-Drama Mania, your ultimate destination for Chinese dramas, now dubbed in Hindi! We are passionate about bringing the best of C-Dramas to Hindi-speaking audiences, making it easier for you to enjoy the magic of C-Dramas without language barriers.\n\n🔔 Subscribe and hit the notification bell to stay updated! \nhttps://www.youtube.com/channel/UCJrx8YdtX5SK1pXOTE6CxCA?sub_confirmation=1\n\n🏷️ 𝐞𝐦𝐨𝐭𝐢𝐨𝐧 𝐭𝐚𝐠𝐬:\nAge Gap Romance, Lovers Reunited, Workplace Drama, Ex-Lovers Relationship, Bickering Couple, Office Romance, Teamwork Goals, Emotional Reunion\n\n🏷️ more tags\n\nOur Interpreter | our interpreter | our interpreter episodes hindi | 我們的翻譯官 | our interpreter full ep | our interpreter in Hindi | our interpreter Episode #1 | our interpreter all episodes | our interpreter dubbed in Hindi | our interpreter hindi dubbed |our interpreter Episode 01 | our interpreter drama series | our interpreter Chinese drama | Korean drama in hindi dubbed | korean drama | K drama full episode in hindi dubbed | Chinese drama in hindi dubbed | K drama in hindi dubbed | Korean drama in hindi | C drama in hindi dubbed | Korean movie in hindi dubbed | K drama | Chinese drama | Korean drama in hindi dubbed full episodes | new korean drama in hindi dubbed | Victoria Song | Chen Xing Xu | korean drama hindi dubbed | kdrama in hindi | cdrama in hindi dubbed | Hindi Dub | Chinese drama hindi dubbed | Cdrama | TRM Chinese Drama | C-drama mania | Romantic | Drama Full Episodes | Hindi Dubbed Chinese Drama | Romantic Chinese Drama in Hindi | Hindi Dubbed Office Romance | Second Chance Love Story Hindi Dubbed | Ex-Lovers Drama Hindi Dubbed | Best Hindi Dubbed Chinese Series | Workplace Drama in Hindi | Chinese Drama 2024 Hindi Dubbed | Romantic Hindi Dubbed Series | Latest Chinese Series in Hindi | our interpreter movie | Chinese movie | New Chinese Movie | Chinese movie in hindi | Chinese movie 2026 | new Chinese movie 2026",
       "channelId": "UCJrx8YdtX5SK1pXOTE6CxCA",
       "channelTitle": "C-Drama Mania",
       "thumbnail": "https://i.ytimg.com/vi/WDlfeoLXatI/hqdefault.jpg",
@@ -3023,7 +3023,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -3042,7 +3042,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -3080,7 +3080,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     },
     {
@@ -3099,7 +3099,45 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-17T06:22:26.029Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RbSQcjeibMo",
+      "url": "https://www.youtube.com/watch?v=RbSQcjeibMo",
+      "title": "Ramayan Full Movie Hindi | Complete AI Movie | Shri Ram vs Ravan | Full Story (4K)",
+      "description": "🎬 Ramayan Full Movie (Hindi)\n\n📺 Ramayan Part 1:\nhttps://youtu.be/Z8xn18AjJAo?si=OCcPqJ9q86dyIdM8\n\n📺 Ramayan Part 2:\nhttps://youtu.be/C3BxGH9JnOs?si=RWhEJE4gkEOXF_op\n\nयह पूरी Ramayan AI Movie है, जिसमें श्रीराम की यात्रा, लंका युद्ध और अंतिम विजय तक की पूरी कहानी सिनेमैटिक रूप में दिखाई गई है।\n\nअगर वीडियो पसंद आए तो Like, Share, Comment और Channel Subscribe ज़रूर करें।\n\n🙏 धन्यवाद!\n\n#Ramayan #ShriRam #Hanuman #Ravan #AIMovie #RamayanFullMovie",
+      "channelId": "UCFAR3sKUQkHT6n7nZNTFnig",
+      "channelTitle": "Gyaan or Masti",
+      "thumbnail": "https://i.ytimg.com/vi/RbSQcjeibMo/hqdefault.jpg",
+      "publishedAt": "2026-11-17T09:00:30Z",
+      "durationSeconds": 1951,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:21.352Z",
+      "lastSeenAt": "2026-11-18T05:47:21.352Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oxh6ouyhhoM",
+      "url": "https://www.youtube.com/watch?v=oxh6ouyhhoM",
+      "title": "Fire Dragon Returns 🔥 | New Hindi Dubbed Fantasy Movie | Chinese Action 2026",
+      "description": "Welcome to the epic world of \"Fire of the Dragon\"! 🔥🐉\n\nWhen the terrifying Black Dragon, Kabir, awakens to plunge the world into eternal darkness, a group of unlikely heroes must unite. From the fierce barbarian warlord Ranvijay to the noble Lord Aditya, and the young warrior Arjun, the fate of the realm lies in their hands. Their only hope is the legendary Sun Spear—but to reach it, they must face ancient monsters, the dark magic of the Serpent Queen Nandini, and the shapeshifting beasts of the wild!\n\nWill the combined power of the Sun Spear and the Golden Armor be enough to defeat the ultimate evil? Watch this cinematic AI-generated saga unfold!\n\n⏱️ Timestamps:\n00:00 - The Rise of the Dragon\n05:00 - The Sun Spear Awakens\n15:00 - The Serpent Queen's Attack\n25:00 - Battle at the Dark Citadel\n30:00 - The Final Stand\n\n👇 Let us know in the comments: \nWho is your favorite character in this epic battle? Arjun, Ranvijay, or Lord Aditya?\n\n🔔 Don't forget to LIKE, SHARE, and SUBSCRIBE for more epic AI movies and fantasy stories!\n\n⚠️ Disclaimer: This is a work of fiction. All characters, events, and visuals are generated using Artificial Intelligence. Any resemblance to actual persons or events is purely coincidental. This video contains fantasy violence and magical elements.\n\n#FireOfTheDragon #AIMovie #EpicFantasy #DragonMovie #HindiKahani #AIAnimation #Mahayuddh #FantasyMovie #Shapeshifter #Nagin #CinematicAI",
+      "channelId": "UCC3DtLAx4gFw1l1oP4fRIPA",
+      "channelTitle": "WUXIA TV IN HINDI ",
+      "thumbnail": "https://i.ytimg.com/vi/oxh6ouyhhoM/hqdefault.jpg",
+      "publishedAt": "2026-11-15T01:59:12Z",
+      "durationSeconds": 1957,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-18T05:47:21.352Z",
+      "lastSeenAt": "2026-11-18T05:47:21.352Z",
+      "lastVerifiedAt": "2026-11-18T05:47:21.352Z",
       "unavailableAt": null
     }
   ]
