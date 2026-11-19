@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:47:30.146Z",
+  "generatedAt": "2026-11-19T05:46:28.735Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -408,7 +408,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:04.273Z",
       "lastSeenAt": "2026-10-15T10:29:04.273Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1148,7 +1148,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-16T04:36:29.896Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1265,7 +1265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1361,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1519,7 +1519,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1558,7 +1558,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1577,7 +1577,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:18.775Z",
       "lastSeenAt": "2026-11-13T04:54:18.775Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1613,11 +1613,11 @@
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "unavailableAt": "2026-11-19T05:46:28.735Z"
     },
     {
       "videoId": "4GBkd-KRILQ",
@@ -1636,7 +1636,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1675,7 +1675,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:29.896Z",
       "lastSeenAt": "2026-11-16T04:36:29.896Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     },
     {
@@ -1714,7 +1714,66 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:30.146Z",
       "lastSeenAt": "2026-11-18T05:47:30.146Z",
-      "lastVerifiedAt": "2026-11-18T05:47:30.146Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nuaumsyYDkY",
+      "url": "https://www.youtube.com/watch?v=nuaumsyYDkY",
+      "title": "RAMAYANA FULL MOVIE IN HINDI | Latest Hindi Movies 2026 | Full HD | AI MOVIE",
+      "description": "RAMAYANA FULL MOVIE IN HINDI | Latest Hindi Movies 2026 | Full HD\n \nदेखिए भारतीय पौराणिक महाकाव्य रामायण की एक भव्य और रोमांचक प्रस्तुति। इस कहानी में प्रभु श्रीराम, माता सीता और भगवान राम के परम भक्तों से जुड़ी अद्भुत घटनाओं को शानदार सिनेमैटिक अंदाज़ में दिखाया गया है।\n\nसमुद्र पार करने से लेकर स्वर्ण नगरी लंका तक की रोमांचक यात्रा, रहस्य, साहस, भक्ति और अद्भुत घटनाओं का अनुभव कीजिए।\n\n🙏 जय श्री राम 🙏\n\nवीडियो पसंद आए तो Like करें, अपने परिवार और दोस्तों के साथ Share करें और ऐसी ही पौराणिक कहानियों के लिए चैनल को Subscribe करें।\n\nSearch Keywords:\nRamayana Full Movie, Ramayan Full Movie in Hindi, Ramayana Hindi Movie 2026, Shri Ramayan, Hindi Movies, Indian Mythological Movies, Ramayan Katha, Ramayana Story in Hindi, Latest Hindi Movies.\n\n#Ramayana #Ramayan #HindiMovies #Ramayana2026 #ShriRam #IndianMythology #RamayanKatha #JaiShreeRam",
+      "channelId": "UC6LH4N1FzIbg2BB384g7bRQ",
+      "channelTitle": "Rajasthani Short",
+      "thumbnail": "https://i.ytimg.com/vi/nuaumsyYDkY/hqdefault.jpg",
+      "publishedAt": "2026-11-16T12:35:25Z",
+      "durationSeconds": 1856,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:28.735Z",
+      "lastSeenAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nbUHerO12b4",
+      "url": "https://www.youtube.com/watch?v=nbUHerO12b4",
+      "title": "The Last NEPHILIM: The World Before the Flood | Full Biblical Film 4K",
+      "description": "The Last NEPHILIM: The World Before the Flood | Full Biblical Film 4K\n\nBefore the Great Flood, villages kept the peace by feeding the Nephilim. When two giants tear through a harvest festival, the villagers discover that even a full tribute can’t buy their safety. As the fallen angel Barak turns neighbor against neighbor, Noah begins building an ark on a hill far from the sea. \nThe villagers laugh, but every tree Noah cuts brings the giants one step closer. \nWhen the last tree falls and rain begins to strike Barak’s wings, Noah must hold the door open for the very people who mocked him, even as the Nephilim close in on the ark.\n\nWelcome to MEAGAR AI Film\nMEAGAR is a YouTube channel dedicated to AI filmmaking, inviting viewers into mysterious worlds of epic fantasy. Ancient kingdoms, mythical creatures, and battles that shape the fate of entire worlds come to life through cinematic storytelling. Each film is a journey through courage, love, and sacrifice. \n\n✨ Subscribe to MEAGAR and discover stories beyond imagination.\n♦ Subscribe: https://www.youtube.com/@Megarfilm\n♦ Website: https://megarscience.blogspot.com/\n♦ Facebook: https://www.facebook.com/profile.php?id=61565325794922\n\n⚠️ Disclaimer\nAI handles visuals and audio. The story, the structure, the creative decisions those stay human. Every project is an original IP, conceptualized, written, directed, edited, and sound-designed from scratch.\nWe believe the technology is only as good as the story behind it. So we take the story seriously.\nWe disclose AI use in all our videos, in full compliance with YouTube guidelines.\n\n#Nephilim #biblicalmovies #enoch #FullMovie #DarkFantasy #EpicFantasy  #AIFilm #MEGAR",
+      "channelId": "UC1ZfqhrB_VEp_LrPIonq0MQ",
+      "channelTitle": "MEGAR AI Film",
+      "thumbnail": "https://i.ytimg.com/vi/nbUHerO12b4/hqdefault.jpg",
+      "publishedAt": "2026-11-14T12:00:02Z",
+      "durationSeconds": 2160,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:28.735Z",
+      "lastSeenAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "yRidIxyKfJA",
+      "url": "https://www.youtube.com/watch?v=yRidIxyKfJA",
+      "title": "中国の芸能界がAIによって崩壊寸前！給料0円のAI俳優が撮影現場を席巻、仕事を失った女優20万人が泣き崩れる――かつての映画の街はゴーストタウンに！",
+      "description": "中国の芸能界で、今いったい何が起きているのか？\n\nかつて「中国のハリウッド」と呼ばれ、多くの俳優や撮影スタッフでにぎわっていた横店。しかし現在、出演の仕事が激減し、生活に困窮する俳優たちの悲痛な声が相次いでいます。\n\n主演に抜擢されても、提示された報酬は時給換算でわずか約280円。仕事を求めて数百人が限られた出演枠を奪い合い、撮影所周辺の飲食店まで経営難に追い込まれる事態に。\n\nその背景で存在感を増しているのがAIです。\n\nわずか1分で100人ものキャラクターを生成できるという声もあり、給料も休憩も必要としないAI俳優が、生身の人間の仕事を脅かし始めています。\n\nさらに、有名女優の顔や声を無断でコピーした偽広告やライブ配信まで登場。本人が抗議すると、逆にブロックされるという信じがたい出来事も発生しました。\n\n中国のAIショートドラマ市場が急拡大する一方、撮影現場では何が起きているのか？ そして、人間の俳優たちはこれからどう生き残るのか？\n\n今回は、中国の芸能界を襲うAIの急速な普及と、その裏で苦しむ俳優たちの実態を詳しく解説します。\n#中国経済 #中国芸能界 #AI俳優 #大量失業 #ゆっくり解説\n\n00:00 ~ OP\n00:37 ~ ① 中国の俳優が生活苦！大物スターも仕事を失いAIが芸能界に進出\n05:46 ~ ② 出演料未払いで女優が激怒！仕事の争奪戦と横店からの脱出\n11:03 ~ ③ 中国のハリウッドがゴーストタウン化！飲食店も閉店危機\n16:32 ~ ④ 撮影の仕事が激減！極貧エキストラたちの悲惨な生活\n22:02 ~ ⑤ 主演女優の時給がわずか280円！華やかな芸能界の残酷な現実\n27:17 ~ ⑥ AIが1分で100人を生成！人間の女優から仕事も顔も奪う\n32:31 ~ ⑦ 本物の女優がAI偽物にブロック！有名人のなりすまし広告が横行\n37:55 ~ ⑧ 中国のAI利用量55％が動画生成！ドラマ量産に集中する異常事態\n43:11 ~ ⑨ 中国のショートドラマ市場が爆発！43万本量産と視聴依存の問題",
+      "channelId": "UCd672B6WLtggnlp4ZtMxxWg",
+      "channelTitle": "ザワつく裏世界ニュース【ゆっくり解説】",
+      "thumbnail": "https://i.ytimg.com/vi/yRidIxyKfJA/hqdefault.jpg",
+      "publishedAt": "2026-11-16T11:00:36Z",
+      "durationSeconds": 2933,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:28.735Z",
+      "lastSeenAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
       "unavailableAt": null
     }
   ]

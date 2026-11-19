@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:47:52.524Z",
+  "generatedAt": "2026-11-19T05:46:50.017Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -510,7 +510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -548,7 +548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -567,7 +567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     },
     {
@@ -587,6 +587,25 @@
       "discoveredAt": "2026-11-18T05:47:52.524Z",
       "lastSeenAt": "2026-11-18T05:47:52.524Z",
       "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ibD1TTLey0Y",
+      "url": "https://www.youtube.com/watch?v=ibD1TTLey0Y",
+      "title": "Jared Leto: Eine Wahl verändert jedes Leben • ganzer Film, Sci-Fi-Drama: Mr. Nobody",
+      "description": "⭐ Die besten Filme mit bekannten Schauspielern – jetzt abonnieren: https://bit.ly/StarkinoABO\n🎞️Jared Leto erlebt mehrere mögliche Versionen desselben Lebens. Jede Entscheidung führt ihn zu einer anderen Liebe, einer anderen Zukunft und neuen Konsequenzen.\n\nMR. NOBODY (2009)\nOriginaltitel: Mr. Nobody\nMit: Jared Leto, Sarah Polley, Diane Kruger, Linh-Dan Pham, Rhys Ifans, Natasha Little, Toby Regbo, Juno Temple\nRegie: Jaco Van Dormael\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nIm Jahr 2092 ist die Menschheit durch medizinischen Fortschritt nahezu unsterblich geworden. Der 118-jährige Nemo Nobody ist der letzte Mensch, der noch eines natürlichen Todes sterben kann, und wird deshalb von der Öffentlichkeit wie eine Sensation beobachtet. Ein Journalist besucht ihn im Krankenhaus, um seine Lebensgeschichte festzuhalten. Doch Nemos Erinnerungen widersprechen einander und führen in mehrere mögliche Vergangenheiten. Ausgangspunkt ist ein einschneidender Moment seiner Kindheit: Nach der Trennung seiner Eltern steht Nemo auf einem Bahnhof und muss entscheiden, ob er mit seiner Mutter fortgeht oder bei seinem Vater bleibt. Jede Wahl eröffnet einen anderen Lebensweg. In einer möglichen Zukunft trifft Nemo seine Jugendliebe Anna wieder und sucht mit ihr nach einem gemeinsamen Glück, das durch Trennung und Zufälle immer wieder gefährdet wird. In einer anderen Version heiratet er die emotional verletzliche Elise und gründet eine Familie, kann ihre tiefe Traurigkeit jedoch nicht überwinden. Ein weiterer Lebensweg führt ihn zu Jeanne, die ihm Wohlstand und Sicherheit bietet, obwohl er sie nicht wirklich liebt. Die verschiedenen Möglichkeiten überlagern sich und verändern sich mit jedem Entschluss, jedem Zufall und jeder unterlassenen Handlung. Während der Journalist verzweifelt versucht herauszufinden, welche Geschichte wahr ist, verbindet Nemo Erinnerungen, Vorstellungen und wissenschaftliche Theorien zu einem komplexen Bild seines Lebens. Dabei wird zunehmend deutlich, dass nicht eine einzelne Entscheidung im Mittelpunkt steht, sondern die unzähligen Möglichkeiten, die mit jeder Wahl entstehen oder verschwinden. Nemos Erzählung wird so zu einer philosophischen Betrachtung über Zeit, Liebe, Verlust und die Ungewissheit menschlicher Entscheidungen.\n#ganzerfilm #ganzerfilmdeutsch #filmeaufdeutsch\n#bekannteschauspieler #starbesetztefilme #viralvideo\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben.\nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC7Hs00gZvManlHy0rXw1UMw",
+      "channelTitle": "Starkino – Top Cast. Top Filme.",
+      "thumbnail": "https://i.ytimg.com/vi/ibD1TTLey0Y/hqdefault.jpg",
+      "publishedAt": "2026-11-05T17:30:03Z",
+      "durationSeconds": 8353,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:50.017Z",
+      "lastSeenAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
       "unavailableAt": null
     }
   ]

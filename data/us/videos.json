@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:47:15.124Z",
+  "generatedAt": "2026-11-19T05:46:12.740Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -691,7 +691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -808,11 +808,11 @@
       "matchedKeywords": [
         "AI future movie full film"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": "2026-11-19T05:46:12.740Z"
     },
     {
       "videoId": "U28uR1uHX6w",
@@ -1043,7 +1043,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1293,7 +1293,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1314,7 +1314,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1411,7 +1411,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1621,7 +1621,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1660,7 +1660,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -1908,7 +1908,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2003,7 +2003,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2080,7 +2080,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2194,7 +2194,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2460,7 +2460,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2479,7 +2479,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2671,7 +2671,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2691,7 +2691,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2729,7 +2729,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2788,7 +2788,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -2959,7 +2959,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3093,7 +3093,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3343,7 +3343,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3382,7 +3382,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3611,7 +3611,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3690,7 +3690,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3709,7 +3709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3728,7 +3728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3747,7 +3747,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3766,7 +3766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -3842,7 +3842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4089,7 +4089,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4165,7 +4165,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4222,7 +4222,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4241,7 +4241,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4260,7 +4260,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4336,7 +4336,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4431,7 +4431,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:31.325Z",
       "lastSeenAt": "2026-11-12T05:37:31.325Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4508,7 +4508,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4527,7 +4527,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4567,7 +4567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4643,7 +4643,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4660,11 +4660,11 @@
         "AI science fiction drama full movie",
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": "2026-11-19T05:46:12.740Z"
     },
     {
       "videoId": "ciBxOoGPHbE",
@@ -4682,7 +4682,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4740,7 +4740,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4759,7 +4759,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-16T04:36:14.086Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4778,7 +4778,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:20.064Z",
       "lastSeenAt": "2026-11-17T06:22:20.064Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4797,7 +4797,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:20.064Z",
       "lastSeenAt": "2026-11-17T06:22:20.064Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4835,7 +4835,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:20.064Z",
       "lastSeenAt": "2026-11-17T06:22:20.064Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4854,7 +4854,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:20.064Z",
       "lastSeenAt": "2026-11-17T06:22:20.064Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4949,7 +4949,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -4968,7 +4968,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     },
     {
@@ -5006,7 +5006,103 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-18T05:47:15.124Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "DrEYheAkcj4",
+      "url": "https://www.youtube.com/watch?v=DrEYheAkcj4",
+      "title": "AQUATICA (2026) Full Sci-Fi Movie",
+      "description": "🌊 **AQUATICA (2026) | FULL SCI-FI MOVIE** 👽\n\n**What if an ordinary aquarium fish was hiding an extraordinary secret?**\n\nNathan is a successful investment manager still struggling with the loss of his wife. One night, he purchases a mysterious exotic fish, unaware that his life is about to change forever.\n\nBut this is no ordinary fish.\n\nAs the strange creature begins to grow, transform, and display an intelligence beyond anything on Earth, Nathan discovers a secret that could change the future of humanity.\n\nHer name is **Quora**. She comes from a distant aquatic civilization fighting for survival, and she's searching for something that only humanity can provide.\n\nWhat begins as a mysterious encounter becomes an extraordinary journey across the stars, filled with love, danger, shocking revelations, and the hope of a new beginning.\n\nWhen a secret government agency closes in, Nathan must make the ultimate choice: remain on Earth or leave everything behind for a world beyond imagination.\n\n🌌 **Two worlds. Two species. One extraordinary destiny.**\n\n🎬 **AQUATICA** is an AI-created science-fiction movie featuring an alien civilization, breathtaking futuristic worlds, mysterious transformations, romance, suspense, and an unforgettable journey into the unknown.\n\nCreated for **AI Adventures**, where imagination meets artificial intelligence.\n\n⭐ **ENJOYED THE MOVIE?**\n\n👍 LIKE the video  \n💬 COMMENT: Would you travel to Aquatica?  \n🔔 SUBSCRIBE and turn on notifications for more original AI science-fiction movies, alien adventures, and cinematic stories.\n\n❤️ Thank you for watching and supporting independent AI filmmaking!\n\n**#Aquatica #SciFiMovie #FullMovie #ScienceFiction #AIFilm #AIMovie #AIAdventures #AlienMovie #SciFiAdventure #AlienCivilization #Extraterrestrial #SpaceAdventure #SciFiRomance #ArtificialIntelligence #CinematicAI**",
+      "channelId": "UC9TWv_7nmp6q8djFFFWgtpA",
+      "channelTitle": "A.I. Adventures",
+      "thumbnail": "https://i.ytimg.com/vi/DrEYheAkcj4/hqdefault.jpg",
+      "publishedAt": "2026-11-18T13:14:45Z",
+      "durationSeconds": 3691,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:12.740Z",
+      "lastSeenAt": "2026-11-19T05:46:12.740Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kF42l5aDfV4",
+      "url": "https://www.youtube.com/watch?v=kF42l5aDfV4",
+      "title": "Iravin Kangal (2024) Full Tamil Movie | Pop Suresh, Dolly Aishu, Giri Dwarakish | Sci-Fi Thriller",
+      "description": "🎬 Movie Details:\n\nMovie: Iravin Kangal (2024)\nDirector: Pop Suresh\nProducer: Prathab\nMusic Director: Charles Dhana\nStar Cast: Pop Suresh, Dolly Aishu, Giri Dwarakish, Selvakanthan, Azhagu Raja, Dharun\nGenre: Sci-Fi, Mystery, Thriller\nLanguage: Hindi Dubbed\n\nThe movie \"Iravin Kangal\" follows Victor, an IT professional living in Bangalore whose wife works in Dubai. Feeling lonely, he grows close to his colleague Preethi. Meanwhile, he gets a new artificial intelligence gadget named Iris, which soon begins behaving like a human. When a confrontation with Preethi's boyfriend ends in an accidental death, Victor turns to Iris for help. The intelligent gadget suggests ways to hide the body, leading Victor into a dangerous situation filled with unexpected twists. Can Iris help Victor escape the consequences of his actions?\n\n❤️ Enjoyed the movie?\nSubscribe to our channel for more full movies, comedy scenes, action-packed moments, romance, drama, suspense, and unlimited entertainment.\n\n👍 Don’t forget to Like, Share & Subscribe! 🔔\nhttps://www.youtube.com/channel/UCyap4EIe1bVXK49VrWFgBeA\n\n#IravinKangal #PopSuresh #DollyAishu #HindiDubbedMovie #TamilMovie #SciFiThriller",
+      "channelId": "UCyap4EIe1bVXK49VrWFgBeA",
+      "channelTitle": "Ultra Play",
+      "thumbnail": "https://i.ytimg.com/vi/kF42l5aDfV4/hqdefault.jpg",
+      "publishedAt": "2026-11-18T12:13:32Z",
+      "durationSeconds": 6844,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:12.740Z",
+      "lastSeenAt": "2026-11-19T05:46:12.740Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "g3lzgjTpiAo",
+      "url": "https://www.youtube.com/watch?v=g3lzgjTpiAo",
+      "title": "WIRO SABLENG BUKU #7 BAGIAN 1 | TIGA SETAN DARAH & CAMBUK API ANGIN",
+      "description": "WIRO SABLENG: PENDEKAR KAPAK MAUT NAGA GENI 212\n\nBUKU #7 | BAGIAN 1\n\nTIGA SETAN DARAH & CAMBUK API ANGIN\n\nAdaptasi Karya BASTIAN TITO.\n\nPetualangan pendekar legendaris Nusantara kembali hadir!\n\nPranajaya, murid Empu Blorok, datang ke Kotaraja untuk menjalankan tugas gurunya. Ia harus menghadapi Tiga Setan Darah, kelompok pendekar yang telah membunuh ayahnya dan memutuskan lengan kirinya. Selain menuntut balas, Pranajaya juga mendapat tugas merebut Cambuk Api Angin dari Bagaspati di Pulau Seribu Maut.\n\nNamun, perjalanan Pranajaya tidak berjalan mudah. Ia harus menghadapi kekuatan Tiga Setan Darah dan mengalami berbagai peristiwa yang mengubah perjalanannya.\n\nDi tempat lain, Wiro Sableng bersama Sekar mulai menyelidiki keberadaan kelompok tersebut. Penyelidikan membawa mereka ke sebuah gedung tua yang menyimpan berbagai jebakan dan rahasia.\n\nWiro harus menghadapi Setan Pikulan, melewati ruang batu bawah tanah, dan menemukan Pranajaya. Dengan kesaktian Kapak Maut Naga Geni 212, Wiro melanjutkan petualangannya bersama Pranajaya menuju Kotaraja.\n\nSementara itu, Sekar masih berada dalam pusaran persoalan yang melibatkan Tiga Setan Darah.\n\nAkankah Wiro dan Pranajaya berhasil menghadapi para pendekar tersebut? Bagaimana kelanjutan tugas Pranajaya untuk mendapatkan Cambuk Api Angin?\n\nSaksikan WIRO SABLENG BUKU #7 BAGIAN 1: TIGA SETAN DARAH & CAMBUK API ANGIN, produksi film AI dari Samudera Ai Sinema.\n\n━━━━━━━━━━━━━━━━━━━━\n\nINFORMASI FILM\n\nJudul: Wiro Sableng\nBuku: #7\nBagian: 1\nSubjudul: Tiga Setan Darah & Cambuk Api Angin\nAdaptasi: Karya Bastian Tito\nGenre: Action, Silat, Adventure, Fantasy\nFormat: Full Movie\nDurasi cerita: 30 menit\nProduksi: Samudera Ai Sinema\n\n━━━━━━━━━━━━━━━━━━━━\n\n3. TIMESTAMP / CHAPTER YOUTUBE\n\n00:00 - INTRO\n\n01:39 - PENANTIAN PRANAJAYA & WEJANGAN EMPU BLOROK\n\n03:39 - PRANAJAYA MENGHADANG TIGA SETAN DARAH\n\n05:39 - SUMPAH DENDAM & DUEL PRANAJAYA\n\n07:39 - KEKALAHAN PRANAJAYA & KEMUNCULAN CINDUR RAMPE\n\n09:39 - WIRO SABLENG DAN SEKAR MENUJU KOTARAJA\n\n11:39 - JEBAKAN RAHASIA DI GEDUNG TUA\n\n13:39 - WIRO & SEKAR MENGHADAPI SETAN PIKULAN\n\n15:39 - SEKAR DIBAWA PERGI & WIRO TERJEBAK DI RUANG BATU\n\n16:39 - WIRO MENEMUKAN DAN MENOLONG PRANAJAYA\n\n18:39 - KAPAK NAGA GENI 212 & KONFRONTASI SETAN DARAH\n\n20:39 - SETAN PIKULAN MEMBAWA SEKAR KE KEDIAMANNYA\n\n22:39 - PERTENGKARAN DAN SIASAT SEKAR\n\n24:39 - TANTANGAN TIGA SETAN DARAH & PERTEMPURAN SENJATA MUSTIKA\n\n26:39 - PERTEMPURAN PIKULAN BAMBU SAKTI\n\n28:39 - WIRO MEMBANTU PEMULIHAN PRANAJAYA\n\n30:39 - WIRO & PRANAJAYA MENUJU KOTARAJA\n\n4. DISCLAIMER\n\nFilm ini merupakan karya adaptasi dan interpretasi kreatif berbantuan teknologi Artificial Intelligence (AI), yang dibuat untuk tujuan hiburan dan apresiasi terhadap karya cerita silat Nusantara.\n\nCerita ini terinspirasi dari serial Wiro Sableng karya Bastian Tito. Hak cipta atas karakter, cerita, nama, dan elemen kekayaan intelektual terkait tetap berada pada pemegang hak yang sah.\n\nSamudera Ai Sinema merupakan kanal produksi independen dan bukan merupakan produksi resmi, afiliasi, atau perwakilan dari Bastian Tito maupun pemegang hak cipta terkait.\n\nVisual, karakter, suara, dan elemen sinematik dalam film ini dibuat atau dikembangkan dengan bantuan teknologi AI serta proses penyuntingan kreatif.\n\n5. CALL TO ACTION (CTA)\n\nPENDEKAR MANAKAH YANG PALING KALIAN TUNGGU PERTARUNGANNYA?\n\nWiro Sableng dengan Kapak Maut Naga Geni 212 atau Pranajaya dengan tekad menghadapi Tiga Setan Darah?\n\nBagaimana pendapat kalian tentang jalan cerita Buku #7 Bagian 1 ini?\n\nTulis pendapat kalian di kolom komentar!\n\nJangan lupa:\n\nLIKE video ini jika kalian menikmati petualangan Wiro Sableng.\n\nKOMENTAR adegan dan karakter favorit kalian.\n\nSHARE video ini kepada teman-teman penggemar film silat Nusantara.\n\nSUBSCRIBE SAMUDERA AI SINEMA dan aktifkan lonceng notifikasi agar tidak ketinggalan kelanjutan kisah Wiro Sableng.\n\nBUKU #7 BAGIAN 2: PETUALANGAN BERIKUTNYA SEGERA MENYUSUL!\n\nSalam pendekar!\n\nSAMUDERA AI SINEMA\n\n6. HASHTAG\n\n#WiroSableng #WiroSableng212 #TigaSetanDarah #CambukApiAngin #BastianTito #FilmSilatIndonesia #SamuderaAiSinema #FilmAI #PendekarNusantara #KapakMautNagaGeni212",
+      "channelId": "UC1rxys7LV6yTLl0cH_e1KLw",
+      "channelTitle": "Samudera Ai Sinema",
+      "thumbnail": "https://i.ytimg.com/vi/g3lzgjTpiAo/hqdefault.jpg",
+      "publishedAt": "2026-11-18T12:00:06Z",
+      "durationSeconds": 1845,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:12.740Z",
+      "lastSeenAt": "2026-11-19T05:46:12.740Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TJ2KIdzH3VU",
+      "url": "https://www.youtube.com/watch?v=TJ2KIdzH3VU",
+      "title": "KALKI AVTAAR 🔥 FULL MOVIE | The Yug Of Kali | AI Mythological Action Movie",
+      "description": "🔱 KALKI AVTAAR – FULL AI CINEMATIC MOVIE 🔱\nTHE FINAL WAR BEGINS...\n\nWhen darkness rises in Kalyug, a divine battle begins!\n\nThe age of Kali is reaching its darkest point. Ancient powers are awakening, powerful enemies are rising, and the future of humanity stands on the edge of destruction.\n\nVeer discovers the awakening of his hidden Sheshnaag powers under the guidance of Lord Parshuram. Alongside Lord Hanuman and the legendary Seven Chiranjeevis, he faces an unimaginable threat.\n\nBut the greatest warrior has yet to reveal himself...\n\nThe arrival of Kalki Avatar will change the destiny of this age forever!\n\n⚔️ WHAT TO EXPECT:\n🔥 Powerful Hindu Mythological Story\n🔱 Lord Kalki Avatar\n🐒 Lord Hanuman\n⚔️ Lord Parshuram\n🐍 Awakening of Sheshnaag Powers\n🙏 The Seven Chiranjeevis\n🤖 Futuristic Demonic Warriors\n🌌 Epic Mythological Action & Divine Battles\n\n🎬 ABOUT THIS MOVIE:\nTHE YUG OF KALI: KALKI AVTAAR is an independently created fictional AI cinematic mythology project inspired by Hindu mythology. Characters, scenes, visuals and storytelling are creatively presented through AI technology.\n\n❤️ If you enjoy this cinematic journey:\n👍 LIKE the video\n💬 COMMENT your favourite character\n🔔 SUBSCRIBE for more AI mythological movies\n📢 SHARE this movie with your friends and family.\n\n🙏 HAR HAR MAHADEV! JAI SHREE HARI VISHNU! JAI BAJRANGBALI!\n\n#KalkiAvatar #HinduMythology #FullMovie",
+      "channelId": "UCo3cxDJ5tU3F0KqQkqwMf3g",
+      "channelTitle": "MultiAvtaar Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/TJ2KIdzH3VU/hqdefault.jpg",
+      "publishedAt": "2026-11-17T16:47:54Z",
+      "durationSeconds": 2417,
+      "matchedKeywords": [
+        "AI future movie full film",
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:12.740Z",
+      "lastSeenAt": "2026-11-19T05:46:12.740Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "x9gkwOcI_ss",
+      "url": "https://www.youtube.com/watch?v=x9gkwOcI_ss",
+      "title": "Cyborg She | Time Travel Romance & Sci-Fi Action | Full Movie | Watch Now",
+      "description": "Cyborg She | His Girlfriend Came from the Future | Full-Length Sci-Fi Movie\n\n🔥 Watch full action movies for free – subscribe to DZANGO now: https://bit.ly/DzangoMovies-SUB\n💥 A lonely student falls for a mysterious woman who turns out to be a powerful cyborg sent from the future to protect him. Their unlikely relationship becomes a race against fate in this Japanese sci-fi adventure blending romance, comedy and action.\n\nCYBORG SHE (2008)\nOriginal Title: 僕の彼女はサイボーグ — Boku no Kanojo wa Saibōgu\nStarring: Haruka Ayase, Keisuke Koide, Risa Ai, Kenta Kiritani\nDirector: Kwak Jae-yong\nRating: PG-13\n\nSYNOPSIS:\nOn his twentieth birthday, lonely university student Jiro Kitamura meets a beautiful, unpredictable stranger. They spend an unforgettable evening together before she abruptly disappears. Exactly one year later, a woman who looks identical returns—and saves him when a gunman attacks the restaurant where he is celebrating.\nShe reveals that she is a cyborg created by Jiro’s elderly future self. In his original timeline, the shooting left him permanently disabled. Using a lottery fortune, he built her and sent her into the past to prevent that tragedy.\nThe cyborg becomes Jiro’s companion and protector, rescuing others from disasters his future self remembers. Her extraordinary strength and unfamiliarity with everyday life create comic chaos, but Jiro develops genuine feelings for her. Frustrated by her apparent inability to return his love, he pushes her away.\nWhen a devastating earthquake strikes, she returns to save him. She sacrifices her body during the rescue, finally expressing an understanding of his feelings. Heartbroken, Jiro spends decades rebuilding her, succeeding shortly before his death.\nIn the distant future, a human woman who resembles the cyborg acquires her and experiences her stored memories. Moved by Jiro’s devotion, she travels back in time: she was the stranger he met on his twentieth birthday.\nShe subsequently returns to the aftermath of the earthquake and finds Jiro grieving beside the destroyed cyborg. Choosing to remain with him, she changes his future once again.\n#freemovies #englishmovies #dzango\n\nCOPYRIGHT:\nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\nPLAION PICTURES GmbH is a serious and legal video-on-demand (VOD) company located in München, Germany. We are holding a proper license for all movies published on YouTube. For any questions please contact: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCpCsyAxj3C_52bc9J8r2Org",
+      "channelTitle": "Dzango Movies – Heavy on Action. Light on Drama.",
+      "thumbnail": "https://i.ytimg.com/vi/x9gkwOcI_ss/hqdefault.jpg",
+      "publishedAt": "2026-11-16T13:00:24Z",
+      "durationSeconds": 7236,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:12.740Z",
+      "lastSeenAt": "2026-11-19T05:46:12.740Z",
+      "lastVerifiedAt": "2026-11-19T05:46:12.740Z",
       "unavailableAt": null
     }
   ]

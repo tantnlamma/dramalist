@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:47:42.470Z",
+  "generatedAt": "2026-11-19T05:46:40.479Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -73,7 +73,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -1011,7 +1011,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:55.610Z",
       "lastSeenAt": "2026-11-15T04:39:55.610Z",
-      "lastVerifiedAt": "2026-11-16T04:36:42.745Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     },
     {
@@ -1030,7 +1030,45 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:48.806Z",
       "lastSeenAt": "2026-11-17T06:22:48.806Z",
-      "lastVerifiedAt": "2026-11-18T05:47:42.470Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tgyIWDMqF58",
+      "url": "https://www.youtube.com/watch?v=tgyIWDMqF58",
+      "title": "LÚCIFER: Do Céu ao Éden | Filme Completo | A Rebelião, a Criação e a Queda",
+      "description": "🌑 Antes de existir o primeiro ser humano, houve uma guerra no céu.\n\nEste é o filme completo da história que a Bíblia conta em fragmentos: como o anjo mais belo que Deus criou se rebelou, como a Terra foi criada perfeita, e como o mesmo anjo entrou no Éden e levou a humanidade à queda. Do primeiro pensamento de orgulho até a primeira folha que caiu na Terra.\n\n🔥 Neste filme:\n• Por que Deus permitiu o mal, e por que não destruiu Lúcifer na hora\n• Como era o mundo antes do pecado\n• Por que Satanás escolheu a serpente, e por que ela tinha asas\n• A primeira mentira da história\n• O momento exato da queda de Adão e Eva\n• A promessa escondida em Gênesis 3:15\n\n📖 Baseado em Isaías 14, Ezequiel 28, Apocalipse 12, Gênesis 1 a 3 e nos capítulos 1, 2 e 3 de \"Patriarcas e Profetas\", de Ellen G. White.\n\n⏱️ Capítulos:\n00:00 Abertura: a guerra no céu\n00:55 Capítulo 1: Por que Deus permitiu o mal? A rebelião de Lúcifer\n11:26 Capítulo 2: A Criação, o mundo antes do pecado\n20:59 Capítulo 3: A Tentação e a Queda\n26:30 A serpente fala\n27:28 A primeira mentira\n29:24 O fruto\n30:22 A escolha de Adão\n33:25 Adão, onde estás?\n35:02 A sentença e a promessa\n38:53 A despedida do Éden\n39:40 A primeira folha que caiu\n\n💬 Você já tinha ouvido essa história contada desse jeito? Conte nos comentários de onde você está assistindo.\n\n⚠️ As imagens deste filme foram criadas com inteligência artificial para ilustrar a narrativa bíblica.\n\n#Lúcifer #FilmeBíblico #AdãoEEva",
+      "channelId": "UCD_lrdvPoleq8spOsM21mdw",
+      "channelTitle": "Arqueologia e Curiosidades Bíblicas",
+      "thumbnail": "https://i.ytimg.com/vi/tgyIWDMqF58/hqdefault.jpg",
+      "publishedAt": "2026-11-18T21:00:11Z",
+      "durationSeconds": 2481,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:40.479Z",
+      "lastSeenAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "oN3wQuOzqEQ",
+      "url": "https://www.youtube.com/watch?v=oN3wQuOzqEQ",
+      "title": "Lampião Contra o Coronel: O Filme Completo (1 Hora de Cangaço)",
+      "description": "Sertão da Bahia, 1932. Um coronel que mandava na água, na terra e no medo do povo. Um tenente que jurou varrer a caatinga inteira atrás de um homem só. E esse homem: chapéu de couro, óculos redondos e uma memória que não esquecia dívida nenhuma.\n\nOs três primeiros causos de Sombra de Couro num filme só, com abertura e pontes novas, contando as três vezes que o coronel Belarmino tentou acabar com Lampião… e aprendeu, do pior jeito, que no sertão toda conta um dia é cobrada.\n\n🌵 Causo 1: A bota do coronel. Na seca de 1932, o coronel toma a última vaca de uma viúva e manda ela beijar a bota dele na frente da feira.\n🌾 Causo 2: A cuia de farinha. O coronel e o tenente armam uma cilada na terra de Sinhá Benta, a velha que, dez anos antes, deu a Lampião a última farinha que tinha.\n🏜️ Causo 3: O rastejador. O tenente prende a mulher do Damião, e o Damião leva a volante para dentro do Raso da Catarina.\n\n⏱️ Capítulos\n0:00 A saga do coronel\n0:48 Causo 1: A bota do coronel\n1:49 A seca de 1932\n4:59 O desconhecido da noite\n7:42 O coronel veio cobrar\n10:17 A febre e o açude\n12:18 O leilão na feira\n15:02 Quem paga a dívida\n18:03 O pote na cabeça\n20:00 A vingança do coronel\n20:27 Causo 2: A cuia de farinha\n21:50 A cacimba que nunca secou\n23:08 1923: a cuia de farinha\n25:23 A vingança do coronel\n27:48 Até o sol de domingo\n28:37 O menino na caatinga\n31:11 O coito de Lampião\n32:30 Maria Bonita na vila\n34:43 A missa\n37:58 A dívida paga\n40:10 O juramento do tenente\n41:07 Causo 3: O rastejador\n42:50 O preço de Lampião\n44:11 O dinheiro do coronel\n45:30 O rastejador\n46:34 A Rosa na cadeia\n48:17 O rastro ao contrário\n50:08 O espião na marcha\n52:06 O coito\n54:30 O Raso da Catarina\n57:47 A água de Lampião\n1:00:54 O homem que tem preço\n1:02:21 O próximo causo\n\n▶️ O próximo causo já está no canal. Episódio 4, o traidor dentro do bando: [link do EP04]\n\nOs episódios separados:\n▶️ Episódio 1: https://youtu.be/T59bjqVxO98\n▶️ Episódio 2: https://youtu.be/0xamum6nSIM\n▶️ Episódio 3: https://youtu.be/RgZS2HJiSdE\n\n🌵 Sombra de Couro: causos do sertão nos tempos do cangaço (1920–1938), com o mesmo elenco de sempre: Lampião, o bando e os coronéis que o sertão não esqueceu. Inscreva-se e ative o sininho.\n\nObra de ficção histórica inspirada no sertão nordestino. Personagens, falas e situações são dramatizações. Imagens e vozes produzidas com auxílio de inteligência artificial.\n\n#lampião #cangaço #filmecompleto",
+      "channelId": "UCCQbbg456Hwnh9XVNIEkG5w",
+      "channelTitle": "Sombra de Couro",
+      "thumbnail": "https://i.ytimg.com/vi/oN3wQuOzqEQ/hqdefault.jpg",
+      "publishedAt": "2026-11-18T16:09:11Z",
+      "durationSeconds": 3785,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:40.479Z",
+      "lastSeenAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
       "unavailableAt": null
     }
   ]

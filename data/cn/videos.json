@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:47:34.818Z",
+  "generatedAt": "2026-11-19T05:46:33.230Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-16T04:36:34.943Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-16T04:36:34.943Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1258,7 +1258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-11T04:32:40.647Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1546,7 +1546,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1738,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1757,7 +1757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1814,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1853,7 +1853,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1929,7 +1929,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -1948,7 +1948,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2043,7 +2043,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:52.999Z",
       "lastSeenAt": "2026-11-01T04:08:52.999Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2387,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2406,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2425,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2482,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2748,7 +2748,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:20.187Z",
       "lastSeenAt": "2026-11-14T04:48:20.187Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2767,7 +2767,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:20.187Z",
       "lastSeenAt": "2026-11-14T04:48:20.187Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2806,7 +2806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2920,7 +2920,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2939,7 +2939,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2977,7 +2977,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2996,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3015,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3034,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -3053,7 +3053,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -3072,7 +3072,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     },
     {
@@ -3129,7 +3129,83 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5zKgNuC0f_M",
+      "url": "https://www.youtube.com/watch?v=5zKgNuC0f_M",
+      "title": "【2026完整版】一人AI漫劇教學｜即夢＋豆包＋紅果，零基礎從0到1做第一支",
+      "description": "📌 關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/tuejxfZwgjjC7kxyPMVnmQ】",
+      "channelId": "UCbMRtKcsWp0YV9kcg7JMVzQ",
+      "channelTitle": "AI漫劇製作完整教學",
+      "thumbnail": "https://i.ytimg.com/vi/5zKgNuC0f_M/hqdefault.jpg",
+      "publishedAt": "2026-11-19T05:13:46Z",
+      "durationSeconds": 3262,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:33.230Z",
+      "lastSeenAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "56An_Ke08rI",
+      "url": "https://www.youtube.com/watch?v=56An_Ke08rI",
+      "title": "完整版 AI 交易教學｜Claude 連接 TradingView，不會寫代碼也能做出策略並回測",
+      "description": "👉👉👉加入交易倫 AI 交易機器人實戰班： https://www.skool.com/luntrading/about \n\n👉👉👉TradingView 連結 （用我們的連結可能會有優惠）： https://www.tradingview.com/pricing/?share_your_love=BarryAllen_Thee \n\n一位會用 AI 的交易員，和一位不用 AI 的交易員，誰的優勢大？這是完整版 AI 交易教學：把 Claude 連接到 TradingView，讓 AI 看你的圖表、標支撐阻力、做多時框分析，最後讓它寫出一套策略並回測。不會寫代碼也能跟著做，但你要先把自己的交易思路講清楚。\n\n這支影片你會學到：\n・Claude 桌面版連接 TradingView 桌面版的完整步驟\n・怎樣跟 AI 溝通，才能得到你要的答案\n・讓 AI 用道氏理論判斷趨勢，標出 U 轉位置和市場階段\n・讓 AI 標支撐阻力區域，再用 ICT 標 Order Block、FVG、BOS、CHoCH\n・多時框分析：周線、日線、4 小時、15 分鐘，給出做多和做空兩種情境\n・讓 AI 用 Pine Script 寫策略並回測，結果怎麼看，有什麼限制\n\n⏱ 章節\n1:37 今天學什麼：AI 加 TradingView\n1:57 AI 做不到的事\n2:35 兩個部分、四個工作流\n5:45 準備：桌面版 Claude 和 TradingView\n7:11 連接步驟：Node.js 和 TradingView MCP\n11:16 設定 Claude 桌面版，驗證連接成功\n12:25 先把話講清楚：怎樣跟 AI 溝通\n14:34 工作流一：讓 AI 用道氏理論讀懂市場結構\n18:43 工作流二：標記支撐阻力區域\n20:07 工作流三：用 ICT 標 Order Block、FVG、BOS\n21:52 工作流四：多時框分析，做多和做空兩種情境\n25:09 讓 AI 寫 Pine Script 策略\n28:03 回測結果怎麼看\n30:59 檢查入場和出場對不對\n32:03 總結\n\n🎓 👉👉👉加入交易倫 AI 交易機器人實戰班： https://www.skool.com/luntrading/about \n\n2027 年 1 月 25 日至 29 日，連續 5 天線上直播，有回放。不會寫代碼沒關係，AI 幫你寫，我帶你一步一步做。\n👉👉👉 名額與報名：https://www.skool.com/luntrading/about\n\n#日內交易 #當沖 #交易倫",
+      "channelId": "UCGTDHRerNo4eIyaliexDxtA",
+      "channelTitle": "交易倫 - AT",
+      "thumbnail": "https://i.ytimg.com/vi/56An_Ke08rI/hqdefault.jpg",
+      "publishedAt": "2026-11-18T11:30:00Z",
+      "durationSeconds": 2010,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:33.230Z",
+      "lastSeenAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JWwI87bL4xE",
+      "url": "https://www.youtube.com/watch?v=JWwI87bL4xE",
+      "title": "【首播漫劇】直擊《八號行李箱》#完整版一口氣追完 #全劇 #AI漫畫 #AI二次元 #AI微電影 #高燃神作 #番劇 #影集 #現代 #翻盤 #熱血 #虎爺動漫社",
+      "description": "🛒 影片中的好物：\n① 台灣製石墨烯加厚發熱衣（男女款） 👉 https://s.shopee.tw/9pf8PMcq7d\n② 磁吸機車手機架 👉 https://s.shopee.tw/8AXJ3zSHWw\n\n\n感謝大家長久以來的支持與肯定！\n⚖️ 【版權聲明】 本頻道所有影音內容均已獲得正版官方授權。\n🛡️ 本頻道嚴格遵守平台社群使用規範，全片合法合規，請安心觀賞。\n🔔 精彩節目不漏接，請立即【訂閱】並開啟小鈴鐺，給我們點個讚吧👉\n#連載漫畫小說 #新番 #AI二次元 #異世界 #大片 #華語影視 #劇場 #幽默 #羈絆 #虎爺動漫社",
+      "channelId": "UCE9h5M6UJL3BJF42Xjei-6A",
+      "channelTitle": "虎爺漫劇社",
+      "thumbnail": "https://i.ytimg.com/vi/JWwI87bL4xE/hqdefault.jpg",
+      "publishedAt": "2026-11-16T02:58:08Z",
+      "durationSeconds": 3013,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:33.230Z",
+      "lastSeenAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vk-wEUaLqMY",
+      "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA #romance #drama #ai",
+      "description": "A woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
+      "channelTitle": "Ai Drama House",
+      "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
+      "publishedAt": "2026-11-13T03:55:14Z",
+      "durationSeconds": 7105,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-19T05:46:33.230Z",
+      "lastSeenAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
       "unavailableAt": null
     }
   ]
