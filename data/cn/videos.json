@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:46:33.230Z",
+  "generatedAt": "2026-11-20T05:35:28.161Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-17T06:22:40.526Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -667,7 +667,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1546,7 +1546,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1697,11 +1697,11 @@
         "人工智能 剧情电影",
         "人工智能 电影 完整版"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-26T03:01:51.582Z",
       "lastSeenAt": "2026-10-26T03:01:51.582Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": "2026-11-20T05:35:28.161Z"
     },
     {
       "videoId": "zS6Q7qTlS4M",
@@ -1738,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1757,7 +1757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1814,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1853,7 +1853,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1929,7 +1929,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -1948,7 +1948,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2043,7 +2043,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:52.999Z",
       "lastSeenAt": "2026-11-01T04:08:52.999Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2387,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2406,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2425,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2482,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2691,7 +2691,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2806,7 +2806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2920,7 +2920,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2977,7 +2977,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2996,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3015,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3034,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3053,7 +3053,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3072,7 +3072,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3129,7 +3129,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3167,7 +3167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3186,7 +3186,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     },
     {
@@ -3206,6 +3206,158 @@
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
       "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "sMheUm_bNOc",
+      "url": "https://www.youtube.com/watch?v=sMheUm_bNOc",
+      "title": "🔥【高清完结】🔥《乱世奇瞎》完整版💥AI原创电影 #胡扯Max #灵异 #鬼怪 #僵尸 #AI #漫剧 #shortdrama #短剧 #电影 #民俗",
+      "description": "AIGC创作实验室 \n\n探索 AI 与内容创作的无限可能。\n\n这里记录 AI 影像、AI短片、AI音乐、AI动画、AI数字人以及各种新奇的 AIGC 创作\n我们尝试用 AI 创造不同于现实的故事、人物与世界，也分享有趣的创作过程与创作成果\n\n从一个想法，到一段影像",
+      "channelId": "UCQlHToYScfIvrbLv7MzH2Hg",
+      "channelTitle": "AI创作实验室",
+      "thumbnail": "https://i.ytimg.com/vi/sMheUm_bNOc/hqdefault.jpg",
+      "publishedAt": "2026-11-19T10:00:05Z",
+      "durationSeconds": 5811,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TLxAigW2xCw",
+      "url": "https://www.youtube.com/watch?v=TLxAigW2xCw",
+      "title": "【#BIZ會客室 EP4 完整版首播】AI 正在改寫商業邏輯，企業如何打贏這場產業賽局？ft. 商周集團創新長 劉佩修",
+      "description": "#CYBERBIZ #BIZ會客室 #AI #AI轉型 #AIAgent #數智平台 #AI創新百強 #劉佩修 #蘇基明 #商業周刊\n\n95% 的企業做 AI 都是無效的，只有 5% 能真正產生商業價值！當 AI 的典範轉移從「腳踏車競賽」變成「噴射機競賽」，慢半拍就可能被贏者全拿，企業主該如何從淺水區走進深水區，把 AI 從工具變成真正的營運基礎？\n\n本集「BIZ 會客室」由 CYBERBIZ 執行長蘇基明 Jimmy 親自上陣，對談重磅來賓：主導商周《AI創新百強》評選、親閱近百家台灣企業 AI 轉型簡報的商周集團創新長暨總主筆 劉佩修。\n\n他們將首度公開：企業 AI 轉型最常踩的五大坑是什麼？產業龍頭如何找對場景讓 AI 落地？當 Amazon、沃爾瑪的「AI 代理購物」浪潮來襲，台灣的品牌官網是利是弊？\n\n🎙️ 跨界對談嘉賓：\n▶ 主持兼與談：蘇基明 Jimmy｜CYBERBIZ 執行長暨創辦人\n▶ 對談來賓：劉佩修｜商周集團創新長暨總主筆\n\n關於【BIZ 會客室】：每集將邀請不同領域的實戰專家，從品牌經營、數據變現、會員營運到產業趨勢，拆解企業正在面對的難題。\n\n🔔 想收到更多 CYBERBIZ 的最新影片，歡迎【訂閱＆打開通知】！\n\n📩 合作聯繫\nhttps://www.cyberbiz.io/contact/",
+      "channelId": "UCTf4mKUL4k6-2skp1kxPDXg",
+      "channelTitle": "CYBERBIZ",
+      "thumbnail": "https://i.ytimg.com/vi/TLxAigW2xCw/hqdefault.jpg",
+      "publishedAt": "2026-11-19T06:00:08Z",
+      "durationSeconds": 4295,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AEoBFZ_2vUc",
+      "url": "https://www.youtube.com/watch?v=AEoBFZ_2vUc",
+      "title": "【直播回顧】AI 工作流｜鄭光廷講師完整分享｜營建AI人才交流道",
+      "description": "🤖 AI 工作流直播完整版上線啦！🎬\n\n10/6「營建AI人才交流道」邀請鄭光廷講師，與大家分享「AI 工作流」，一起探索如何將 AI 融入日常工作，提升工作效率！\n\n✨ 當天有參與直播的朋友，歡迎再次觀看、複習重點！\n✨ 錯過直播的朋友也別擔心，現在就能免費觀看完整版！\n\n透過影片回顧，重新掌握 AI 工作流的應用觀念，讓學習不只停留在直播當下！💪\n\n📣 加入【營建AI人才交流道】Facebook 社團！\n\n2026年12月至2027年5月，連續6個月、每月一場免費直播，持續分享 AI 工具與實務應用，歡迎一起交流學習！\n\n👉 社團連結：https://www.facebook.com/share/g/1GjNrQMsZJ/\n\n🔔 記得訂閱頻道、開啟小鈴鐺，掌握更多 AI 實務應用與營建產業新知！\n\n#AI工作流 #AI應用  #直播回顧 #營建AI人才交流道 #台灣工程研訓中心",
+      "channelId": "UCptlBHjxi-SONTIRBVBwhyw",
+      "channelTitle": "台灣工程研訓中心",
+      "thumbnail": "https://i.ytimg.com/vi/AEoBFZ_2vUc/hqdefault.jpg",
+      "publishedAt": "2026-11-18T05:49:48Z",
+      "durationSeconds": 4308,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TrnoAueBjws",
+      "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
+      "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
+      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
+      "channelTitle": "Nyxora Studios",
+      "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
+      "publishedAt": "2026-11-19T13:00:06Z",
+      "durationSeconds": 7578,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "w9HN-XQhluk",
+      "url": "https://www.youtube.com/watch?v=w9HN-XQhluk",
+      "title": "Je l'ai embauché juste pour être ma cuisinière mais ma petite fille m'a fait tomber amoureux d'elle",
+      "description": "C'est un film nigérian en français | Film Nollywood en français | Film africain en français | Les films d'Aforevo en français | nollywood en français247  | films nigérians en français 2024/2025/2026 nouveaux\n\nSOYEZ LE PREMIER À VOIR CETTE HISTOIRE VRAIE DE NOLLYWOOD QUI VOUS TOUCHERA PROFONDÉMENT LE CŒUR\nIL M'A TUÉ POUR DEVENIR RICHE MAIS MON FANTÔME LUI DONNERA UNE LEÇON QU'IL N'OUBLIERA PAS DE SITÔT\nAucune petite fille mérite ce maltraite de la part de sa belle-mère lorsque son père n'est pas là\n\n#AFOREVOGalerie #frenchtv247\n\n\n\n\n\n\n\nw9HN-XQhluk",
+      "channelId": "UCyd79F-lNLCbGPQrf_L7KiA",
+      "channelTitle": "AFOREVO Galerie",
+      "thumbnail": "https://i.ytimg.com/vi/w9HN-XQhluk/hqdefault.jpg",
+      "publishedAt": "2026-11-14T12:00:20Z",
+      "durationSeconds": 5388,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Q1kCemcKKTU",
+      "url": "https://www.youtube.com/watch?v=Q1kCemcKKTU",
+      "title": "THE EXCEPTION (FULL MOVIE) | A Powerful AI Nollywood Drama | Adejoke Studio",
+      "description": "Love, trust, ambition, and unexpected twists come together in THE EXCEPTION, a captivating Nollywood movie.\n\nGet ready for an emotional movie experience filled with romance, drama, and unforgettable moments.\n\nWatch the full movie, enjoy every moment, and tell us what you think in the comments!\n\nIf you enjoy this movie, please remember to:\n\n👍 LIKE\n💬 COMMENT\n📲 SHARE\n🔔 SUBSCRIBE to ADEJOKE STUDIO for more amazing Nollywood movies.\n\nThank you for supporting Adejoke Studio. ❤️\n\n#TheException #FullMovie #NollywoodMovies #NigerianMovies #AfricanMovies #NollywoodDrama #RomanticDrama #NigerianDrama #AdejokeStudio #FullNollywoodMovie",
+      "channelId": "UCovPKyp7aBhSttygyYZ6T4g",
+      "channelTitle": "Adejoke Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/Q1kCemcKKTU/hqdefault.jpg",
+      "publishedAt": "2026-11-13T14:30:28Z",
+      "durationSeconds": 5212,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "G70N3ZTJaEg",
+      "url": "https://www.youtube.com/watch?v=G70N3ZTJaEg",
+      "title": "THE GANGSTER AND HIS HEART ❤️ | COMPLETE EPISODES 1–15 | FULL AI DRAMA SERIES",
+      "description": "❤️ THE GANGSTER AND HIS HEART | COMPLETE EPISODES ❤️\n\nIsang kinatatakutang lider ng gang sa paaralan… isang babaeng hindi natatakot na harapin siya… at isang kuwentong puno ng drama, pagkakaibigan, selos, tawanan, at pag-ibig.\n\nKilalanin sina Daniel at Yana sa isang love story na magpapatunay na kahit ang pinakamatapang na tao ay may pusong kayang magbago dahil sa tunay na pagmamahal.\n\nKasama rin sina Kira at Kulot sa isang kuwentong puno ng unexpected moments, kilig, at friendship!\n\n🎬 Panoorin dito ang COMPLETE EPISODES ng The Gangster and His Heart mula umpisa hanggang sa finale!\n\nKung nagustuhan mo ang series:\n❤️ LIKE\n💬 COMMENT\n🔔 SUBSCRIBE sa KathaFlix at i-ON ang notification bell para hindi ka mahuli sa mga bagong AI drama series!\n\nDISCLAIMER: This is an original fictional AI-generated drama series created for entertainment purposes. All characters, events, and stories are fictional.\n\n#TheGangsterAndHisHeart #CompleteEpisodes #KathaFlix #AIDrama #FilipinoDrama #SchoolRomance #RomanceDrama",
+      "channelId": "UCcQOiCGFN3eIoDMMsV6KsUQ",
+      "channelTitle": "KathaFlix",
+      "thumbnail": "https://i.ytimg.com/vi/G70N3ZTJaEg/hqdefault.jpg",
+      "publishedAt": "2026-11-13T08:34:28Z",
+      "durationSeconds": 2045,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "kAiXWI8zUoo",
+      "url": "https://www.youtube.com/watch?v=kAiXWI8zUoo",
+      "title": "耗盡青春愛錯人，昔日冤家重逢，人生迎來轉折點！ #反轉#情感",
+      "description": "超多题材，超甜剧情~逆袭-打脸-系统-复仇、爽文全都有-英文字幕\n每日更新，一起追劇！\n創作聲明/ Artistic & Safety Disclosure】未滿18周歲嚴禁觀看\n1.內容性質（Nature of Content）：本頻道內容主要為原創影視短劇，屬於YouTube EDSA政策中的“藝術（Artistic）”類別。\n2.未成年人保護（Child Safety）：本集中出現未成年人角色，其身份均為專業/自願出鏡演員。 所有拍攝場景均在監護人實时監管下完成，確保環境安全、合規，請勿模仿。\n3.製作目的（Production Goal）：視頻通過虛構敘事探討[例如：生活哲理/親情/職場]等主題，不涉及任何危險、誘導或不當行為。\n\n😘 感謝您的觀看！\n\n#短劇 #逆襲 #反轉 #爽劇  #爽文 #甜寵 #古代  #群像 #穿書 #系統 #團寵 #馬甲 #重生 #逆襲 #打臉 #宅鬥 #爽文 #先婚後愛 #權謀 #團寵 #女強 #馬甲 #古風 #甜寵 #穿越 #後宮 #熱血 #打臉 #命運反轉 #輕鬆 #搞笑 #現代 #言情 #AI剧 #AI漫剧 #AI真人剧\n\n#大陸劇 #倫理 #打臉 #反轉 #爽劇 #甜劇 #甜寵 #全集 #白月光 #青春 #偶像 #甜蜜 ，#瑪麗蘇 #高富帥 #爽文 #女頻 #言情 #穿越 #萌娃 #復仇 #破鏡重圓 #追妻火葬場 #純愛 #暗戀 #團寵 #替身 #青梅竹馬 #豪門霸總 #先虐後甜 #帶球跑 #熱門短劇 #新劇首發 #愛情 #happy ending #漫改 #小說改 #中國電視劇 #偶像劇 #霸道總裁 #灰姑娘 #小嬌妻 #情感 #engsub #短劇 #熱播短劇 #Chinesedrama #cinderella #president #shortfilm #shortdrama #Modern Love romantic #top chinese drama #kiss #Love Story #husband #wife #mistress #full version #city #forbidden love #broken love #chinese short drama #eng sub #chinese romantic drama #cute love story #chinese drama",
+      "channelId": "UCe6jYNDddvi1rcPUTSortbQ",
+      "channelTitle": "欣欣看剧",
+      "thumbnail": "https://i.ytimg.com/vi/kAiXWI8zUoo/hqdefault.jpg",
+      "publishedAt": "2026-11-07T09:30:25Z",
+      "durationSeconds": 14809,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:28.161Z",
+      "lastSeenAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:46:40.479Z",
+  "generatedAt": "2026-11-20T05:35:35.736Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -1011,7 +1011,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:55.610Z",
       "lastSeenAt": "2026-11-15T04:39:55.610Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -1049,7 +1049,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     },
     {
@@ -1068,7 +1068,26 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-19T05:46:40.479Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RsuYbsgVrQI",
+      "url": "https://www.youtube.com/watch?v=RsuYbsgVrQI",
+      "title": "GOKU: 10.000 AÑOS II — El regreso del Ángel de Piedra | Historia Completa",
+      "description": "Segunda película completa en español de la saga de Goku encerrado en la habitación del tiempo durante 10.000 años.\n\nUn mes después de vencer al Gran Sacerdote, Goku viaja al lugar donde el tiempo no existe para despertar a un ángel convertido en piedra. Allí se reencuentra con quien lo entrenó durante cinco mil años.\n\nLa segunda película completa. Historia fan de Dragon Ball Super hecha con IA.\n\n▶ Mira antes la película 1: https://youtu.be/R8Xj6vKLrYU\n\n🎬 Capítulos\n\nDescubre esta pelicula fan de Dragon Ball Super creada con IA que explora el despertar del Angel de Piedra tras 10.000 años.\n\nEsta historia original narra un evento catastrofico donde seis universos desaparecieron, llevando a Goku a un lugar donde el tiempo no existe. A traves de esta produccion, exploramos el reencuentro de Goku con su antiguo maestro y la intensa confrontacion de Vegeta contra un misterioso guerrero de aura purpura.\n\nEl relato profundiza en el lore de DBS mediante una narrativa visual unica. A diferencia de la linea oficial, esta obra de Neura Studios ofrece una vision alternativa sobre la guerra de los angeles y el destino de los dioses.\n\n¿Que te ha parecido el final de esta historia? Deja tu opinion en los comentarios y suscribete para mas contenido de Dragon Ball hecho con inteligencia artificial.\n\n0:00 Hace mil millones de años\n1:02 La herida que se cierra\n3:49 El libro prohibido\n6:56 El niño que olvidó\n9:03 La promesa\n11:40 El lugar donde el tiempo no existe\n14:53 Mil millones de años\n22:37 El tiempo detenido\n24:51 Despertar\n27:27 Han vuelto\n30:12 La guerra de los ángeles\n36:40 Sin odio\n43:07 La cena\n\n🔥 Historia fan de Dragon Ball Super hecha con IA: imágenes, voces, música y guion originales.\n💬 ¿Qué te ha parecido el final? Te leo en los comentarios.\n🔔 Suscríbete y activa la campana para no perderte lo que viene.\n\n⚠️ AVISO: Historia creada por fans, hecha con inteligencia artificial e inspirada en Dragon Ball Super, de Akira Toriyama. No forma parte de la historia oficial ni está relacionada con sus creadores, Toei Animation ni Shueisha. Todo el material es original (imágenes, voces, música y guion).\n⚠️ AVISO 2: la película 1 está inspirada en la teoría fan de Robert Teorías DBS. Narración, imágenes, voces, animación, música y efectos originales de Neura Studios.\n\n#DragonBallSuper #DragonBall #DBS #Goku #Vegeta #Anime #Otaku #DragonBallFan #UltraInstinto",
+      "channelId": "UC2ON6aXsHIUrUA1-JPVSU0g",
+      "channelTitle": "Neura Studios",
+      "thumbnail": "https://i.ytimg.com/vi/RsuYbsgVrQI/hqdefault.jpg",
+      "publishedAt": "2026-10-31T11:43:57Z",
+      "durationSeconds": 2716,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:35.736Z",
+      "lastSeenAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
       "unavailableAt": null
     }
   ]

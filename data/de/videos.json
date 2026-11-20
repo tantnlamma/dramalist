@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:46:50.017Z",
+  "generatedAt": "2026-11-20T05:35:45.838Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -548,7 +548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -567,7 +567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -586,7 +586,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:52.524Z",
       "lastSeenAt": "2026-11-18T05:47:52.524Z",
-      "lastVerifiedAt": "2026-11-18T05:47:52.524Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     },
     {
@@ -606,6 +606,25 @@
       "discoveredAt": "2026-11-19T05:46:50.017Z",
       "lastSeenAt": "2026-11-19T05:46:50.017Z",
       "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "D9bSd1folTM",
+      "url": "https://www.youtube.com/watch?v=D9bSd1folTM",
+      "title": "Mutant II (Sci-Fi | MUTATIONS Zombies | Ganzer Film | HD)",
+      "description": "🌌 Täglich neue Spielfilme online schauen - jetzt abonnieren: http://bit.ly/UtopjaAbo\n🎬 Mutant II (1984): Zwei Brüder stoßen in einer Kleinstadt im Süden auf ein tödliches Geheimnis: Giftiger Abfall verwandelt die Bewohner nach und nach in blutrünstige Zombies.\n\nMUTANT II (1984)\nOriginaltitel: Night Shadows\nMit: Wings Hauser; Bo Hopkins; Jody Medford\nRegie: John 'Bud' Cardos; Mark Rosman\nFSK: Freigegeben ab 16 Jahren\n\nINHALTSANGABE:\nDie Brüder Josh und Mike Cameron machen sich auf den Weg in eine abgelegene Kleinstadt im Süden der USA, um dort Urlaub zu machen. Doch was als entspannte Reise beginnt, entwickelt sich schnell zum Albtraum: Die Stadt wirkt verlassen, die wenigen Bewohner verhalten sich merkwürdig – feindselig, ja fast unmenschlich.\nAls Mike plötzlich spurlos verschwindet, beginnt Josh gemeinsam mit dem örtlichen Sheriff Will Stewart und der engagierten Lehrerin Holly Pierce nach ihm zu suchen. Dabei stoßen sie auf ein düsteres Geheimnis: Durch illegale Entsorgung von toxischem Abfall wurden die Bewohner der Stadt in blutrünstige, zombieartige Kreaturen verwandelt – sogenannte „toxische Vampire“, die nachts durch die Straßen streifen und sich von menschlichem Blut ernähren.\nWährend sich die Lage zuspitzt, muss Josh nicht nur seinen Bruder retten, sondern auch einen Weg finden, das Grauen aufzuhalten, bevor es sich über die Stadtgrenzen hinaus ausbreitet.\n#SciFi #ScienceFiction #ScienceFictionFilm\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UC5FelnKqltzYS3H1LPlC-Xg",
+      "channelTitle": "Utopja - Sci-Fi Filme",
+      "thumbnail": "https://i.ytimg.com/vi/D9bSd1folTM/hqdefault.jpg",
+      "publishedAt": "2026-09-10T14:15:33Z",
+      "durationSeconds": 5938,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:45.838Z",
+      "lastSeenAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
       "unavailableAt": null
     }
   ]

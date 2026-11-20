@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:46:28.735Z",
+  "generatedAt": "2026-11-20T05:35:22.785Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -700,7 +700,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -894,7 +894,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1265,7 +1265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1277,7 +1277,7 @@
       "channelTitle": "Tokimeki Cinema | トキメキ・シネマ",
       "thumbnail": "https://i.ytimg.com/vi/1UEyVZez2Lg/hqdefault.jpg",
       "publishedAt": "2026-10-17T01:30:14Z",
-      "durationSeconds": 1818,
+      "durationSeconds": 1819,
       "matchedKeywords": [
         "AI ドラマ 映画"
       ],
@@ -1322,7 +1322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1361,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1401,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1519,7 +1519,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1577,7 +1577,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:18.775Z",
       "lastSeenAt": "2026-11-13T04:54:18.775Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1636,7 +1636,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1675,7 +1675,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:29.896Z",
       "lastSeenAt": "2026-11-16T04:36:29.896Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1714,7 +1714,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:30.146Z",
       "lastSeenAt": "2026-11-18T05:47:30.146Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1734,7 +1734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1754,7 +1754,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     },
     {
@@ -1774,6 +1774,103 @@
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
       "lastVerifiedAt": "2026-11-19T05:46:28.735Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "8DZSi5E09w8",
+      "url": "https://www.youtube.com/watch?v=8DZSi5E09w8",
+      "title": "How to Create AI Micro Dramas from Scratch | Full Tutorial for Beginners",
+      "description": "Want to create your own AI micro-drama, short movie, or drama series but don't know where to start?\n\nIn this step-by-step tutorial, I'll show you how to create AI micro-dramas from scratch, even if you have no previous filmmaking experience.\n\nYou'll learn how to turn a simple story idea into a cinematic AI drama using artificial intelligence tools. From developing your storyline and creating consistent characters to generating cinematic scenes and shots, I'll walk you through the process.\n\nIN THIS TUTORIAL, YOU'LL LEARN:\n\nHow to develop an interesting AI drama story. How to create AI character reference images. How to maintain consistent characters throughout your drama. How to break your story into scenes and camera shots. How to write effective prompts for AI video generation. How to generate cinematic AI video clips. How to bring your scenes together to create a micro-drama. \n\nWHO IS THIS VIDEO FOR?\n\nThis tutorial is for beginners, content creators, aspiring AI filmmakers, and anyone interested in creating short movies and drama series with AI.\n\nYou can use these skills to create content for YouTube, Facebook, TikTok, and other social media platforms.\n\nYou don't need a film crew, professional camera, or acting experience to start creating AI-powered stories.\n\nWANT TO LEARN MORE ABOUT AI VIDEO CREATION?\n\nSubscribe to BENPOWER for practical tutorials on AI filmmaking, cinematic AI videos, AI storytelling, and content creation.\n\nIf you find this tutorial helpful, give it a thumbs up, leave a comment, and subscribe for more.\n\n\nHOW TO CREATE CONSISTANT AI CHARACTERS: https://youtu.be/17G3GwIUqls?si=e8BsGoOOXm8EQeAb\n\nAI CONTENT CREATION MASTERCLASS: https://nestuge.com/bqbx_kq1h\nDIGITAL STORE: https://nestuge.me/ndukwe-godspower\nTelegram Channel : https://t.me/benpowerchannel\n\n#AIMicroDrama #AIFilmmaking #AIVideoCreation #AITutorial #Benpower",
+      "channelId": "UC40FMC9qCC377A3aE1XXd1g",
+      "channelTitle": "BEN POWER",
+      "thumbnail": "https://i.ytimg.com/vi/8DZSi5E09w8/hqdefault.jpg",
+      "publishedAt": "2026-11-13T16:34:15Z",
+      "durationSeconds": 1903,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:22.785Z",
+      "lastSeenAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Q1kCemcKKTU",
+      "url": "https://www.youtube.com/watch?v=Q1kCemcKKTU",
+      "title": "THE EXCEPTION (FULL MOVIE) | A Powerful AI Nollywood Drama | Adejoke Studio",
+      "description": "Love, trust, ambition, and unexpected twists come together in THE EXCEPTION, a captivating Nollywood movie.\n\nGet ready for an emotional movie experience filled with romance, drama, and unforgettable moments.\n\nWatch the full movie, enjoy every moment, and tell us what you think in the comments!\n\nIf you enjoy this movie, please remember to:\n\n👍 LIKE\n💬 COMMENT\n📲 SHARE\n🔔 SUBSCRIBE to ADEJOKE STUDIO for more amazing Nollywood movies.\n\nThank you for supporting Adejoke Studio. ❤️\n\n#TheException #FullMovie #NollywoodMovies #NigerianMovies #AfricanMovies #NollywoodDrama #RomanticDrama #NigerianDrama #AdejokeStudio #FullNollywoodMovie",
+      "channelId": "UCovPKyp7aBhSttygyYZ6T4g",
+      "channelTitle": "Adejoke Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/Q1kCemcKKTU/hqdefault.jpg",
+      "publishedAt": "2026-11-13T14:30:28Z",
+      "durationSeconds": 5212,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:22.785Z",
+      "lastSeenAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TrnoAueBjws",
+      "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
+      "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
+      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
+      "channelTitle": "Nyxora Studios",
+      "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
+      "publishedAt": "2026-11-19T13:00:06Z",
+      "durationSeconds": 7578,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:22.785Z",
+      "lastSeenAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rnuIHv7vkEQ",
+      "url": "https://www.youtube.com/watch?v=rnuIHv7vkEQ",
+      "title": "400 Years Between Them… Will She Choose Love or Her Own World? | Part 2 |Full-Time Travel Movie",
+      "description": "Time Travel Part 2 | 1626 to 2026 — An Animated Fantasy Romance Movie\n\n\nWatch Part 1 https://www.youtube.com/watch?v=dfzjii6aSDU\n\nA village girl from 1626 falls in love with a man from 2026. Separated by 400 years, can they find a future together?\n\nContinue Elara and Ethan’s time travel love story in this English-language AI-animated movie. When Elara steps through a mysterious time portal into modern-day Manhattan, unfamiliar technology leads to funny misunderstandings, tender moments, and unexpected adventures.\n\nBut their romance faces challenges beyond the difference between past and present. Ethan’s family has other plans for his future, while Elara cannot forget the grandfather she left behind.\n\nWhen the blue doorway opens again, will she return to her own world—or choose a life four hundred years away?\n\nEnjoy a fantasy romance movie blending historical romance, time travel mystery, comedy, and an emotional love story.\n\n💬 Would you travel through time for true love? Share your answer and where you’re watching from in the comments.\n\nSubscribe for more original animated movies, fantasy stories, and romantic adventures.\n\nai movie full movie, time travel movies, time travel ai movie, ai movies full length, time travel ,  \ntime travel part 2, 1626 to 2026, time travel movie, time travel romance, 400 years back, village girl in modern world, past meets present, historical romance, fantasy romance movie, love across time, time portal story, animated romance movie, AI animated movie, English fantasy movie, Elara and Ethan, time travel love story, romantic fantasy, emotional love story\n\n🚫All rights reserved. Re-uploading, redistribution, unauthorized use, or commercial exploitation of this video content without official permission is strictly prohibited.\n\n#UntoldSagaAnimation #AIAnimation #FantasyRomance #AnimatedMovie",
+      "channelId": "UCEWZsQsF4DcXkigPVxpnaTw",
+      "channelTitle": "Untold Saga Animation ",
+      "thumbnail": "https://i.ytimg.com/vi/rnuIHv7vkEQ/hqdefault.jpg",
+      "publishedAt": "2026-11-18T09:45:32Z",
+      "durationSeconds": 1951,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:22.785Z",
+      "lastSeenAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "I_qYxbESOgg",
+      "url": "https://www.youtube.com/watch?v=I_qYxbESOgg",
+      "title": "Billionaire Disguised As A Nobody In Her Father's Company: What happens afterwards is shocking ",
+      "description": "She came back with nothing but a temp badge, a bus card and a past nobody wanted to talk about.\n\nDionne spends her days in the back lab of Whitfield Oil, mixing the very hair oil that made the company famous. Upstairs, Kendra's smiling face is on every bottle, every billboard, every stage. Everyone believes Kendra created the formula. Only one person knows the truth, and she is the woman they send to mop the floor.\n\nHer father left her one last condition: one year as a nobody inside his own company, with no name, no favours and no outbursts, and only then will everything he built come to her.\n\nSo Dionne keeps her head down. She stays silent when they mock her, when they take credit for her work, and when they parade a younger replacement in front of her. They think silence means weakness.\n\nIt means she is counting the days.\n\nThis is the complete story from beginning to end: the humiliation, the stolen formula, the family secrets, and the night the truth finally walks onto the stage in front of everyone who laughed at her.\n\nWatch to the end. The last few minutes change everything.\n\nSUBSCRIBE for new emotional dramas every week: @KaylaDavisStudio\nLIKE if Dionne deserved better\nCOMMENT: What would you have done in Dionne's place?\nSHARE with someone who has ever been underestimated\n\n\n  #NigerianDrama #Nollywood #FullMovie #americandrama #americanmovies #DramaShortFilm #SecretBillionaire #BillionaireInDisguise  #UndercoverBillionaire  #InstantKarma #ShortFilm #FullMovie #MicroDrama\n====================\nDisclaimer\n\nThe content on **Kayla Davis Studios** is created for entertainment, storytelling, and educational purposes. Many visuals, characters, voices, environments, and creative elements are generated or enhanced using artificial intelligence (AI).\n\nSome productions may be inspired by historical events, cultures, or real-world topics, while others are entirely fictional. Unless explicitly stated, AI-generated visuals and dialogue should not be interpreted as authentic footage or recordings.\n\nOur goal is to create immersive cinematic experiences that inspire curiosity, creativity, and imagination.",
+      "channelId": "UCsmqmciIcRR4GvBB_6qCK5Q",
+      "channelTitle": "Kayla Davis Studio",
+      "thumbnail": "https://i.ytimg.com/vi/I_qYxbESOgg/hqdefault.jpg",
+      "publishedAt": "2026-11-13T11:00:30Z",
+      "durationSeconds": 2219,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:22.785Z",
+      "lastSeenAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
       "unavailableAt": null
     }
   ]

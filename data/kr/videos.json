@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:46:24.802Z",
+  "generatedAt": "2026-11-20T05:35:19.544Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -171,7 +171,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -191,7 +191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-30T04:12:37.077Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -212,7 +212,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -270,7 +270,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -289,7 +289,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -309,7 +309,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -329,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -388,7 +388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -701,7 +701,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -910,12 +910,13 @@
       "publishedAt": "2026-09-23T10:00:20Z",
       "durationSeconds": 16628,
       "matchedKeywords": [
-        "AI 드라마 영화"
+        "AI 드라마 영화",
+        "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-18T02:52:42.142Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -954,7 +955,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -979,7 +980,7 @@
     {
       "videoId": "ht-bxCt7bEk",
       "url": "https://www.youtube.com/watch?v=ht-bxCt7bEk",
-      "title": "안녕, 어제의 나EP01~05화 몰아보기 l AI판타지 드라마 l 현대에서 이세계로 전생 했더니, 살만한가봅니다.",
+      "title": "안녕, 어제의 나 l 01화~05화 합본 몰아보기 l AI판타지 드라마",
       "description": "▶구독과 좋아요 하이프는 콘텐츠를 만드는 데 정말 큰 힘이 됩니다.\n\n※본 영상은 AI 기술을 활용하여 제작된 창작 콘텐츠입니다.\n※영상에 등장하는 인물, 장소 및 사건은 모두 허구임을 밝힙니다.\n※영상의 무단 복제 및 재업로드를 엄격히 금지합니다.\n\nAI 프로그램을 99% 활용해 제작한 영상입니다. 운필름의 상상으로 탄생한 이야기이며, 영상에 등장하는 장소와 인물은 모두 운필름이 AI로 직접 만든 허구의 공간과 캐릭터입니다.\n장면을 만들고, 이어 붙이고, 불필요한 부분을 덜어내고, 수정하고 편집하는 모든 과정에 운필름의 시간과 노력이 담겨 있습니다.\n\nWoon Film. All Rights Reserved.\n\n#안녕, 어제의 나 #판타지 #판타지드라마 #한국판타지드라마 #ai드라마 #ai영화 #ai판타지드라마 #ai한국판타지드라마",
       "channelId": "UCFlAQWPZCQnNfA4y-ies-Hw",
       "channelTitle": "운필름 Woon Film",
@@ -1014,7 +1015,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1073,7 +1074,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1094,7 +1095,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1171,7 +1172,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1190,7 +1191,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1229,7 +1230,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1268,7 +1269,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1364,7 +1365,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1440,11 +1441,11 @@
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-25T03:02:40.760Z",
       "lastSeenAt": "2026-10-25T03:02:40.760Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": "2026-11-20T05:35:19.544Z"
     },
     {
       "videoId": "X-7YS9ePTi0",
@@ -1481,7 +1482,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1501,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1843,7 +1844,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -1863,7 +1864,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2035,7 +2036,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-13T04:54:13.721Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2131,7 +2132,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:43.941Z",
       "lastSeenAt": "2026-11-01T04:08:43.941Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2189,7 +2190,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2227,7 +2228,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2323,7 +2324,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2342,7 +2343,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2475,7 +2476,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:58.345Z",
       "lastSeenAt": "2026-11-05T04:56:58.345Z",
-      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2496,7 +2497,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2515,7 +2516,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:37.936Z",
       "lastSeenAt": "2026-11-06T04:56:37.936Z",
-      "lastVerifiedAt": "2026-11-15T04:39:38.403Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2530,12 +2531,13 @@
       "durationSeconds": 5627,
       "matchedKeywords": [
         "AI 드라마 영화",
-        "AI 영화 풀버전"
+        "AI 영화 풀버전",
+        "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:58.544Z",
       "lastSeenAt": "2026-11-07T04:28:58.544Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2554,7 +2556,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2573,7 +2575,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2631,7 +2633,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2650,7 +2652,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2784,7 +2786,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:18.757Z",
       "lastSeenAt": "2026-11-10T05:50:18.757Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2822,7 +2824,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2841,7 +2843,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2860,7 +2862,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-14T04:48:10.491Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -2957,7 +2959,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:43.565Z",
       "lastSeenAt": "2026-11-12T05:37:43.565Z",
-      "lastVerifiedAt": "2026-11-18T05:47:26.620Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3033,7 +3035,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:10.491Z",
       "lastSeenAt": "2026-11-14T04:48:10.491Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3052,7 +3054,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:10.491Z",
       "lastSeenAt": "2026-11-14T04:48:10.491Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3219,12 +3221,13 @@
       "publishedAt": "2026-11-15T02:00:35Z",
       "durationSeconds": 4638,
       "matchedKeywords": [
-        "AI 드라마 영화"
+        "AI 드라마 영화",
+        "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3281,7 +3284,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3319,7 +3322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3357,7 +3360,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:31.426Z",
       "lastSeenAt": "2026-11-17T06:22:31.426Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3414,7 +3417,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:26.620Z",
       "lastSeenAt": "2026-11-18T05:47:26.620Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3452,7 +3455,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:26.620Z",
       "lastSeenAt": "2026-11-18T05:47:26.620Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3490,7 +3493,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:26.620Z",
       "lastSeenAt": "2026-11-18T05:47:26.620Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3528,7 +3531,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:24.802Z",
       "lastSeenAt": "2026-11-19T05:46:24.802Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     },
     {
@@ -3547,7 +3550,197 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:24.802Z",
       "lastSeenAt": "2026-11-19T05:46:24.802Z",
-      "lastVerifiedAt": "2026-11-19T05:46:24.802Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "XSdGhPpnazI",
+      "url": "https://www.youtube.com/watch?v=XSdGhPpnazI",
+      "title": "AI드라마 | 파음 전편 몰아보기 | 보이지 않아도 들린다 [다크판타지]",
+      "description": "\"네 소리면, 저 바다도 잠들겠구나.\"\n\n왜구가 데려온 눈먼 요괴에게 아버지와 두 눈을 잃은 소년 무명.\n그 밤 듣지도 말하지도 못하게 된 수군 무관 천둥.\n눈먼 소리꾼과 귀먹은 고수는 서로의 눈과 귀가 되어 칠 년을 떠돕니다.\n원수를 꺾은 뒤에야 무명은 알게 됩니다.\n칠 년 동안 자신을 쫓은 것은, 귀가 없어 아무것도 듣지 못하면서\n남의 목소리를 붉은 실에 꿰어 모으는 왜승 아카이토였다는 것을.\n보이지 않는 자와 들리지 않는 자가, 빼앗긴 소리를 모두 돌려보냅니다.\n\n《파음(破音)》 1화부터 5화 완결까지를 한 편으로 이은 합본입니다.\n회차 사이와 장면 사이에 이음 장면 열두 개를 새로 넣어, 이야기가 끊기지 않게 다듬었습니다.\n\n━━━━━━━━━━━━━━━\n\n0:00 1화 소리 내지 마라\n8:49 2화 소리를 내거라\n15:39 3화 소리를 돌려다오\n23:57 4화 소리로 보내거라\n32:05 5화 파음\n\n━━━━━━━━━━━━━━━\n\n작품 소개\n《파음》은 판소리와 북소리로 요괴에 맞서는 조선 다크 판타지 사극입니다.\n소리를 내면 잡혀가던 밤에서, 소리로 바다를 잠재우는 새벽까지의 이야기입니다.\n\n등장인물\n· 무명 | 열네 살에 눈을 잃고, 소리로 세상을 보는 떠돌이 소리꾼\n· 천둥(한석) | 듣지도 말하지도 못하는 고수, 그 밤 군사 서른을 잃은 수군 만호\n· 현희 | 눈을 꿰매인 채 소리로 사냥하는 비파 요괴\n· 아카이토 | 귀가 없는 왜승, 붉은 실에 목소리를 꿰어 모으는 비파 법사\n· 달래 | 소리를 배우고 싶은 주막집 딸\n· 강필 | 남해 수군 진의 첨사\n\n본 영상은 AI 기술로 제작한 창작 판타지 사극입니다.\n등장하는 인물·사건·요괴는 모두 허구이며 실제 역사와 다릅니다.\n\n#파음 #AI드라마 #AI사극 #다크판타지 #판소리 #몰아보기 #AI단편극장",
+      "channelId": "UCXF8-h55_5y1IX0qfepvlYw",
+      "channelTitle": "AI단편극장",
+      "thumbnail": "https://i.ytimg.com/vi/XSdGhPpnazI/hqdefault.jpg",
+      "publishedAt": "2026-11-20T00:01:06Z",
+      "durationSeconds": 2483,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "XxqURgy5VEU",
+      "url": "https://www.youtube.com/watch?v=XxqURgy5VEU",
+      "title": "안녕, 어제의 나 l 06화~10화 합본 몰아보기 l AI판타지 드라마",
+      "description": "▶구독과 좋아요 하이프는 콘텐츠를 만드는 데 정말 큰 힘이 됩니다.\n\n※본 영상은 AI 기술을 활용하여 제작된 창작 콘텐츠입니다.\n※영상에 등장하는 인물, 장소 및 사건은 모두 허구임을 밝힙니다.\n※영상의 무단 복제 및 재업로드를 엄격히 금지합니다.\n\nAI 프로그램을 99% 활용해 제작한 영상입니다. 운필름의 상상으로 탄생한 이야기이며, 영상에 등장하는 장소와 인물은 모두 운필름이 AI로 직접 만든 허구의 공간과 캐릭터입니다.\n장면을 만들고, 이어 붙이고, 불필요한 부분을 덜어내고, 수정하고 편집하는 모든 과정에 운필름의 시간과 노력이 담겨 있습니다.\n\nWoon Film. All Rights Reserved.\n\n#안녕, 어제의 나 #판타지 #판타지드라마 #한국판타지드라마 #ai드라마 #ai영화 #ai판타지드라마 #ai한국판타지드라마",
+      "channelId": "UCFlAQWPZCQnNfA4y-ies-Hw",
+      "channelTitle": "운필름 Woon Film",
+      "thumbnail": "https://i.ytimg.com/vi/XxqURgy5VEU/hqdefault.jpg",
+      "publishedAt": "2026-11-19T10:15:03Z",
+      "durationSeconds": 3291,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "z2sZiMwYTuA",
+      "url": "https://www.youtube.com/watch?v=z2sZiMwYTuA",
+      "title": "La Femme Serpent Que J’ai Ramenée À La Maison A Détruit Toute Ma Famille 1- Film Nigerian 2026",
+      "description": "French A Trip To The Palace Pt 1\n\n\n\n #Filmsafricainsenfrançais #nollywoodenfrancais #france",
+      "channelId": "UCGDnM2El50r6OTS8WGXHdLQ",
+      "channelTitle": "FILMS AFRICAINS EN FRANÇAIS",
+      "thumbnail": "https://i.ytimg.com/vi/z2sZiMwYTuA/hqdefault.jpg",
+      "publishedAt": "2026-11-19T10:00:28Z",
+      "durationSeconds": 9056,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "2M3diaTTWDY",
+      "url": "https://www.youtube.com/watch?v=2M3diaTTWDY",
+      "title": "AI드라마 | 안시성 645 | 황제를 돌려보낸 이름 없는 성주 [대하사극]",
+      "description": "AI단편극장 대하사극.\n645년, 당 태종이 몸소 이끈 대군이 고구려로 쳐들어왔다. 요동성이 불타고, 십오만 구원군이 주필산에서 무너졌다. 홀로 남은 산성 하나, 안시성.\n이름조차 전하지 않는 성주와 성 안 백성들은 88일 동안 황제의 군대를 막아냈다. 60일 동안 쌓아 올린 흙산이 무너지던 날, 전쟁의 방향이 바뀌었다.\n\n[등장인물]\n안시성주 - 이름은 전하지 않는다\n당 태종 이세민 / 이세적 / 장손무기 / 강하왕 이도종 / 부복애\n고연수 / 고정의\n달 / 강내 / 소이 / 왕삼 (창작 인물)\n\n※ 이 영상은 『삼국사기』와 『자치통감』의 기록을 바탕으로 극적으로 재구성했습니다. 대화 대부분과 일부 인물(달·강내·소이·왕삼)은 창작입니다.\n※ 안시성주의 이름 '양만춘'은 16세기 이후 기록에만 전해져 작중에서는 쓰지 않았습니다.\n※ 영상과 음성은 AI로 제작했습니다.\n\n#안시성 #고구려 #AI드라마 #대하사극",
+      "channelId": "UCXF8-h55_5y1IX0qfepvlYw",
+      "channelTitle": "AI단편극장",
+      "thumbnail": "https://i.ytimg.com/vi/2M3diaTTWDY/hqdefault.jpg",
+      "publishedAt": "2026-11-19T00:55:48Z",
+      "durationSeconds": 1846,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "_LT21A5VrSQ",
+      "url": "https://www.youtube.com/watch?v=_LT21A5VrSQ",
+      "title": "Putri Yang Tak Pernah Mereka Lihat Film Lengkap Drama AI",
+      "description": "Hallo Guys Tonton ya Seru & Sangat Dramatis loh🔥\nPutri Yang Tak Pernah Mereka Lihat | The Daughter They Had Never Seen Full Movie AI Drama Sub Indo\n\nCerita nya : Kisah Ella yang menyedihkan Seorang gadis enam tahun yang diabaikan orangtua nya karena Ella dinilai nakal dan tidak menurut, Adik Ella yang manja menangis karena tidak di berikan barang kepunyaan ella dan pada saat itu Ella harus menerima hukuman dikurung ibunya di lemari es. keesokan harinya orang tua Ella lupa membuka lemari es karena Amarahnya yang tak kunjung reda, setelah itu Ella bertahan selama tiga hari dan Roh nya menyaksikan keluarganya yang terlambat menyelamatkan dan sia-sia, lalu sang nenek mailakat menemani Roh Ella yang masih ingin bertemu dan menjelaskan keadaan sebenarnya, lalu pada hari berikutnya Guru dan teman Ella berkunjung ke rumah Ella dan menceritakan tentang Ella yang selama ini dinilai nakal ternyata Ella itu anak yang sangat baik di mata guru dan teman teman nya pun belum bisa meyakinkan ibu nya, sampai akhirnya orang tua Ella menyesal kehilangan Putri nya yang selama ini tak mereka lihat. \n(Mimin pun menangis menonton nya guys)\n\nJangan Lupa Like, Comment & Subscribe ya 🙏🏻😊❤️\n\n#movie #film #drama #ai #putriyangtakpernahmerekalihat #thedaughterhadneverseen #familydrama #love #ella",
+      "channelId": "UCZyg67AK1lbTkwN3otFitsw",
+      "channelTitle": "Reynold Bronson Official",
+      "thumbnail": "https://i.ytimg.com/vi/_LT21A5VrSQ/hqdefault.jpg",
+      "publishedAt": "2026-11-18T18:49:27Z",
+      "durationSeconds": 3428,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "AtgN9Dz2xSk",
+      "url": "https://www.youtube.com/watch?v=AtgN9Dz2xSk",
+      "title": "「무진」 1화~10화 완결 몰아보기 | 맨주먹 소년이 검을 뽑기까지, 한 번에 정주행 #AI드라마",
+      "description": "장백산 아래, 할아버지에게 \"검은 쓰지 말거라\"는 말만 듣고 자란 소년 무진.\n검은 깃털이 마을을 덮친 그날부터, 삼십 년 전의 문을 닫는 마지막 싸움까지.\n「무진」 1화부터 10화(완결)까지 한 번에 몰아보세요.\n\n0:00 1화 검은 깃털\n7:54 2화 북방의 활\n14:02 3화 만남\n19:11 4화 동행\n24:36 5화 장난의 대가\n30:13 6화 갈라진 길\n35:51 7화 청운문의 배신자\n41:28 8화 서로의 약속\n47:00 9화 숨겨둔 검\n53:08 10화 주먹과 검의 합 (완결)\n\n▶ 무진의 두 번째 이야기 「犬 (개)」 11월 말 공개\n\n이 영상은 AI로 제작되었습니다.\n음악: 자체 제작 (Suno)\n\n[English]\nMUJIN — Episodes 1 to 10, the complete series in one sitting.\nA boy from Mount Baekdu, raised on one rule — \"never use the sword\" — until the Black Feather gang burns his village.\nFrom the first feather to the final fight at the thirty-year-old gate.\nNext: MUJIN's second story, DOG (犬), a noir set in Busan — coming late November.\nMade with AI. Music: original (Suno).\n\n#무진 #AI드라마 #무협 #몰아보기 #정주행 #완결 #AI극장",
+      "channelId": "UCKG6kpv4f9Rruvj0JwN4B4w",
+      "channelTitle": "AI극장",
+      "thumbnail": "https://i.ytimg.com/vi/AtgN9Dz2xSk/hqdefault.jpg",
+      "publishedAt": "2026-11-18T05:12:23Z",
+      "durationSeconds": 3519,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Yx2T_RRatWM",
+      "url": "https://www.youtube.com/watch?v=Yx2T_RRatWM",
+      "title": "AI드라마 | 고려거란전쟁: 귀주 | 짐은 다시는 도성을 버리지 않겠소 [대하사극]",
+      "description": "\"이긴다고는 아뢰지 못하옵니다. 허나 지지 않는 법은 알고 있사옵니다.\"\n\n1010년 겨울, 거란의 사십만 대군에 도성 개경이 불타고 열아홉 살의 임금 현종은 남쪽으로 피난길에 오른다.\n그로부터 여덟 해. 1018년 12월, 소배압의 십만 기병이 다시 얼어붙은 압록강을 건넌다.\n\n\"짐은 다시는 도성을 버리지 않겠소.\"\n현종은 일흔한 살의 문신 강감찬을 상원수로 세우고, 고려군 이십만 팔천삼백이 북으로 향한다.\n흥화진의 삼교천, 텅 빈 개경, 그리고 1019년 2월 1일 귀주.\n고려의 운명을 건 마지막 싸움이 시작된다.\n\n━━━━━━━━━━━━━━━\n\n👤 등장인물\n· 현종 | 고려 제8대 임금\n· 강감찬 | 상원수\n· 강민첨 | 부원수\n· 김종현 | 병마판관\n· 원성왕후 | 현종의 왕후\n· 야율융서 | 거란 황제 성종\n· 소배압 | 거란 도통\n· 야율팔가 | 거란 장수\n· 칠성 · 막동 | 고려군 병사\n\n━━━━━━━━━━━━━━━\n\n⚠️ 이 영상은 『고려사』와 『고려사절요』의 기록을 바탕으로 극적으로 재구성한 창작물입니다.\n대화 전부와 일부 인물(병사 칠성·막동, 문하시랑, 노파)은 창작입니다.\n영상과 음성은 생성형 AI로 제작했습니다.\n\n#고려거란전쟁 #귀주대첩 #강감찬 #대하사극 #AI드라마 #AI단편극장 #고려",
+      "channelId": "UCXF8-h55_5y1IX0qfepvlYw",
+      "channelTitle": "AI단편극장",
+      "thumbnail": "https://i.ytimg.com/vi/Yx2T_RRatWM/hqdefault.jpg",
+      "publishedAt": "2026-11-18T01:01:20Z",
+      "durationSeconds": 1800,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Q1kCemcKKTU",
+      "url": "https://www.youtube.com/watch?v=Q1kCemcKKTU",
+      "title": "THE EXCEPTION (FULL MOVIE) | A Powerful AI Nollywood Drama | Adejoke Studio",
+      "description": "Love, trust, ambition, and unexpected twists come together in THE EXCEPTION, a captivating Nollywood movie.\n\nGet ready for an emotional movie experience filled with romance, drama, and unforgettable moments.\n\nWatch the full movie, enjoy every moment, and tell us what you think in the comments!\n\nIf you enjoy this movie, please remember to:\n\n👍 LIKE\n💬 COMMENT\n📲 SHARE\n🔔 SUBSCRIBE to ADEJOKE STUDIO for more amazing Nollywood movies.\n\nThank you for supporting Adejoke Studio. ❤️\n\n#TheException #FullMovie #NollywoodMovies #NigerianMovies #AfricanMovies #NollywoodDrama #RomanticDrama #NigerianDrama #AdejokeStudio #FullNollywoodMovie",
+      "channelId": "UCovPKyp7aBhSttygyYZ6T4g",
+      "channelTitle": "Adejoke Studio ",
+      "thumbnail": "https://i.ytimg.com/vi/Q1kCemcKKTU/hqdefault.jpg",
+      "publishedAt": "2026-11-13T14:30:28Z",
+      "durationSeconds": 5212,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pCKtth3ctcY",
+      "url": "https://www.youtube.com/watch?v=pCKtth3ctcY",
+      "title": "불운한 장녀로 환생해 네 동생과 쫓겨났지만, 보물찾기 시스템으로 부자가 되고 숨겨진 전신과 결혼했다! #환생 #보물찾기 #선결혼후연애",
+      "description": "🎬 AI 기술로 탄생한 새로운 웹툰 드라마의 세계!\n\n저희 채널은 AI 기술을 활용해 제작한 다양한 장르의 웹툰 및 숏드라마 콘텐츠를 선보입니다.\n\n🔥 짜릿한 복수극과 통쾌한 역전 스토리\n👑 매력적인 여주인공과 압도적인 먼치킨 캐릭터\n💎 재벌가의 비밀, 신분 반전, 숨겨진 정체\n⚔️ 판타지, 선협, 무협, 액션과 로맨스\n🎭 예측할 수 없는 반전과 몰입감 넘치는 이야기\n\n평범한 인물의 특별한 반전부터 상상을 뛰어넘는 통쾌한 복수까지!\n\nAI가 만들어가는 새로운 이야기의 세계를 만나보세요.\n\n❤️ 구독과 좋아요는 더 좋은 콘텐츠를 만드는 큰 힘이 됩니다!\n\n매주 새로운 AI 웹툰 드라마로 찾아뵙겠습니다.\n\n#AI웹툰 #AI드라마 #AI애니메이션 #숏드라마 #KoreanWebtoon",
+      "channelId": "UCmgmyIb3-bzBom4q3KnGqmA",
+      "channelTitle": "土豆漫剧ShortTV",
+      "thumbnail": "https://i.ytimg.com/vi/pCKtth3ctcY/hqdefault.jpg",
+      "publishedAt": "2026-11-08T12:00:30Z",
+      "durationSeconds": 9743,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "buIcwkZkwyk",
+      "url": "https://www.youtube.com/watch?v=buIcwkZkwyk",
+      "title": "[몰아보기] 재벌 모녀가 무시한 가정부, 그 집의 진짜 주인이었다 1화~4화 | 사이다 드라마 | AI드라마",
+      "description": "성북동 태성그룹 회장 저택에 새 가정부 한순임이 들어온다.\n맨손으로 변기를 닦게 하고, 생일 파티에서 얼굴에 케이크를 들이밀고, 다이아 반지 도둑으로 몰고, 이십 년 일한 직원들까지 내쫓는 재벌 모녀.\n아무 말 없이 참던 가정부는 사실 회장이 저택과 지분 전부를 남긴 사람, 이 집의 진짜 주인이었다.\n\n00:00 제1화 새 가정부\n08:08 제2화 딸의 생일 파티\n16:17 제3화 명품 반지\n24:26 제4화 해고된 사람들\n\n▶ 5화 「유언장의 소문」에서 계속됩니다.\n\n※ 이 영상은 AI로 제작된 픽션입니다. 등장인물과 회사는 실제와 관련이 없습니다.\n\n#사이다드라마 #AI드라마 #몰아보기 #재벌모녀 #가정부 #갑질응징 #참교육 #사이다드라마MSP말본\n\n[태그]\n사이다드라마, AI드라마, 몰아보기, 재벌모녀가무시한가정부, 가정부, 갑질, 참교육, 재벌, 상속, 사이다드라마MSP말본",
+      "channelId": "UCp5z75IkCG1g1JT3XibRs-w",
+      "channelTitle": "사이다 드라마 MSP 말본 ",
+      "thumbnail": "https://i.ytimg.com/vi/buIcwkZkwyk/hqdefault.jpg",
+      "publishedAt": "2026-11-07T04:48:04Z",
+      "durationSeconds": 1955,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-20T05:35:19.544Z",
+      "lastSeenAt": "2026-11-20T05:35:19.544Z",
+      "lastVerifiedAt": "2026-11-20T05:35:19.544Z",
       "unavailableAt": null
     }
   ]
