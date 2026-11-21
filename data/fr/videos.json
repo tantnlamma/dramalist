@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:35:40.980Z",
+  "generatedAt": "2026-11-21T05:29:11.521Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -378,7 +378,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-14T04:48:32.804Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -437,7 +437,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -476,7 +476,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:53:03.073Z",
       "lastSeenAt": "2026-10-18T02:53:03.073Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -898,7 +898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1052,7 +1052,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-11-17T06:22:53.622Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1187,7 +1187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1419,7 +1419,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1478,7 +1478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1520,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1539,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1578,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1752,7 +1752,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1809,7 +1809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-19T05:46:45.362Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -1867,7 +1867,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:01.721Z",
       "lastSeenAt": "2026-11-02T04:13:01.721Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2057,7 +2057,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:00.164Z",
       "lastSeenAt": "2026-11-06T04:57:00.164Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2443,7 +2443,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:54.890Z",
       "lastSeenAt": "2026-11-11T04:32:54.890Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2463,7 +2463,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:54.890Z",
       "lastSeenAt": "2026-11-11T04:32:54.890Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2502,7 +2502,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2521,7 +2521,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2540,7 +2540,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2579,7 +2579,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:37.453Z",
       "lastSeenAt": "2026-11-13T04:54:37.453Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2617,7 +2617,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:32.804Z",
       "lastSeenAt": "2026-11-14T04:48:32.804Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2636,7 +2636,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:32.804Z",
       "lastSeenAt": "2026-11-14T04:48:32.804Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2655,7 +2655,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2675,7 +2675,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2689,12 +2689,13 @@
       "publishedAt": "2026-11-14T17:00:19Z",
       "durationSeconds": 5303,
       "matchedKeywords": [
-        "film complet intelligence artificielle"
+        "film complet intelligence artificielle",
+        "film science fiction IA complet"
       ],
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2713,7 +2714,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2751,7 +2752,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:48.030Z",
       "lastSeenAt": "2026-11-16T04:36:48.030Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2789,7 +2790,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:53.622Z",
       "lastSeenAt": "2026-11-17T06:22:53.622Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2808,7 +2809,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:53.622Z",
       "lastSeenAt": "2026-11-17T06:22:53.622Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2828,7 +2829,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:53.622Z",
       "lastSeenAt": "2026-11-17T06:22:53.622Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2847,7 +2848,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:47.135Z",
       "lastSeenAt": "2026-11-18T05:47:47.135Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2866,7 +2867,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:47.135Z",
       "lastSeenAt": "2026-11-18T05:47:47.135Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2904,7 +2905,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:45.362Z",
       "lastSeenAt": "2026-11-19T05:46:45.362Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2923,7 +2924,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:45.362Z",
       "lastSeenAt": "2026-11-19T05:46:45.362Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2944,7 +2945,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:45.362Z",
       "lastSeenAt": "2026-11-19T05:46:45.362Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2964,7 +2965,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -2983,7 +2984,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -3002,7 +3003,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     },
     {
@@ -3021,7 +3022,103 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-20T05:35:40.980Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "tolHd9_xWOI",
+      "url": "https://www.youtube.com/watch?v=tolHd9_xWOI",
+      "title": "Amoureux & Associés | Film Complet | Romance | Kelly Van der Burg  | M6+ Films & Séries",
+      "description": "Skye travaille pour une créatrice de mode et a toujours rêvé de concevoir une collection. Lorsqu’elle se fait licencier, elle décide de lancer sa propre marque et va s’associer avec Jason, un entrepreneur, pour créer une boutique de vêtements dans un ancien food-truck !\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1\n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nAMOUREUX & ASSOCIÉS (BELLE ON WHEELS)\nRéalisation : Bill Corcoran\nDistribution : Benjamin Sutherland, Zarrin Darnell-Martin, Elise Bauman, Kym Wyatt McKenzie, Laura De Carteret et Kelly Van der Burg\n© REEL ONE ENTERTAINMENT - 2020 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/tolHd9_xWOI/hqdefault.jpg",
+      "publishedAt": "2026-11-20T18:00:18Z",
+      "durationSeconds": 5084,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:11.521Z",
+      "lastSeenAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "rnqs0wxchNo",
+      "url": "https://www.youtube.com/watch?v=rnqs0wxchNo",
+      "title": "Ice Soldiers | Film Complet | Dominic Purcell | Action & Science Fiction | SPF",
+      "description": "Enfouis sous la glace depuis la guerre froide, des soldats soviétiques génétiquement modifiés sont découverts puis réactivés. Dotés d’une force surhumaine, ils reprennent une mission secrète dévastatrice. Un scientifique déterminé tente de les arrêter avant qu’il ne soit trop tard.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Sturla Gunnarsson\nAvec Dominic Purcell, Adam Beach, Michael Ironside\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #filmaction #sciencefiction #soldats #arctique #thriller #filmcompletenfrançais\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/rnqs0wxchNo/hqdefault.jpg",
+      "publishedAt": "2026-11-20T17:00:35Z",
+      "durationSeconds": 5439,
+      "matchedKeywords": [
+        "film complet intelligence artificielle",
+        "film science fiction IA complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:11.521Z",
+      "lastSeenAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HSZplqNifzg",
+      "url": "https://www.youtube.com/watch?v=HSZplqNifzg",
+      "title": "Black Widow⎪Une baronne de la drogue revient régler ses comptes⎪Crime⎪Thriller⎪Film complet⎪ACE",
+      "description": "Ancienne baronne de la drogue, Carmen a simulé sa mort et vit désormais cachée loin des Pays-Bas.\n\nMais lorsqu’un incident révèle sa véritable identité, elle est contrainte de retourner à Amsterdam et d’affronter ceux qu’elle avait laissés derrière elle.\n\nSon retour attire immédiatement l’attention de ses anciens ennemis. Pour protéger ses enfants et mettre définitivement fin à son passé criminel, Carmen va devoir reprendre les armes.\n\nDans son ancien monde, la moindre faiblesse peut lui coûter sa famille.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film ! https://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nUn film de Diederik Van Rooijen\nAvec Monic Hendrickx, Niels Gomperts et Sigrid ten Napel\n© Tous droits réservés ACE\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.\n#filmcomplet #crime #thriller #blackwidow #cineimpact",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/HSZplqNifzg/hqdefault.jpg",
+      "publishedAt": "2026-11-17T17:30:25Z",
+      "durationSeconds": 6899,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:11.521Z",
+      "lastSeenAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "et6z8ssRc0A",
+      "url": "https://www.youtube.com/watch?v=et6z8ssRc0A",
+      "title": "Les Mensonges (The lies) | avec Marilyne CANTO & Hippolyte GIRARDOT | Drame | BSF",
+      "description": "Le téléfilm suit Véronique, une employée de banque ordinaire. Pour faire face à des difficultés et dissimuler une situation délicate, elle commence à détourner l'argent des comptes d'épargne et des contrats d'assurance-vie de ses clients.\n\nVous êtes fan de films ? Nous aussi ! 👉 https://bit.ly/3TAkC3q Abonnez-vous !\n\n👩 Marilyne CANTO, Hippolyte GIRARDOT, Scali DELPEYRAT, Marie PAYEN, Nicolas GIRAUD, Paul MINTHE, Mathilde CAZENEUVE, Valentin TURCHI, Pierre LAROCHE et Martine SARCEY.\n\n⚠️ Cette vidéo est un épisode de fiction qui peut contenir des images qui peuvent heurter la sensibilité de certaines personnes. Si vous êtes une personne sensible, le visionnage de cet épisode vous est déconseillé.\n\n\"Les mensonges\"\nÉcrit par Caroline BRUN et Olivier GORCE\nRéalisé par Fabrice CAZENEUVE\n\n© Droits Réservés \n\n#films #streaming #telefilms \n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UC5pDArVYJ9Rhz9yvkuyqthw",
+      "channelTitle": "ICON TV - Films & Séries ",
+      "thumbnail": "https://i.ytimg.com/vi/et6z8ssRc0A/hqdefault.jpg",
+      "publishedAt": "2026-11-20T18:00:21Z",
+      "durationSeconds": 5373,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:11.521Z",
+      "lastSeenAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HU5SsRg_Dfw",
+      "url": "https://www.youtube.com/watch?v=HU5SsRg_Dfw",
+      "title": "Mission Eagle⎪Un policier infiltre un cartel⎪Action⎪Thriller⎪Film complet⎪ACE",
+      "description": "Un policier accepte une mission particulièrement dangereuse : infiltrer un puissant cartel de drogue opérant depuis l’étranger.\n\nSous une fausse identité, il doit gagner la confiance des trafiquants, découvrir leur réseau et recueillir suffisamment de preuves pour permettre leur arrestation.\n\nMais plus il s’enfonce dans l’organisation, plus la frontière entre son rôle et sa véritable identité devient fragile.\n\nChaque parole peut le trahir. Chaque rencontre peut dissimuler un piège. Et le moindre doute de la part du cartel pourrait signer son arrêt de mort.\n\nPris entre les criminels qu’il infiltre et les autorités qui le manipulent à distance, l’agent comprend bientôt que cette mission cache des enjeux beaucoup plus personnels.\n\nPour faire tomber le réseau, il devra aller jusqu’au bout, même si cela signifie ne jamais revenir.\n\n⚠️ Certaines scènes peuvent heurter la sensibilité de certains spectateurs.\n\nAbonnez-vous à la chaîne et activez la 🔔 pour ne manquer aucun nouveau film !\nhttps://shorturl.at/SpmjC\n\nRetrouvez des films captivants, des aventures intenses, des combats spectaculaires et des histoires pleines de suspense.\n\nUn film d’Alan Mak et Anthony Pun\nAvec Duan Yihong, Huang Xuan et Lang Yueting\n© Tous droits réservés ACE\n\n#filmcomplet #action #thriller #infiltration #missioneagle #cineimpact\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCBGIjP3H3k-5MxwHYKzq90w",
+      "channelTitle": "CINE IMPACT",
+      "thumbnail": "https://i.ytimg.com/vi/HU5SsRg_Dfw/hqdefault.jpg",
+      "publishedAt": "2026-11-20T17:30:31Z",
+      "durationSeconds": 7006,
+      "matchedKeywords": [
+        "drame IA film complet"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:11.521Z",
+      "lastSeenAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
       "unavailableAt": null
     }
   ]

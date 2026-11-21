@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:35:35.736Z",
+  "generatedAt": "2026-11-21T05:29:06.794Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -439,7 +439,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -458,7 +458,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:53.249Z",
       "lastSeenAt": "2026-10-23T03:13:53.249Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -649,7 +649,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -668,7 +668,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -706,7 +706,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:56.871Z",
       "lastSeenAt": "2026-11-02T04:12:56.871Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -783,7 +783,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -840,7 +840,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -1011,7 +1011,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:55.610Z",
       "lastSeenAt": "2026-11-15T04:39:55.610Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -1049,7 +1049,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -1068,7 +1068,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     },
     {
@@ -1087,7 +1087,45 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:35.736Z",
       "lastSeenAt": "2026-11-20T05:35:35.736Z",
-      "lastVerifiedAt": "2026-11-20T05:35:35.736Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "6g-bnOcNz6Y",
+      "url": "https://www.youtube.com/watch?v=6g-bnOcNz6Y",
+      "title": "Lampião Contra o Coronel: As Três Armadilhas (Filme Completo de 1 Hora)",
+      "description": "Sertão da Bahia, 1932. O coronel Belarmino já tinha perdido pra Lampião três vezes. Então ele mudou de jeito: comprou um menino de dentro do bando, pagou um caçador que tinha andado seis anos com o capitão… e, quando nada disso deu certo, foi atrás da única coisa que Lampião não aguenta perder.\n\nMais três causos de Sombra de Couro num filme só, com abertura e pontes novas.\n\n🏮 Causo 1: A lanterna na serra. O coronel compra a dívida da mãe de Juriti, o cangaceiro mais novo do bando, em troca de uma lanterna acesa em cima do coito.\n🐦 Causo 2: O Acauã. O homem que um dia salvou a vida de Lampião volta pro sertão… contratado pra caçar o capitão.\n🧣 Causo 3: As trinta Marias. O coronel prende a mãe de Maria Bonita no tronco, na frente da igreja, e a vila inteira responde.\n\n⏱️ Capítulos\n0:00 As armadilhas do coronel\n0:39 Causo 1: A lanterna na serra\n1:44 O preço do Juriti\n4:24 A cacimba\n5:57 Tem gente falando\n6:54 O inocente\n8:50 A porteira azul\n9:57 O rastro\n12:16 O plano do tenente\n12:53 A lanterna\n15:14 O cerco\n18:45 A promissória\n21:13 Só outro cangaceiro\n22:21 Causo 2: O Acauã\n23:52 O assobio\n25:42 A dívida\n27:51 A cadeia\n30:01 O bando acuado\n33:07 O recado do coronel\n35:32 Sexta-feira\n37:42 A cela vazia\n40:12 Quite\n42:44 O que ele mais ama\n43:40 Causo 3: As trinta Marias\n45:17 O tronco\n47:33 A promessa\n49:55 A madrinha\n52:30 A porta fechada\n54:57 O jenipapo\n57:24 Trinta Marias\n1:00:03 Minha avó tá ali\n1:01:36 Maria Déa\n1:03:24 O tronco do coronel\n1:05:07 Os nazarenos\n1:05:43 Como tudo começou\n\n▶️ Como tudo começou: a Temporada 1 inteira num filme só: [link do Compilado T1]\n\nOs episódios separados:\n▶️ Episódio 4: [https://youtu.be/4WnJGfvVBmM?si=tL_NlmFP2YhrpOQk]\n▶️ Episódio 5: [https://youtu.be/jaoXdwvjzAM?si=eoU03FrytjzvZaIV]\n▶️ Episódio 6: [link do EP06]\n\n🌵 Sombra de Couro: causos do sertão nos tempos do cangaço (1920–1938), com o mesmo elenco de sempre: Lampião, o bando e os coronéis que o sertão não esqueceu. Inscreva-se e ative o sininho.\n\nObra de ficção histórica inspirada no sertão nordestino. Personagens, falas e situações são dramatizações. Imagens e vozes produzidas com auxílio de inteligência artificial.\n\n#lampião #cangaço #filmecompleto",
+      "channelId": "UCCQbbg456Hwnh9XVNIEkG5w",
+      "channelTitle": "Sombra de Couro",
+      "thumbnail": "https://i.ytimg.com/vi/6g-bnOcNz6Y/hqdefault.jpg",
+      "publishedAt": "2026-11-20T18:30:23Z",
+      "durationSeconds": 3985,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:06.794Z",
+      "lastSeenAt": "2026-11-21T05:29:06.794Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "F9BtHhAwrmg",
+      "url": "https://www.youtube.com/watch?v=F9BtHhAwrmg",
+      "title": "Robô em perigo -- A.R.I - Meu Amigo Robô -- Filme de Família HD -- 📽️🌟CineMax",
+      "description": "Filme de Familia em HD COMPLETO e GRÁTIS\n\nNoah descobre A.R.I., um robô amigável com inteligência avançada. Quando um diretor de laboratório tenta sequestrá-lo para transformá-lo em arma, o garoto precisa proteger seu novo amigo e impedir o plano.\n\n🌟 A.R.I - Meu Amigo Robô (The Adventure of A.R.I.: My Robot Friend)\n\n🎬 CineMax – Máxima Diversão com Filmes Completos e Dublados! 🍿✨\n\nBem-vindo ao CineMax, o canal ideal para quem ama cinema! Aqui você encontra filmes completos e 100% dublados em português, prontos para assistir quando e onde quiser. Ação, suspense, comédia, terror e muito mais te esperam!\n\n📽️ Novos filmes toda semana!\n🔊 Áudio dublado com qualidade de cinema!\n🍿 Sessões imperdíveis direto no YouTube!\n\nSe inscreva no CineMax e leve a emoção do cinema para sua casa! 🚀🎥 #CineMax\n\n\"2566\"",
+      "channelId": "UCsTR9WBOO97TGSWbmLvB1Lg",
+      "channelTitle": "CineMax",
+      "thumbnail": "https://i.ytimg.com/vi/F9BtHhAwrmg/hqdefault.jpg",
+      "publishedAt": "2026-08-29T15:00:06Z",
+      "durationSeconds": 5195,
+      "matchedKeywords": [
+        "filme de robô completo português"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:06.794Z",
+      "lastSeenAt": "2026-11-21T05:29:06.794Z",
+      "lastVerifiedAt": "2026-11-21T05:29:06.794Z",
       "unavailableAt": null
     }
   ]

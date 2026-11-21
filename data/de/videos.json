@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:35:45.838Z",
+  "generatedAt": "2026-11-21T05:29:16.595Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -548,7 +548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -567,7 +567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -605,7 +605,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:50.017Z",
       "lastSeenAt": "2026-11-19T05:46:50.017Z",
-      "lastVerifiedAt": "2026-11-19T05:46:50.017Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     },
     {
@@ -625,6 +625,44 @@
       "discoveredAt": "2026-11-20T05:35:45.838Z",
       "lastSeenAt": "2026-11-20T05:35:45.838Z",
       "lastVerifiedAt": "2026-11-20T05:35:45.838Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "5t_EOvHUf6I",
+      "url": "https://www.youtube.com/watch?v=5t_EOvHUf6I",
+      "title": "Ganzer Film Deutsch | Neuer Actionfilm 2026",
+      "description": "Sehen Sie Action Filme Deutsch Komplett und genießen Sie einen spannenden ganzen Film auf Deutsch in voller Länge. Freuen Sie sich auf packende Action, mitreißende Spannung und ein unvergessliches Kinoerlebnis in HD.\n\nIn einer nahen Zukunft wird die USA von künstlicher Intelligenz kontrolliert. Der ehemalige Soldat Winter lebt im Verborgenen tief in den Wäldern und bewacht ein gestohlenes Virus, das die korrupten KI-Systeme des Militärs zerstören könnte.\n\n#ActionFilme #GanzerFilm #FilmeDeutsch",
+      "channelId": "UCz-CBWifWMYa0Su3YblaMjQ",
+      "channelTitle": "XXL FILME",
+      "thumbnail": "https://i.ytimg.com/vi/5t_EOvHUf6I/hqdefault.jpg",
+      "publishedAt": "2026-11-10T08:36:13Z",
+      "durationSeconds": 4815,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:16.595Z",
+      "lastSeenAt": "2026-11-21T05:29:16.595Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TNWlXqiiTkw",
+      "url": "https://www.youtube.com/watch?v=TNWlXqiiTkw",
+      "title": "Summer 03 (GANZER FILM mit JOEY KING, Familiendrama Filme auf Deutsch, Drama Komödie)",
+      "description": "😄 Die lustigsten Komödien in voller Länge auf Deutsch anschauen - jetzt FABELLA hier abonnieren: http://bit.ly/FabellaAbo\n▶ Als ihre Großmutter ein gut gehütetes Familiengeheimnis lüftet, gerät Jamies Welt ins Chaos. Zwischen erster Liebe und familiären Turbulenzen wird dieser Sommer für sie unvergesslich. 💕☀️\n\nOriginaltitel: Summer '03 (2018)\nMit: Joey King, Paul Scheer, Andrea Savage\nRegie: Becca Gleason\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nDie 16-jährige Jamie steckt mitten in den typischen Wirren des Erwachsenwerdens, als ihre Familie von einem unerwarteten Ereignis völlig aus der Bahn geworfen wird. Auf dem Sterbebett beschließt ihre Großmutter Dotty, jahrzehntelang gehütete Familiengeheimnisse zu enthüllen. Ihre letzten Offenbarungen sorgen dafür, dass alte Konflikte aufbrechen und Jamies Familie plötzlich vor einer ganzen Reihe unangenehmer Wahrheiten steht.\n\nWährend ihre Eltern und Verwandten versuchen, mit dem entstandenen Chaos fertigzuwerden, hat Jamie ganz eigene Probleme. Sie erlebt die Höhen und Tiefen ihrer ersten großen Verliebtheit und versucht herauszufinden, was sie eigentlich vom Leben und von der Liebe erwartet. Dabei lernt sie Luke kennen, zu dem sie sich schnell hingezogen fühlt. Zwischen Familienkrise, Freundschaften und ersten romantischen Erfahrungen entwickelt sich der Sommer 2003 für Jamie zu einer turbulenten Zeit, in der sie nicht nur ihre Familie, sondern auch sich selbst von einer völlig neuen Seite kennenlernt.\n#Film #ganzerFilmaufDeutsch #joeyking \n\nWerdet Fabella-Mitglied und genießt exklusive Vorteile:\nhttps://www.youtube.com/channel/UCww-ReMpc2FgiGb6vIQddWg/join\n\nFOLGT FABELLA AUF FACEBOOK: https://bit.ly/FabellaFacebook\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UCww-ReMpc2FgiGb6vIQddWg",
+      "channelTitle": "FABELLA - Spielfilme, Drama, Komödie, Liebe",
+      "thumbnail": "https://i.ytimg.com/vi/TNWlXqiiTkw/hqdefault.jpg",
+      "publishedAt": "2026-09-26T14:00:39Z",
+      "durationSeconds": 5746,
+      "matchedKeywords": [
+        "KI Drama Film vollständig"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:29:16.595Z",
+      "lastSeenAt": "2026-11-21T05:29:16.595Z",
+      "lastVerifiedAt": "2026-11-21T05:29:16.595Z",
       "unavailableAt": null
     }
   ]

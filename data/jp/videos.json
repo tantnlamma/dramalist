@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:35:22.785Z",
+  "generatedAt": "2026-11-21T05:28:53.831Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1259,13 +1259,14 @@
       "publishedAt": "2026-11-01T03:00:28Z",
       "durationSeconds": 8560,
       "matchedKeywords": [
+        "AI ドラマ 映画",
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1322,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1361,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1382,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1401,7 +1402,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1519,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1540,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-16T04:36:29.896Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1577,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:18.775Z",
       "lastSeenAt": "2026-11-13T04:54:18.775Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1636,7 +1637,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1675,7 +1676,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:29.896Z",
       "lastSeenAt": "2026-11-16T04:36:29.896Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1714,7 +1715,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:30.146Z",
       "lastSeenAt": "2026-11-18T05:47:30.146Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1734,7 +1735,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1754,7 +1755,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1793,7 +1794,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1807,13 +1808,14 @@
       "publishedAt": "2026-11-13T14:30:28Z",
       "durationSeconds": 5212,
       "matchedKeywords": [
+        "AI ドラマ 映画",
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1827,12 +1829,13 @@
       "publishedAt": "2026-11-19T13:00:06Z",
       "durationSeconds": 7578,
       "matchedKeywords": [
+        "AI 映画 フル",
         "人工知能 映画 フル"
       ],
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     },
     {
@@ -1871,6 +1874,143 @@
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
       "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "TRp6Q-FHLwk",
+      "url": "https://www.youtube.com/watch?v=TRp6Q-FHLwk",
+      "title": "【超美麗AI映画/フル】ゲームブックの最高峰『ソーサリー！ 第3巻 七匹の大蛇』完全実況プレイ映画（完全攻略・七匹全滅・42分一本化・CV:COEIROINK）",
+      "description": "名作ゲームブック『ソーサリー！』シリーズ最高峰の難易度を誇る第3部『七匹の大蛇（The Seven Serpents）』を、最先端の画像・動画生成AIと合成音声（COEIROINK:つくよみちゃん）を用いて一本の長編映画（全編41分56秒）として完全映画化・実況化しました！\n\n第2巻『魔城の城塞』を無傷で突破した主人公が、バカバドの地から荒涼たるカカーバードの荒野へ。\nマンパン砦の大魔法使いへ王冠奪還の動きを密告せんと飛び立った凶悪なる使徒【水・風・土・月・火・太陽・時間】の「七匹の大蛇」すべてを補足・撃滅する奇跡の完全踏破ルートを完全再現！\n\n毎ラウンドの戦闘ダイス目・攻撃力・ダメージ・残体力を徹底実況。\n原作ゲームブックファンはもちろん、ダークファンタジーやTRPGが好きな方にも映画感覚でお楽しみいただけます。\n\n───────────────────────────────\n◆ 主人公 最終ステータス\n───────────────────────────────\n・技術点（SKILL）：12 / 12（至高の名剣+1補正含む）\n・体力点（STAMINA）：22 / 22（最大値完全維持）\n・運点（LUCK）：10 / 10（最大値維持）\n・リーブラの加護：完全温存（未使用）\n・所持金：金貨7枚 / 食料：6食分\n・特殊アイテム：太陽の真珠、緑の真鍮振り子、旋風の魔除け ほか\n\n───────────────────────────────\n◆ チャプター目次（実測タイムスタンプ）\n───────────────────────────────\n00:00 Step 1 [p1] バカバドの門出、迫り来る七匹の大蛇の影\n01:57 Step 2 [p214] 荒野の野営、暗殺蜂の奇襲（DOPの呪文）\n03:38 Step 3 [p351] シャグラッドの巨木、老隠者の予言\n05:54 Step 4 [p48] 【水の蛇】遭遇と討伐（弱点オイル突進）\n07:41 Step 5 [p150] 白い手の救済、毒の解毒と真鍮の振り子入手\n10:11 Step 6 [p28] 湖畔の古城跡、沈黙の渡し守\n11:52 Step 7 [p330] 水晶洞窟の霊光、妖精フェニックスの助言\n13:34 Step 8 [p121] 【風の蛇】急襲と討伐（名剣の一閃）\n15:03 Step 9 [p65] 荒廃の廃村、生き残りの長老の啓示\n16:40 Step 10 [p198] 裂け目の鍛冶場、地底ドワーフ秘伝の研磨\n18:17 Step 11 [p110] 【土の蛇】地割れの激闘と討伐（砂袋の秘策）\n19:42 Step 12 [p42] 巨石神殿ストーンヘンジ、星詠みの神託\n21:06 Step 13 [p173] 月光のオアシス、聖なる『月の真珠』獲得\n22:42 Step 14 [p93] 【月の蛇】月光下の死闘と討伐（烈火の洗礼）\n24:25 Step 15 [p54] 灼熱の地底回廊、溶岩の渓谷突破\n26:07 Step 16 [p324] 【火の蛇】紅蓮の魔獣討伐（激流の消滅）\n27:50 Step 17 [p201] 怨嗟の死霊神殿、黄金の誘惑看破\n29:38 Step 18 [p388] 日輪の祭壇、聖なる光芒の洗礼\n31:26 Step 19 [p79] 幻影の歪み、真実の魔眼による看破\n33:02 Step 20 [p162] 【太陽の蛇】光熱の化身討伐（月の真珠の奇跡）\n35:29 Step 21 [p299] 時の裂け目、クロノスの歪み\n37:22 Step 22 [p444] 【時間の大蛇】最後の使徒との死闘（全ラウンド実況）\n40:12 Step 23 [p500] モーマンツ峰到達、七大蛇全滅！大団円（第4巻へ）\n\n───────────────────────────────\n◆ 制作クレジット＆使用ツール\n───────────────────────────────\n・原作：スティーブ・ジャクソン（Steve Jackson）『ソーサリー！ 第3巻 七匹の大蛇』\n・映像生成：ComfyUI（Wan 2.1 14B / MiniMax Hailuo AI）\n・音声・ナレーション：COEIROINK（無料AI音声合成ソフト）\n・キャラクターボイス：つくよみちゃん\n・編集・一本化：FFmpeg / Python\n・制作：Antigravity Autonomous Studio\n\n───────────────────────────────\n◆ ハッシュタグ\n───────────────────────────────\n#ソーサリー #ゲームブック #ゲーム実況 #FightingFantasy #SteveJackson #ComfyUI #AIアニメ #AI映画 #フルムービー #COEIROINK #つくよみちゃん #TRPG",
+      "channelId": "UCBf6U8P48KOovMyPLy86l8w",
+      "channelTitle": "Keito Studio",
+      "thumbnail": "https://i.ytimg.com/vi/TRp6Q-FHLwk/hqdefault.jpg",
+      "publishedAt": "2026-11-20T10:30:25Z",
+      "durationSeconds": 2517,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "dCzJZzrrOS0",
+      "url": "https://www.youtube.com/watch?v=dCzJZzrrOS0",
+      "title": "Analog | Film’s Unlikely Revival in the Age of AI (Full Documentary)",
+      "description": "Analog is a feature documentary about the revival of film photography, the community behind it, and its future in the age of AI.\n\nOnce declared dead, film has reemerged as a vibrant global subculture, attracting new generations and redefining what counts as \"real\" in the digital age. Henry Thong's debut feature-length documentary explores how film photography survived obsolescence, how a global pandemic accelerated its return, and how online and physical spaces built a diverse, inclusive, intergenerational community. It also asks where film is headed as AI ushers in an age of hyper-digitized unreality, and why its survival matters.\n\nFEATURING\nJolene Lupo, Ben Fraternale (@InAnInstant), Kyle Depew (@brooklynfilmcamera), @birgitbuchart, Geoffrey Berliner, @SISSI_LU, @DavidImel, Christopher Bonanos, Naeem Douglas, TKO (Takeo Suzuki), Edward Burtynsky, Ma Yue, Xie Yuxuan, Glenn Kaufman (@KEHcamera), Jonathan Canlas, Neil Nanda, Adam Heft Berninger, and Ethan Moses (@CAMERADACTYLCameras).\n\nCHAPTERS\n\n#FilmPhotography #Analog #Documentary #FilmIsNotDead",
+      "channelId": "UC2kVbK04J5p_L3gqxYBfytw",
+      "channelTitle": "Henry Thong",
+      "thumbnail": "https://i.ytimg.com/vi/dCzJZzrrOS0/hqdefault.jpg",
+      "publishedAt": "2026-11-20T00:50:09Z",
+      "durationSeconds": 4358,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cX1xpNyXHA8",
+      "url": "https://www.youtube.com/watch?v=cX1xpNyXHA8",
+      "title": "How to Make a Full AI Movie With Grok | Full Step-by-Step Guide",
+      "description": "Learn how to make a full AI movie with Grok in this step-by-step guide. I walk you through my AI filmmaking workflow so you can turn a simple story idea into your first AI movie—even if you’re starting from scratch.\n\nHave you been watching AI movies and wondering how people create them? In this tutorial, I show you the process on my screen and explain the workflow as we go. Follow along with your own story idea, pause whenever you need to, and work through the steps at your own pace.\n\nThis Grok AI tutorial is for beginners, storytellers, and YouTube creators who want to learn how to make movies with AI. My goal is to make the process easier to understand so you can start bringing your own characters and stories to life.\n\n🎬 What would your first AI movie be about? Share your story idea in the comments!\n\nIf this tutorial helps you, give it a like and subscribe to AI With Noli for more AI movie tutorials, creative workflows, and practical filmmaking guidance.\n\n#GrokAI #AIFilmmaking #AIMovie",
+      "channelId": "UCGSKc3Zk-N7uGfTasdJ41Ow",
+      "channelTitle": "AI With Noli",
+      "thumbnail": "https://i.ytimg.com/vi/cX1xpNyXHA8/hqdefault.jpg",
+      "publishedAt": "2026-11-11T18:00:05Z",
+      "durationSeconds": 2599,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jQmOobN1toU",
+      "url": "https://www.youtube.com/watch?v=jQmOobN1toU",
+      "title": "【BL】The Mafia Boss Took In a Wild Boy—Now He Can't Bear to Let Him Go!❤️ | BL Full Series#bl",
+      "description": "🔔 Subscribe here:https://www.youtube.com/channel/UCAIlJjYJLN91BZuYl9VvQCQ\n💖【Binetsu love】Where Every Love Story Makes Your Heart Race! \nWelcome to a world of irresistible Boys' Love stories! From possessive CEOs to sweet romances, unexpected twists, and unforgettable chemistry, your next BL obsession starts here! \n\n🔥 Explore Our Favorite BL Tropes:\n❤️ Bossy CEO × Handsome Husband — possessive love and endless pampering\n💋 Cold Billionaire × Sweet Lover — secret kisses and irresistible chemistry\n🔥 Alpha × Omega — intense attraction and protective romance\n🖤 Mafia Boss × Beloved Sweetheart — dangerous love and fierce devotion\n🌙 Vampire Prince × Human Lover — forbidden romance and eternal promises\n💕 Plus childhood sweethearts, secret marriages, unexpected reunions, and plenty of heart-fluttering moments!\n\n🔔 Don't Miss Your Next BL Obsession!\n💖 Subscribe and turn on notifications for more romantic BL stories!\n👍 Like the video if you love this couple!\n💬 Comment your favorite romantic moment!\n📢 Share with your fellow BL lovers!\n\n✨ Every like, comment, and subscription means so much to us. Thank you for supporting our channel!\n\n#BL #BoysLove #BLDrama #BLShortDrama #AIBL #BLRomance #GayRomance #BLAnimation #CEOromance #SweetLove #Yaoi #Danmei #双男主 #漫剧 #耽美剧 #AI漫剧",
+      "channelId": "UCAIlJjYJLN91BZuYl9VvQCQ",
+      "channelTitle": "Binetsu love",
+      "thumbnail": "https://i.ytimg.com/vi/jQmOobN1toU/hqdefault.jpg",
+      "publishedAt": "2026-11-14T12:00:10Z",
+      "durationSeconds": 4962,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zjmscEWZwLY",
+      "url": "https://www.youtube.com/watch?v=zjmscEWZwLY",
+      "title": "Deewangi — Pyaar Ya Junoon? ❤️‍🔥 | Ek Ankahi Kahani | Emotional Love Story | AI Story",
+      "description": "",
+      "channelId": "UCmKydxYGZwQWKIZAOodlHjg",
+      "channelTitle": "AI GHIBLI TV ",
+      "thumbnail": "https://i.ytimg.com/vi/zjmscEWZwLY/hqdefault.jpg",
+      "publishedAt": "2026-11-14T01:30:04Z",
+      "durationSeconds": 4314,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "g71I9Y7YTwM",
+      "url": "https://www.youtube.com/watch?v=g71I9Y7YTwM",
+      "title": "ザ・ワーズ 盗まれた人生 | The Words (吹き替え, サスペンス, ミステリー, ブラッドリー・クーパー, 愛と嘘, フル)",
+      "description": "👊 男のロマンを詰め込んだ映画を、今すぐチャンネル登録！https://bit.ly/DzangoJP-SUB\n🔥 他人の小説を盗んでベストセラー作家となった男――手に入れた名声と引き換えに、隠された過去と逃れられない罪が人生を狂わせていく。\n\nザ・ワーズ 盗まれた人生 (2012)\n原題: The Words\n出演: Bradley Cooper（ブラッドリー・クーパー） / Jeremy Irons（ジェレミー・アイアンズ） / Dennis Quaid（デニス・クエイド）\n監督: Brian Klugman（ブライアン・クラグマン） / Lee Sternthal（リー・スターンサル）\n年齢制限 : 0\n\n概要: 作家としての成功を夢見るローリーは、何度も出版社に原稿を持ち込むが、なかなか認められずにいた。そんなある日、古い鞄の中から偶然見つけた一冊の原稿に心を奪われる。その物語を自分の作品として発表したローリーは、瞬く間にベストセラー作家となり、名声と富を手に入れる。しかし、ある老人との出会いによって、盗んだ小説に秘められた悲しい過去が明らかになっていく。成功を守るために真実を隠すのか、それともすべてを失う覚悟で罪と向き合うのか。ひとつの嘘が複数の人生を揺るがす、緊迫のミステリードラマ。\n\n#フルムービー #無料映画 #ザンゴシネマ\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com .\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCrmi03_ySjmuZ-hNnqIF_gw",
+      "channelTitle": "Dzango Cinema | ザンゴ・シネマ ",
+      "thumbnail": "https://i.ytimg.com/vi/g71I9Y7YTwM/hqdefault.jpg",
+      "publishedAt": "2026-11-07T02:30:34Z",
+      "durationSeconds": 6144,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VoL0FGu9aeY",
+      "url": "https://www.youtube.com/watch?v=VoL0FGu9aeY",
+      "title": "Camp 3 Full Movie 2026 | Broad Peak World's First Realistic Ai Film | HAK HITS",
+      "description": "🏔️ CAMP 3 (2026) — FULL AI MOVIE\n\nTen climbers. One mountain. An unforgettable journey.\n\nDeep in the breathtaking Karakoram mountains of Pakistan, ten climbers from different countries unite for an extraordinary expedition to Broad Peak, one of the world's highest mountains.\n\nWhat begins as an ambitious journey soon turns into an intense adventure filled with unexpected challenges, dangerous conditions, emotional moments, and unforgettable experiences.\n\nAs the team climbs higher, the mountain begins to reveal its true power.\n\nWill they reach their destination? What awaits them on the way to Camp 3?\n\nExperience breathtaking mountain landscapes, cinematic action, realistic characters, and powerful storytelling in CAMP 3.\n\n🎬 **MOVIE DETAILS**\n\nTitle: CAMP 3  \nYear: 2026  \nGenre: Adventure | Thriller | Drama  \nLanguage: English  \nProduction: HAK HITS  \nCreated by: Hamza Ahmed Khan & Team HAK ideas\nFormat: AI-Generated Cinematic Film\n\n❤️ **SUPPORT OUR WORK**\n\nOur team has invested tremendous time, effort, creativity, and resources into creating this movie.\n\nIf you enjoyed CAMP 3, please:\n\n👍 Like the movie  \n💬 Share your feedback in the comments  \n🔔 Subscribe to HAK HITS  \n📢 Share the movie with your friends\n\nYour support motivates us to create more cinematic experiences.\n\nCAMP 3 is an AI-generated fictionalized cinematic production. Its scenes are created for storytelling and entertainment and are not actual documentary footage.\n\n**Thank you for watching CAMP 3!**\n\n#CAMP3 #AIMovie #AdventureMovie #HAKHITS",
+      "channelId": "UCzsDOAOmuKoyL6J454RKtYA",
+      "channelTitle": "HAK HITS",
+      "thumbnail": "https://i.ytimg.com/vi/VoL0FGu9aeY/hqdefault.jpg",
+      "publishedAt": "2026-11-05T15:37:55Z",
+      "durationSeconds": 2364,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-21T05:28:53.831Z",
+      "lastSeenAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
       "unavailableAt": null
     }
   ]
