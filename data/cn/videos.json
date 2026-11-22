@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:28:58.859Z",
+  "generatedAt": "2026-11-22T04:54:31.346Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1546,7 +1546,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1738,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1757,7 +1757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1814,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1853,7 +1853,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1929,7 +1929,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -1948,7 +1948,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2291,7 +2291,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:02.600Z",
       "lastSeenAt": "2026-11-04T04:42:02.600Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2387,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2406,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2425,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2482,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2806,7 +2806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2920,7 +2920,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2977,7 +2977,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2996,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3015,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3034,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3100,7 +3100,7 @@
       "title": "(首部本地原创AI动画-10集完整版) 看小男孩与小水獭如何一起守护美丽的新加坡河！中英双语 First Local Original AI Generated Animation (10 Eps)",
       "description": "一个小男孩，一只小水獭，与一条母亲河的约定。\n\n原创温情动画电影，讲述一个小男孩“小杰”与一只小水獭“敢敢”在驳船码头（Boat Quay）意外相遇。为了守护美丽的新加坡河，这对人獭好朋友并肩作战，勇敢对抗破坏环境的垃圾虫“大灰鼠”！经历无奈的分别与漫长的等待，他们最终能否在河畔重逢？\n\n本片支持（中英双语配音）一键切换！\n点击视频右下角“设置” —“音轨（Audio Track）”，即可自由切换中文原声或地道英文配音。39分钟完整动画，适合全家共赏，环保教育与儿童双语磨耳朵！\n\n如果这个关于友情，勇气，环保与重逢的故事感动了你，请点赞，分享给身边的朋友，并订阅支持我们的原创动画！\n\nThis is the story of a little boy named Xiao Jie and a brave little otter named Gan Gan, who cross paths unexpectedly at Boat Quay. Together, this dynamic human-otter duo joins forces to protect the beautiful Singapore River, courageously standing up against Big Grey Rat, a litterbug destroying the environment! After a bittersweet separation and a long wait, will they finally reunite by the riverbank?\n\nThis video supports one-click switching between Chinese and English dubbing!\nSimply click \"Settings\" in the bottom right corner of the video and select \"Audio Track\" to freely switch between the original Chinese audio or authentic English dubbing. The full 39-minute animation is perfect for the whole family, combining environmental education with bilingual listening practice for children!\n\nIf this story of friendship, courage, environmental protection, and reunion touched your heart, please like, share it with your friends, and subscribe to support our original animation!\n\n#原创动画电影 #新加坡河 #水獭 #原创动画 #双语启蒙 #环保教育 #亲子电影 #SingaporeRiver #Otter",
       "channelId": "UCG_xwhrYADelFsd7eHtee2g",
-      "channelTitle": "可梦创作室 - 每晚为你带来温馨的儿童故事。",
+      "channelTitle": "可梦创作室 - 原创短篇AI漫剧。",
       "thumbnail": "https://i.ytimg.com/vi/TPRyeGvLGNw/hqdefault.jpg",
       "publishedAt": "2026-11-16T07:08:46Z",
       "durationSeconds": 2341,
@@ -3129,7 +3129,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3167,7 +3167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3192,8 +3192,8 @@
     {
       "videoId": "vk-wEUaLqMY",
       "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
-      "title": "I Married a Broken Soldier | COMPLETE DRAMA #romance #drama #ai",
-      "description": "A woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 1 #romance #drama #ai",
+      "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
       "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
       "channelTitle": "Ai Drama House",
       "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
@@ -3224,7 +3224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3243,7 +3243,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3262,14 +3262,14 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
       "videoId": "TrnoAueBjws",
       "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
       "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
-      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "description": "🔥 RANGBAAZ (2026) – Full Hindi AI Action Romance  | Mehtab Hossain Film 🔥\n\nFamily greed, hidden secrets, and a fierce battle for justice in royal Jaipur. Starring Arjun Rathore and Meera Singhania against Vikram Singhania, RANGBAAZ blends high-voltage action, Holi romance, betrayal, and emotional drama in a full-length AI feature film.\n\n🎬 MOVIE DETAILS\n• Movie Title: RANGBAAZ (2026)\n• Written & Directed by: Mehtab Hossain\n• Production: Nyxora Studios\n• Genre: Action | Romance | Mystery | Emotional Drama\n• Language: Hindi\n• Runtime: 2 Hours 6 Minutes\n• Release Date: 19 November 2026\n• Format: Full-Length AI Feature Film\n\n❤️ HIGHLIGHTS & SONGS\n• High-energy action & hero-villain face-offs\n• Royal Jaipur backdrop, Kurium mine mystery & vibrant Holi romance\n• Featured Songs: \"Rang Tera\" & \"Sun Le Meri Sada\"\n• Family secrets, betrayal, and a dramatic climax\n\n⏱️ CHAPTERS / TIMESTAMPS\n00:00 - Opening & The Singhania Family Legacy\n00:29 - The Singhania Feud & Kurium Mine Conflict\n05:15 - The Secret Formula & First Ambush\n09:20 - Raghav Rathore Stands Strong & The Will for Meera\n14:38 - Holi Celebrations & Rising Danger\n24:21 - Betrayal Night & Tragedy Strikes\n26:43 - Enter Arjun Rathore in Jaipur\n29:31 - Royal Victory & The Holi Challenge\n32:52 - Holi Face-Off & Romantic Song (\"Rang Tera\")\n38:30 - Palace Clash & Family Past Revealed\n45:54 - Vikram's Marriage Plot & The Royal Trust\n1:05:33 - The Mining Conspiracy & Holi Romance Song\n1:13:31 - Wedding Pressure & Plan to Strike Back\n1:19:38 - Street Ambush & Arjun's Retaliation\n1:23:58 - Uncovering the Truth & Storming Vikram's Den\n1:31:02 - Heartbreak, Truth & Song (\"Sun Le Meri Sada\")\n1:43:01 - Village Eviction & Evidence Against Vikram\n1:51:17 - Meera's Captivity & The Final Ultimatum\n1:59:03 - Final Showdown & Justice Prevails\n\n🙏 SUPPORT INDEPENDENT CINEMA\nIf you enjoyed RANGBAAZ (2026), please LIKE the video, COMMENT your favourite scene, SHARE with friends & family, and SUBSCRIBE to Nyxora Studios for more full-length Hindi AI movies.",
       "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
       "channelTitle": "Nyxora Studios",
       "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
@@ -3281,7 +3281,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3319,7 +3319,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3357,7 +3357,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3390,12 +3390,13 @@
       "publishedAt": "2026-11-20T12:14:08Z",
       "durationSeconds": 2078,
       "matchedKeywords": [
+        "AI 科幻电影 完整版",
         "人工智能 电影 完整版"
       ],
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3414,7 +3415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     },
     {
@@ -3452,7 +3453,83 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-21T05:28:58.859Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "v01-IOmlSnE",
+      "url": "https://www.youtube.com/watch?v=v01-IOmlSnE",
+      "title": "【錢線百分百】20261120完整版(中集)《史上最大IPO也救不了? AI敘事要反轉了?台股跌出黃金坑? 跌深熱門股大檢視!》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎主動ETF成提款破口 金管會禁空令重手屠空!\n19:24 ◎史上最大IPO也救不了? AI敘事要反轉了?\n33:51 ◎台股跌出黃金坑? 跌深熱門股大檢視!\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261120錢線影片#陳龍#許博傑#林奇芬#陳智霖  \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UC_ObC9O0ZQ2FhW6u9_iFlZA",
+      "channelTitle": "錢線百分百",
+      "thumbnail": "https://i.ytimg.com/vi/v01-IOmlSnE/hqdefault.jpg",
+      "publishedAt": "2026-11-20T15:00:06Z",
+      "durationSeconds": 2921,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:31.346Z",
+      "lastSeenAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "-EIMXiQaFZE",
+      "url": "https://www.youtube.com/watch?v=-EIMXiQaFZE",
+      "title": "【錢線百分百】20261120完整版(中集)《史上最大IPO也救不了? AI敘事要反轉了?台股跌出黃金坑? 跌深熱門股大檢視!》│非凡財經新聞│",
+      "description": "※下載非凡新聞ＡＰＰ看更多：https://reurl.cc/x3ZRO4\n※下載非凡商業ＡＰＰ學理財：https://reurl.cc/ekxrmx\n00:00 ◎主動ETF成提款破口 金管會禁空令重手屠空!\n19:24 ◎史上最大IPO也救不了? AI敘事要反轉了?\n33:51 ◎台股跌出黃金坑? 跌深熱門股大檢視!\n\n非凡新聞台、台視財經台【錢線百分百】週一～週五 晚間21點(首播) 晚間12點半(重播)\n\n#20261120錢線影片#陳龍#許博傑#林奇芬#陳智霖  \n\n\n\n更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】\n錢線百分百粉絲團\nhttps://www.facebook.com/ustv.money100\n非凡電視台粉絲團\nhttps://www.facebook.com/ustv.fans\n非凡電視台YouTube頻道\nhttps://www.youtube.com/user/ustv\n非凡電視台官網\nhttp://www.ustv.com.tw\n台灣大時代YouTube頻道 \nhttps://www.youtube.com/@user-qv6zm1wf6r",
+      "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+      "channelTitle": "USTV 非凡電視",
+      "thumbnail": "https://i.ytimg.com/vi/-EIMXiQaFZE/hqdefault.jpg",
+      "publishedAt": "2026-11-20T15:00:34Z",
+      "durationSeconds": 2921,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:31.346Z",
+      "lastSeenAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pDUYcYswOB0",
+      "url": "https://www.youtube.com/watch?v=pDUYcYswOB0",
+      "title": "အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော် (စ/ဆုံး) | Ai Movie",
+      "description": "Movie Title: အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော (စ/ဆုံး)\n\n💔 အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော်\n🎬 မြန်မာ AI ဇာတ်ကားသစ် | Burmese AI Movie 2026\n\nရိုးရိုးရှင်းရှင်း ဝတ်စားဆင်ယင်ထားတဲ့ သီရိမေဟာ တကယ်တော့ သူဌေးကြီး အောင်မြတ်သူရဲ့ ဇနီးဖြစ်ပါတယ်။ ဒါပေမဲ့ ခင်ပွန်းဖြစ်သူရဲ့ မိသားစုအိမ်ကြီးကို ရောက်လာတဲ့အခါ သူ့ကို အိမ်ဖော်မလေးတစ်ယောက်လို့ အထင်မှားခံလိုက်ရပါတယ်။\n\nအိမ်ကြီးထဲမှာ သူမဟာ မထင်မှတ်ထားတဲ့ အရှက်ခွဲမှုတွေ၊ မိသားစုအတွင်းက မနာလိုမှုတွေနဲ့ ရင်ဆိုင်ရပါတော့တယ်။ နန်းယမင်းရဲ့ လှည့်ကွက်တွေကြားမှာ သီရိမေ ဘယ်လိုရပ်တည်မလဲ။ ခင်ပွန်းဖြစ်သူက သူမရဲ့ဘက်ကနေ ရပ်တည်ပေးနိုင်ပါ့မလား။\n\nဒီအိမ်ကြီးထဲမှာ လျှို့ဝှက်ထားတဲ့ အမှန်တရားတွေ၊ သစ္စာဖောက်မှုတွေနဲ့ မမျှော်လင့်ထားတဲ့ အလှည့်အပြောင်းတွေက သီရိမေရဲ့ဘဝကို ဘယ်လိုပြောင်းလဲစေမလဲ။\n\n🎭 ဒီဇာတ်ကားမှာ\n❤️ အချစ်နဲ့ လျှို့ဝှက်အိမ်ထောင်ရေး\n💔 မိသားစုအတွင်းက အထင်လွဲမှုများ\n🔥 မနာလိုမှု၊ လှည့်ကွက်များနဲ့ အမှန်တရား\n✨ ကိုယ့်တန်ဖိုးကို သက်သေပြမယ့် အမျိုးသမီးတစ်ယောက်ရဲ့ ဇာတ်လမ်း\n\n📌 ဇာတ်ကားလေးကို အဆုံးထိကြည့်ရှုပေးပြီး ဘယ်ဇာတ်ကောင်ကို အကြိုက်ဆုံးလဲဆိုတာ Comment မှာ ပြောပြပေးခဲ့ပါဦး။\n\n👍 ကြိုက်နှစ်သက်ရင် Like လုပ်ပေးပါ။\n💬 သင့်ရဲ့အမြင်ကို Comment ရေးပေးပါ။\n🔔 AMK Ai Movie ကို Subscribe လုပ်ပြီး မြန်မာ AI ဇာတ်ကားသစ်တွေကို ဆက်လက်ကြည့်ရှုပေးပါ။\n\n━━━━━━━━━━━━━━━━━━\n🎬 Channel: AMK Ai Movie\n🎥 Genre: Burmese AI Drama | Family Drama | Romance\n━━━━━━━━━━━━━━━━━━\n\nဤဇာတ်လမ်းသည် AI နည်းပညာဖြင့် ဖန်တီးထားသော စိတ်ကူးယဉ်ဇာတ်လမ်းဖြစ်ပါသည်။ ဇာတ်ကောင်များနှင့် ဖြစ်ရပ်များသည် စိတ်ကူးယဉ်ဖန်တီးမှုများဖြစ်သည်။\n\n🎬 Welcome to AMK Ai MOVIE! ❤️\n\nမြန်မာစကားပြော AI ဇာတ်လမ်းကောင်းများ၊ အချစ်၊ ဒရာမာ၊ ဟာသ၊ စိတ်လှုပ်ရှားဖွယ်နှင့် သင်ခန်းစာပေး ဇာတ်လမ်းမျိုးစုံကို AI နည်းပညာဖြင့် ဖန်တီးတင်ဆက်ပေးနေတဲ့ Channel လေးဖြစ်ပါတယ်။\n\n🎥 ဇာတ်လမ်းအသစ်တွေကို အမြဲကြည့်ရှုနိုင်ဖို့ Subscribe လုပ်ထားပေးကြပါဦးနော်။ ❤️\n\n🤖 AI Created | Burmese Storytelling\n\n#AMKAiMOVIE #MyanmarAI #AIStory #BurmeseStory #Myanmaraistory #မြန်မာဇာတ်ကား #myanmardrama \n#အိမ်ဖော်မလေးဟုအထင်ခံရသောသူဌေးကတော်\n#BurmeseAIMovie\n#MyanmarAIMovie\n#မြန်မာAIဇာတ်ကား\n#AMKAiMovie\n#BurmeseDrama\n#MyanmarDrama\n#AIMovie2026",
+      "channelId": "UCklhVk5lNyHruMuojkDs6WA",
+      "channelTitle": "AMK Ai Movie",
+      "thumbnail": "https://i.ytimg.com/vi/pDUYcYswOB0/hqdefault.jpg",
+      "publishedAt": "2026-11-21T12:00:29Z",
+      "durationSeconds": 1840,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:31.346Z",
+      "lastSeenAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PoyzJ9_52Io",
+      "url": "https://www.youtube.com/watch?v=PoyzJ9_52Io",
+      "title": "The Don’s Secret|Left Out Of The Truth#shortmax #ai#film",
+      "description": "🔗 Watch Full Episodes:\n https://cps-front.shorttv.live/app-api/sp/new/20261121gzxX4ZGCxN\n📱 Open [ShortMax] and search code:【   tkr96672   】\nOR click the link above to watch directly.\n\nMy husband, a powerful don, arrives home after war with a pregnant woman. He guards her carefully, his family supports him, and I’m supposed to accept it quietly. I only have one goal: keep my son safe amid all these marriage secrets. There is something they refuse to tell me. What is it, and why am I the last one to learn it?\n#shortdrama",
+      "channelId": "UCrusa6zZKR_cjYIadQjrHRg",
+      "channelTitle": "サイバーシネマ ネオン / サイバーシネマネオン",
+      "thumbnail": "https://i.ytimg.com/vi/PoyzJ9_52Io/hqdefault.jpg",
+      "publishedAt": "2026-11-21T04:26:03Z",
+      "durationSeconds": 2797,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:31.346Z",
+      "lastSeenAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
       "unavailableAt": null
     }
   ]

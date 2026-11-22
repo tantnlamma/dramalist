@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:28:44.882Z",
+  "generatedAt": "2026-11-22T04:54:16.649Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -957,7 +957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:34.393Z",
       "lastSeenAt": "2026-10-20T03:14:34.393Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -1415,11 +1415,11 @@
       "matchedKeywords": [
         "AI drama movie hindi full"
       ],
-      "status": "unavailable",
+      "status": "available",
       "discoveredAt": "2026-10-27T03:33:42.284Z",
-      "lastSeenAt": "2026-10-27T03:33:42.284Z",
-      "lastVerifiedAt": "2026-11-20T05:35:14.496Z",
-      "unavailableAt": "2026-11-20T05:35:14.496Z"
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
     },
     {
       "videoId": "B-uerdfTe-Y",
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2124,7 +2124,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:31.480Z",
       "lastSeenAt": "2026-11-06T04:56:31.480Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2563,7 +2563,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2601,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2734,7 +2734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2753,7 +2753,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2772,7 +2772,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2849,7 +2849,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2926,7 +2926,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -2985,7 +2985,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3005,7 +3005,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3030,8 +3030,8 @@
     {
       "videoId": "vk-wEUaLqMY",
       "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
-      "title": "I Married a Broken Soldier | COMPLETE DRAMA #romance #drama #ai",
-      "description": "A woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 1 #romance #drama #ai",
+      "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
       "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
       "channelTitle": "Ai Drama House",
       "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
@@ -3043,7 +3043,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3081,7 +3081,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3157,7 +3157,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:19.658Z",
       "lastSeenAt": "2026-11-19T05:46:19.658Z",
-      "lastVerifiedAt": "2026-11-20T05:35:14.496Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3196,7 +3196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:19.658Z",
       "lastSeenAt": "2026-11-19T05:46:19.658Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3222,7 +3222,7 @@
       "videoId": "TrnoAueBjws",
       "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
       "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
-      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "description": "🔥 RANGBAAZ (2026) – Full Hindi AI Action Romance  | Mehtab Hossain Film 🔥\n\nFamily greed, hidden secrets, and a fierce battle for justice in royal Jaipur. Starring Arjun Rathore and Meera Singhania against Vikram Singhania, RANGBAAZ blends high-voltage action, Holi romance, betrayal, and emotional drama in a full-length AI feature film.\n\n🎬 MOVIE DETAILS\n• Movie Title: RANGBAAZ (2026)\n• Written & Directed by: Mehtab Hossain\n• Production: Nyxora Studios\n• Genre: Action | Romance | Mystery | Emotional Drama\n• Language: Hindi\n• Runtime: 2 Hours 6 Minutes\n• Release Date: 19 November 2026\n• Format: Full-Length AI Feature Film\n\n❤️ HIGHLIGHTS & SONGS\n• High-energy action & hero-villain face-offs\n• Royal Jaipur backdrop, Kurium mine mystery & vibrant Holi romance\n• Featured Songs: \"Rang Tera\" & \"Sun Le Meri Sada\"\n• Family secrets, betrayal, and a dramatic climax\n\n⏱️ CHAPTERS / TIMESTAMPS\n00:00 - Opening & The Singhania Family Legacy\n00:29 - The Singhania Feud & Kurium Mine Conflict\n05:15 - The Secret Formula & First Ambush\n09:20 - Raghav Rathore Stands Strong & The Will for Meera\n14:38 - Holi Celebrations & Rising Danger\n24:21 - Betrayal Night & Tragedy Strikes\n26:43 - Enter Arjun Rathore in Jaipur\n29:31 - Royal Victory & The Holi Challenge\n32:52 - Holi Face-Off & Romantic Song (\"Rang Tera\")\n38:30 - Palace Clash & Family Past Revealed\n45:54 - Vikram's Marriage Plot & The Royal Trust\n1:05:33 - The Mining Conspiracy & Holi Romance Song\n1:13:31 - Wedding Pressure & Plan to Strike Back\n1:19:38 - Street Ambush & Arjun's Retaliation\n1:23:58 - Uncovering the Truth & Storming Vikram's Den\n1:31:02 - Heartbreak, Truth & Song (\"Sun Le Meri Sada\")\n1:43:01 - Village Eviction & Evidence Against Vikram\n1:51:17 - Meera's Captivity & The Final Ultimatum\n1:59:03 - Final Showdown & Justice Prevails\n\n🙏 SUPPORT INDEPENDENT CINEMA\nIf you enjoyed RANGBAAZ (2026), please LIKE the video, COMMENT your favourite scene, SHARE with friends & family, and SUBSCRIBE to Nyxora Studios for more full-length Hindi AI movies.",
       "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
       "channelTitle": "Nyxora Studios",
       "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
@@ -3235,7 +3235,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:14.496Z",
       "lastSeenAt": "2026-11-20T05:35:14.496Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     },
     {
@@ -3293,7 +3293,121 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:44.882Z",
       "lastSeenAt": "2026-11-21T05:28:44.882Z",
-      "lastVerifiedAt": "2026-11-21T05:28:44.882Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bEDht7itGLc",
+      "url": "https://www.youtube.com/watch?v=bEDht7itGLc",
+      "title": "घमंडी राजकुमारी के रास्ते में कोई आम आदमी नहीं आना चाहिए! | Hindi Royal Story",
+      "description": "गरीब मेहताब से टकराई घमंडी शहजादी! आगे जो हुआ, पूरा राज्य देखता रह गया | Hindi Story\n\n\nक्या एक गरीब नौजवान की हिम्मत एक घमंडी शहजादी का घमंड तोड़ सकती है? क्या किसी इंसान की पहचान उसके कपड़ों और दौलत से होती है या उसके कर्मों से?\n\nनूराबाद की खूबसूरत शहजादी मेहरुनिसा अपने शाही रुतबे और ताकत पर बहुत घमंड करती थी। उसने आदेश दे रखा था कि उसके रास्ते में कोई आम इंसान दिखाई नहीं देना चाहिए।\n\nलेकिन एक दिन अचानक उसकी शाही सवारी के सामने आ गया एक गरीब और निडर नौजवान — मेहताब!\n\nशहजादी ने मेहताब को सजा देने का आदेश दे दिया, लेकिन वह नहीं जानती थी कि यह साधारण दिखने वाला नौजवान अपने अंदर कितनी हिम्मत और कितनी बड़ी ताकत छिपाए हुए है।\n\nआखिर कौन है मेहताब? उसका हाथी कहाँ गायब हो गया? और क्या शहजादी कभी अपने घमंड को छोड़ पाएगी?\n\nपूरी कहानी अंत तक जरूर देखिए। ❤️\n\nकहानी से सीख: इंसान की असली पहचान उसकी दौलत, कपड़ों या पद से नहीं, बल्कि उसके व्यवहार, हिम्मत और अच्छे कर्मों से होती है।\n\nअगर कहानी पसंद आए तो वीडियो को LIKE करें, अपने दोस्तों के साथ SHARE करें और ऐसी ही दिलचस्प कहानियों के लिए चैनल को SUBSCRIBE जरूर करें।\n\n🔔 नई कहानियों के लिए Bell Icon दबाना न भूलें।\n\n\n\n#HindiKahani #MoralStories #HindiStory #RajaRaniKiKahani #ShehzadiKiKahani #GaribLadka #EmotionalStory #HindiMoralStory #InterestingStory #Kahaniyan #MotivationalStory #HindiFairyTales #Mehtab #ShehzadiMehrunisa #StoryInHindi#royalstory #hindistories #rajarani #historical #hearttouchingstory #kingdom #ArjunAurBadal #HindiKahan #HindiStor #AIVideo #VeerArjun #RajaMaharaj #RajkumariNityaa #MoralStory #EmotionalStory #FriendshipStory #HorseStory #WarriorStory #RoyalStory #HindiAnimation #EpicStory #InspirationalStory #HindiKahaniya #IndianStory #StoryTime #avniaistory\n\n\nYour Queries 👇 \n\nhindi kahani\nhindi moral story\nraja rani ki kahani\nshehzadi ki kahani\ngarib ladke ki kahani\nhindi story \nemotional hindi story\nmoral stories in hindi\nnew hindi kahani\nhindi cartoon story\nhindi fairy tales\ninteresting hindi story\nmotivational story in hindi\nsultan ki kahani\nmuslim historical story\nshehzadi aur garib ladka\nmehtab ki kahani\nmehrunisa ki kahani\nroyal love story\nhindi storytelling\nheart touching story\nnew moral kahani\nhindi kahaniya\n\n\n\nDisclaimer:\nयह वीडियो केवल मनोरंजन, शिक्षा और नैतिक संदेश देने के उद्देश्य से बनाया गया है। इसमें दिखाए गए सभी पात्र, घटनाएँ, स्थान और संवाद काल्पनिक हैं। किसी भी वास्तविक व्यक्ति, समुदाय या स्थान से समानता मात्र संयोग है। इस कहानी का उद्देश्य किसी की भावनाओं को ठेस पहुँचाना नहीं है।",
+      "channelId": "UCXXx2szC6SIG2qEHstG5FGw",
+      "channelTitle": "Avni Animated Ai Hindi Story ",
+      "thumbnail": "https://i.ytimg.com/vi/bEDht7itGLc/hqdefault.jpg",
+      "publishedAt": "2026-11-18T05:30:06Z",
+      "durationSeconds": 2815,
+      "matchedKeywords": [
+        "AI movie full hindi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KfCUA9xYJ4o",
+      "url": "https://www.youtube.com/watch?v=KfCUA9xYJ4o",
+      "title": "🤖 ROBOT ATTACK – इंसानों की आखिरी जंग | Full Hindi Sci-Fi Action Movie | AI Movie 4K",
+      "description": "🔥 ROBOT ATTACK – इंसानों की आखिरी जंग 🔥\n\nजब रोबोट इंसानों के खिलाफ युद्ध छेड़ देते हैं, तब शुरू होती है इंसानियत को बचाने की सबसे बड़ी जंग!\n\nक्या रियान, मायरा, विवान और Z-7 मिलकर दुनिया को TITAN और खतरनाक रोबोट सेना से बचा पाएँगे?\n\nदेखिए एक शानदार AI साइंस-फिक्शन एक्शन फिल्म, जिसमें मिलेगा रोमांच, रहस्य, दोस्ती, जबरदस्त एक्शन और एक ऐसा मिशन जो पूरी दुनिया का भविष्य बदल सकता है।\n\n🎬 MOVIE DETAILS\n\n🤖 Movie: ROBOT ATTACK\n🔥 Subtitle: इंसानों की आखिरी जंग\n🎥 Genre: Sci-Fi | Action | Adventure\n⏱️ Duration: लगभग 30 मिनट\n🎞️ Total Parts: 180\n🌍 Language: Hindi\n\nअगर आपको यह फिल्म पसंद आए तो वीडियो को LIKE करें, दोस्तों के साथ SHARE करें और ऐसी AI फिल्मों के लिए चैनल को SUBSCRIBE जरूर करें।\n\nआपको सबसे अच्छा किरदार कौन लगा? कमेंट में जरूर बताना!\n\n#RobotAttack #HindiMovie #AIMovie #SciFiMovie #RobotWar #FullMovie #HindiActionMovie #ArtificialIntelligence",
+      "channelId": "UC4dfdyqOj60hHTVXITyqrOw",
+      "channelTitle": "VOID LEGENDS ",
+      "thumbnail": "https://i.ytimg.com/vi/KfCUA9xYJ4o/hqdefault.jpg",
+      "publishedAt": "2026-11-21T16:29:44Z",
+      "durationSeconds": 1885,
+      "matchedKeywords": [
+        "रोबोट फिल्म पूरी हिंदी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "RS8Hwci-mLo",
+      "url": "https://www.youtube.com/watch?v=RS8Hwci-mLo",
+      "title": "व्योम का संरक्षक | Guardian of the Stratosphere | Full AI Sci-Fi Fantasy Movie in Hindi",
+      "description": "व्योम का संरक्षक | Guardian of the Stratosphere | Full AI Sci-Fi Fantasy Movie in Hindi\n\n\n\nDESCRIPTION:\n40,000 फीट की ऊंचाई पर, जहाँ इंसान की पहुँच खत्म होती है, वहाँ एक प्राचीन रहस्य सांस ले रहा है...\nटेस्ट पायलट एम्बर रीड (Amber Reed) और एवियोनिक्स इंजीनियर लुकास मर्सर (Lucas Mercer) को अपने रिसर्च जेट 'अल्बाट्रॉस-7' (Albatross-7) के साथ एक रहस्यमयी मिशन पर समताप मंडल (Stratosphere) में भेजा जाता है। लेकिन वहाँ उनका सामना किसी खतरनाक एलियन से नहीं, बल्कि पृथ्वी की एक प्राचीन और शांत प्रजाति के आखिरी जीव — विशालकाय आकाश संरक्षक 'एरोवान' (Aerovan) से होता है।\nजब स्ट्रैटोस-टेक के निदेशक विक्टर क्रॉस की असली साजिश सामने आती है—कि वह इस मासूम जीव की जैव-विद्युत ऊर्जा खींचकर एक घातक हथियार बनाना चाहता है—तो एम्बर और लुकास अपने ही संगठन के खिलाफ बगावत कर देते हैं। क्या वे घायल एरोवान के पंख से चुंबकीय हार्पून निकालकर उसे ऊपरी समताप मंडल के सुरक्षित आकाश तक पहुंचा पाएंगे, या आर्कटिक के इस महातूफान में सब कुछ खत्म हो जाएगा?\nमर्म स्टोरीज (Marm Stories) की इस 40 मिनट की संपूर्ण सिनेमाई साइंस-फिक्शन और भावनात्मक रोमांचक फिल्म \"व्योम का संरक्षक (Guardian of the Stratosphere)\" को अंत तक ज़रूर देखें!\n\nअगर आपको यह कहानी और विज़ुअल्स पसंद आए, तो वीडियो को LIKE करें, अपने दोस्तों के साथ SHARE करें और ऐसी ही अनोखी कहानियों के लिए मर्म स्टोरीज (Marm Stories) को SUBSCRIBE ज़रूर करें!\n⚠️ DISCLAIMER:\nयह वीडियो और इसकी कहानी पूर्णतः काल्पनिक (Fictional) है, जिसे केवल मनोरंजन और रचनात्मक कथा-वाचन (Creative Storytelling) के उद्देश्य से बनाया गया है। इसमें दिखाए गए सभी पात्र, विमान, संगठन, स्थान और घटनाएँ काल्पनिक हैं। किसी भी वास्तविक व्यक्ति, संस्था या घटना से इसका कोई संबंध नहीं है और यदि कोई समानता पाई जाती है तो वह मात्र एक संयोग होगा। इस फिल्म के दृश्य और ध्वनि आधुनिक AI और डिजिटल एडिटिंग तकनीकों की सहायता से निर्मित किए गए हैं।\n\n#व्योमकासंरक्षक #GuardianOfTheSky #GuardianOfTheStratosphere #MarmStories #HindiSciFiMovie #AIAnimatedMovie #SciFiAdventure #HindiStorytelling #EmotionalSciFi #FullAIMovieHindi\n\n\nTAGS:\nव्योम का संरक्षक, Guardian of the Sky, Guardian of the Stratosphere, आकाश का अंतिम जीव, Hindi Sci-Fi Movie, Sci-Fi Adventure Story in Hindi, AI Sci-Fi Movie Hindi, Hindi Storytelling, Albatross 7, Sky Creature Movie, Emotional Sci-Fi Drama, 4K UHD Hindi Movie, Fantasy Adventure Film, AI Cinematic Film Hindi, Stratosphere Mystery, Hindi Kahani, Suspense Thriller Story Hindi, Marm Stories, Marm Stories Hindi, Full AI Movie in Hindi",
+      "channelId": "UC1sJJq4q-QO9PVY0wCLuzKg",
+      "channelTitle": "Marm Stories",
+      "thumbnail": "https://i.ytimg.com/vi/RS8Hwci-mLo/hqdefault.jpg",
+      "publishedAt": "2026-11-21T12:50:34Z",
+      "durationSeconds": 2423,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "KcS73d39Wc0",
+      "url": "https://www.youtube.com/watch?v=KcS73d39Wc0",
+      "title": "Full Episode 1-6 | Ang Lalaking Hindi Karapat-dapat sa Kanya | Filipino Drama Movie",
+      "description": "Isang lalaking minahal ang isang babaeng tila hindi niya kailanman maaabot. Ngunit paano kung ang tunay na hadlang sa kanilang pag-iibigan ay hindi pera, katayuan, o kapangyarihan… kundi isang lihim na matagal nang pilit itinatago?\n\nSa likod ng pagmamahalan nina Miguel at Althea ay unti-unting nabubunyag ang mga katotohanang maaaring magbago sa kanilang buhay.\n\nIsang misteryosong rekord. Isang aksidenteng maraming tanong. Isang pamilyang may mga sikretong hindi madaling ilantad.\n\nHanggang saan kayang ipaglaban ni Miguel ang kanyang pagmamahal? At ano ang katotohanang pilit na itinatago ng mga taong nakapaligid sa kanya?\n\nPanoorin ang buong kuwento mula Episode 1 hanggang Episode 6 sa isang tuloy-tuloy na cinematic experience.\n\nANG LALAKING HINDI KARAPAT-DAPAT SA KANYA\nFULL EPISODE | COMPLETE STORY\n\nIsang original Filipino AI-assisted teledrama mula sa Eksena ng Buhay.\n\nKung nagustuhan mo ang kuwento, huwag kalimutang mag-LIKE, COMMENT, SHARE at SUBSCRIBE para sa mga susunod pang original Filipino drama stories.\n\nTanong para sa iyo:\nKung ikaw si Miguel, ipaglalaban mo ba ang pag-ibig kahit ang buong pamilya ng babaeng mahal mo ay tutol sa inyong dalawa?\n\n#EksenaNgBuhay #FullEpisode #FilipinoDrama",
+      "channelId": "UCDrgKZSv7vD7s_Pj7gcKwzQ",
+      "channelTitle": "Eksena ng Buhay",
+      "thumbnail": "https://i.ytimg.com/vi/KcS73d39Wc0/hqdefault.jpg",
+      "publishedAt": "2026-11-20T16:08:07Z",
+      "durationSeconds": 2435,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "jrF-0gin3Hc",
+      "url": "https://www.youtube.com/watch?v=jrF-0gin3Hc",
+      "title": "The Legend of Warrior Arjun 🔥 वीर अर्जुन की महायुद्ध कहानी | जब एक योद्धा ने पूरे साम्राज्य को बचाया",
+      "description": "The Legend of Warrior Arjun 🔥 वीर अर्जुन की महायुद्ध कहानी | जब एक योद्धा ने पूरे साम्राज्य को बचाया | Full Movie\n\nDiscription:!\n🔥 एक साधारण लोहार का बेटा बना पूरे साम्राज्य का सबसे बड़ा रक्षक!\n\nदेखिए The Legend of Warrior Arjun — एक शानदार Hindi Fantasy Action Adventure Full Movie, जिसमें वीर अर्जुन का सामना होता है खतरनाक राजा भैरान और उसकी विशाल सेना से।\n\nक्या अर्जुन अपनी सुनहरी तलवार से मृत्यु के त्रिशूल को नष्ट कर पाएगा? क्या वह महिष्मती साम्राज्य को अत्याचार से आज़ाद करा पाएगा?\n\nदेखिए साहस, शक्ति, दोस्ती और सच्चाई की एक रोमांचक कहानी!\n\n⚔️ Epic War | Powerful Villain | Magical Sword | Royal Kingdom | Complete Hindi Movie\n\n❤️ अगर आपको ऐसी रोमांचक कहानियाँ पसंद हैं, तो वीडियो को LIKE करें और Drama World HD को SUBSCRIBE करना न भूलें!\n\n#TheLegendOfWarriorArjun #HindiMovie #FantasyMovie\n\nThe Legend of Warrior Arjun\nWarrior Arjun Full Movie\nVeer Arjun Ki Kahani\nवीर अर्जुन की कहानी\nअर्जुन की पूरी कहानी\nHindi Fantasy Movie\nHindi Action Adventure Movie\nHindi Full Movie\nIndian Fantasy Movie\nHistorical Fantasy Movie\nEpic War Story\nWarrior King Story\nArjun vs Bhairan\nArjun vs Evil King\nMahishmati Empire\nMagical Sword Story\nPowerful Warrior Story\nHindi Adventure Kahani\nHindi Moral Story\nRoyal Kingdom Story\nFantasy Action Film\nAI Generated Hindi Movie\nAI Fantasy Action Movie\nHindi Action Kahani\nHindi Story Movie\nDrama World HD\n#TheLegendOfWarriorArjun\n#VeerArjun\n#HindiMovie\n#HindiFantasyMovie\n#FantasyActionMovie\n#HindiKahani\n#WarriorStory\n#IndianFantasy\n#HistoricalFantasy\n#EpicWar\n#ActionAdventure\n#FullHindiMovie\n#MagicalSword\n#Mahishmati\n#HindiAdventureStory\n#DramaWorldHD\n#RajaAurYodha\n#HindiActionStory\n#AIAnimation\n#EpicBattle\n\n⏱️ MOVIE TIMESTAMPS\n\n00:00 – The Royal Challenge Begins\n03:20 – Arjun's Journey Begins\n06:40 – The Impossible Stone Challenge\n10:00 – The Dangerous Condition\n11:40 – The Evil King Bhairan\n15:00 – Arjun Meets the Sage\n16:40 – Arjun's Painful Past\n20:00 – The Ultimate Training\n23:20 – The Death Trident Awakens\n26:40 – The Mountain Ambush\n30:00 – The Golden Sword of Truth\n33:20 – Arjun's Epic Escape\n36:40 – The Prisoners' Rescue\n40:00 – Kalkeerti's Final Challenge\n41:40 – The Battle Plan\n45:00 – The Army's Final Assault\n46:40 – The Final Duel\n48:20 – Bhairan's Defeat & Kingdom's Freedom\n49:50 – The End\n\n\n⚠️ DISCLAIMER\n\nThis video is a fictional fantasy story created for entertainment purposes only. All characters, names, locations, events, and situations shown in this film are imaginary. Any resemblance to real persons, living or dead, or actual events is purely coincidental.\n\nThis film is created using AI-generated visuals and creative storytelling. It does not intend to hurt anyone's feelings, promote violence, or spread hatred.\n\nAll rights belong to their respective owners. Please do not copy, reproduce, or re-upload this content without permission.\n\nThank you for watching. ❤️\n\nDrama World HD",
+      "channelId": "UCxrs1qrnXxw5Y9EIz8sfrGw",
+      "channelTitle": "Drama World HD",
+      "thumbnail": "https://i.ytimg.com/vi/jrF-0gin3Hc/hqdefault.jpg",
+      "publishedAt": "2026-11-19T10:00:02Z",
+      "durationSeconds": 3046,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7IsAkFCvqTk",
+      "url": "https://www.youtube.com/watch?v=7IsAkFCvqTk",
+      "title": "Bewafa Dill || Complete Ai Drama || New Pakistani Drama || Ai Video || Pakistani Drama || Ai Drama",
+      "description": "BEWAFA DIL | A Romantic AI Drama\n\nSome hearts love deeply, some make sacrifices, and some are left broken by the very people they love.\n\nBewafa Dil is an emotional romantic drama filled with love, heartbreak, family conspiracies, complicated relationships, unexpected twists, and hidden feelings.\n\nWhen love collides with family expectations, and destiny brings hearts together against their wishes, every relationship tells a different story.\n\nWill love find its way, or will broken hearts remain prisoners of their past?\n\nWatch the story unfold, where every heart has a secret and every relationship has a twist.\n\nWelcome to AI Drama — where stories come alive through artificial intelligence.\n\nHASHTAGS:\n\n#BewafaDil #AIDrama  #UrduDrama #PakistaniDrama #AIVideo #AIGeneratedDrama #dramaseries  #PakistaniSerial #NewPakistaniDrama #CompleteDrama #CompleteAiDrama #Ai #aigeneratedvideo #DramaPakistani #Storytelling #AIStories #CompletePakistaniDrama",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/7IsAkFCvqTk/hqdefault.jpg",
+      "publishedAt": "2026-11-18T13:30:32Z",
+      "durationSeconds": 2716,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:16.649Z",
+      "lastSeenAt": "2026-11-22T04:54:16.649Z",
+      "lastVerifiedAt": "2026-11-22T04:54:16.649Z",
       "unavailableAt": null
     }
   ]

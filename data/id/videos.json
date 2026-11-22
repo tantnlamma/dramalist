@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:29:20.980Z",
+  "generatedAt": "2026-11-22T04:54:56.138Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -340,7 +340,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-07T04:29:26.698Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-19T05:46:54.343Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1405,7 +1405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1633,7 +1633,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1747,7 +1747,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1801,11 +1801,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-13T04:54:47.657Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": "2026-11-22T04:54:56.138Z"
     },
     {
       "videoId": "reBg7-KdAAc",
@@ -1820,11 +1820,11 @@
       "matchedKeywords": [
         "film kecerdasan buatan full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-04T04:42:27.806Z",
       "lastSeenAt": "2026-11-04T04:42:27.806Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": "2026-11-22T04:54:56.138Z"
     },
     {
       "videoId": "VJyzQABgS9A",
@@ -1842,7 +1842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
-      "lastVerifiedAt": "2026-11-10T05:50:51.367Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1900,7 +1900,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-14T04:48:42.463Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -1976,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2014,7 +2014,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:08.496Z",
       "lastSeenAt": "2026-11-08T04:15:08.496Z",
-      "lastVerifiedAt": "2026-11-10T05:50:51.367Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-19T05:46:54.343Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2166,7 +2166,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2185,7 +2185,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-12T05:38:14.482Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2204,7 +2204,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-20T05:35:50.673Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2362,8 +2362,8 @@
     {
       "videoId": "vk-wEUaLqMY",
       "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
-      "title": "I Married a Broken Soldier | COMPLETE DRAMA #romance #drama #ai",
-      "description": "A woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 1 #romance #drama #ai",
+      "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
       "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
       "channelTitle": "Ai Drama House",
       "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
@@ -2375,7 +2375,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:42.463Z",
       "lastSeenAt": "2026-11-14T04:48:42.463Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2432,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:11.055Z",
       "lastSeenAt": "2026-11-15T04:40:11.055Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2489,7 +2489,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2565,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2600,11 +2600,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-17T06:23:02.444Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": "2026-11-22T04:54:56.138Z"
     },
     {
       "videoId": "hJaGv29Z5yw",
@@ -2641,7 +2641,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2679,7 +2679,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-19T05:46:54.343Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2717,7 +2717,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:54.343Z",
       "lastSeenAt": "2026-11-19T05:46:54.343Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2736,7 +2736,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:54.343Z",
       "lastSeenAt": "2026-11-19T05:46:54.343Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
@@ -2756,14 +2756,14 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:50.673Z",
       "lastSeenAt": "2026-11-20T05:35:50.673Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     },
     {
       "videoId": "TrnoAueBjws",
       "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
       "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
-      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "description": "🔥 RANGBAAZ (2026) – Full Hindi AI Action Romance  | Mehtab Hossain Film 🔥\n\nFamily greed, hidden secrets, and a fierce battle for justice in royal Jaipur. Starring Arjun Rathore and Meera Singhania against Vikram Singhania, RANGBAAZ blends high-voltage action, Holi romance, betrayal, and emotional drama in a full-length AI feature film.\n\n🎬 MOVIE DETAILS\n• Movie Title: RANGBAAZ (2026)\n• Written & Directed by: Mehtab Hossain\n• Production: Nyxora Studios\n• Genre: Action | Romance | Mystery | Emotional Drama\n• Language: Hindi\n• Runtime: 2 Hours 6 Minutes\n• Release Date: 19 November 2026\n• Format: Full-Length AI Feature Film\n\n❤️ HIGHLIGHTS & SONGS\n• High-energy action & hero-villain face-offs\n• Royal Jaipur backdrop, Kurium mine mystery & vibrant Holi romance\n• Featured Songs: \"Rang Tera\" & \"Sun Le Meri Sada\"\n• Family secrets, betrayal, and a dramatic climax\n\n⏱️ CHAPTERS / TIMESTAMPS\n00:00 - Opening & The Singhania Family Legacy\n00:29 - The Singhania Feud & Kurium Mine Conflict\n05:15 - The Secret Formula & First Ambush\n09:20 - Raghav Rathore Stands Strong & The Will for Meera\n14:38 - Holi Celebrations & Rising Danger\n24:21 - Betrayal Night & Tragedy Strikes\n26:43 - Enter Arjun Rathore in Jaipur\n29:31 - Royal Victory & The Holi Challenge\n32:52 - Holi Face-Off & Romantic Song (\"Rang Tera\")\n38:30 - Palace Clash & Family Past Revealed\n45:54 - Vikram's Marriage Plot & The Royal Trust\n1:05:33 - The Mining Conspiracy & Holi Romance Song\n1:13:31 - Wedding Pressure & Plan to Strike Back\n1:19:38 - Street Ambush & Arjun's Retaliation\n1:23:58 - Uncovering the Truth & Storming Vikram's Den\n1:31:02 - Heartbreak, Truth & Song (\"Sun Le Meri Sada\")\n1:43:01 - Village Eviction & Evidence Against Vikram\n1:51:17 - Meera's Captivity & The Final Ultimatum\n1:59:03 - Final Showdown & Justice Prevails\n\n🙏 SUPPORT INDEPENDENT CINEMA\nIf you enjoyed RANGBAAZ (2026), please LIKE the video, COMMENT your favourite scene, SHARE with friends & family, and SUBSCRIBE to Nyxora Studios for more full-length Hindi AI movies.",
       "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
       "channelTitle": "Nyxora Studios",
       "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
@@ -2800,8 +2800,8 @@
     {
       "videoId": "dCzJZzrrOS0",
       "url": "https://www.youtube.com/watch?v=dCzJZzrrOS0",
-      "title": "Analog | Film’s Unlikely Revival in the Age of AI (Full Documentary)",
-      "description": "Analog is a feature documentary about the revival of film photography, the community behind it, and its future in the age of AI.\n\nOnce declared dead, film has reemerged as a vibrant global subculture, attracting new generations and redefining what counts as \"real\" in the digital age. Henry Thong's debut feature-length documentary explores how film photography survived obsolescence, how a global pandemic accelerated its return, and how online and physical spaces built a diverse, inclusive, intergenerational community. It also asks where film is headed as AI ushers in an age of hyper-digitized unreality, and why its survival matters.\n\nFEATURING\nJolene Lupo, Ben Fraternale (@InAnInstant), Kyle Depew (@brooklynfilmcamera), @birgitbuchart, Geoffrey Berliner, @SISSI_LU, @DavidImel, Christopher Bonanos, Naeem Douglas, TKO (Takeo Suzuki), Edward Burtynsky, Ma Yue, Xie Yuxuan, Glenn Kaufman (@KEHcamera), Jonathan Canlas, Neil Nanda, Adam Heft Berninger, and Ethan Moses (@CAMERADACTYLCameras).\n\nCHAPTERS\n\n#FilmPhotography #Analog #Documentary #FilmIsNotDead",
+      "title": "Why Film Photography Is Coming Back in the Age of AI | Analog: Full Documentary",
+      "description": "Analog is a feature documentary about the revival of film photography, the community behind it, and its future in the age of AI.\n\nOnce declared dead, film has reemerged as a vibrant global subculture, attracting new generations and redefining what counts as \"real\" in the digital age. Henry Thong's debut feature-length documentary explores how film photography survived obsolescence, how a global pandemic accelerated its return, and how online and physical spaces built a diverse, inclusive, intergenerational community. It also asks where film is headed as AI ushers in an age of hyper-digitized unreality, and why its survival matters.\n\nFEATURING\nJolene Lupo, Ben Fraternale (@InAnInstant), Kyle Depew (@brooklynfilmcamera), @birgitbuchart, Geoffrey Berliner, @SISSI_LU, @DavidImel, Christopher Bonanos, Naeem Douglas, TKO (Takeo Suzuki), Edward Burtynsky, Ma Yue, Xie Yuxuan, Glenn Kaufman (@KEHcamera), Jonathan Canlas, Neil Nanda, Adam Heft Berninger, and Ethan Moses (@CAMERADACTYLCameras).\n\nCHAPTERS\n00:00 Intro\n03:08 Reminiscing with family photos \n06:43 Why people are going back to film\n11:11 Film vs digital \n14:44 History of film photography\n24:35 Artists adopt film \n27:53 Covid\n28:59 Social media’s impact on film photography\n33:58 Stores and retailers’ experience\n36:30 Repairing vintage cameras\n37:53 Photo labs’ experience\n40:45 Finding community\n42:03 Photo walks\n44:39 The important of physical spaces\n46:45 Diversity and inclusivity in the film community\n51:55 AI’s impact\n53:25 What film and AI have in common\n55:00 Analog artists working with AI\n57:02 History repeats itself?\n59:52 3D printing new film cameras\n01:04:50 The creation of the Pentax 17\n01:07:28 The future of film?\n01:09:30 Closing thoughts\n01:11:06 Credits\n\n#FilmPhotography #Analog #Documentary #FilmIsNotDead",
       "channelId": "UC2kVbK04J5p_L3gqxYBfytw",
       "channelTitle": "Henry Thong",
       "thumbnail": "https://i.ytimg.com/vi/dCzJZzrrOS0/hqdefault.jpg",
@@ -2832,7 +2832,159 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:20.980Z",
       "lastSeenAt": "2026-11-21T05:29:20.980Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "T2zyoHRlCxU",
+      "url": "https://www.youtube.com/watch?v=T2zyoHRlCxU",
+      "title": "Beyond the Wall (2026) Hollywood English Full HD Sci-Fi Action Movie | The Machines Have Taken Over!",
+      "description": "HUMANITY IS UNDER ATTACK... AND THE MACHINES ARE IN CONTROL!\n\nBeyond the Wall is an explosive sci-fi action adventure where a deadly cyber virus turns advanced machines into weapons of mass destruction. When a powerful weapons corporation falls under the control of a rogue digital force, humanity faces its greatest battle for survival.\n\nAs an unstoppable army of machines begins taking over everything, a group of fearless survivors must fight their way through chaos, uncover the terrifying truth behind the cyber takeover, and stop the technology that threatens to wipe out mankind.\n\nBut when machines become smarter, stronger, and more dangerous than humans, survival becomes the ultimate battle.\n\n🔥 A deadly cyber virus takes control\n🤖 An unstoppable army of machines rises\n⚔️ Humanity fights back against advanced technology\n💥 Explosive action and intense survival battles\n🌎 The future of mankind hangs in the balance\n\n🎬 MOVIE DETAILS:\nMovie Title: Beyond the Wall\nGenre: Sci-Fi | Action | Adventure\nLanguage: English\nQuality: Full HD\n\nIf you enjoy robot invasion movies, artificial intelligence thrillers, futuristic warfare, machine apocalypse stories, and action-packed science fiction movies, this is an adventure you don't want to miss!\n\nWatch until the end to discover whether humanity can survive the ultimate machine takeover.\n\n👍 LIKE if you enjoy sci-fi action movies.\n💬 COMMENT: Would humanity survive an AI-controlled machine army?\n🔔 SUBSCRIBE to HollyTube for more Hollywood English Full Movies, Sci-Fi Adventures, and Action Entertainment.\n\n#BeyondTheWall #SciFiMovie #RobotInvasion #MachineTakeover #HollywoodMovie #EnglishFullMovie #ActionMovie #ScienceFiction #AIRevolution #RobotArmy #HollyTube",
+      "channelId": "UCPFcL7Gfao7BRH3olFGo-5w",
+      "channelTitle": "HollyTube",
+      "thumbnail": "https://i.ytimg.com/vi/T2zyoHRlCxU/hqdefault.jpg",
+      "publishedAt": "2026-11-04T11:00:11Z",
+      "durationSeconds": 5516,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "C0120LtLQ6Q",
+      "url": "https://www.youtube.com/watch?v=C0120LtLQ6Q",
+      "title": "MECH-BEASTS: THE ODDGUARD | Full Sci-Fi Movie 4K #SciFiMovie #Mecha",
+      "description": "MECH-BEASTS: THE ODDGUARD | Full Sci-Fi Movie 4K #SciFiMovie #Mecha\n\n\nA young hero and his team of cyber-animals must protect Earth when two mysterious energy cores fall into the wrong hands — and the second core has been living beside the hero all along, as his cat.\n\nLeo leads the Oddguard — Nyx the mech cat, Briggs the armoured gorilla, Milo the cyber-monkey, Atlas the transforming mech-vehicle, and Zero the cyborg — against alien hunters, a regenerating Blood Beast, and the human villain Kane. From a bank heist on a city street to a giant beast on a bridge, a hidden core chamber, and a long journey across the beacon plain to a ruined settlement, this is a full 99-minute AI sci-fi action movie in 4K.\n\nWhich member of the Oddguard would you want beside you: the mech cat, the armoured gorilla, the cyber-monkey, or the cyborg? Tell us in the comments, and subscribe for more original AI sci-fi movies.\n\nCHAPTERS:\n00:00 A Bank Heist Goes Loud\n29:40 The Tunnel Under the Floor\n36:10 The Dry Dock — The Second Core\n58:00 The Beacon Plain\n1:19:00 The Plain Stops\n1:39:00 The Ruined Settlement\n\nThis is an AI-generated fictional science-fiction film.\n\n#SciFiMovie #TheOddguard #MechBeasts #AIMovie #FullMovie\n```\n\nNote: chapter times approximate hain — upload ke baad YouTube Studio mein check kar ke adjust kar lena.\n\n\n#SciFiMovie #TheOddguard #MechBeasts #AIMovie #FullMovie  #SciFi #AlienHunters #MechCat #LivingArmor #4K #SciFiAction",
+      "channelId": "UCHsnyl8Qg8J9rRXbxvfmffw",
+      "channelTitle": "New Film",
+      "thumbnail": "https://i.ytimg.com/vi/C0120LtLQ6Q/hqdefault.jpg",
+      "publishedAt": "2026-11-17T00:08:19Z",
+      "durationSeconds": 5971,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ria2zfoz0Ek",
+      "url": "https://www.youtube.com/watch?v=ria2zfoz0Ek",
+      "title": "KEPLER: EDEN PROTOCOL | Be Inside Before the Bell / AI Sci-Fi | Mystery Thriller | Full Movie | 4K",
+      "description": "🔔 Be inside before the Bell. Every dusk a wall of silver light sweeps the plain, and anyone outside the stones who still wears a copper band is gone. Then the bell-keeper's father walks out into the dark.\n\nKEPLER: EDEN PROTOCOL is a full-length AI-generated sci-fi mystery thriller set in the 286th year of Eden, a walled settlement of eleven thousand adults on an alien world under a huge red sun. Everyone wears a copper band on the left wrist, lives by seven rules recited at dawn, and must be inside the ring of standing stones before the dusk Bell rings.\n\nCalla Sutter is the Bell-keeper, the one person who pulls the rope that raises the Veil, the silver light that rolls across the plain. When her father Hollis walks out beyond the stones with a blue lantern and tells her to ring on time, she does. The next morning his name meets silence at the Count. With the old weaver Hester, the nervous archivist Oren, her friend Nell the baker, and the High Keeper Cordelia Vane watching her every move, Calla begins to ask what the rules are really for, and what the Bell is really for.\n\nThis feature-length AI film delivers a slow-burning mystery of rules and rituals, a world of amber lanterns, copper bands and silver light, and a quietly angry story about the law that keeps you alive and who wrote it. Count the rules as they are recited. Does the number add up? Tell us in the comments.\n\nStory Timeline\n00:00 The Green Ring\n02:42 The Veil\n03:59 The Count\n10:17 The Box\n11:33 Hester's Cottage\n13:06 The Keep Archive\n17:47 Blue\n19:28 Under the Bell\n24:19 The Spare Band\n25:54 The Bell Men\n27:32 In Tobias's Coat Pocket\n30:31 High Keeper\n33:20 The Unbanding\n35:24 The Glowing Plain\n36:27 The Inkwood\n37:28 The Ship\n43:07 Father\n44:40 The Gorge of Lanterns\n47:55 Tobias\n51:09 The Plan\n53:58 Nell\n57:20 Bell Night\n59:22 The Voice in the Square\n1:02:05 Noon\n1:05:54 Six Weeks Later\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more long-form AI movies, sci-fi thrillers, and 4K experimental films every week.\n\n#KeplerEdenProtocol #AIFilm #AIMovie #SciFiMovie #AISciFi #SciFiFullMovie #SciFiThriller #DystopianSciFi #FullMovie #SciFiMystery #AIMovie2026 #AlienPlanet",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/ria2zfoz0Ek/hqdefault.jpg",
+      "publishedAt": "2026-11-10T12:24:54Z",
+      "durationSeconds": 4036,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ByhGzOkIGTw",
+      "url": "https://www.youtube.com/watch?v=ByhGzOkIGTw",
+      "title": "KEPLER: THE GREAT LIE | No One Came Home From Kepler / AI Sci-Fi | Mystery | Full Movie | 4K",
+      "description": "📬 Every Tuesday at seven, a golden letter from paradise reaches 41 million families. Then a sky painter finds her own secret gull in the sky behind her husband.\n\nKEPLER: THE GREAT LIE is a full-length AI-generated sci-fi thriller set in the year 2172, in a dust-red America where a company called Arden Passage sells seats on its ships to Kepler, \"a second Earth\" 1,400 light-years away, in exchange for a family's land deed. Every Tuesday at seven o'clock, a honey-gold video letter \"from paradise\" lights up every screen in town.\n\nWren Holloway paints the skies of Kepler for the company. For years she has hidden one small white gull with a bent left wing in the corner of every sky, her father's bird, her private signature. Then she pauses her husband Jonah's newest letter and finds the gull in the sky behind him. With Amos Reed, an actuary from Omaha whose numbers will not add up, the raspy, sharp-tongued physicist Dr. Ines Varga, and a blunt tanker pilot named Deacon, Wren starts asking the question nobody in the line wants answered: what is really up there?\n\nThis feature-length AI film delivers a slow-burning conspiracy mystery, a near-future America of dust, diners and honey-gold advertising, a hidden bird in every sky, and a quietly angry story about being sold a dream. A small white gull is hidden in the very first shot. Find it and tell us in the comments.\n\nStory Timeline\n00:00 Paradise\n00:47 Tuesday at Seven\n01:44 The Gull in the Letter\n03:45 Redfork\n07:26 Under the Patch\n10:01 A Polite Man\n12:44 The Queue\n14:18 The Life of Jonah\n17:33 The Man in the Bow Tie\n19:09 The Insurance Tower\n22:22 The Sun on the Table\n24:08 The Man Who Sold the Gas\n28:54 The Redfork Gym\n30:30 The Forgiveness\n33:43 The Bird in the Ash\n35:16 The Line\n38:05 Over the Ridge\n41:47 The Man in the Cardigan\n43:12 On the Porch\n45:55 Nine Days\n49:20 The Gauge\n51:06 Useless Proof\n52:38 The Picture Frame\n56:58 Seven O'Clock\n58:53 Find the Gull\n1:02:37 The Key\n1:05:00 Four Months Later\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\nSubscribe to Stellar Cinema for more long-form AI movies, sci-fi thrillers, and 4K experimental films every week.\n\n#KeplerTheGreatLie #AIFilm #AIMovie #SciFiMovie #AISciFi #SciFiFullMovie #SciFiThriller #DystopianSciFi #FullMovie #FullMovie4K #4kmovie  #SciFiMystery #AIMovie2026 #SecondEarth  #StellarCinema",
+      "channelId": "UCdgZlLka1o3c2bkdHDDdZpQ",
+      "channelTitle": "Stellar Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/ByhGzOkIGTw/hqdefault.jpg",
+      "publishedAt": "2026-11-07T12:13:41Z",
+      "durationSeconds": 4043,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QVw1TAeylPs",
+      "url": "https://www.youtube.com/watch?v=QVw1TAeylPs",
+      "title": "SHIP32 | Full AI Sci-Fi Movie — Two Brothers, One Robot War",
+      "description": "SHIP32 is a complete, standalone AI sci-fi action movie by RENCanDo AI Cinema. When mysterious technology falls from the sky, two brothers are changed forever—leading to a high-stakes robot war for the fate of humanity.\n\nTwenty-five years after the crash, one brother builds advanced white robotics to protect humanity, while the other builds a ruthless black robot empire with a plan to conquer and convert.\n\n⚡ KEY CHARACTERS & FORCES\n• WHITE BOY / WHITE ROBOT GUARDIAN: The survivor who found the first chip, powered by white core technology to defend humanity.\n• BLACK BROTHER / X1: Ruthless and ambitious, wielding dark power and self-learning combat AI with a mission to eliminate resistance.\n• THE COMMANDER & ETERNAL GUARDIANS: A neural-linked cyborg hero, robotic guardian, and allies fighting to restore the city and free the converted.\n\n🎬 Channel Focus: RENCanDo AI Cinema delivers original full-length AI Sci-Fi Action & Survival movies packed with futuristic technology, robot wars, alien threats, and human survival.\n\n🔔 Subscribe to RENCanDo AI Cinema for more standalone AI sci-fi movies:\nhttps://www.youtube.com/@RENCanDoAICinema\n\n#AISciFiMovie #FullSciFiMovie #SciFiMovie #RobotWar #AICinema #SciFiAction #FuturisticMovie #RENCanDoAICinema",
+      "channelId": "UCIRNfIDOg77KotntoShbCVA",
+      "channelTitle": "RENCanDo AI Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/QVw1TAeylPs/hqdefault.jpg",
+      "publishedAt": "2026-10-31T00:00:07Z",
+      "durationSeconds": 1807,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HPGolH7TOOM",
+      "url": "https://www.youtube.com/watch?v=HPGolH7TOOM",
+      "title": "Kakak Sahabatku Bos Mafia Drama China Sub Indonesia Full Terbaru 2026",
+      "description": "kakak sahabatku bos mafia drama ai\nkakak sahabatku bos mafia victoria\nkakak sahabatku bos mafia ethan\nkakak sahabatku bos mafia leo\nkakak sahabatku bos mafia ai\nkakak sahabatku bos mafia full episode\nkakak sahabatku bos mapia",
+      "channelId": "UCZZauVsSmgQ92y0V9-KduNQ",
+      "channelTitle": "CulinaAI",
+      "thumbnail": "https://i.ytimg.com/vi/HPGolH7TOOM/hqdefault.jpg",
+      "publishedAt": "2026-11-21T11:19:59Z",
+      "durationSeconds": 7362,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "I4bwdz91FAw",
+      "url": "https://www.youtube.com/watch?v=I4bwdz91FAw",
+      "title": "KHAUF AUR MOHABBAT, ISHQ, JUNOON AUR MAFIA DON ZAVIYAR | Complete Ai Drama||Pakistani Drama|Ai Drama",
+      "description": "KHAUF AUR MOHABBAT, ISHQ, JUNOON AUR MAFIA DON ZAVIYAR 🖤\n\n❤️ Ek kahani mohabbat, junoon, dhokay, khauf aur naye aghaaz ki.\n\nPresented: by Drama Planet Ai\n\nKya hota hai jab ek masoom larki ghalti se ek khatarnaak mafia don ke raaz jaan leti hai? Aur kya woh shakhs jis se woh darti hai, ek din uske dil ki sab se bari kamzori ban sakta hai?\n\nZaviyar Mirza ek taqatwar, beraham aur khudgharz mafia don hai, jo kisi par bharosa nahi karta. Uski duniya mein sirf taqat, qabza aur badla hai. Lekin uski zindagi us waqt badal jaati hai jab Inaya Ahmed, ek masoom magar bahadur larki, ghalti se uski ek khufiya meeting dekh leti hai aur uski khatarnaak duniya ka hissa ban jaati hai.\n\nEk hi chhat ke neeche rehne par unke darmiyan shuru hoti hai nafrat, takraar aur khauf ki ek anokhi kahani. Lekin waqt ke saath parwah, jalan, hifazat aur mohabbat ke jazbaat janam lene lagte hain.\n\nMagar jab khandani raaz, dhoka aur ek khatarnaak dushman unki zindagi mein toofan le aate hain, toh unki mohabbat ka sab se bara imtihan shuru hota hai.\n\nKya Inaya, Zaviyar ki sab se bari kamzori ban jayegi? Kya mohabbat ek aise shakhs ko badal sakti hai jisne kabhi kisi se mohabbat karna nahi seekha? Aur kya unka rishta dhokay aur khatron ke bawajood zinda reh payega?\n\n\nAgar aapko Pakistani romantic dramas, intense love stories, mafia romance, emotional twists aur suspense pasand hain, toh:\n\n👍 Video ko Like karein  \n💬 Comments mein apni rai zaroor dein  \n🔔 Mazeed original AI-generated Pakistani dramas ke liye **Drama Planet Ai** ko Subscribe karein.\n\nDISCLAIMER: Yeh ek fictional AI-generated drama hai jo sirf entertainment ke liye banaya gaya hai. Iske tamam kirdar, naam, waqiat aur kahaniyan farzi hain. Kisi bhi haqeeqi shakhs ya waqia se mushabihat sirf ittefaq hogi.\n\n#IshqJunoonAurMafiaDon #PakistaniDrama #MafiaDon #RomanticDrama #AIDrama #DramaPlanetAi #PakistaniRomance #LoveStory #MafiaLoveStory #UrduDrama #NafratSeIshq  #PakistaniAIDrama   #AIStory",
+      "channelId": "UC4OVjMGb92RfkXn1e3mZ3Iw",
+      "channelTitle": "Drama Planet AI",
+      "thumbnail": "https://i.ytimg.com/vi/I4bwdz91FAw/hqdefault.jpg",
+      "publishedAt": "2026-11-18T15:00:29Z",
+      "durationSeconds": 1934,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZDMxHXp0iUs",
+      "url": "https://www.youtube.com/watch?v=ZDMxHXp0iUs",
+      "title": "there's drama in the AI husband community",
+      "description": "Today we dive deep into the world of AI Partners and the drama that comes with it..\nJOIN OUR MOVIE CLUB ON PATREON!! - https://www.patreon.com/cw/CamKirkham\n\n\nFollow @huskymamma- on tiktok\n\nWatch my new TV channel video here! - https://youtu.be/e4n3Vn0WYr4\n\nBusiness - camkirkham@saulderson.com",
+      "channelId": "UC9MBmpdrLG6vX7mNPGYwsSA",
+      "channelTitle": "Cam Kirkham Reacts",
+      "thumbnail": "https://i.ytimg.com/vi/ZDMxHXp0iUs/hqdefault.jpg",
+      "publishedAt": "2026-11-01T15:00:36Z",
+      "durationSeconds": 3271,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:56.138Z",
+      "lastSeenAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
       "unavailableAt": null
     }
   ]

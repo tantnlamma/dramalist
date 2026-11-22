@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:28:53.831Z",
+  "generatedAt": "2026-11-22T04:54:26.029Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1128,7 +1128,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:47.316Z",
       "lastSeenAt": "2026-11-01T04:08:47.316Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1266,7 +1266,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1323,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1382,7 +1382,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1402,7 +1402,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1520,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1637,7 +1637,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1676,7 +1676,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:29.896Z",
       "lastSeenAt": "2026-11-16T04:36:29.896Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1715,7 +1715,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:30.146Z",
       "lastSeenAt": "2026-11-18T05:47:30.146Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1735,7 +1735,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1755,7 +1755,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1794,7 +1794,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1815,14 +1815,14 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
       "videoId": "TrnoAueBjws",
       "url": "https://www.youtube.com/watch?v=TrnoAueBjws",
       "title": "RANGBAAZ (2026) | Full Hindi Action Romance Movie | 2 Hours 6 Minutes | AI Movie",
-      "description": "🔥 RANGBAAZ – A MEHTAB HOSSAIN FILM 🔥\n\nPresenting RANGBAAZ (2026), a grand-scale AI-generated Hindi action romance thriller featuring intense action, powerful emotions, betrayal, revenge, love and an unforgettable climax.\n\nA story where love faces betrayal, family secrets destroy relationships, and the fight for truth becomes a battle for survival.\n\n🎬 MOVIE DETAILS: Movie Title: RANGBAAZ Written & Directed by: MEHTAB HOSSAIN Production: NYXORA STUDIOS Genre: Action | Romance | Mystery | Emotional Drama Language: Hindi Runtime: 2 Hours 6 Minutes Release Date: 19 November 2026 Format: AI-Generated Feature Film\n\n❤️ WHY WATCH RANGBAAZ? • High-voltage Bollywood-style action sequences • Powerful hero-villain face-off • Emotional love story • Family drama and shocking secrets • Grand cinematic climax • A complete full-length AI movie experience\n\nIf you love Bollywood action, romance, revenge dramas and emotional stories, RANGBAAZ is for you!\n\n🙏 SUPPORT INDEPENDENT CINEMA\n\nIf you enjoy the movie: 👍 LIKE 💬 COMMENT your favourite scene 🔔 SUBSCRIBE to NYXORA STUDIOS 📢 SHARE this movie with your friends and family.\n\nYour support inspires us to create bigger and better cinematic experiences.\n\n#Rangbaaz #FullMovie #HindiMovie #AIMovie #ActionMovie #BollywoodStyleMovie #MehtabHossain #NyxoraStudios #ActionRomance #HindiActionMovie",
+      "description": "🔥 RANGBAAZ (2026) – Full Hindi AI Action Romance  | Mehtab Hossain Film 🔥\n\nFamily greed, hidden secrets, and a fierce battle for justice in royal Jaipur. Starring Arjun Rathore and Meera Singhania against Vikram Singhania, RANGBAAZ blends high-voltage action, Holi romance, betrayal, and emotional drama in a full-length AI feature film.\n\n🎬 MOVIE DETAILS\n• Movie Title: RANGBAAZ (2026)\n• Written & Directed by: Mehtab Hossain\n• Production: Nyxora Studios\n• Genre: Action | Romance | Mystery | Emotional Drama\n• Language: Hindi\n• Runtime: 2 Hours 6 Minutes\n• Release Date: 19 November 2026\n• Format: Full-Length AI Feature Film\n\n❤️ HIGHLIGHTS & SONGS\n• High-energy action & hero-villain face-offs\n• Royal Jaipur backdrop, Kurium mine mystery & vibrant Holi romance\n• Featured Songs: \"Rang Tera\" & \"Sun Le Meri Sada\"\n• Family secrets, betrayal, and a dramatic climax\n\n⏱️ CHAPTERS / TIMESTAMPS\n00:00 - Opening & The Singhania Family Legacy\n00:29 - The Singhania Feud & Kurium Mine Conflict\n05:15 - The Secret Formula & First Ambush\n09:20 - Raghav Rathore Stands Strong & The Will for Meera\n14:38 - Holi Celebrations & Rising Danger\n24:21 - Betrayal Night & Tragedy Strikes\n26:43 - Enter Arjun Rathore in Jaipur\n29:31 - Royal Victory & The Holi Challenge\n32:52 - Holi Face-Off & Romantic Song (\"Rang Tera\")\n38:30 - Palace Clash & Family Past Revealed\n45:54 - Vikram's Marriage Plot & The Royal Trust\n1:05:33 - The Mining Conspiracy & Holi Romance Song\n1:13:31 - Wedding Pressure & Plan to Strike Back\n1:19:38 - Street Ambush & Arjun's Retaliation\n1:23:58 - Uncovering the Truth & Storming Vikram's Den\n1:31:02 - Heartbreak, Truth & Song (\"Sun Le Meri Sada\")\n1:43:01 - Village Eviction & Evidence Against Vikram\n1:51:17 - Meera's Captivity & The Final Ultimatum\n1:59:03 - Final Showdown & Justice Prevails\n\n🙏 SUPPORT INDEPENDENT CINEMA\nIf you enjoyed RANGBAAZ (2026), please LIKE the video, COMMENT your favourite scene, SHARE with friends & family, and SUBSCRIBE to Nyxora Studios for more full-length Hindi AI movies.",
       "channelId": "UC7mnFfEo4FQrcg0I0WHjNmg",
       "channelTitle": "Nyxora Studios",
       "thumbnail": "https://i.ytimg.com/vi/TrnoAueBjws/hqdefault.jpg",
@@ -1835,7 +1835,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1854,7 +1854,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1893,14 +1893,14 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
       "videoId": "dCzJZzrrOS0",
       "url": "https://www.youtube.com/watch?v=dCzJZzrrOS0",
-      "title": "Analog | Film’s Unlikely Revival in the Age of AI (Full Documentary)",
-      "description": "Analog is a feature documentary about the revival of film photography, the community behind it, and its future in the age of AI.\n\nOnce declared dead, film has reemerged as a vibrant global subculture, attracting new generations and redefining what counts as \"real\" in the digital age. Henry Thong's debut feature-length documentary explores how film photography survived obsolescence, how a global pandemic accelerated its return, and how online and physical spaces built a diverse, inclusive, intergenerational community. It also asks where film is headed as AI ushers in an age of hyper-digitized unreality, and why its survival matters.\n\nFEATURING\nJolene Lupo, Ben Fraternale (@InAnInstant), Kyle Depew (@brooklynfilmcamera), @birgitbuchart, Geoffrey Berliner, @SISSI_LU, @DavidImel, Christopher Bonanos, Naeem Douglas, TKO (Takeo Suzuki), Edward Burtynsky, Ma Yue, Xie Yuxuan, Glenn Kaufman (@KEHcamera), Jonathan Canlas, Neil Nanda, Adam Heft Berninger, and Ethan Moses (@CAMERADACTYLCameras).\n\nCHAPTERS\n\n#FilmPhotography #Analog #Documentary #FilmIsNotDead",
+      "title": "Why Film Photography Is Coming Back in the Age of AI | Analog: Full Documentary",
+      "description": "Analog is a feature documentary about the revival of film photography, the community behind it, and its future in the age of AI.\n\nOnce declared dead, film has reemerged as a vibrant global subculture, attracting new generations and redefining what counts as \"real\" in the digital age. Henry Thong's debut feature-length documentary explores how film photography survived obsolescence, how a global pandemic accelerated its return, and how online and physical spaces built a diverse, inclusive, intergenerational community. It also asks where film is headed as AI ushers in an age of hyper-digitized unreality, and why its survival matters.\n\nFEATURING\nJolene Lupo, Ben Fraternale (@InAnInstant), Kyle Depew (@brooklynfilmcamera), @birgitbuchart, Geoffrey Berliner, @SISSI_LU, @DavidImel, Christopher Bonanos, Naeem Douglas, TKO (Takeo Suzuki), Edward Burtynsky, Ma Yue, Xie Yuxuan, Glenn Kaufman (@KEHcamera), Jonathan Canlas, Neil Nanda, Adam Heft Berninger, and Ethan Moses (@CAMERADACTYLCameras).\n\nCHAPTERS\n00:00 Intro\n03:08 Reminiscing with family photos \n06:43 Why people are going back to film\n11:11 Film vs digital \n14:44 History of film photography\n24:35 Artists adopt film \n27:53 Covid\n28:59 Social media’s impact on film photography\n33:58 Stores and retailers’ experience\n36:30 Repairing vintage cameras\n37:53 Photo labs’ experience\n40:45 Finding community\n42:03 Photo walks\n44:39 The important of physical spaces\n46:45 Diversity and inclusivity in the film community\n51:55 AI’s impact\n53:25 What film and AI have in common\n55:00 Analog artists working with AI\n57:02 History repeats itself?\n59:52 3D printing new film cameras\n01:04:50 The creation of the Pentax 17\n01:07:28 The future of film?\n01:09:30 Closing thoughts\n01:11:06 Credits\n\n#FilmPhotography #Analog #Documentary #FilmIsNotDead",
       "channelId": "UC2kVbK04J5p_L3gqxYBfytw",
       "channelTitle": "Henry Thong",
       "thumbnail": "https://i.ytimg.com/vi/dCzJZzrrOS0/hqdefault.jpg",
@@ -1933,7 +1933,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1952,7 +1952,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -1990,7 +1990,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     },
     {
@@ -2010,7 +2010,122 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-21T05:28:53.831Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ouu2DucrFOM",
+      "url": "https://www.youtube.com/watch?v=ouu2DucrFOM",
+      "title": "He Abandoned His Family for Her Lies | Full AI Movie | 2026 interesting movie",
+      "description": "He had a loving wife, two wonderful children, and a home full of laughter. Then a \"friends' vacation\" changed everything.\n\nIn this emotional AI-generated family drama, an old man looks back on the day he abandoned the best wife any man could ask for, and the woman who deceived him. Years later, his children have become successful beyond anything he imagined, and he is left with one question: should he go beg for forgiveness?\n\nBetrayal. Regret. Forgiveness. Watch to the end and tell me what you think he should do.\n\nLike, comment, and subscribe for more full-length AI movies and family dramas.\n\n#FullMovie #AIMovie #FamilyDrama #watchandlearn #movies",
+      "channelId": "UCi4qg5jIctKAZWkdaltwfkg",
+      "channelTitle": "MaggisTv1",
+      "thumbnail": "https://i.ytimg.com/vi/ouu2DucrFOM/hqdefault.jpg",
+      "publishedAt": "2026-11-18T04:00:28Z",
+      "durationSeconds": 2416,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "PoyzJ9_52Io",
+      "url": "https://www.youtube.com/watch?v=PoyzJ9_52Io",
+      "title": "The Don’s Secret|Left Out Of The Truth#shortmax #ai#film",
+      "description": "🔗 Watch Full Episodes:\n https://cps-front.shorttv.live/app-api/sp/new/20261121gzxX4ZGCxN\n📱 Open [ShortMax] and search code:【   tkr96672   】\nOR click the link above to watch directly.\n\nMy husband, a powerful don, arrives home after war with a pregnant woman. He guards her carefully, his family supports him, and I’m supposed to accept it quietly. I only have one goal: keep my son safe amid all these marriage secrets. There is something they refuse to tell me. What is it, and why am I the last one to learn it?\n#shortdrama",
+      "channelId": "UCrusa6zZKR_cjYIadQjrHRg",
+      "channelTitle": "サイバーシネマ ネオン / サイバーシネマネオン",
+      "thumbnail": "https://i.ytimg.com/vi/PoyzJ9_52Io/hqdefault.jpg",
+      "publishedAt": "2026-11-21T04:26:03Z",
+      "durationSeconds": 2797,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ehcfQGJPwjU",
+      "url": "https://www.youtube.com/watch?v=ehcfQGJPwjU",
+      "title": "【VIVANT映画2026】AIハヤト消失の衝撃！公式Xの「欠けたピース」が示す恐怖の伏線とは？堺雅人・阿部寛・二宮和也｜TBS",
+      "description": "映画『VIVANT』公開直前、公式Xが投稿した「欠けたピース」に衝撃が走る！\n\n2026年12月4日公開の映画『VIVANT』に向けて、TBS公式Xが公開したカウントダウンビジュアルが大きな話題となっています。\n\n11月18日に公開された第16話のパズル風ビジュアルで、なんと別班を支える重要キャラクター「AIハヤト」の姿が一部欠けていたのです。\n\nしかも、欠けていたのは核融合技術を説明していた「ドク姿のハヤト」でした。\n\nこれは単なる演出なのか？ それとも映画で起こる重大事件への伏線なのか？\n\nファンの間では、さまざまな衝撃の考察が広がっています。\n\n🔥 今回の動画で徹底考察！\n\n🔴 AIハヤトが敵に乗っ取られる可能性とは？\n\n🔴 「欠けたピース」が暗示するハヤト消失説\n\n🔴 乃木憂助とAIハヤトの「家族」という言葉に隠された意味\n\n🔴 ハヤトの記憶が強制的に消去される可能性\n\n🔴 核融合技術をめぐる新たな敵の存在\n\n🔴 ブルーウォーカーと東条翔太が担う情報戦の行方\n\n🔴 堺雅人演じる乃木憂助が直面するかもしれない究極の選択\n\n🔴 映画『VIVANT』で描かれる可能性のある衝撃展開\n\n堺雅人、阿部寛、二宮和也、松坂桃李、役所広司ら豪華キャストが織りなす『VIVANT』の世界。\n\n果たしてAIハヤトは、最後まで乃木たちの味方であり続けるのでしょうか？\n\nそれとも、別班の運命を大きく変える悲劇が待っているのでしょうか？\n\n今回の動画では、公式ビジュアルやこれまでのドラマの描写を振り返りながら、映画につながる可能性のある伏線を詳しく考察します。\n\n※本動画にはファンの考察や独自の推測が含まれます。映画本編の展開を断定するものではありません。\n\n💬 皆さんは、AIハヤトの欠けたピースにどんな意味があると思いますか？\n\n「乗っ取り説」「消失説」「別の伏線」など、ぜひコメント欄で予想を教えてください！\n\n👍 動画が面白かったら高評価をお願いします。\n\n🔔 チャンネル登録をして、映画『VIVANT』の最新情報や考察動画をお見逃しなく！\n\n#VIVANT #VIVANT映画 #VIVANT2026 #堺雅人 #阿部寛 #二宮和也 #松坂桃李 #役所広司 #TBS #日曜劇場 #AIハヤト #乃木憂助 #別班 #VIVANT考察 #VIVANT伏線 #VIVANT最新情報 #映画VIVANT #核融合技術 #公式X #ドラマ考察 #日本ドラマ #映画最新情報",
+      "channelId": "UC99lm_i5JKqvUFLmW5mRJcw",
+      "channelTitle": "Japan sports ",
+      "thumbnail": "https://i.ytimg.com/vi/ehcfQGJPwjU/hqdefault.jpg",
+      "publishedAt": "2026-11-19T06:13:21Z",
+      "durationSeconds": 3604,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "vk-wEUaLqMY",
+      "url": "https://www.youtube.com/watch?v=vk-wEUaLqMY",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 1 #romance #drama #ai",
+      "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
+      "channelTitle": "Ai Drama House",
+      "thumbnail": "https://i.ytimg.com/vi/vk-wEUaLqMY/hqdefault.jpg",
+      "publishedAt": "2026-11-13T03:55:14Z",
+      "durationSeconds": 7105,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QVw1TAeylPs",
+      "url": "https://www.youtube.com/watch?v=QVw1TAeylPs",
+      "title": "SHIP32 | Full AI Sci-Fi Movie — Two Brothers, One Robot War",
+      "description": "SHIP32 is a complete, standalone AI sci-fi action movie by RENCanDo AI Cinema. When mysterious technology falls from the sky, two brothers are changed forever—leading to a high-stakes robot war for the fate of humanity.\n\nTwenty-five years after the crash, one brother builds advanced white robotics to protect humanity, while the other builds a ruthless black robot empire with a plan to conquer and convert.\n\n⚡ KEY CHARACTERS & FORCES\n• WHITE BOY / WHITE ROBOT GUARDIAN: The survivor who found the first chip, powered by white core technology to defend humanity.\n• BLACK BROTHER / X1: Ruthless and ambitious, wielding dark power and self-learning combat AI with a mission to eliminate resistance.\n• THE COMMANDER & ETERNAL GUARDIANS: A neural-linked cyborg hero, robotic guardian, and allies fighting to restore the city and free the converted.\n\n🎬 Channel Focus: RENCanDo AI Cinema delivers original full-length AI Sci-Fi Action & Survival movies packed with futuristic technology, robot wars, alien threats, and human survival.\n\n🔔 Subscribe to RENCanDo AI Cinema for more standalone AI sci-fi movies:\nhttps://www.youtube.com/@RENCanDoAICinema\n\n#AISciFiMovie #FullSciFiMovie #SciFiMovie #RobotWar #AICinema #SciFiAction #FuturisticMovie #RENCanDoAICinema",
+      "channelId": "UCIRNfIDOg77KotntoShbCVA",
+      "channelTitle": "RENCanDo AI Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/QVw1TAeylPs/hqdefault.jpg",
+      "publishedAt": "2026-10-31T00:00:07Z",
+      "durationSeconds": 1807,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4BtjKidczRo",
+      "url": "https://www.youtube.com/watch?v=4BtjKidczRo",
+      "title": "THE HOLLOW BELL | AI Folk Horror Full Movie",
+      "description": "In a forgotten forest village, an ancient cracked bell hangs silent — until its sound returns. THE HOLLOW BELL is a dark folk-horror AI film about ritual, fear, and a village living in the shadow of a bell that must never ring again.\n\n🎬 An original AI film by FrameByAI — Films Made by AI, Stories Made for Humans.\n🔔 Subscribe for a new AI film every week.\n\n#AIFilm #AIMovie #AICinema #FolkHorror #HorrorMovie",
+      "channelId": "UClkTPHTNod8BoggX7_94-CA",
+      "channelTitle": "FrameByAI",
+      "thumbnail": "https://i.ytimg.com/vi/4BtjKidczRo/hqdefault.jpg",
+      "publishedAt": "2026-10-29T21:00:21Z",
+      "durationSeconds": 3551,
+      "matchedKeywords": [
+        "AI 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-22T04:54:26.029Z",
+      "lastSeenAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
       "unavailableAt": null
     }
   ]
