@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T04:54:56.138Z",
+  "generatedAt": "2026-11-23T05:35:48.152Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -885,7 +885,7 @@
       "channelTitle": "Toon Kids Bahasa Indonesia - Video untuk Anak Anak",
       "thumbnail": "https://i.ytimg.com/vi/zNQCnJRkpg4/hqdefault.jpg",
       "publishedAt": "2026-09-17T12:00:25Z",
-      "durationSeconds": 2033,
+      "durationSeconds": 2034,
       "matchedKeywords": [
         "film robot lengkap bahasa indonesia"
       ],
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1348,7 +1348,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:13:23.836Z",
       "lastSeenAt": "2026-10-29T04:13:23.836Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1405,7 +1405,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1443,7 +1443,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-09T04:29:30.054Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1633,7 +1633,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:13:10.646Z",
       "lastSeenAt": "2026-11-02T04:13:10.646Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1842,7 +1842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1900,7 +1900,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -1976,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2014,7 +2014,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:08.496Z",
       "lastSeenAt": "2026-11-08T04:15:08.496Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-14T04:48:42.463Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2166,7 +2166,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2185,7 +2185,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2204,7 +2204,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:51.367Z",
       "lastSeenAt": "2026-11-10T05:50:51.367Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2375,7 +2375,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:42.463Z",
       "lastSeenAt": "2026-11-14T04:48:42.463Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2432,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:11.055Z",
       "lastSeenAt": "2026-11-15T04:40:11.055Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2489,7 +2489,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2546,7 +2546,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2565,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2641,7 +2641,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2660,7 +2660,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2679,7 +2679,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2736,7 +2736,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:54.343Z",
       "lastSeenAt": "2026-11-19T05:46:54.343Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2756,7 +2756,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:50.673Z",
       "lastSeenAt": "2026-11-20T05:35:50.673Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2846,12 +2846,13 @@
       "publishedAt": "2026-11-04T11:00:11Z",
       "durationSeconds": 5516,
       "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap",
         "film kecerdasan buatan full"
       ],
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2870,7 +2871,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2889,7 +2890,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2908,7 +2909,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2927,7 +2928,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2943,11 +2944,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": "2026-11-23T05:35:48.152Z"
     },
     {
       "videoId": "I4bwdz91FAw",
@@ -2965,7 +2966,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     },
     {
@@ -2985,6 +2986,139 @@
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
       "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "0WLXWlDHeeg",
+      "url": "https://www.youtube.com/watch?v=0WLXWlDHeeg",
+      "title": "She Looks Human, But She's Not | PROJECT ZIVARA (Full Sci-Fi Movie)",
+      "description": "PROJECT ZIVARA is a gripping AI science fiction movie featuring a humanoid robot, artificial intelligence, advanced robotics, and a futuristic world where machines look and behave like humans. Watch this full sci-fi movie to discover the truth behind a mysterious human-like robot.\n\nSet in Nigeria in 2035, PROJECT ZIVARA takes you into a technologically advanced world where artificial intelligence and humanoid robots have become part of everyday life.\n\nBehind the impressive achievements of Aurelix Robotics lies an extraordinary creation: Zivara, an advanced humanoid robot designed to look remarkably human.\n\nBut Zivara is not an ordinary robot.\n\nAs she enters the human world, unexpected friendships, unusual connections, hidden secrets, and dangerous discoveries begin to unfold. What happens when an artificial intelligence creation becomes part of human society? Can a machine understand human emotions, friendship, and trust?\n\nPROJECT ZIVARA is an original futuristic science fiction thriller exploring artificial intelligence, human-like robots, robotics technology, human-machine relationships, and the future of humanity.\n\nMOVIE GENRE: Science Fiction | Sci-Fi Thriller | Artificial Intelligence | Robotics | Futuristic Drama\n\nMOVIE TITLE: PROJECT ZIVARA\n\nSETTING: Nigeria, 2035\n\nIf you enjoy science fiction movies, AI robot movies, humanoid robot films, futuristic technology movies, artificial intelligence thrillers, and full-length sci-fi movies, PROJECT ZIVARA is worth watching.\n\nSubscribe for more original AI-generated movies, cinematic science fiction stories, futuristic adventures, and exciting original films.\n\nLIKE, COMMENT, SHARE AND SUBSCRIBE!\n\nSEARCH KEYWORDS:\nAI science fiction movie, sci-fi full movie, artificial intelligence movie, humanoid robot movie, robot science fiction film, futuristic sci-fi movie, AI robot movie, human-like robot, robotics movie, science fiction thriller, futuristic movie 2035, technology science fiction movie, original sci-fi film, full science fiction movie.\n\n#ProjectZivara #SciFiMovie #AIMovie #ScienceFiction #RobotMovie",
+      "channelId": "UCz_Bp_oU8TNaK7P0Zl6EURw",
+      "channelTitle": "Stories by Annie",
+      "thumbnail": "https://i.ytimg.com/vi/0WLXWlDHeeg/hqdefault.jpg",
+      "publishedAt": "2026-11-13T17:00:31Z",
+      "durationSeconds": 3898,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CdhqePocaiU",
+      "url": "https://www.youtube.com/watch?v=CdhqePocaiU",
+      "title": "스카이폴: 서울 [1~5부 통합본] | 서울 상공을 뒤덮은 외계 함선, 수천 년 전의 전쟁이 다시 시작됐다 — AI SF 장편영화 #AI영화 #AI시네마 #SF영화 #한국SF",
+      "description": "⚠️ **꼭 자막을 켜고 시청해 주세요.** 외계어(베르티크어)가 등장합니다.\n🔤 한국어 및 영어 자막을 제공합니다.\n\n🎬 **SKYFALL: SEOUL | 스카이폴: 서울**\n\n서울 상공에 나타난 거대한 외계 함선.\n\n그들이 찾는 것은 서울도, 인간도 아니었다.\n외계인들의 진짜 목적지는 북한산 깊은 곳에 숨겨진 고대의 비밀.\n\n수천 년 전, 인간과 하늘에서 온 존재들, 그리고 이 땅의 수호자가 함께 막아냈던 재앙이 다시 깨어나기 시작한다.\n\n외계 종족 베르티크인(Vertiic), 봉인된 에너지 코어, 그리고 다시 열리는 경계의 균열.\n\n오래전 끝나지 않았던 전쟁이 현재의 서울에서 되살아난다.\n\n《SKYFALL: SEOUL》은 한국의 신화와 고대의 비밀, 외계 문명을 결합한 NEUROPOP의 오리지널 SF 시네마틱 시리즈입니다.\n\n---\n\n📖 **영화가 끝나도 이야기는 계속됩니다.**\n\n영화에 담지 못한 사건의 전후 이야기, 등장인물들의 숨겨진 감정과 선택, 더욱 깊고 방대한 세계관을 공식 소설에서 만나보세요.\n\n📚 **《SKYFALL: SEOUL》 공식 소설 읽기**\nhttps://neuropopvers.com/ko/novels/skyfall-seoul-novel-ko/\n\n🌐 **NEUROPOP UNIVERSE 공식 홈페이지**\nhttps://neuropopvers.com/\n\n영화의 전체 이야기와 등장인물, 베르티크인의 역사, 고유 언어인 베르티크어(Vertiic Language), IORA와 KORA, 경계와 봉인에 관한 설정 등 자세한 작품 정보는 공식 홈페이지에서 확인하실 수 있습니다.\n\n---\n\n👽 **VERTIIC LANGUAGE | 베르티크어**\n\n작품 속 외계 종족 베르티크인은 NEUROPOP Universe를 위해 창작한 고유 언어를 사용합니다.\n\n베르티크어는 단순한 효과음이 아닌, 작품의 세계관과 설정을 바탕으로 구성한 창작 언어이며 실제 대사에 활용됩니다.\n\n※ 일부 표현은 극중 상황과 의미에 맞게 자막으로 자연스럽게 번역됩니다.\n\n---\n\n🎥 **NEUROPOP Universe | AI Cinematic Film**\n\n※ 본 영상은 AI 기술을 활용하여 제작한 오리지널 SF 영화입니다.\n\n📩 **비즈니스 및 협업 문의**\ncontact@neuropopvers.com\n\n#SKYFALLSEOUL #스카이폴서울 #뉴로팝 #NEUROPOP #NEUROPOPVERSE #AI영화 #AI시네마 #SF영화 #한국SF #외계인 #외계침공 #서울 #북한산 #백두산 #한라산 #한국신화 #수호룡 #여의보주 #IORA #KORA #베르티크 #베르티크어 #봉인 #경계균열 #차원의문 #미스터리SF #크리처 #AIFilm #AICinema #CinematicAI",
+      "channelId": "UCq7HKfit14EvbXi9F8A-40g",
+      "channelTitle": "뉴로팝",
+      "thumbnail": "https://i.ytimg.com/vi/CdhqePocaiU/hqdefault.jpg",
+      "publishedAt": "2026-09-29T09:15:25Z",
+      "durationSeconds": 3004,
+      "matchedKeywords": [
+        "film fiksi ilmiah AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Z48BWEmw_fk",
+      "url": "https://www.youtube.com/watch?v=Z48BWEmw_fk",
+      "title": "Kakak Sahabatku Bos Mafia Drama China Sub Indonesia Full Terbaru 2026",
+      "description": "kakak sahabatku bos mafia drama ai\nkakak sahabatku bos mafia victoria\nkakak sahabatku bos mafia ethan\nkakak sahabatku bos mafia leo\nkakak sahabatku bos mafia ai\nkakak sahabatku bos mafia full episode\nkakak sahabatku bos mapia",
+      "channelId": "UCGgLj-O7v3pWUaPeXTdu-Tw",
+      "channelTitle": "RULLYONS",
+      "thumbnail": "https://i.ytimg.com/vi/Z48BWEmw_fk/hqdefault.jpg",
+      "publishedAt": "2026-11-22T07:39:03Z",
+      "durationSeconds": 7747,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cy11MN9eM_U",
+      "url": "https://www.youtube.com/watch?v=cy11MN9eM_U",
+      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 2 #romance #drama #ai",
+      "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
+      "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
+      "channelTitle": "Ai Drama House",
+      "thumbnail": "https://i.ytimg.com/vi/cy11MN9eM_U/hqdefault.jpg",
+      "publishedAt": "2026-11-22T02:34:24Z",
+      "durationSeconds": 7699,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wMp4qBtoT3c",
+      "url": "https://www.youtube.com/watch?v=wMp4qBtoT3c",
+      "title": "The Substitute Bride Conquers the Mafia Don - the don family - ai drama vittorio family mafiadrama ",
+      "description": "The Substitute Bride Conquers the Mafia Don\nThe Substitute Bride Conquers the Mafia Don full video\nelisa half human half vampire\nThe Substitute Bride Conquers the Mafia Don\nThe Substitute Bride Conquers the Mafia Don full drama\nThe Substitute Bride Conquers the Mafia Don\nThe Substitute Bride Conquers the Mafia Don full video\nelisa half human half vampire\nThe Substitute Bride Conquers the Mafia Don\nThe Substitute Bride Conquers the Mafia Don full drama\nThe Substitute Bride Conquers the Mafia Don full episode\nThe Substitute Bride Conquers the Mafia Dons\ntransfer to night school countdown\nThe Substitute Bride Conquers the Mafia Don full movie\nThe Substitute Bride Conquers the Mafia Don ending\nhalf human half vampire\nThe Substitute Bride Conquers the Mafia Don full episode",
+      "channelId": "UCBjQT7wpttHtGr38Au0-Vdg",
+      "channelTitle": "Anz",
+      "thumbnail": "https://i.ytimg.com/vi/wMp4qBtoT3c/hqdefault.jpg",
+      "publishedAt": "2026-11-21T20:33:38Z",
+      "durationSeconds": 6483,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "pDUYcYswOB0",
+      "url": "https://www.youtube.com/watch?v=pDUYcYswOB0",
+      "title": "အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော် (စ/ဆုံး) | Ai Movie",
+      "description": "Movie Title: အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော (စ/ဆုံး)\n\n💔 အိမ်ဖော်မလေးဟု အထင်ခံရသော သူဌေးကတော်\n🎬 မြန်မာ AI ဇာတ်ကားသစ် | Burmese AI Movie 2026\n\nရိုးရိုးရှင်းရှင်း ဝတ်စားဆင်ယင်ထားတဲ့ သီရိမေဟာ တကယ်တော့ သူဌေးကြီး အောင်မြတ်သူရဲ့ ဇနီးဖြစ်ပါတယ်။ ဒါပေမဲ့ ခင်ပွန်းဖြစ်သူရဲ့ မိသားစုအိမ်ကြီးကို ရောက်လာတဲ့အခါ သူ့ကို အိမ်ဖော်မလေးတစ်ယောက်လို့ အထင်မှားခံလိုက်ရပါတယ်။\n\nအိမ်ကြီးထဲမှာ သူမဟာ မထင်မှတ်ထားတဲ့ အရှက်ခွဲမှုတွေ၊ မိသားစုအတွင်းက မနာလိုမှုတွေနဲ့ ရင်ဆိုင်ရပါတော့တယ်။ နန်းယမင်းရဲ့ လှည့်ကွက်တွေကြားမှာ သီရိမေ ဘယ်လိုရပ်တည်မလဲ။ ခင်ပွန်းဖြစ်သူက သူမရဲ့ဘက်ကနေ ရပ်တည်ပေးနိုင်ပါ့မလား။\n\nဒီအိမ်ကြီးထဲမှာ လျှို့ဝှက်ထားတဲ့ အမှန်တရားတွေ၊ သစ္စာဖောက်မှုတွေနဲ့ မမျှော်လင့်ထားတဲ့ အလှည့်အပြောင်းတွေက သီရိမေရဲ့ဘဝကို ဘယ်လိုပြောင်းလဲစေမလဲ။\n\n🎭 ဒီဇာတ်ကားမှာ\n❤️ အချစ်နဲ့ လျှို့ဝှက်အိမ်ထောင်ရေး\n💔 မိသားစုအတွင်းက အထင်လွဲမှုများ\n🔥 မနာလိုမှု၊ လှည့်ကွက်များနဲ့ အမှန်တရား\n✨ ကိုယ့်တန်ဖိုးကို သက်သေပြမယ့် အမျိုးသမီးတစ်ယောက်ရဲ့ ဇာတ်လမ်း\n\n📌 ဇာတ်ကားလေးကို အဆုံးထိကြည့်ရှုပေးပြီး ဘယ်ဇာတ်ကောင်ကို အကြိုက်ဆုံးလဲဆိုတာ Comment မှာ ပြောပြပေးခဲ့ပါဦး။\n\n👍 ကြိုက်နှစ်သက်ရင် Like လုပ်ပေးပါ။\n💬 သင့်ရဲ့အမြင်ကို Comment ရေးပေးပါ။\n🔔 AMK Ai Movie ကို Subscribe လုပ်ပြီး မြန်မာ AI ဇာတ်ကားသစ်တွေကို ဆက်လက်ကြည့်ရှုပေးပါ။\n\n━━━━━━━━━━━━━━━━━━\n🎬 Channel: AMK Ai Movie\n🎥 Genre: Burmese AI Drama | Family Drama | Romance\n━━━━━━━━━━━━━━━━━━\n\nဤဇာတ်လမ်းသည် AI နည်းပညာဖြင့် ဖန်တီးထားသော စိတ်ကူးယဉ်ဇာတ်လမ်းဖြစ်ပါသည်။ ဇာတ်ကောင်များနှင့် ဖြစ်ရပ်များသည် စိတ်ကူးယဉ်ဖန်တီးမှုများဖြစ်သည်။\n\n🎬 Welcome to AMK Ai MOVIE! ❤️\n\nမြန်မာစကားပြော AI ဇာတ်လမ်းကောင်းများ၊ အချစ်၊ ဒရာမာ၊ ဟာသ၊ စိတ်လှုပ်ရှားဖွယ်နှင့် သင်ခန်းစာပေး ဇာတ်လမ်းမျိုးစုံကို AI နည်းပညာဖြင့် ဖန်တီးတင်ဆက်ပေးနေတဲ့ Channel လေးဖြစ်ပါတယ်။\n\n🎥 ဇာတ်လမ်းအသစ်တွေကို အမြဲကြည့်ရှုနိုင်ဖို့ Subscribe လုပ်ထားပေးကြပါဦးနော်။ ❤️\n\n🤖 AI Created | Burmese Storytelling\n\n#AMKAiMOVIE #MyanmarAI #AIStory #BurmeseStory #Myanmaraistory #မြန်မာဇာတ်ကား #myanmardrama \n#အိမ်ဖော်မလေးဟုအထင်ခံရသောသူဌေးကတော်\n#BurmeseAIMovie\n#MyanmarAIMovie\n#မြန်မာAIဇာတ်ကား\n#AMKAiMovie\n#BurmeseDrama\n#MyanmarDrama\n#AIMovie2026",
+      "channelId": "UCklhVk5lNyHruMuojkDs6WA",
+      "channelTitle": "AMK Ai Movie",
+      "thumbnail": "https://i.ytimg.com/vi/pDUYcYswOB0/hqdefault.jpg",
+      "publishedAt": "2026-11-21T12:00:29Z",
+      "durationSeconds": 1840,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "nuaumsyYDkY",
+      "url": "https://www.youtube.com/watch?v=nuaumsyYDkY",
+      "title": "RAMAYANA FULL MOVIE IN HINDI | Latest Hindi Movies 2026 | Full HD | AI MOVIE",
+      "description": "RAMAYANA FULL MOVIE IN HINDI | Latest Hindi Movies 2026 | Full HD\n \nदेखिए भारतीय पौराणिक महाकाव्य रामायण की एक भव्य और रोमांचक प्रस्तुति। इस कहानी में प्रभु श्रीराम, माता सीता और भगवान राम के परम भक्तों से जुड़ी अद्भुत घटनाओं को शानदार सिनेमैटिक अंदाज़ में दिखाया गया है।\n\nसमुद्र पार करने से लेकर स्वर्ण नगरी लंका तक की रोमांचक यात्रा, रहस्य, साहस, भक्ति और अद्भुत घटनाओं का अनुभव कीजिए।\n\n🙏 जय श्री राम 🙏\n\nवीडियो पसंद आए तो Like करें, अपने परिवार और दोस्तों के साथ Share करें और ऐसी ही पौराणिक कहानियों के लिए चैनल को Subscribe करें।\n\nSearch Keywords:\nRamayana Full Movie, Ramayan Full Movie in Hindi, Ramayana Hindi Movie 2026, Shri Ramayan, Hindi Movies, Indian Mythological Movies, Ramayan Katha, Ramayana Story in Hindi, Latest Hindi Movies.\n\n#Ramayana #Ramayan #HindiMovies #Ramayana2026 #ShriRam #IndianMythology #RamayanKatha #JaiShreeRam",
+      "channelId": "UC6LH4N1FzIbg2BB384g7bRQ",
+      "channelTitle": "Rajasthani Short",
+      "thumbnail": "https://i.ytimg.com/vi/nuaumsyYDkY/hqdefault.jpg",
+      "publishedAt": "2026-11-16T12:35:25Z",
+      "durationSeconds": 1856,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:48.152Z",
+      "lastSeenAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
       "unavailableAt": null
     }
   ]

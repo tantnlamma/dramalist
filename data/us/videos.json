@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T04:54:09.624Z",
+  "generatedAt": "2026-11-23T05:35:06.031Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-21T05:28:39.111Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -750,7 +750,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1036,6 +1036,7 @@
       "publishedAt": "2026-09-10T16:08:27Z",
       "durationSeconds": 4888,
       "matchedKeywords": [
+        "AI future movie full film",
         "AI science fiction drama full movie",
         "artificial intelligence full movie",
         "artificial intelligence short drama full movie"
@@ -1043,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1196,7 +1197,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1293,7 +1294,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1314,7 +1315,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1354,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1621,7 +1622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1660,7 +1661,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -1908,7 +1909,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2080,7 +2081,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2143,10 +2144,10 @@
     {
       "videoId": "lI4ZGDoIXmw",
       "url": "https://www.youtube.com/watch?v=lI4ZGDoIXmw",
-      "title": "Hazrat Sulaiman AS Full Story in Urdu  Islamic AI Movie  Miracles of Prophet Solomon  Mrashiqaliai",
-      "description": "Hazrat Sulaiman AS Full Story in Urdu | Islamic AI Movie | Miracles of Prophet Solomon | Mrashiqaliai\n\nDiscover the amazing story of Hazrat Sulaiman (AS), Prophet Solomon, in this cinematic Islamic AI Movie presented by Mrashiqaliai.\n\nThis AI-generated Islamic movie explores the inspiring story of Prophet Sulaiman (AS), his wisdom, his kingdom, the miracles granted to him by Allah, his understanding of animals and birds, and the famous story of the Queen of Sheba (Bilqis), as described in the Holy Quran.\n\nExperience a powerful Islamic historical story brought to life through AI movie creation, cinematic visuals, storytelling, and an immersive atmosphere. This video is created for educational, historical, and storytelling purposes, with respect for Islamic teachings.\n\n🎬 Movie Topics: Hindi movies \n\n- Hazrat Sulaiman AS Full Story\n- Prophet Solomon Islamic Story\n- Hazrat Sulaiman AS Miracles\n- Prophet Sulaiman and the Queen of Sheba\n- Bilqis and Prophet Sulaiman AS\n- Hazrat Sulaiman AS and the Kingdom\n- Islamic History and Quranic Stories\n- Islamic AI Movie in Urdu\n- AI Generated Historical Movie\n- Prophet Stories in Urdu\n- Islamic Cinematic Storytelling\n- Artificial Intelligence Movie Creation\n\nIf you enjoy Islamic stories, AI-generated movies, historical films, and Quranic storytelling, subscribe to Mrashiqaliai for more AI movies, inspiring stories, and cinematic creations.\n\n👍 Like the video, share it with others, and subscribe to Mrashiqaliai for more content.\n\nDisclaimer: This is an AI-generated cinematic interpretation of a religious and historical story. AI-generated scenes may be artistic representations and should not be treated as exact historical records. Please refer to the Holy Quran and authentic Islamic sources for religious details.\nHazrat Sulaiman AS, Hazrat Sulaiman story, Prophet Sulaiman, Prophet Solomon, Hazrat Suleman AS, Suleman Alaihissalam, Sulaiman AS full story, Hazrat Sulaiman movie, Islamic AI movie, AI movie Urdu, Islamic movie, Islamic stories in Urdu, Quran stories, stories of prophets, Prophet stories, Hazrat Sulaiman miracles, Queen of Sheba, Queen Bilqis, Bilqis story, Islamic history, Islamic historical movie, AI generated movie, AI cinematic movie, Urdu AI movie, Islamic documentary, historical AI film, Solomon story, Muslim history, Mrashiqaliai, Mrashiq Ali AI, AI film\n#HazratSulaiman #ProphetSulaiman #IslamicMovie #AIMovie #Mrashiqaliai #IslamicHistory #ProphetSolomon #QuranStories #IslamicStories #AIHistory #UrduMovie #IslamicAI #QueenOfSheba #Bilqis #AIGeneratedMovie",
+      "title": "Hazrat Sulaiman AS Full Story in Urdu Islamic AI Movie  Miracles of Prophet Solomon Watch Flex Hindi",
+      "description": "Hazrat Sulaiman AS Full Story in Urdu | Islamic AI Movie | Miracles of Prophet Solomon | Watch Flex Hindi\n\nDiscover the amazing story of Hazrat Sulaiman (AS), Prophet Solomon, in this cinematic Islamic AI Movie presented by Mrashiqaliai.\n\nThis AI-generated Islamic movie explores the inspiring story of Prophet Sulaiman (AS), his wisdom, his kingdom, the miracles granted to him by Allah, his understanding of animals and birds, and the famous story of the Queen of Sheba (Bilqis), as described in the Holy Quran.\n\nExperience a powerful Islamic historical story brought to life through AI movie creation, cinematic visuals, storytelling, and an immersive atmosphere. This video is created for educational, historical, and storytelling purposes, with respect for Islamic teachings.\n\n🎬 Movie Topics: Hindi movies \n\n- Hazrat Sulaiman AS Full Story\n- Prophet Solomon Islamic Story\n- Hazrat Sulaiman AS Miracles\n- Prophet Sulaiman and the Queen of Sheba\n- Bilqis and Prophet Sulaiman AS\n- Hazrat Sulaiman AS and the Kingdom\n- Islamic History and Quranic Stories\n- Islamic AI Movie in Urdu\n- AI Generated Historical Movie\n- Prophet Stories in Urdu\n- Islamic Cinematic Storytelling\n- Artificial Intelligence Movie Creation\n\nIf you enjoy Islamic stories, AI-generated movies, historical films, and Quranic storytelling, subscribe to Watch Flex Hindi for more AI movies, inspiring stories, and cinematic creations.\n\n👍 Like the video, share it with others, and subscribe to Watch Flex Hindi for more content.\n\nDisclaimer: This is an AI-generated cinematic interpretation of a religious and historical story. AI-generated scenes may be artistic representations and should not be treated as exact historical records. Please refer to the Holy Quran and authentic Islamic sources for religious details.\nHazrat Sulaiman AS, Hazrat Sulaiman story, Prophet Sulaiman, Prophet Solomon, Hazrat Suleman AS, Suleman Alaihissalam, Sulaiman AS full story, Hazrat Sulaiman movie, Islamic AI movie, AI movie Urdu, Islamic movie, Islamic stories in Urdu, Quran stories, stories of prophets, Prophet stories, Hazrat Sulaiman miracles, Queen of Sheba, Queen Bilqis, Bilqis story, Islamic history, Islamic historical movie, AI generated movie, AI cinematic movie, Urdu AI movie, Islamic documentary, historical AI film, Solomon story, Muslim history, Watch Flex Hindi, ,Watch Flex HindiAI film\n#HazratSulaiman #ProphetSulaiman #IslamicMovie #AIMovie #Mrashiqaliai #IslamicHistory #ProphetSolomon #QuranStories #IslamicStories #AIHistory #UrduMovie #IslamicAI #QueenOfSheba #Bilqis #AIGeneratedMovie",
       "channelId": "UC3qxcQJmqL08gVperX9f4QQ",
-      "channelTitle": "Mr Ashiq Ali Ai",
+      "channelTitle": "Watch Flex Hindi",
       "thumbnail": "https://i.ytimg.com/vi/lI4ZGDoIXmw/hqdefault.jpg",
       "publishedAt": "2026-10-20T05:15:54Z",
       "durationSeconds": 7461,
@@ -2194,7 +2195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2460,7 +2461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2479,7 +2480,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2671,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2691,7 +2692,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2710,7 +2711,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-03T05:11:19.683Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2729,7 +2730,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2788,7 +2789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -2959,7 +2960,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3093,7 +3094,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3343,7 +3344,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3382,7 +3383,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3611,7 +3612,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3690,7 +3691,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3709,7 +3710,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3728,7 +3729,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3747,7 +3748,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3799,12 +3800,13 @@
       "publishedAt": "2026-09-28T11:50:32Z",
       "durationSeconds": 12996,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "AI science fiction drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-15T04:39:26.233Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3842,7 +3844,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -3899,7 +3901,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4089,7 +4091,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4165,7 +4167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4222,7 +4224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4241,7 +4243,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4260,7 +4262,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4319,7 +4321,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4338,7 +4340,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4395,7 +4397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4529,7 +4531,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4541,7 +4543,7 @@
       "channelTitle": "Suthan Mahalingam Show",
       "thumbnail": "https://i.ytimg.com/vi/aTZ9Id_J2Co/hqdefault.jpg",
       "publishedAt": "2026-11-15T03:32:43Z",
-      "durationSeconds": 2980,
+      "durationSeconds": 2777,
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
@@ -4569,7 +4571,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4645,7 +4647,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4685,7 +4687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4743,7 +4745,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4762,7 +4764,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4952,7 +4954,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4971,7 +4973,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -4990,7 +4992,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5009,7 +5011,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5047,7 +5049,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5066,7 +5068,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5086,7 +5088,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5105,7 +5107,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5125,7 +5127,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:07.358Z",
       "lastSeenAt": "2026-11-20T05:35:07.358Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5163,7 +5165,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:07.358Z",
       "lastSeenAt": "2026-11-20T05:35:07.358Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5201,7 +5203,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5220,7 +5222,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5239,7 +5241,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5258,7 +5260,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5277,7 +5279,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5294,11 +5296,11 @@
         "AI future movie full film",
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": "2026-11-23T05:35:06.031Z"
     },
     {
       "videoId": "p6SoUsMPPDs",
@@ -5316,7 +5318,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5335,7 +5337,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5354,7 +5356,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     },
     {
@@ -5373,7 +5375,102 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-22T04:54:09.624Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CHZuqPXGOgM",
+      "url": "https://www.youtube.com/watch?v=CHZuqPXGOgM",
+      "title": "Smart Maid (2026) – When an Maid Turns Dangerous | Sci-Fi Horror Movie",
+      "description": "SMART MAID (2026) – When Artificial Intelligence Becomes Dangerous 🤖\n\nWhat happens when an advanced artificial intelligence android becomes part of a human household?\n\nSmart Maid (2026) brings together science fiction, technology, relationships and psychological horror in a suspenseful cinematic story.\n\nFollow the mysterious female AI maid as she interacts with the people around her. What initially appears to be a sophisticated domestic assistant gradually becomes part of a disturbing situation involving human emotions, relationships, jealousy and dangerous consequences.\n\nFeaturing futuristic AI technology, human-like android behavior, dramatic confrontations and suspenseful nighttime sequences, this science fiction horror thriller explores the unsettling relationship between humans and artificial intelligence.\n\n🎬 Movie: Smart Maid\n📅 Year: 2026\n🎭 Genre: Sci-Fi, Horror, Thriller\n🤖 Theme: Artificial Intelligence, Androids and Technology\n📺 Format: Full Movie\n\nIf you enjoy AI horror movies, android thrillers, futuristic technology and suspenseful science fiction films, this movie is worth exploring.\n\nSubscribe for more science fiction, horror, thriller and full-movie content.\n\n\n#SmartMaid #SmartMaid2026 #AIHorror #SciFiHorror #SciFiMovie #ScienceFiction #ArtificialIntelligence #AIAndroid #AndroidMovie #RobotHorror #AIThriller #HorrorMovie #ThrillerMovie #FuturisticMovie #KillerAndroid #TechnologyHorror #PsychologicalThriller #FullMovie #Movie2026 #HorrorFilms\n\n\nSmart Maid 2026, Smart Maid full movie, Smart Maid movie, Smart Maid science fiction horror, Smart Maid thriller, AI maid movie, artificial intelligence horror movie, AI horror movie 2026, sci fi horror full movie, science fiction thriller, android horror movie, female android movie, robot maid movie, intelligent robot horror, AI assistant turns dangerous, dangerous artificial intelligence, human like android, futuristic AI movie, technology gone wrong movie, AI obsession thriller, psychological horror movie, futuristic technology thriller, killer AI android, smart robot movie, robot becomes dangerous, AI relationship thriller, independent sci fi movie, 2026 horror thriller, full science fiction movie, AI technology horror, android suspense movie",
+      "channelId": "UCwG4Ra5d8fG5PBLHEIg4UvA",
+      "channelTitle": "Mr Nouman Gamer",
+      "thumbnail": "https://i.ytimg.com/vi/CHZuqPXGOgM/hqdefault.jpg",
+      "publishedAt": "2026-11-22T13:00:36Z",
+      "durationSeconds": 7215,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:06.031Z",
+      "lastSeenAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "QuPkngYy-pU",
+      "url": "https://www.youtube.com/watch?v=QuPkngYy-pU",
+      "title": "गोगाजी महाराज की संपूर्ण कथा - FULL MOVIE | Jaharveer Goga Ji History in Hindi",
+      "description": "गोगाजी महाराज की संपूर्ण कथा - FULL MOVIE | Jaharveer Goga Ji History in Hindi\n\n\nजय गोगाजी महाराज! 🙏\nआप सभी भक्तों की भारी मांग पर 'StoryPawan X' लेकर आया है जाहरवीर गोगाजी महाराज की जन्म से लेकर समाधि तक की संपूर्ण अमर गाथा (Full Movie)।\nइस 3 घंटे के महा-एपिसोड में देखिए गोगाजी का असली इतिहास, उनका विवाह, महमूद गजनवी के साथ ऐतिहासिक युद्ध और धरती में समाने का पूरा रहस्य।\nअगर आपको यह कथा पसंद आए, तो वीडियो को लाइक करें और अपने परिवार के साथ शेयर ज़रूर करें। चैनल को सब्सक्राइब करना न भूलें!\n\n\n#Gogaji #JaharveerGogaji #GogajiKatha #StoryPawanX #FullMovie\n\n\n⚠️ **Disclaimer (अस्वीकरण):**\nयह वीडियो केवल धार्मिक, सांस्कृतिक और शैक्षिक (भक्ति एवं लोककथा) उद्देश्य से बनाया गया है। इसमें प्रस्तुत की गई कथा लोक मान्यताओं और पारंपरिक गाथाओं पर आधारित है। इस वीडियो के दृश्य (Visuals) और एनिमेशन आधुनिक AI (Artificial Intelligence) तकनीक की सहायता से केवल कल्पनात्मक रूप में तैयार किए गए हैं, जिनका उद्देश्य किसी भी व्यक्ति, समुदाय या धार्मिक भावनाओं को ठेस पहुँचाना नहीं है।",
+      "channelId": "UCI_whUcCUf-AYVZzX2kgfJg",
+      "channelTitle": "StoryPawan X",
+      "thumbnail": "https://i.ytimg.com/vi/QuPkngYy-pU/hqdefault.jpg",
+      "publishedAt": "2026-11-22T11:20:29Z",
+      "durationSeconds": 11117,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:06.031Z",
+      "lastSeenAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZR6leGoXGJY",
+      "url": "https://www.youtube.com/watch?v=ZR6leGoXGJY",
+      "title": "The Little Millionaire (Full Movie) He Returned $10,000 His Mother Needed for Surgery",
+      "description": "Ethan is selling his mom’s homemade cookies when a customer leaves his wallet behind. Inside is $10,000. It could pay for the surgery his mother needs. But when Ethan shows her the money, she reminds him who it belongs to.\n\nEthan sets out to find Mr. Reed. What he doesn’t know is that Mr. Reed left the wallet on purpose.\n\nWatch The Little Millionaire, the complete English-language drama from Netfilms Ai. This film was created using artificial intelligence.\n\nSubscribe to Netfilms Ai for more original stories. ❤️🎬\n\n#TheLittleMillionaire #FullMovie #EnglishDrama",
+      "channelId": "UCong7KQwalqAGh6opFcrOHA",
+      "channelTitle": "Netfilms Ai",
+      "thumbnail": "https://i.ytimg.com/vi/ZR6leGoXGJY/hqdefault.jpg",
+      "publishedAt": "2026-11-22T01:00:25Z",
+      "durationSeconds": 3602,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:06.031Z",
+      "lastSeenAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9VlhfeZv9IQ",
+      "url": "https://www.youtube.com/watch?v=9VlhfeZv9IQ",
+      "title": "The Last Shelter – Full Zombie Movie (2026) | A Father's Last Promise",
+      "description": "🎬 NEW MOVIE: The Frontier Dawn, an epic Roman war movie ⚔️\nWatch it here 👉 https://youtu.be/NmmRXhDiHSs\n\nA father. A bite. 48 hours to find a cure.\n\nWhen a mysterious stranger knocks on their bunker door, Mark, Elena and their little girl Lily are forced out into a world overrun by the dead. Mark is hiding a secret on his wrist — and time is running out.\n\nFull zombie survival movie. Made with AI.\n\n0:00 The Outbreak\n0:50 The Knock\n1:19 The Stranger at the Door\n2:42 Rations Run Low\n4:05 The Radio\n4:35 The Bite\n6:22 Footprints in the Night\n7:20 The Hospital Secret\n8:42 They Found Us\n9:12 Zombies at the Window\n9:42 Over the Fence\n10:12 Grace's Sacrifice\n11:01 Swarmed\n12:00 The Dead City\n13:22 The Checkpoint\n14:20 Goodbye\n14:49 Last Stand on the Bridge\n16:18 The Bell\n17:16 Rescue\n18:45 48 Hours\n19:42 The Serum\n20:11 Grey Eyes\n20:37 Daddy?\n21:07 Listen to Your Heart\n21:36 The Only Cure\n22:36 Grace Is Alive\n23:06 The Church Roof\n24:06 Escape on the Rope\n25:06 The Hospital Falls\n25:36 Fight to the Lab\n26:36 The Injection\n27:06 He Came Back\n27:36 A Cure for Everyone\n28:06 Taking It Back\n28:37 Three Weeks Later\n29:07 The Sun Came Back\n29:37 Home\n\n#zombie #zombiemovie #fullmovie #survival #apocalypse #thelastshelter",
+      "channelId": "UC6l_L_QWsrwUCqhCy-oxK1A",
+      "channelTitle": "Kamsi Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/9VlhfeZv9IQ/hqdefault.jpg",
+      "publishedAt": "2026-11-20T21:24:46Z",
+      "durationSeconds": 1812,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:06.031Z",
+      "lastSeenAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "s_mh9mKn_rc",
+      "url": "https://www.youtube.com/watch?v=s_mh9mKn_rc",
+      "title": "How to Create Cinematic AI Movies (K-Drama Style) | Step-by-Step Tutorial",
+      "description": "Grab the Micro Drama Offer here: https://nestuge.com/izqce6jgr\n\nWant to create realistic AI movies, cinematic K-Dramas, or viral AI short films from scratch?\n\nIn this step-by-step tutorial, I'll show you how to create cinematic AI movies using AI tools, even if you have no filmmaking experience.\n\nWe'll create a realistic Korean high school drama featuring consistent AI characters, cinematic scenes, realistic movements, and professional camera angles.\n\nWhat you'll learn in this video:\n- How to create AI movies from scratch\n- How to create realistic K-Drama characters with AI\n- How to maintain character consistency across scenes\n- How to generate cinematic AI movie scenes\n- How to create professional AI storyboards\n- How to turn images into realistic AI videos\n- How to create longer AI films by connecting multiple scenes\n\nWhether you're interested in AI filmmaking, Korean dramas, AI micro dramas, or creating faceless YouTube content, this tutorial will help you get started.\n\nJOIN MY AI MICRO DRAMA MASTERY COURSE\n\nLearn how to create AI micro dramas, build your own AI movie series, and explore ways to monetize your content.\n\nEnroll here: https://nestuge.com/izqce6jgr\n\nSubscribe for more tutorials on AI filmmaking, realistic AI videos, AI content creation, and making money with AI.\n\nQUESTION: What type of AI movie would you love to create? Korean drama, romance, action, or comedy? Let me know in the comments!\n\n#AIMovies #AIFilmmaking #KDrama #AITutorial #AIVideoGeneration",
+      "channelId": "UC9NnbtmgAj1pTPrbfsFgITQ",
+      "channelTitle": "Kemi Frank | AI Creator",
+      "thumbnail": "https://i.ytimg.com/vi/s_mh9mKn_rc/hqdefault.jpg",
+      "publishedAt": "2026-10-10T14:00:04Z",
+      "durationSeconds": 2243,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-23T05:35:06.031Z",
+      "lastSeenAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
       "unavailableAt": null
     }
   ]
