@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:35:25.216Z",
+  "generatedAt": "2026-11-24T08:13:16.516Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -129,7 +129,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -300,7 +300,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -319,7 +319,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -434,7 +434,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -453,7 +453,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-20T05:35:28.161Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -511,7 +511,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -648,7 +648,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -744,7 +744,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -763,7 +763,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1258,7 +1258,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1296,7 +1296,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1353,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1392,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1527,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1623,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1680,7 +1680,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:48.432Z",
       "lastSeenAt": "2026-10-25T03:02:48.432Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1738,7 +1738,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1757,7 +1757,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-10-28T03:50:20.938Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1814,7 +1814,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1834,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2196,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2272,7 +2272,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:02.600Z",
       "lastSeenAt": "2026-11-04T04:42:02.600Z",
-      "lastVerifiedAt": "2026-11-04T04:42:02.600Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2291,7 +2291,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:02.600Z",
       "lastSeenAt": "2026-11-04T04:42:02.600Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2387,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2406,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2425,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2482,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2806,7 +2806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2882,7 +2882,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2920,7 +2920,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2977,7 +2977,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2996,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3015,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3034,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3110,7 +3110,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-18T05:47:34.818Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3129,7 +3129,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3148,7 +3148,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-19T05:46:33.230Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3167,7 +3167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3205,7 +3205,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3224,7 +3224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-22T04:54:31.346Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3240,11 +3240,11 @@
       "matchedKeywords": [
         "人工智能 电影 完整版"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": "2026-11-24T08:13:16.516Z"
     },
     {
       "videoId": "AEoBFZ_2vUc",
@@ -3262,7 +3262,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3281,7 +3281,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3354,11 +3354,11 @@
       "matchedKeywords": [
         "人工智能 剧情电影"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": "2026-11-24T08:13:16.516Z"
     },
     {
       "videoId": "wAuM8CJgK8M",
@@ -3396,7 +3396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3453,7 +3453,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3472,7 +3472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3491,7 +3491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3510,7 +3510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3529,7 +3529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     },
     {
@@ -3548,7 +3548,121 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:25.216Z",
       "lastSeenAt": "2026-11-23T05:35:25.216Z",
-      "lastVerifiedAt": "2026-11-23T05:35:25.216Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mCD-2tsFbww",
+      "url": "https://www.youtube.com/watch?v=mCD-2tsFbww",
+      "title": "【完整版下集20261122】AI神話褪色! 美股創疫情來最慘一週#tvbs文茜的財經周報  20261122",
+      "description": "✔訂閱【TVBS戰情室】https://bit.ly/2sDiKcZ\n完整版HD集數快速找➔https://bit.ly/2Etctbf\n【戰情室上線啦】最真實直播點我看➔https://reurl.cc/5OD2YR\n【新聞翟急便】特別企劃➔https://bit.ly/2JiJgoA\n趙少康X陳文茜談國際➔https://reurl.cc/4my5pY\n美國下一步怎麼走?➔https://bit.ly/3qlGCig\n美豬議題➔https://bit.ly/2VqaSdD\n兩岸關係怎麼辦➔https://bit.ly/3qmFmeI\n頻道LIVE直播專區➔https://reurl.cc/5qokMR\n中美台緊張關係➔https://reurl.cc/q8mzZR\nTVBS戰情室每週精彩回顧➔https://bit.ly/2JiKS1C\n\n●鎖定TVBS TV 56台首播 \n●按讚【TVBS戰情室】fb粉絲頁：http://bit.ly/2fMs1us\n●收聽【TVBS戰情室】Apple Podcast：https://podcasts.apple.com/podcast/1740274058\n\n  《TVBS戰情室》YouTube頻道，部分影片因版權限制以致海外地區無法觀看，造成不便敬請見諒。歡迎海外觀眾鎖定網路獨家影片。\n\n #TVBS戰情室 #TVBS #少康戰情室 #趙少康 #少康上線啦 #錢子",
+      "channelId": "UCLZBXiS9ZrIXgKBs_SMfGBQ",
+      "channelTitle": "少康戰情室 TVBS Situation Room",
+      "thumbnail": "https://i.ytimg.com/vi/mCD-2tsFbww/hqdefault.jpg",
+      "publishedAt": "2026-11-23T11:00:30Z",
+      "durationSeconds": 2895,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zuW0UYQp6Ic",
+      "url": "https://www.youtube.com/watch?v=zuW0UYQp6Ic",
+      "title": "【完整版】AI 第二大腦實戰課｜ChatGPT 工作模式 × Obsidian 知識庫20261121",
+      "description": "用了很久的 AI，問過的東西卻總是散落各地、轉頭就忘？這堂課把 AI 從「一問一答的聊天對象」變成「一起工作的夥伴」：用 ChatGPT 桌面版的工作模式直接操作資料夾，再把 Obsidian 打造成你的第二大腦，讓每一次跟 AI 討論的成果都有固定的家。\n\n課程從實際的辦公室案例出發：一疊名片自動辨識成 CSV 並匯入 Google 聯絡人、員工旅遊三家報價的比價分析與簡報大綱，最後請 AI 幫你整理亂成一團的資料夾，並示範刪除權限永遠留給人的安全原則。\n\n這支影片手把手帶你掌握：\n1. ChatGPT 工作模式與「關於我」設定檔\n2. 名片辨識轉 CSV、信心度欄位與 UTF-8 編碼\n3. 把重複流程存成可重複使用的技能\n4. Obsidian 知識庫建置、接上 AI 與 Web Clipper 剪藏\n5. Plan 規劃模式與研究紀錄\n6. PARA 分類法與 Schema 規則\n\n📌 章節\n0:00:00 01｜上次作業：「關於我」檔案\n0:05:18 02｜ChatGPT 桌面版：對話 vs 工作\n0:07:04 03｜名片案例：讓 AI 辨識整疊名片\n0:14:57 04｜加入信心度欄位與輸出設定\n0:22:00 05｜CSV 指定 UTF-8 避免亂碼\n0:23:35 06｜轉成 Google 聯絡人並匯入\n0:27:16 07｜把流程存成可重複使用的技能\n0:32:27 08｜Computer Use：AI 操作電腦\n0:33:49 09｜建立 Obsidian 知識庫與筆記語法\n0:42:28 10｜Obsidian 與資料夾的對應關係\n0:45:53 11｜安裝 Codex CLI 工作環境\n0:49:58 12｜Obsidian 安裝 AI 外掛\n1:03:49 13｜用講義一次建好資料夾架構\n1:07:27 14｜實作：名片案例放進 Project\n1:13:38 15｜案例二：員工旅遊比價分析\n1:18:24 16｜分析指令的關鍵條件\n1:23:56 17｜產生給老闆的簡報大綱\n1:28:36 18｜練習：旅拍裝置比價分析\n1:31:09 19｜Plan 規劃模式與規劃紀錄\n1:44:01 20｜Web Clipper 剪藏網頁與影片\n1:55:46 21｜請 AI 整理亂掉的資料夾\n2:02:24 22｜整理的安全原則：刪除留給人\n2:09:36 23｜筆記入口與 PARA 分類法\n2:15:02 24｜Schema：給 AI 的規則\n\n#AI教學 #ChatGPT #Obsidian #第二大腦 #AI辦公室應用 #PARA分類法 #工作效率",
+      "channelId": "UCwWYg3Vaom1x7ZTyj0S20bA",
+      "channelTitle": "幸福學堂545",
+      "thumbnail": "https://i.ytimg.com/vi/zuW0UYQp6Ic/hqdefault.jpg",
+      "publishedAt": "2026-11-23T04:00:07Z",
+      "durationSeconds": 8584,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "wodBE3eCcNE",
+      "url": "https://www.youtube.com/watch?v=wodBE3eCcNE",
+      "title": "目前全網最完整最詳細的 AI 真人短劇影片製作保姆級教學！2026 最新版 AI 影片生成全流程教學！手把手帶你做出 AI 短劇！",
+      "description": "6次观看  2026年10月20日\n關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/Mdlc6qFH-UziFGMr0yBudw】\n記得備註關鍵詞領取配套腳本和提示詞庫哦～",
+      "channelId": "UCdJWCW5OiOkySCSxff56yYA",
+      "channelTitle": "AI漫剧制作教程",
+      "thumbnail": "https://i.ytimg.com/vi/wodBE3eCcNE/hqdefault.jpg",
+      "publishedAt": "2026-11-05T03:14:12Z",
+      "durationSeconds": 3653,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "CdW0JRaUpgs",
+      "url": "https://www.youtube.com/watch?v=CdW0JRaUpgs",
+      "title": "完整版《规则怪谈：副本高手》 #盛世短剧 #短剧 #AI短剧 #高清 #1080p #1080p60fps  #穿越剧 #逆袭 #漫剧 #玄幻 #思考 #恐怖游戏 #恐怖",
+      "description": "🔔 欢迎来到「漫剧天地」🔔\n\n【每天都会更新漫剧，敬请期待，记得订阅不迷路】\n\n你的每一次点赞👍、评论💬、分享🔄，都是我们更新的最大动力！想看什么类型的剧也欢迎留言！ 🔥\n\n#短剧 #最新短剧 #完结短剧 #短剧全集 #最新短剧全集 #热血爽剧 #红果短剧 #逆袭爽剧 #爽剧推荐 #华语剧 #逆袭 #重生 #重生逆袭 #逆袭人生 #逆天改命 #逆袭打脸 #打脸 #爽剧 #爽文 #热血 #高能预警 #精彩短剧 #短剧推荐 #新剧推荐 #大陆短剧 #华语短剧 #一口气看完 #打猎 #赶海 #赶山 #奶爸 #帅哥 #美女 #奶妈 #萌娃 #带娃 #致富 #隐藏大佬 #高清 #1080p #可爱 #1080p60fps #高清短剧 #扮猪吃老虎 #强者 #萌宠 #萌妹 #正太 #王者归来 #家庭 #草根逆袭 #热血逆袭 #完整版 #秒杀 #恐怖 #开心#友情 #亲情 #爱情 #游戏 #games #aivideo #ai #shortvideo #aimovie #comics #comedy #cute #fear #全集 #短剧合集 #drama #funny #fyp #youtube #宝宝 #baby #小孩 #大人 #love #movie #video  #aidrama #chinesedrama #灵异 #思考 #解谜 #御姐 #萝莉 #shortdrama #cdrama #revenge #逆袭 #系统 #修仙 #修行 #末世 #修仙界 #漫剧 #玄幻 #搞笑 #太空 #监狱 #犯人 #盛世短剧 #AI短剧 #穿越剧 #生存 #生存游戏 #御兽 #精彩短劇推薦 #精華 #精选电视剧 #对战",
+      "channelId": "UCJaJ4UzOSFRjdmFxPPTgs9Q",
+      "channelTitle": "漫剧天地",
+      "thumbnail": "https://i.ytimg.com/vi/CdW0JRaUpgs/hqdefault.jpg",
+      "publishedAt": "2026-11-03T19:48:57Z",
+      "durationSeconds": 7416,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9307JNYD_2Y",
+      "url": "https://www.youtube.com/watch?v=9307JNYD_2Y",
+      "title": "The Great SELJUKS (Sultan Alp Arsalan and Sultan Malik Shah)  AI generated full movie 🏹🦅",
+      "description": "The Great Seljuk Full Movie in Urdu Hindi – Experience the magnificent history of the Great Seljuk Empire through the legendary stories of Sultan Alp Arslan and Sultan Malik Shah in this complete 2 Hours 21 Minutes historical movie.\n\n⚔️ THE GREAT SELJUK EMPIRE – FULL HISTORICAL MOVIE\n\nWitness the rise, military campaigns, victories, political struggles and legacy of two legendary Seljuk rulers who shaped the history of the medieval Islamic world.\n\n👑 PART 1: SULTAN ALP ARSLAN\n\nExperience the powerful era of Sultan Alp Arslan, including:\n\n• The legendary Battle of Manzikert (Malazgirt) – 1071\n• The Seljuk victory against the Byzantine Empire\n• The Siege of Barzam\n• Sultan Alp Arslan's final military campaign\n• The Death of Sultan Alp Arslan – 1072\n\n👑 PART 2: SULTAN MALIK SHAH\n\nEnter the magnificent era of Sultan Malik Shah and explore:\n\n• Sultan Malik Shah's reign and expansion of the Seljuk Empire\n• The Conquest of Termez\n• Seljuk campaigns in Central Asia\n• Political struggles and conflicts with the Qarakhanids\n• Seljuk–Ghaznavid relations and frontier tensions\n• The military and political legacy of Sultan Malik Shah\n\n🔥 TWO GREAT SULTANS. ONE MAGNIFICENT EMPIRE.\n\nFrom the historic battlefield of Manzikert to the Central Asian campaigns of Sultan Malik Shah, this movie brings together the remarkable stories of the Great Seljuk dynasty.\n\n🎬 MOVIE DETAILS:\n\nTitle: The Great Seljuk\nDuration: 2 Hours 21 Minutes\nFeaturing: Sultan Alp Arslan & Sultan Malik Shah\nGenre: Historical Action Drama\nLanguage: Urdu / Hindi\nProduced by: HD TV\n\n❤️ SUPPORT HD TV\n\nIf you love Islamic history, the Great Seljuk Empire, Turkish historical dramas and stories of great Muslim rulers, this movie is for you.\n\n👍 Like this movie\n💬 Comment on your favourite Sultan\n📢 Share this movie with other history lovers\n🔔 Subscribe to HD TV for more cinematic historical movies and series.\n\nYour support helps HD TV create more historical stories.\n\nMovie Chapters : \n\n00:00 - Introduction & Byzantine Preparations\n02:13 - Sultan Alp Arslan & the Roman Threat\n06:26 - Sultan Alp Arslan's Prayer Before Battle\n07:30 - Romanos IV Diogenes Prepares for War\n09:56 - Speech Before the Battle of Malazgirt\n12:30 - The Battle of Malazgirt\n14:38 - Romanos Taken Prisoner & Alp Arslan's Mercy\n17:18 - Treachery of the Qarakhanids & Sister's Demise\n19:07 - Expedition Towards Transoxiana\n22:40 - Building the Boat Bridge over the Oxus\n25:35 - Reaching Berzem Fortress\n31:19 - Sultan Alp Arslan's Battle Speech at Berzem\n32:50 - The Siege and Fall of Berzem\n38:40 - The Infiltration & Attack on Sultan Alp Arslan\n41:37 - Alp Arslan Appoints Malik Shah as Successor\n44:31 - Passing of Sultan Alp Arslan\n46:47 - Sultan Malik Shah Takes the Seljuk Throne\n50:03 - Qawurd Beg's Rebellion Begins\n57:31 - Sultan Malik Shah Prepares His Army\n01:01:13 - Battle Against the Rebel Forces of Qawurd\n01:08:32 - Defeat of Qawurd Beg & Peace Restored\n01:12:00 - March Towards Tirmidh\n01:14:52 - Nizam al-Mulk Meets the Abbasid Caliph in Baghdad\n01:21:10 - The Siege of Tirmidh & Negotiations\n01:26:00 - Bloodless Conquest of Tirmidh\n01:32:19 - Qarakhanids Seek Peace & Truce at Samarkand\n01:34:23 - The Ghaznavid Threat & Border Tensions\n01:37:38 - Caliph Al-Qa'im's Succession Proclamation\n01:46:08 - Malik Shah Addresses Troops for the Ghazni Expedition\n01:48:42 - Ghaznavid Ruse & Spread of Suspicion\n01:58:36 - Interception of the Letters & Strategic Decision\n02:02:40 - Letter to Ibrahim & Demand for Osman Beg's Release\n02:07:38 - Sultan Malik Shah Addresses the Army's Return\n02:10:20 - Passing of Caliph Al-Qa'im\n02:11:32 - Diplomatic Truce & Royal Matrimony with Ghaznavids\n02:14:00 - Grandeur and Future of the Great Seljuk Empire\n02:16:27 - Creator's Note & Outro\n\nDISCLAIMER:\n\nThis is an independently produced AI-assisted historical drama by HD TV. It is not an official TRT production. The film presents historical figures and events through cinematic storytelling, and certain scenes, dialogues and sequences may be dramatized for entertainment purposes.\n\n#GreatSeljuk #AlpArslan #MalikShah #SeljukEmpire #IslamicHistory\n\n━━━━━━━━━━━━━━━━━━━━",
+      "channelId": "UCYcHBiCQLZKvVPPwp8u09Iw",
+      "channelTitle": "HD TV",
+      "thumbnail": "https://i.ytimg.com/vi/9307JNYD_2Y/hqdefault.jpg",
+      "publishedAt": "2026-11-22T13:45:13Z",
+      "durationSeconds": 8509,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7IsAkFCvqTk",
+      "url": "https://www.youtube.com/watch?v=7IsAkFCvqTk",
+      "title": "Bewafa Dill || Complete Ai Drama || New Pakistani Drama || Ai Video || Pakistani Drama || Ai Drama",
+      "description": "BEWAFA DIL | A Romantic AI Drama\n\nSome hearts love deeply, some make sacrifices, and some are left broken by the very people they love.\n\nBewafa Dil is an emotional romantic drama filled with love, heartbreak, family conspiracies, complicated relationships, unexpected twists, and hidden feelings.\n\nWhen love collides with family expectations, and destiny brings hearts together against their wishes, every relationship tells a different story.\n\nWill love find its way, or will broken hearts remain prisoners of their past?\n\nWatch the story unfold, where every heart has a secret and every relationship has a twist.\n\nWelcome to AI Drama — where stories come alive through artificial intelligence.\n\nHASHTAGS:\n\n#BewafaDil #AIDrama  #UrduDrama #PakistaniDrama #AIVideo #AIGeneratedDrama #dramaseries  #PakistaniSerial #NewPakistaniDrama #CompleteDrama #CompleteAiDrama #Ai #aigeneratedvideo #DramaPakistani #Storytelling #AIStories #CompletePakistaniDrama",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/7IsAkFCvqTk/hqdefault.jpg",
+      "publishedAt": "2026-11-18T13:30:32Z",
+      "durationSeconds": 2716,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:16.516Z",
+      "lastSeenAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
       "unavailableAt": null
     }
   ]

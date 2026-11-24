@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:35:48.152Z",
+  "generatedAt": "2026-11-24T08:13:39.953Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1158,7 +1158,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:17.400Z",
       "lastSeenAt": "2026-10-26T03:02:17.400Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-21T05:29:20.980Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-22T04:54:56.138Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1842,7 +1842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -1976,7 +1976,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2147,7 +2147,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2166,7 +2166,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2375,7 +2375,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:42.463Z",
       "lastSeenAt": "2026-11-14T04:48:42.463Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2489,7 +2489,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2546,7 +2546,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2565,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2641,7 +2641,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2660,7 +2660,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2736,7 +2736,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:54.343Z",
       "lastSeenAt": "2026-11-19T05:46:54.343Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2756,7 +2756,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:50.673Z",
       "lastSeenAt": "2026-11-20T05:35:50.673Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -2849,11 +2849,11 @@
         "film fiksi ilmiah AI lengkap",
         "film kecerdasan buatan full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
+      "unavailableAt": "2026-11-24T08:13:39.953Z"
     },
     {
       "videoId": "C0120LtLQ6Q",
@@ -2966,7 +2966,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -3023,7 +3023,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -3039,11 +3039,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
+      "unavailableAt": "2026-11-24T08:13:39.953Z"
     },
     {
       "videoId": "cy11MN9eM_U",
@@ -3054,14 +3054,14 @@
       "channelTitle": "Ai Drama House",
       "thumbnail": "https://i.ytimg.com/vi/cy11MN9eM_U/hqdefault.jpg",
       "publishedAt": "2026-11-22T02:34:24Z",
-      "durationSeconds": 7699,
+      "durationSeconds": 7637,
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -3080,7 +3080,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -3099,7 +3099,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     },
     {
@@ -3118,7 +3118,26 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "NweW-7czKbY",
+      "url": "https://www.youtube.com/watch?v=NweW-7czKbY",
+      "title": "Anak mana yang tega istri mana yang sanggup - film Indonesia terbaru full movie  bioskop ",
+      "description": "ANAK MANA YANG TEGA, ISTRI MANA YANG SANGGUP\n\nSebuah kisah tentang pengorbanan seorang ayah, kesetiaan seorang anak, dan ujian berat dalam sebuah rumah tangga.\n\nFilm ini merupakan kelanjutan dari film sebelumnya, \"Aku Tak Bisa Melihat Ayah\".\n\nSetelah melewati perjuangan panjang dan pengorbanan yang begitu besar, Ardi kini menghadapi ujian baru dalam kehidupannya. Pernikahan yang diharapkan membawa kebahagiaan justru mempertemukannya dengan konflik yang tidak pernah ia bayangkan.\n\nDi satu sisi, ada seorang istri yang menginginkan kehidupan rumah tangga yang tenang. Di sisi lain, ada seorang ayah yang telah mengorbankan segalanya demi anaknya.\n\nKetika kesabaran mulai habis dan konflik semakin besar, Pak Darma memilih pergi diam-diam. Kepergiannya membuat Ardi kehilangan arah dan berjuang mencari sosok ayah yang selama ini menjadi bagian terpenting dalam hidupnya.\n\nAkankah Ardi menemukan ayahnya? Dan mampukah sebuah keluarga memahami arti pengorbanan sebelum semuanya terlambat?\n\nSaksikan kisah lengkapnya hingga akhir.\n\n---\n\n🎬 TENTANG PEMBUATAN FILM\n\nFilm ini dibuat oleh kreator secara independen dengan memanfaatkan teknologi kecerdasan buatan (AI).\n\nProses kreatif meliputi:\n\n- Pengembangan ide dan penulisan naskah cerita.\n- Pembuatan karakter dan visual menggunakan teknologi AI.\n- Pembuatan adegan dan dialog melalui teknologi video AI.\n- Penyuntingan, pengaturan alur cerita,musik, serta penyusunan adegan menjadi sebuah film utuh.\n\nSeluruh proses kreatif, pengembangan cerita, dan penyuntingan dilakukan dengan arahan kreator.\n\n⚠️ DISCLAIMER\n\nFilm ini merupakan karya fiksi yang dibuat menggunakan teknologi AI. Seluruh karakter, nama, dialog, dan kejadian dalam cerita merupakan bagian dari karya imajinasi untuk tujuan hiburan dan penyampaian pesan moral.\n\nKesamaan dengan orang, tempat, atau kejadian nyata bukan merupakan unsur kesengajaan.\n\nVisual dan adegan dalam film merupakan hasil kreasi berbantuan AI, bukan rekaman kejadian nyata.\n\n❤️ PESAN MORAL\n\nSeorang ayah mungkin tidak pernah meminta balasan atas pengorbanannya. Namun, bukan berarti ia tidak membutuhkan kasih sayang dari anaknya.\nJangan sampai orang yang dahulu mengorbankan segalanya untuk kita justru merasa dirinya menjadi beban dalam kehidupan kita.\nPernikahan adalah tentang membangun kehidupan bersama, tetapi jangan sampai membuat kita melupakan orang-orang yang telah berjuang membesarkan kita.\nSebab, ketika seseorang yang kita cintai sudah tiada, penyesalan tidak akan pernah bisa mengembalikannya.\nJangan menunggu kehilangan untuk menyadari betapa berharganya seseorang.\n\nTerima kasih telah menonton dan mendukung karya film AI dari kreator.\n\nJANGAN LUPA LIKE,KOMEN,SHARE,DAN AKTIFKAN LONCENG NOTIFIKASI \n\nhttps://youtube.com/@Ldifixinema?si=6bSXmR4Je1Ij-fj3\n\nSITUS AI YANG DIPAKAI : \nhttps://chatgpt.com/\nhttps://labs.google/fx...\nhttps://kling.ai/id\nhttps://dreamina.capcut.com/ai-tool/home?utm_medium=sem&utm_source=googleadwords_int&utm_campaign=model&utm_content=mweb&pid=513641&campaign_id=23515606066&adset_id=195463155347&ad_id=795012021818&keyword=dreamina%20seedream&matchtype=b&channel=g&placement=&target=kwd-2432927172221&gad_source=1&gad_campaignid=23515606066&gbraid=0AAAAACROvhkPXJlWgBjuh35KFM_bhlwTp&gclid=CjwKCAjwu53SBhAhEiwAJzSLNqMX9DlSVCB9swsg8BqlLUKRhUIKv0ou2ewjb11G3lo_jaGJN-X_5RoCQqAQAvD_BwE\n\nMUSIK YANG DIPAKAI :\nhttps://www.image-line.com/\n\n\n────────────────────\n\n© 2026 [LDI FIXINEMA]\nSeluruh karya cerita, penyusunan film, dan materi produksi merupakan bagian dari proyek kreatif channel ini.\n\n#anakmanayangtegaistrimanayangsanggup #FilmIndonesia #FilmDramaIndonesia #film #filmindonesiaterbarubioskop #filmindonesia2026\n#filmindonesiaterbarufullmoviebioskop",
+      "channelId": "UCoISlAuRGjLM10LqtS1-TJg",
+      "channelTitle": "LDI FIXINEMA",
+      "thumbnail": "https://i.ytimg.com/vi/NweW-7czKbY/hqdefault.jpg",
+      "publishedAt": "2026-11-23T10:30:34Z",
+      "durationSeconds": 8400,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:39.953Z",
+      "lastSeenAt": "2026-11-24T08:13:39.953Z",
+      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
       "unavailableAt": null
     }
   ]

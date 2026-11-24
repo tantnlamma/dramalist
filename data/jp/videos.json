@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:35:20.721Z",
+  "generatedAt": "2026-11-24T08:13:11.472Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -619,11 +619,11 @@
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-19T03:05:40.648Z",
       "lastSeenAt": "2026-10-19T03:05:40.648Z",
-      "lastVerifiedAt": "2026-11-15T04:39:42.379Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": "2026-11-24T08:13:11.472Z"
     },
     {
       "videoId": "0ehyKe4KieI",
@@ -776,7 +776,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:40.967Z",
       "lastSeenAt": "2026-10-23T03:13:40.967Z",
-      "lastVerifiedAt": "2026-11-20T05:35:22.785Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -793,11 +793,11 @@
         "AI 映画 フル",
         "人工知能 映画 フル"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-14T04:48:15.060Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": "2026-11-24T08:13:11.472Z"
     },
     {
       "videoId": "125N2CQuDXA",
@@ -816,7 +816,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:52.685Z",
       "lastSeenAt": "2026-10-24T03:07:52.685Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -836,7 +836,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +856,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -913,7 +913,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -932,7 +932,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:45.742Z",
       "lastSeenAt": "2026-10-26T03:01:45.742Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1010,7 +1010,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:15.199Z",
       "lastSeenAt": "2026-10-28T03:50:15.199Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1088,7 +1088,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:39.755Z",
       "lastSeenAt": "2026-10-30T04:12:39.755Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1167,7 +1167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:44.689Z",
       "lastSeenAt": "2026-11-02T04:12:44.689Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1225,7 +1225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:36.574Z",
       "lastSeenAt": "2026-11-03T05:11:36.574Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1266,7 +1266,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:57.211Z",
       "lastSeenAt": "2026-11-04T04:41:57.211Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1323,7 +1323,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:41.392Z",
       "lastSeenAt": "2026-11-06T04:56:41.392Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1382,7 +1382,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1402,7 +1402,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:39.507Z",
       "lastSeenAt": "2026-11-08T04:14:39.507Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1520,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:46.885Z",
       "lastSeenAt": "2026-11-12T05:37:46.885Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1578,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:18.775Z",
       "lastSeenAt": "2026-11-13T04:54:18.775Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1637,7 +1637,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:42.379Z",
       "lastSeenAt": "2026-11-15T04:39:42.379Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1676,7 +1676,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:29.896Z",
       "lastSeenAt": "2026-11-16T04:36:29.896Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1735,7 +1735,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1755,7 +1755,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:28.735Z",
       "lastSeenAt": "2026-11-19T05:46:28.735Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1835,7 +1835,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1873,7 +1873,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:22.785Z",
       "lastSeenAt": "2026-11-20T05:35:22.785Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1893,7 +1893,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1933,7 +1933,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1952,7 +1952,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -1990,7 +1990,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2010,7 +2010,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:53.831Z",
       "lastSeenAt": "2026-11-21T05:28:53.831Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2048,7 +2048,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:26.029Z",
       "lastSeenAt": "2026-11-22T04:54:26.029Z",
-      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2086,7 +2086,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:26.029Z",
       "lastSeenAt": "2026-11-22T04:54:26.029Z",
-      "lastVerifiedAt": "2026-11-22T04:54:26.029Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2106,7 +2106,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:26.029Z",
       "lastSeenAt": "2026-11-22T04:54:26.029Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2125,7 +2125,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:26.029Z",
       "lastSeenAt": "2026-11-22T04:54:26.029Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2144,14 +2144,14 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:20.721Z",
       "lastSeenAt": "2026-11-23T05:35:20.721Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
       "videoId": "9307JNYD_2Y",
       "url": "https://www.youtube.com/watch?v=9307JNYD_2Y",
       "title": "The Great SELJUKS (Sultan Alp Arsalan and Sultan Malik Shah)  AI generated full movie 🏹🦅",
-      "description": "The Great Seljuk Full Movie in Urdu Hindi – Experience the magnificent history of the Great Seljuk Empire through the legendary stories of Sultan Alp Arslan and Sultan Malik Shah in this complete 2 Hours 21 Minutes historical movie.\n\n⚔️ THE GREAT SELJUK EMPIRE – FULL HISTORICAL MOVIE\n\nWitness the rise, military campaigns, victories, political struggles and legacy of two legendary Seljuk rulers who shaped the history of the medieval Islamic world.\n\n👑 PART 1: SULTAN ALP ARSLAN\n\nExperience the powerful era of Sultan Alp Arslan, including:\n\n• The legendary Battle of Manzikert (Malazgirt) – 1071\n• The Seljuk victory against the Byzantine Empire\n• The Siege of Barzam\n• Sultan Alp Arslan's final military campaign\n• The Death of Sultan Alp Arslan – 1072\n\n👑 PART 2: SULTAN MALIK SHAH\n\nEnter the magnificent era of Sultan Malik Shah and explore:\n\n• Sultan Malik Shah's reign and expansion of the Seljuk Empire\n• The Conquest of Termez\n• Seljuk campaigns in Central Asia\n• Political struggles and conflicts with the Qarakhanids\n• Seljuk–Ghaznavid relations and frontier tensions\n• The military and political legacy of Sultan Malik Shah\n\n🔥 TWO GREAT SULTANS. ONE MAGNIFICENT EMPIRE.\n\nFrom the historic battlefield of Manzikert to the Central Asian campaigns of Sultan Malik Shah, this movie brings together the remarkable stories of the Great Seljuk dynasty.\n\n🎬 MOVIE DETAILS:\n\nTitle: The Great Seljuk\nDuration: 2 Hours 21 Minutes\nFeaturing: Sultan Alp Arslan & Sultan Malik Shah\nGenre: Historical Action Drama\nLanguage: Urdu / Hindi\nProduced by: HD TV\n\n❤️ SUPPORT HD TV\n\nIf you love Islamic history, the Great Seljuk Empire, Turkish historical dramas and stories of great Muslim rulers, this movie is for you.\n\n👍 Like this movie\n💬 Comment on your favourite Sultan\n📢 Share this movie with other history lovers\n🔔 Subscribe to HD TV for more cinematic historical movies and series.\n\nYour support helps HD TV create more historical stories.\n\nDISCLAIMER:\n\nThis is an independently produced AI-assisted historical drama by HD TV. It is not an official TRT production. The film presents historical figures and events through cinematic storytelling, and certain scenes, dialogues and sequences may be dramatized for entertainment purposes.\n\n#GreatSeljuk #AlpArslan #MalikShah #SeljukEmpire #IslamicHistory\n\n━━━━━━━━━━━━━━━━━━━━",
+      "description": "The Great Seljuk Full Movie in Urdu Hindi – Experience the magnificent history of the Great Seljuk Empire through the legendary stories of Sultan Alp Arslan and Sultan Malik Shah in this complete 2 Hours 21 Minutes historical movie.\n\n⚔️ THE GREAT SELJUK EMPIRE – FULL HISTORICAL MOVIE\n\nWitness the rise, military campaigns, victories, political struggles and legacy of two legendary Seljuk rulers who shaped the history of the medieval Islamic world.\n\n👑 PART 1: SULTAN ALP ARSLAN\n\nExperience the powerful era of Sultan Alp Arslan, including:\n\n• The legendary Battle of Manzikert (Malazgirt) – 1071\n• The Seljuk victory against the Byzantine Empire\n• The Siege of Barzam\n• Sultan Alp Arslan's final military campaign\n• The Death of Sultan Alp Arslan – 1072\n\n👑 PART 2: SULTAN MALIK SHAH\n\nEnter the magnificent era of Sultan Malik Shah and explore:\n\n• Sultan Malik Shah's reign and expansion of the Seljuk Empire\n• The Conquest of Termez\n• Seljuk campaigns in Central Asia\n• Political struggles and conflicts with the Qarakhanids\n• Seljuk–Ghaznavid relations and frontier tensions\n• The military and political legacy of Sultan Malik Shah\n\n🔥 TWO GREAT SULTANS. ONE MAGNIFICENT EMPIRE.\n\nFrom the historic battlefield of Manzikert to the Central Asian campaigns of Sultan Malik Shah, this movie brings together the remarkable stories of the Great Seljuk dynasty.\n\n🎬 MOVIE DETAILS:\n\nTitle: The Great Seljuk\nDuration: 2 Hours 21 Minutes\nFeaturing: Sultan Alp Arslan & Sultan Malik Shah\nGenre: Historical Action Drama\nLanguage: Urdu / Hindi\nProduced by: HD TV\n\n❤️ SUPPORT HD TV\n\nIf you love Islamic history, the Great Seljuk Empire, Turkish historical dramas and stories of great Muslim rulers, this movie is for you.\n\n👍 Like this movie\n💬 Comment on your favourite Sultan\n📢 Share this movie with other history lovers\n🔔 Subscribe to HD TV for more cinematic historical movies and series.\n\nYour support helps HD TV create more historical stories.\n\nMovie Chapters : \n\n00:00 - Introduction & Byzantine Preparations\n02:13 - Sultan Alp Arslan & the Roman Threat\n06:26 - Sultan Alp Arslan's Prayer Before Battle\n07:30 - Romanos IV Diogenes Prepares for War\n09:56 - Speech Before the Battle of Malazgirt\n12:30 - The Battle of Malazgirt\n14:38 - Romanos Taken Prisoner & Alp Arslan's Mercy\n17:18 - Treachery of the Qarakhanids & Sister's Demise\n19:07 - Expedition Towards Transoxiana\n22:40 - Building the Boat Bridge over the Oxus\n25:35 - Reaching Berzem Fortress\n31:19 - Sultan Alp Arslan's Battle Speech at Berzem\n32:50 - The Siege and Fall of Berzem\n38:40 - The Infiltration & Attack on Sultan Alp Arslan\n41:37 - Alp Arslan Appoints Malik Shah as Successor\n44:31 - Passing of Sultan Alp Arslan\n46:47 - Sultan Malik Shah Takes the Seljuk Throne\n50:03 - Qawurd Beg's Rebellion Begins\n57:31 - Sultan Malik Shah Prepares His Army\n01:01:13 - Battle Against the Rebel Forces of Qawurd\n01:08:32 - Defeat of Qawurd Beg & Peace Restored\n01:12:00 - March Towards Tirmidh\n01:14:52 - Nizam al-Mulk Meets the Abbasid Caliph in Baghdad\n01:21:10 - The Siege of Tirmidh & Negotiations\n01:26:00 - Bloodless Conquest of Tirmidh\n01:32:19 - Qarakhanids Seek Peace & Truce at Samarkand\n01:34:23 - The Ghaznavid Threat & Border Tensions\n01:37:38 - Caliph Al-Qa'im's Succession Proclamation\n01:46:08 - Malik Shah Addresses Troops for the Ghazni Expedition\n01:48:42 - Ghaznavid Ruse & Spread of Suspicion\n01:58:36 - Interception of the Letters & Strategic Decision\n02:02:40 - Letter to Ibrahim & Demand for Osman Beg's Release\n02:07:38 - Sultan Malik Shah Addresses the Army's Return\n02:10:20 - Passing of Caliph Al-Qa'im\n02:11:32 - Diplomatic Truce & Royal Matrimony with Ghaznavids\n02:14:00 - Grandeur and Future of the Great Seljuk Empire\n02:16:27 - Creator's Note & Outro\n\nDISCLAIMER:\n\nThis is an independently produced AI-assisted historical drama by HD TV. It is not an official TRT production. The film presents historical figures and events through cinematic storytelling, and certain scenes, dialogues and sequences may be dramatized for entertainment purposes.\n\n#GreatSeljuk #AlpArslan #MalikShah #SeljukEmpire #IslamicHistory\n\n━━━━━━━━━━━━━━━━━━━━",
       "channelId": "UCYcHBiCQLZKvVPPwp8u09Iw",
       "channelTitle": "HD TV",
       "thumbnail": "https://i.ytimg.com/vi/9307JNYD_2Y/hqdefault.jpg",
@@ -2163,7 +2163,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:20.721Z",
       "lastSeenAt": "2026-11-23T05:35:20.721Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     },
     {
@@ -2182,7 +2182,84 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:20.721Z",
       "lastSeenAt": "2026-11-23T05:35:20.721Z",
-      "lastVerifiedAt": "2026-11-23T05:35:20.721Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "92uxmVVRJt4",
+      "url": "https://www.youtube.com/watch?v=92uxmVVRJt4",
+      "title": "MASUD RANA (মাসুদ রানা) | Full AI Movie in Hindi | Sapan Ahamed | Fantasy Action Film",
+      "description": "#SapanAhamed\nনিয়মিত আমার সব ভিডিও দেখতে এখনি SUBSCRIBE করুন \n\nSUBSCRIBE:-\nhttps://youtube.com/SapanAhamed\nContact Me:\nFacebook: https://facebook.com/SapanAhamedOfficial\n\nDISCLAIMER — FICTIONAL ACTION\nMASUD RANA is an AI-generated fictional fantasy action film. Its battles, creatures, weapons, injuries and blood effects are digitally created or simulated for storytelling. The film does not encourage real-world violence, animal cruelty, smoking or dangerous behaviour. Do not imitate the actions shown. Viewer discretion is advised.\n\nDISCLAIMER — FAN-MADE AI CHARACTERS\nRecognizable actors’ likenesses and simulated voices are portrayed using AI as a fan tribute. The actors did not perform in this production. Their appearance does not imply their participation, endorsement or affiliation. This independently created fan project explores the possibilities of AI filmmaking and is not an official production of the depicted actors or their studios.\nThis is a non-commercial fan-made creative project.\n\nMASUD RANA — Full AI Movie in Hindi\nA Hollywood-style fantasy action film created in Bangladesh by Bangladeshi YouTuber and VFX creator Sapan Ahamed.\n\nমাসুদ রানা — স্বপন আহমেদ নির্মিত সম্পূর্ণ AI মুভি। হিন্দি ভাষার এই ফ্যান্টাসি অ্যাকশন চলচ্চিত্রে রয়েছে বিশাল যুদ্ধক্ষেত্র, দানবীয় প্রাণী, বন্ধুত্ব, ভালোবাসা, বিশ্বাসঘাতকতা এবং এক প্রতিবাদী যোদ্ধার লড়াই।\n\nमासुद राना — बांग्लादेशी क्रिएटर Sapan Ahamed की हिंदी AI फैंटेसी एक्शन फिल्म। एक निडर योद्धा की कहानी, जिसमें प्यार, विश्वासघात, भाईचारा और अन्याय के खिलाफ एक महायुद्ध है।\n\nTHE STORY\nHaunted by loss and betrayal, a defiant warrior fights to protect the people he loves. His journey leads him and his allies into an enemy kingdom, where monstrous armies and a ruthless ruler await. As an overwhelming war separates the brothers-in-arms, loyalty, courage and the promise of returning home face their greatest test.\n\nExperience an emotional fantasy adventure with cinematic sword fights, giant wolves, fearsome creatures and epic battlefield confrontations.\n\nAI FAN PORTRAYALS\nIncludes AI-generated portrayals inspired by Shah Rukh Khan, Salman Khan, Ranveer Singh, Shakib Khan, Dev, Jeet, Katrina Kaif, Kareena Kapoor Khan, Aishwarya Rai Bachchan and Deepika Padukone. These are synthetic fan portrayals, not actual performances by these actors.\n\nCREATED BY SAPAN AHAMED\nDirection • Production • Story & Screenplay\nEditing • VFX • AI Visual Creation\n\nCreated with AI-generated visuals and synthetic performances, with editing and compositing in Adobe Premiere Pro and Adobe After Effects.\n\nA MESSAGE FROM THE CREATOR\nThis project grew from a story I had wanted to tell for years. After a month of dedicated work, I am sharing it with the audience whose love and encouragement keep me creating. Thank you to my Bangladeshi audience and everyone watching around the world.\n\nWhich warrior’s entrance or action sequence was your favourite?\nWould you like to see MASUD RANA PART 2?\nTell me in the comments, share the movie and subscribe for more.\n\nCONNECT WITH SAPAN AHAMED\nYouTube: https://www.youtube.com/SapanAhamed\nFacebook: https://www.facebook.com/SapanAhamedOfficial\nContact: SapanAhamedOfficial@gmail.com\n\n#MasudRana #AIMovie #SapanAhamed",
+      "channelId": "UCfMxAyQZ3nT7iYZolJ_Jz_Q",
+      "channelTitle": "Sapan Ahamed",
+      "thumbnail": "https://i.ytimg.com/vi/92uxmVVRJt4/hqdefault.jpg",
+      "publishedAt": "2026-11-18T13:00:09Z",
+      "durationSeconds": 2687,
+      "matchedKeywords": [
+        "AI 映画 フル",
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:11.472Z",
+      "lastSeenAt": "2026-11-24T08:13:11.472Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "EUXY9Fe2CTY",
+      "url": "https://www.youtube.com/watch?v=EUXY9Fe2CTY",
+      "title": "ステイ | Stay (吹き替え, サスペンス, 心理スリラー, ミステリー, ライアン・ゴズリング, 謎解き, 無料フル)",
+      "description": "🕷️ 日本最高のホラー映画を配信中 – Screamtime JPでストリーム: https://bit.ly/ScreamtimeJP-SUB\n🔪 「3日後、僕は死ぬ」――青年の謎めいた予告を阻止しようとする精神科医が、現実と幻想の境界が崩れゆく恐怖の迷宮に迷い込む、衝撃の心理サスペンス！\n\nステイ (2005)\n原題: Stay\n出演: Ewan McGregor（ユアン・マクレガー）Ryan Gosling（ライアン・ゴズリング）Naomi Watts（ナオミ・ワッツ）\n監督: Marc Forster（マーク・フォースター）\n年齢制限: PG-12\n概要:\n\n#フルムービー #無料映画 #オリジナルバージョン\n\nCOPYRIGHT: \nThe license to publish this film on YouTube has been duly obtained. If you have any questions, please contact: copyright.berlin@plaion.com\n\n著作権: \nこの映画をYouTubeで公開するライセンスは正式に取得されています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com\n\nPLAION PICTURESは、ドイツのベルリンに拠点を置く、信頼できる合法的なビデオ・オン・デマンド会社です。私たちは、公開しているすべての映画に対して、適切なライセンスを保有しています。ご質問がある場合は、以下のメールアドレスまでご連絡ください: copyright.berlin@plaion.com\n\nNotice pursuant to Article 50(4) of the EU AI Act: Thumbnail generated with the assistance of AI.",
+      "channelId": "UCzzWVtV9lMRkWVuS45xbOpg",
+      "channelTitle": "Screamtime JP | ホラー映画特集",
+      "thumbnail": "https://i.ytimg.com/vi/EUXY9Fe2CTY/hqdefault.jpg",
+      "publishedAt": "2026-11-22T01:30:14Z",
+      "durationSeconds": 5936,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:11.472Z",
+      "lastSeenAt": "2026-11-24T08:13:11.472Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7IsAkFCvqTk",
+      "url": "https://www.youtube.com/watch?v=7IsAkFCvqTk",
+      "title": "Bewafa Dill || Complete Ai Drama || New Pakistani Drama || Ai Video || Pakistani Drama || Ai Drama",
+      "description": "BEWAFA DIL | A Romantic AI Drama\n\nSome hearts love deeply, some make sacrifices, and some are left broken by the very people they love.\n\nBewafa Dil is an emotional romantic drama filled with love, heartbreak, family conspiracies, complicated relationships, unexpected twists, and hidden feelings.\n\nWhen love collides with family expectations, and destiny brings hearts together against their wishes, every relationship tells a different story.\n\nWill love find its way, or will broken hearts remain prisoners of their past?\n\nWatch the story unfold, where every heart has a secret and every relationship has a twist.\n\nWelcome to AI Drama — where stories come alive through artificial intelligence.\n\nHASHTAGS:\n\n#BewafaDil #AIDrama  #UrduDrama #PakistaniDrama #AIVideo #AIGeneratedDrama #dramaseries  #PakistaniSerial #NewPakistaniDrama #CompleteDrama #CompleteAiDrama #Ai #aigeneratedvideo #DramaPakistani #Storytelling #AIStories #CompletePakistaniDrama",
+      "channelId": "UC4zJ8UStTtAL4H3p5sM7vBw",
+      "channelTitle": "AI Drama",
+      "thumbnail": "https://i.ytimg.com/vi/7IsAkFCvqTk/hqdefault.jpg",
+      "publishedAt": "2026-11-18T13:30:32Z",
+      "durationSeconds": 2716,
+      "matchedKeywords": [
+        "AI ドラマ 映画"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:11.472Z",
+      "lastSeenAt": "2026-11-24T08:13:11.472Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "LcENA8vrtaQ",
+      "url": "https://www.youtube.com/watch?v=LcENA8vrtaQ",
+      "title": "He Adopted a Baby Dragon - FULL MOVIES 4K",
+      "description": "A movie marathon, starting with the incredible story of a lonely hunter who adopted a baby dragon.\n\n\nCreated with Dreamina AI\n@dreamina_ai\n\n#DreaminaCPP @dreamina_cpp\n#dreamina #dreaminacreators",
+      "channelId": "UCS97ctTfb7CxQvUGCAfbu2g",
+      "channelTitle": "Neural Pictures",
+      "thumbnail": "https://i.ytimg.com/vi/LcENA8vrtaQ/hqdefault.jpg",
+      "publishedAt": "2026-11-03T23:54:17Z",
+      "durationSeconds": 6671,
+      "matchedKeywords": [
+        "人工知能 映画 フル"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-24T08:13:11.472Z",
+      "lastSeenAt": "2026-11-24T08:13:11.472Z",
+      "lastVerifiedAt": "2026-11-24T08:13:11.472Z",
       "unavailableAt": null
     }
   ]
