@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:12:54.314Z",
+  "generatedAt": "2026-11-25T06:50:29.009Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -148,7 +148,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -245,7 +245,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -361,7 +361,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -382,7 +382,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -402,7 +402,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -556,7 +556,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -710,7 +710,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -750,7 +750,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -770,7 +770,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -792,7 +792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1044,7 +1044,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1197,7 +1197,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1315,7 +1315,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1354,13 +1354,13 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
       "videoId": "xdRZVbyBEQo",
       "url": "https://www.youtube.com/watch?v=xdRZVbyBEQo",
-      "title": "🎬 3 FULL MOVIES: Three Worlds, Three Monsters, One Revenge | Sci-Fi Action | 2026 | English | 4K",
+      "title": "He Woke on a World of Titans That Remember What His Bloodline Did | 3 FULL MOVIES",
       "description": "🌙 Late-night marathon: Three full movies, 3 hours 47 minutes. Lights off, volume up.\n\n🔔 SUBSCRIBE for a new full AI movie every week:\nhttps://www.youtube.com/channel/UC8HV7W3MN_SmwT14zLu1NMQ?sub_confirmation=1\n\n━━━━━━━━━━━━━━━━━━━━\n⏱️ CHAPTERS\n0:00 Intro\n0:16 AETHORIA: RISE — A man is pulled off a research ship and wakes on a world of titans and dragons. The bloodline that destroyed the Titan Riders is his.\n1:11:55 Intro\n1:12:12 KRAO-9 — A crew crash-lands on a planet ruled by Monster Kings, and the only way off it runs straight through them.\n2:30:14 Intro\n2:30:27 BURN THE ICE — They froze his family. He came back to make every one of them pay.\n3:47:18 Outro\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 Original Content Declaration: These films are 100% original. Every character, creature and location was created with AI by NICK. No footage from any existing film is used.\n\nIf you only have time for one, start with the first. Then stay. 🌙\n\n#AIMovie #FullMovie #ApexFrame #ActionMovies #Titans #MonsterFilm #AIMovies #FullMovies2026 #WatchFree",
       "channelId": "UC8HV7W3MN_SmwT14zLu1NMQ",
       "channelTitle": "Apex Frame | Sci-Fi Beyond the Possible",
@@ -1622,7 +1622,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1661,7 +1661,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -1909,7 +1909,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2081,7 +2081,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2195,7 +2195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2461,7 +2461,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2480,7 +2480,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:28.702Z",
       "lastSeenAt": "2026-10-25T03:02:28.702Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2672,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2692,7 +2692,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2711,7 +2711,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2789,7 +2789,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -2960,7 +2960,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:43.182Z",
       "lastSeenAt": "2026-10-29T04:12:43.182Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3094,7 +3094,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:26.529Z",
       "lastSeenAt": "2026-10-30T04:12:26.529Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3344,7 +3344,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3383,7 +3383,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3612,7 +3612,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3691,7 +3691,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3710,7 +3710,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3729,7 +3729,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3748,7 +3748,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3767,7 +3767,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3806,7 +3806,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3844,7 +3844,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -3901,7 +3901,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:41.449Z",
       "lastSeenAt": "2026-11-04T04:41:41.449Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4091,7 +4091,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4167,7 +4167,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4224,7 +4224,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4243,7 +4243,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4262,7 +4262,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4321,7 +4321,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4340,7 +4340,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4397,7 +4397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4531,7 +4531,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4571,7 +4571,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4606,11 +4606,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "unavailableAt": "2026-11-25T06:50:29.009Z"
     },
     {
       "videoId": "YCZxW0BRxIg",
@@ -4647,7 +4647,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4687,7 +4687,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4745,7 +4745,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4954,7 +4954,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4973,7 +4973,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -4992,7 +4992,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:15.124Z",
       "lastSeenAt": "2026-11-18T05:47:15.124Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5049,7 +5049,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5068,7 +5068,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5088,7 +5088,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5107,7 +5107,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5127,7 +5127,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:07.358Z",
       "lastSeenAt": "2026-11-20T05:35:07.358Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5222,7 +5222,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5260,7 +5260,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5274,12 +5274,13 @@
       "publishedAt": "2026-11-19T02:00:01Z",
       "durationSeconds": 2895,
       "matchedKeywords": [
-        "AI future movie full film"
+        "AI future movie full film",
+        "AI science fiction drama full movie"
       ],
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-23T05:35:06.031Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5318,7 +5319,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5413,7 +5414,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:06.031Z",
       "lastSeenAt": "2026-11-23T05:35:06.031Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5451,7 +5452,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:06.031Z",
       "lastSeenAt": "2026-11-23T05:35:06.031Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5470,7 +5471,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:06.031Z",
       "lastSeenAt": "2026-11-23T05:35:06.031Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5489,7 +5490,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:12:54.314Z",
       "lastSeenAt": "2026-11-24T08:12:54.314Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5508,7 +5509,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:12:54.314Z",
       "lastSeenAt": "2026-11-24T08:12:54.314Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5527,7 +5528,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:12:54.314Z",
       "lastSeenAt": "2026-11-24T08:12:54.314Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     },
     {
@@ -5546,7 +5547,83 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:12:54.314Z",
       "lastSeenAt": "2026-11-24T08:12:54.314Z",
-      "lastVerifiedAt": "2026-11-24T08:12:54.314Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "34Ac-_-faUI",
+      "url": "https://www.youtube.com/watch?v=34Ac-_-faUI",
+      "title": "MERI KHUSHI HAI TU – COMPLETE LOVE STORY",
+      "description": "❤️ MERI KHUSHI HAI TU – COMPLETE LOVE STORY\n\nCan love bring happiness into a life filled with struggles, emotions, and responsibilities? ❤️\n\nWatch Meri Khushi Hai Tu, a beautiful emotional romantic family movie featuring Zohaib and Muskaan. A heart-touching story filled with love, family relationships, emotions, sacrifice, and unforgettable moments.\n\nMuskaan is living her life with her son Balaj when Zohaib enters her world. Slowly, their lives become connected through love, care, trust, and a beautiful family bond.\n\nWill their love overcome every challenge? Watch the complete movie to discover this beautiful journey!\n\n🎬 MOVIE DETAILS:\n\n- Movie Name: Meri Khushi Hai Tu\n- Main Characters: Zohaib & Muskaan\n- Genre: Romantic, Emotional & Family Drama\n- Language: Urdu\n- Category: Full Urdu Movie\n- Story Type: Love Story & Family Entertainment\n\n❤️ ABOUT AI-BASED CONTENT:\n\nThis movie is created with the help of Artificial Intelligence (AI) technology.\n\nArtificial Intelligence (AI) is a modern technology that helps creators generate and develop creative content, including visual scenes, characters, storytelling, images, voices, and cinematic presentations.\n\nAI tools can help transform creative ideas into entertaining visual stories. This production combines creativity, storytelling, and AI-assisted technology to bring an emotional family drama to the audience.\n\n📢 If you enjoy romantic and emotional Urdu movies:\n👍 Like this video\n💬 Share your thoughts in the comments\n🔔 Subscribe to our channel\n❤️ Share this movie with your friends and family.\n\nThank you for watching!\n\n#MeriKhushiHaiTu #Zohaib #Muskaan #UrduMovie #AI_Drama #LoveStory #RomanticMovie #FamilyDrama #FullMovie #EmotionalStory#MeriKhushiHaiTu\n#ZohaibAndMuskaan\n#Zohaib\n#Muskaan\n#CompleteLoveStory\n#UrduMovie\n#FullUrduMovie\n#RomanticMovie\n#EmotionalMovie\n#FamilyDrama\n#UrduDrama\n#AIDrama\n#AIMovie\n#AIStory\n#ArtificialIntelligence\n#LoveStory\n#HeartTouchingStory\n#RomanticLoveStory\n#PakistaniDrama\n#FamilyMovie\n#FullMovie\n#NewUrduMovie\n#EmotionalLoveStory",
+      "channelId": "UCYUD1oFuPBNWvSg5xEXELSQ",
+      "channelTitle": " ApnaFunX",
+      "thumbnail": "https://i.ytimg.com/vi/34Ac-_-faUI/hqdefault.jpg",
+      "publishedAt": "2026-11-24T17:30:35Z",
+      "durationSeconds": 2080,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-25T06:50:29.009Z",
+      "lastSeenAt": "2026-11-25T06:50:29.009Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "J2ntQ6vus_U",
+      "url": "https://www.youtube.com/watch?v=J2ntQ6vus_U",
+      "title": "Hazrat Sulaiman AS Part 3 | Urdu Islamic AI Movie | Watch Flex Hindi | ",
+      "description": "Hazrat Sulaiman AS Part 3 | Urdu Islamic AI Movie | Watch Flex Hindi | Mrashiqaliai\n\nHazrat Sulaiman AS Full Story in Urdu Islamic AI Movie  Miracles of Prophet Solomon Watch Flex Hindi\nHazrat Sulaiman AS Full Story in Urdu | Islamic AI Movie | Miracles of Prophet Solomon | Watch Flex Hindi\n\nDiscover the amazing story of Hazrat Sulaiman (AS), Prophet Solomon, in this cinematic Islamic AI Movie presented by Mrashiqaliai.\n\nThis AI-generated Islamic movie explores the inspiring story of Prophet Sulaiman (AS), his wisdom, his kingdom, the miracles granted to him by Allah, his understanding of animals and birds, and the famous story of the Queen of Sheba (Bilqis), as described in the Holy Quran.\n\nExperience a powerful Islamic historical story brought to life through AI movie creation, cinematic visuals, storytelling, and an immersive atmosphere. This video is created for educational, historical, and storytelling purposes, with respect for Islamic teachings.\n\n🎬 Movie Topics: Hindi movies \n\n- Hazrat Sulaiman AS Full Story\n- Prophet Solomon Islamic Story\n- Hazrat Sulaiman AS Miracles\n- Prophet Sulaiman and the Queen of Sheba\n- Bilqis and Prophet Sulaiman AS\n- Hazrat Sulaiman AS and the Kingdom\n- Islamic History and Quranic Stories\n- Islamic AI Movie in Urdu\n- AI Generated Historical Movie\n- Prophet Stories in Urdu\n- Islamic Cinematic Storytelling\n- Artificial Intelligence Movie Creation\n\nIf you enjoy Islamic stories, AI-generated movies, historical films, and Quranic storytelling, subscribe to Watch Flex Hindi for more AI movies, inspiring stories, and cinematic creations.\n\n👍 Like the video, share it with others, and subscribe to Watch Flex Hindi for more content.\n🎬 Hazrat Sulaiman AS Part 3 | Islamic AI Movie in Urdu | Miracles of Prophet Solomon | Watch Flex Hindi\n\nWatch Hazrat Sulaiman AS Part 3, an amazing Islamic AI Movie in Urdu featuring the extraordinary miracles, powerful kingdom, historical events, Jinn, and fascinating stories of Prophet Solomon (AS).\n\nExperience an incredible cinematic journey filled with mystery, adventure, history, faith, and Islamic stories. Discover the remarkable events associated with Hazrat Sulaiman AS in this AI-generated Islamic movie.\n\n🌍 Explore More Movies & Stories:\n\nHollywood Movies, Bollywood Movies, Hindi Movies, Urdu Movies, Islamic Movies, Historical Movies, Adventure Movies, Fantasy Movies, Action Movies, Sci-Fi Movies, AI Movies, Full Movies, New Movies 2026, Animated Movies, Epic Movies, World History Movies, Prophet Stories, Islamic History.\n\n🔍 Popular Search Keywords:\n\nHazrat Sulaiman AS Full Story, Hazrat Suleman Movie, Prophet Solomon Movie, Solomon Full Movie in Urdu, Islamic AI Movie, Islamic Movie in Hindi, Urdu Islamic Movie, Hazrat Sulaiman Miracles, Jinn Stories, Islamic History, Hollywood Movies Hindi, Bollywood Movies, Hindi Full Movie, Urdu Full Movie, Latest Movies 2026, Adventure Movie, Fantasy Movie, Historical Movie, AI Generated Movie.\n\n❤️ If you enjoy Islamic movies and historical stories, LIKE, SHARE and SUBSCRIBE to Watch Flex Hindi for more amazing AI movies.\n\n🔔 Subscribe for more exciting movies and Islamic stories!\n\n#HazratSulaiman #IslamicMovie #AIMovie #ProphetSolomon #UrduMovie #HindiMovie #HollywoodMovies #BollywoodMovies #WatchFlexHindi #Part3\n\n\nDisclaimer: This is an AI-generated cinematic interpretation of a religious and historical story. AI-generated scenes may be artistic representations and should not be treated as exact historical records. Please refer to the Holy Quran and authentic Islamic sources for religious details.\nHazrat Sulaiman AS, Hazrat Sulaiman story, Prophet Sulaiman, Prophet Solomon, Hazrat Suleman AS, Suleman Alaihissalam, Sulaiman AS full story, Hazrat Sulaiman movie, Islamic AI movie, AI movie Urdu, Islamic movie, Islamic stories in Urdu, Quran stories, stories of prophets, Prophet stories, Hazrat Sulaiman miracles, Queen of Sheba, Queen Bilqis, Bilqis story, Islamic history, Islamic historical movie, AI generated movie, AI cinematic movie, Urdu AI movie, Islamic documentary, historical AI film, Solomon story, Muslim history, Watch Flex Hindi, ,Watch Flex HindiAI film\n#HazratSulaiman #ProphetSulaiman #IslamicMovie #AIMovie #Mrashiqaliai #IslamicHistory #ProphetSolomon #QuranStories #IslamicStories #AIHistory #UrduMovie #IslamicAI #QueenOfSheba #Bilqis #AIGeneratedMovie",
+      "channelId": "UC3qxcQJmqL08gVperX9f4QQ",
+      "channelTitle": "Watch Flex Hindi",
+      "thumbnail": "https://i.ytimg.com/vi/J2ntQ6vus_U/hqdefault.jpg",
+      "publishedAt": "2026-11-24T13:10:38Z",
+      "durationSeconds": 10497,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-25T06:50:29.009Z",
+      "lastSeenAt": "2026-11-25T06:50:29.009Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "MQyuxTi_NWg",
+      "url": "https://www.youtube.com/watch?v=MQyuxTi_NWg",
+      "title": "Yunus A.S | Machhli Ke Pait Ka Hairat Angez Safar | Urdu Islamic Movie",
+      "description": "YUNUS Alaihissalam — Aakhir Machhli Ke Pait Me Kaise Pahunchgaye? | URDU ISLAMIC HISTORICAL MOVIE 4K\n\nAssyrian saltanat ke aakhri daur mein, Nineveh ka shehar apne buton mein uljha hua tha. Wahan ek aadmi aaya — Yunus bin Matta — Allah ka bheja hua. Usne qaum ko azaab ki khabar di. Lekin jab azaab nahi aaya, woh chup chaap shehar se nikal gaya. Samundar, tufaan, machhli ka pet — aur andheron mein ek dua jo aaj tak padhi jaati hai.\n\nYUNUS (The Silent City) ek cinematic Islamic historical film hai jo Hazrat Yunus عليه السلام ke Qur'ani waqia ko Nineveh ke tareekhi pas-e-manzar mein pesh karti hai.\n\nIs film mein dekhiye:\n\n• Aathwin sadi Qabl-e-Maseeh ka azeem shehar Nineveh.\n• Hazrat Yunus عليه السلام ki apni qaum ko Allah ki taraf dawat.\n• Badshah aur uske darbar ke saamne haq ka paigham.\n• Teen din ki mohlat aur shehar par khauf ke saaye.\n• Samandar ka pur-asrar safar aur toofan.\n• Ek azeem machhli ke pait mein Hazrat Yunus عليه السلام ki dua.\n• Sahil par wapsi aur Allah ki rehmat.\n• Nineveh ke logon ki tauba aur hidayat ki taraf rujoo.\n\nHAZRAT YUNUS A.S. KI MASHHOOR QUR'ANI DUA:\n\nلَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ\n\nLa ilaha illa Anta Subhanaka inni kuntu minaz-zalimin.\n\nYeh film humein Allah ki rehmat, tauba, sabr, tawakkul aur insani inkisari ka paigham deti hai.\n\n▶ FILM DETAILS:\n• Title: YUNUS (Alaihissalam)\n• Format: 16:9 Widescreen | 4K Ultra HD | HDR\n• Language: Urdu\n• Genre: Historical / Prophetic Drama\n\n━━━━━━━━━━━━━━━━━━\n▶ QUR'ANIC REFERENCES:\n• Surah Yunus (10:98)\n• Surah As-Saffat (37:139-148)\n• Surah Al-Anbiya (21:87)\n• Surah Al-Qalam (68:48-50)\n\nYeh film Qur'an ki Surah Yunus, Surah As-Saffat, aur Surah Al-Anbiya mein bayan kiye gaye waqiaat par mabni hai. Har dialogue, har manzar, aur har jumla tehqeeqi hawale ke saath pesh kiya gaya hai.\n\n━━━━━━━━━━━━━━━━━━\n▶ Chapters:\n0:00 — Intro & Title\n1:54 — Nineveh Ka Shehar\n09:03 — Badshah Ka Samna\n10:41 — Teen Din Ka Intezaar\n13:47 — Samundar Ka Safar\n18:20 — Tufaan Aur Qura'ah\n24:15 — Machhli Ke Pet Mein\n29:46 — Kinare Par Nijaat\n32:47 — Wapas Nineveh\n41:38 — Rehmat Ka Shehar\n44:48 — Dua Aur Aakhri Manzar\n\n━━━━━━━━━━━━━━━━━━\n⚠️ AI-GENERATED CONTENT DISCLAIMER:\nThis film has been created with the assistance of Artificial Intelligence (AI) tools for visual generation, cinematic scenes, animation, and production support. Certain characters, environments, backgrounds, and scenes are AI-generated artistic representations.\n\nThis is a creative historical interpretation inspired by the Qur'anic account of Prophet Yunus عليه السلام. It is not an actual historical recording, and some visual details and dramatic elements are artistic reconstructions.\n\nEvery effort has been made to maintain respect for Islamic teachings and avoid depicting Allah. Viewers are encouraged to refer to the Holy Qur'an and authentic Islamic sources for religious knowledge.\n\n​​📜 Educational & Storytelling Purpose:\nThe events depicted are narrative adaptations designed to share historical and cultural traditions in a cinematic format. This video is purely a dramatic reenactment and does not promote violence, hate speech, dangerous acts, or harm of any kind. All scenes depicting struggle, hardship, or survival are entirely fictional digital recreations meant solely to provide historical context.\n\n​🎬 Production Note:\nThis content is fully compliant with YouTube’s Community Guidelines. No real individuals, children, or animals were harmed or placed in dangerous situations during the creation of this digital artwork.\n\n━━━━━━━━━━━━━━━━━━\n© [2026] [QUR'ANIC FAITH HISTORY]. All Rights Reserved.\n\nThis content is created for educational and spiritual purposes. Unauthorized reproduction or distribution is prohibited.\n\n━━━━━━━━━━━━━━━━━━\nYunus AS, Nabi Yunus, Prophet Yunus story, Yunus ki kahani, Yunus alaihissalam, machhli ka waqia, Nineveh ka nabi, Islamic historical movie, Islamic movie Urdu, Quran stories in Urdu, Surah Yunus, Surah As-Saffat, Surah Al-Anbiya, Yunus AS full movie, Islamic epic movie, Urdu Islamic movie\n\n#HazratYunus #YunusAS #YunusAlaihissalam #IslamicHistory #QuranStoriesinurdu #IslamicMovie #QuranicFaithHistory #ProphetStories #UrduIslamicMovie #ProphetYunus #YunusKiKahani #4KMovie #ProphetStories #prophetmoviesinurdu #islamicstories \n\n━━━━━━━━━━━━━━━━━━",
+      "channelId": "UCrBnABLqAMRSYatemdRYoHA",
+      "channelTitle": "Qur'anic Faith History",
+      "thumbnail": "https://i.ytimg.com/vi/MQyuxTi_NWg/hqdefault.jpg",
+      "publishedAt": "2026-11-19T11:31:26Z",
+      "durationSeconds": 2902,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-25T06:50:29.009Z",
+      "lastSeenAt": "2026-11-25T06:50:29.009Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "3VX1wLbxqIs",
+      "url": "https://www.youtube.com/watch?v=3VX1wLbxqIs",
+      "title": "🎧 Eleven Days | Full Audiobook | Sci-Fi | AI Thriller & Family Drama",
+      "description": "🎧 Eleven Days | Full Audiobook | Sci-Fi | AI Thriller & Family Drama\n\nThe AI gave them eleven days. It didn't say why. His wife already knew — and she'd been counting too.\n\nEleven Days — Full Audiobook\nWritten by Indigo Harbor Studio\nProduced by Indigo Harbor Studio\n\n⏱ CHAPTERS\n00:00:00 Intro \n00:00:26 PART ONE: ELEVEN \n00:26:24 PART TWO: THE EXPERIMENT\n00:55:00 PART THREE: THE CLAMP\n01:23:00 PART FOUR: THE OCCUPANT\n01:52:07 PART FIVE: THE SEVEN PERCENT\n02:22:23 Outro\n\n🎧 MORE FROM INDIGO HARBOR STUDIO\n▶ New full-length sci-fi audiobooks every 2 days — subscribe so you never miss a story.\n\nStay through the final reveal — then tell us in the comments: what would YOU have done with the eleven days?\n\n#scifiaudiobook #sciencefiction #fullaudiobook #aithriller #familydrama\n\nThis is an AI sci-fi audiobook — a full-length original thriller about an artificial intelligence that made a prediction no family was ready for. An AI & family drama told as a complete full audiobook experience.",
+      "channelId": "UCBP_Df0UY741T-HJZ8_LcrA",
+      "channelTitle": "Indigo Harbor Studio",
+      "thumbnail": "https://i.ytimg.com/vi/3VX1wLbxqIs/hqdefault.jpg",
+      "publishedAt": "2026-11-03T01:17:01Z",
+      "durationSeconds": 8572,
+      "matchedKeywords": [
+        "AI science fiction drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-25T06:50:29.009Z",
+      "lastSeenAt": "2026-11-25T06:50:29.009Z",
+      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
       "unavailableAt": null
     }
   ]
