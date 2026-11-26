@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:13:37.892Z",
+  "generatedAt": "2026-11-26T06:42:19.495Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -35,7 +35,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -55,7 +55,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:19.741Z",
       "lastSeenAt": "2026-10-15T10:29:19.741Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -113,7 +113,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:31.247Z",
       "lastSeenAt": "2026-10-22T03:08:31.247Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -133,7 +133,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:40.363Z",
       "lastSeenAt": "2026-10-28T03:50:40.363Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -152,7 +152,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:05.095Z",
       "lastSeenAt": "2026-11-03T05:12:05.095Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -172,7 +172,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:15:06.679Z",
       "lastSeenAt": "2026-11-08T04:15:06.679Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -192,7 +192,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:49.039Z",
       "lastSeenAt": "2026-11-10T05:50:49.039Z",
-      "lastVerifiedAt": "2026-11-24T08:13:37.892Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     },
     {
@@ -230,7 +230,26 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:54.318Z",
       "lastSeenAt": "2026-11-22T04:54:54.318Z",
-      "lastVerifiedAt": "2026-11-23T05:35:45.872Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "hpXOo6-CJtU",
+      "url": "https://www.youtube.com/watch?v=hpXOo6-CJtU",
+      "title": "Sherlock Holmes Aynadaki Zihin Part 1 Türkçe Dublaj / Ingilizce Altyazı",
+      "description": "bu eser yapay zeka grafik motorlarının yanı sıra birçok bilgisayar yazılımı ile desteklenen orijinal bir pipeline kurgusu ile ve TEK KİŞİNİN yoğun çalışmasıyla TAMAMEN ÜCRETSİZ şekilde harılanmış olup senaryosu tarafımca yazılmıştır.\nyakın zamanda filme ait kurgunun romanı da tüm kitap evlerinde okuyucuları ile buluşacaktır.\nfilm 2 bölüm şeklinde paylaşılacak olup; \nHolmes evrenine uygun olacak şekilde, gerek sanatsal sahneler gerekse kurgu akışı tarafında yeni bir soluk olacaktır.\n\nbirinci bölüm düğümlenme ikinci bölüm ise çözülme olarak devam edecek ve tamamlandığında sinematik uzun metrajlı bir esere dönüşecektir.\n\nemeğin çok yoğun olduğu bu sinematik evreni herkesin keyifle izlemesini dilerim \n\nbeğeni ve yorumlarınız oldukça önemli \n\nikinci bölüm için beklemede kalın \nçıta çok daha yukarıda olacak \n\n#sherlockholmes #sherlock #aynadakizihin #viralvideo #film #dedective",
+      "channelId": "UCb6Gr--AKUyCePDZ14yNqWg",
+      "channelTitle": "Samet lafçı offical",
+      "thumbnail": "https://i.ytimg.com/vi/hpXOo6-CJtU/hqdefault.jpg",
+      "publishedAt": "2026-09-12T17:19:08Z",
+      "durationSeconds": 2487,
+      "matchedKeywords": [
+        "yapay zeka drama filmi"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:19.495Z",
+      "lastSeenAt": "2026-11-26T06:42:19.495Z",
+      "lastVerifiedAt": "2026-11-26T06:42:19.495Z",
       "unavailableAt": null
     }
   ]

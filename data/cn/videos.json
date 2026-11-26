@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:13:16.516Z",
+  "generatedAt": "2026-11-26T06:42:00.485Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -202,11 +202,11 @@
       "matchedKeywords": [
         "人工智能 电影 完整版"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-10-30T04:12:44.605Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": "2026-11-26T06:42:00.485Z"
     },
     {
       "videoId": "gUAExcdVsiA",
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -807,21 +807,22 @@
     {
       "videoId": "IJWhADtUCQQ",
       "url": "https://www.youtube.com/watch?v=IJWhADtUCQQ",
-      "title": "自制Ai影片-卫斯理奇幻剧系列【神仙】完整版",
-      "description": "内容全部由AI生成，制作不易，耗时很久。\n如有不足请多包涵，可以留言我会改进，分享给喜欢卫斯理的朋友们。谢谢",
+      "title": "自制Ai影片-奇幻剧【神仙】完整版",
+      "description": "内容全部由AI生成，制作不易，耗时很久。\n本影片是基于对卫斯理系列作品的热爱所制作的非营利分享， 不会开通收费，如有侵权请联系我，谢谢\n如有不足请多包涵，可以留言我会改进，分享给喜欢卫斯理的朋友们。谢谢",
       "channelId": "UCP2XiKpL7AR2sGGB2sINrFQ",
       "channelTitle": "SOS影",
       "thumbnail": "https://i.ytimg.com/vi/IJWhADtUCQQ/hqdefault.jpg",
       "publishedAt": "2026-10-16T00:55:02Z",
       "durationSeconds": 5017,
       "matchedKeywords": [
+        "AI 科幻电影 完整版",
         "人工智能 电影 完整版"
       ],
-      "status": "unavailable",
+      "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
-      "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-10-19T03:05:46.510Z",
-      "unavailableAt": "2026-10-19T03:05:46.510Z"
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
     },
     {
       "videoId": "sKQbWdVxCtE",
@@ -1296,7 +1297,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1353,7 +1354,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1392,7 +1393,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1527,7 +1528,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1624,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:58.114Z",
       "lastSeenAt": "2026-10-24T03:07:58.114Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1738,7 +1739,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1834,7 +1835,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -1986,7 +1987,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:44.626Z",
       "lastSeenAt": "2026-10-31T03:54:44.626Z",
-      "lastVerifiedAt": "2026-11-09T04:29:05.891Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2196,7 +2197,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2272,7 +2273,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:02.600Z",
       "lastSeenAt": "2026-11-04T04:42:02.600Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2291,7 +2292,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:02.600Z",
       "lastSeenAt": "2026-11-04T04:42:02.600Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2387,7 +2388,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2406,7 +2407,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2425,7 +2426,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:06.165Z",
       "lastSeenAt": "2026-11-07T04:29:06.165Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2482,7 +2483,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:05.891Z",
       "lastSeenAt": "2026-11-09T04:29:05.891Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2672,7 +2673,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2806,7 +2807,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2882,13 +2883,13 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
       "videoId": "eFTxMZ2NZHo",
       "url": "https://www.youtube.com/watch?v=eFTxMZ2NZHo",
-      "title": "《野佛》10-16 完整版(另一个版本）1080p",
+      "title": "《野佛》第一季 10-16 完整版(另一个版本）1080p",
       "description": "🔥 精彩內容持續更新，記得唔好錯過！\n喜歡我的影片嗎？❤️ 歡迎訂閱我的頻道，並開啟小鈴鐺通知 🔔\n每逢有新影片上架，你都可以第一時間收到通知，精彩劇集一集都唔會錯過！\n👇 立即免費訂閱，支持一下！\n👉 https://www.youtube.com/@光影AI漫劇\n感謝大家支持！❤️ 你們的支持就是我更新影片的最大動力！",
       "channelId": "UC1LMT1cKlr4LoQHCLcFgwlw",
       "channelTitle": "光影AI 漫劇",
@@ -2977,7 +2978,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -2996,7 +2997,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3015,7 +3016,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3034,7 +3035,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:40.526Z",
       "lastSeenAt": "2026-11-17T06:22:40.526Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3110,7 +3111,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3129,7 +3130,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:34.818Z",
       "lastSeenAt": "2026-11-18T05:47:34.818Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3148,7 +3149,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3167,7 +3168,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:33.230Z",
       "lastSeenAt": "2026-11-19T05:46:33.230Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3224,7 +3225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:28.161Z",
       "lastSeenAt": "2026-11-20T05:35:28.161Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3364,7 +3365,7 @@
       "videoId": "wAuM8CJgK8M",
       "url": "https://www.youtube.com/watch?v=wAuM8CJgK8M",
       "title": "我们都来自远方 完整版电影",
-      "description": "欢迎订阅【AI剧精选】频道！\n\n【核心看点】全球AI长片大赛力作！浩瀚星海的流浪人类，寻找最后的家园记忆！\n\n精彩看点：一口气看完，高能纯享无删减大合集！\n\n#短剧 #AI短剧 #爽剧 #全集 #大合集",
+      "description": "【温馨提示】建议点个订阅收藏，方便随时回来接着看！\n\n欢迎订阅【AI剧精选】频道！\n\n【核心看点】全球AI长片大赛力作！浩瀚星海的流浪人类，寻找最后的家园记忆！\n\n精彩看点：一口气看完，高能纯享无删减大合集！\n\n#短剧 #AI短剧 #爽剧 #全集 #大合集",
       "channelId": "UCwhIOoF--jD_quuEKeLtLcw",
       "channelTitle": "AI剧精选",
       "thumbnail": "https://i.ytimg.com/vi/wAuM8CJgK8M/hqdefault.jpg",
@@ -3383,7 +3384,7 @@
       "videoId": "WWLGdqJA2Gg",
       "url": "https://www.youtube.com/watch?v=WWLGdqJA2Gg",
       "title": "弥寿计划 完整版大电影",
-      "description": "欢迎订阅【AI剧精选】频道！\n\n【核心看点】平行蓝星科技神级大对决！大夏特勤深入禁区营救国运！\n\n精彩看点：一口气看完，高能纯享无删减大合集！\n\n#短剧 #AI短剧 #爽剧 #全集 #大合集",
+      "description": "【温馨提示】建议点个订阅收藏，方便随时回来接着看！\n\n欢迎订阅【AI剧精选】频道！\n\n【核心看点】平行蓝星科技神级大对决！大夏特勤深入禁区营救国运！\n\n精彩看点：一口气看完，高能纯享无删减大合集！\n\n#短剧 #AI短剧 #爽剧 #全集 #大合集",
       "channelId": "UCwhIOoF--jD_quuEKeLtLcw",
       "channelTitle": "AI剧精选",
       "thumbnail": "https://i.ytimg.com/vi/WWLGdqJA2Gg/hqdefault.jpg",
@@ -3396,7 +3397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3453,7 +3454,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3472,7 +3473,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3491,7 +3492,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3548,7 +3549,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:25.216Z",
       "lastSeenAt": "2026-11-23T05:35:25.216Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3567,7 +3568,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3586,16 +3587,16 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
       "videoId": "wodBE3eCcNE",
       "url": "https://www.youtube.com/watch?v=wodBE3eCcNE",
       "title": "目前全網最完整最詳細的 AI 真人短劇影片製作保姆級教學！2026 最新版 AI 影片生成全流程教學！手把手帶你做出 AI 短劇！",
-      "description": "6次观看  2026年10月20日\n關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/Mdlc6qFH-UziFGMr0yBudw】\n記得備註關鍵詞領取配套腳本和提示詞庫哦～",
+      "description": "6次观看  2026年10月20日\n關於影片裡提到的 AI 漫劇製作資料包：\n平台規則限制，連結無法直接點擊，\n大家可以複製這段連結到瀏覽器開啟領取：\n【mp.weixin.qq.com/s/vaGVqnKDIQiTZiEbjx2KEg】\n記得備註關鍵詞領取配套腳本和提示詞庫哦～",
       "channelId": "UCdJWCW5OiOkySCSxff56yYA",
-      "channelTitle": "AI漫剧制作教程",
+      "channelTitle": "AI漫剧教程",
       "thumbnail": "https://i.ytimg.com/vi/wodBE3eCcNE/hqdefault.jpg",
       "publishedAt": "2026-11-05T03:14:12Z",
       "durationSeconds": 3653,
@@ -3605,7 +3606,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3624,7 +3625,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     },
     {
@@ -3662,7 +3663,102 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-24T08:13:16.516Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "x_aGWpAjPck",
+      "url": "https://www.youtube.com/watch?v=x_aGWpAjPck",
+      "title": "【完整版】《聊齋誌異·辛十四娘》｜一段刻骨銘心的狐仙奇緣｜經典志怪動畫電影",
+      "description": "🌸 一場山雨，一念善心，\n種下了一段跨越人妖之別的奇緣。\n然而，紅塵從不只有花前月下。\n當陰謀與冤案接踵而至，當真心遭逢命運考驗，\n這段人狐之戀，又將走向怎樣的結局？\n有些相遇，不必相守一生，也足以溫暖一世。\n━━━━━━━━━━━━━━\n🎬 作品資訊\n片名｜《聊齋誌異・辛十四娘》\n原著｜清・蒲松齡《聊齋誌異》\n類型｜古風奇幻・狐仙愛情・懸疑劇情\n形式｜AI 動畫電影・全劇完結\n製作｜Miss Mio\n🎵 電影片尾曲\n《一枝紅梅》\n━━━━━━━━━━━━━━\n🌷 關於本片\n本作品改編自蒲松齡《聊齋誌異》中的〈辛十四娘〉，\n以現代觀眾的情感視角重新詮釋經典故事。\n保留狐仙報恩、人間情緣與命運考驗等核心元素，\n並加入原創劇情與人物情感描寫。\n希望透過唯美的東方 3D 動畫，\n讓古老的故事再次觸動今日的我們。\n本片由 Miss Mio 獨立創作製作，運用 AI 動畫技術，\n結合劇本改編、角色設計、電影分鏡、動畫生成、\n音樂製作與後期剪輯完成。\n━━━━━━━━━━━━━━\n❤️ 喜歡這部電影的朋友，歡迎訂閱 Miss Mio！\n你的每一次觀看、按讚、留言與分享，\n都是支持我繼續創作的動力。\n也想邀請大家在留言區分享：\n如果一段愛情注定無法天長地久，\n你是否仍願意珍惜曾經擁有的幸福？\n感謝每一位陪伴 Miss Mio 走進聊齋世界的朋友。\n願天下有情人，都能珍惜眼前人。\n— Miss Mio ❤️\n━━━━━━━━━━━━━━\n【🌙 Miss Mio｜Original AI Animation】\n原創故事・經典文學改編・東方奇幻動畫\n每一個故事，都是另一個世界。\nEvery Story, Another World.\n喜歡古風奇幻、聊齋志怪、淒美愛情與感人故事，\n歡迎訂閱頻道，欣賞更多原創AI動畫作品。\n\n【版權與創作聲明｜Copyright & Creative Statement】\n本影片為 Miss Mio 製作之原創改編AI動畫作品。\n劇本改編、原創情節、角色視覺設計、動畫編排及後期製作等依法受保護之創作成果，請勿未經授權擅自搬運、重製、重新上傳或作商業使用。\nThis AI-animated film is an original adaptation produced by Miss Mio. Unauthorized copying, redistribution, re-uploading, or commercial use of protected original creative content is prohibited.\n© 2026 Miss Mio. All rights reserved.\n\n#聊齋誌異 #辛十四娘 #狐仙 #古風動畫 #AI動畫電影 #古風愛情 #奇幻愛情 #MissMio",
+      "channelId": "UCdUBJUgfKoOCkBugohkK4Sg",
+      "channelTitle": "Miss Mio",
+      "thumbnail": "https://i.ytimg.com/vi/x_aGWpAjPck/hqdefault.jpg",
+      "publishedAt": "2026-11-21T01:00:19Z",
+      "durationSeconds": 2180,
+      "matchedKeywords": [
+        "人工智能 电影 完整版"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:00.485Z",
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "FF1w3Z4zic4",
+      "url": "https://www.youtube.com/watch?v=FF1w3Z4zic4",
+      "title": "A Wife's Fight For Justice | Full AI Movie 2026 ",
+      "description": "A WIFE’S FIGHT FOR JUSTICE | FULL AI MOVIE 2026\n\nA marriage that once appeared perfect becomes a nightmare of abuse, betrayal and painful secrets. Maria has endured years of suffering, hoping her husband, Ben, would change. But when one terrible incident leaves her fighting for her life, the truth finally comes to light.\n\nWith the help of her loyal friend Juliet, a courageous witness and a determined legal team, Maria begins the fight for justice. But will Ben’s wealth, power and influence protect him from the consequences of his actions?\n\nWill Maria finally get justice, reunite with her children and rebuild her life?\n\nFind out in this emotional and unforgettable final season of The Secret Behind Her Perfect Marriage.\n\nWatch until the end and share your thoughts in the comments. Who do you think deserves justice in this story?\n\nThank you for watching and supporting Kovamediahtv. Don’t forget to LIKE, SHARE, COMMENT and SUBSCRIBE for more exciting Nigerian AI movies.\n\n\nNigerian AI movie, full AI movie 2026, Nigerian movie 2026, AI Nigerian movie, Nollywood AI movie, Nigerian family drama, marriage drama, emotional Nigerian movie, abusive marriage story, husband and wife drama, African AI movie, full Nigerian movie, relationship drama, emotional family movie, Kovamediahtv\n\n\n#AIMovie #FullAIMovie #NigerianMovie #Nollywood #NigerianDrama #AfricanMovie #FamilyDrama #MarriageStory #AIFilm #Kovamediahtv\n\n\n\nWorkflow :\nMusic ; YouTube library \nScript : Kovamediahtv & ChatGPT \nImage generation : ChatGPT \nVideo generation : flow Ai & Gen V \nEditing app : KwaiCut",
+      "channelId": "UC34l8brdMcqAyf95yDlPCPg",
+      "channelTitle": "Kovamediah Tv",
+      "thumbnail": "https://i.ytimg.com/vi/FF1w3Z4zic4/hqdefault.jpg",
+      "publishedAt": "2026-11-24T20:02:05Z",
+      "durationSeconds": 3215,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:00.485Z",
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Cdgz5q1mGjU",
+      "url": "https://www.youtube.com/watch?v=Cdgz5q1mGjU",
+      "title": "How 300 Spartans Held Off an Empire of Millions (Full AI Movie)",
+      "description": "THE LAST OATH OF SPARTA: THE FALL OF LEONIDAS\n\n🎬 An AI Cinematic Epic Production\n📖 Inspired by ancient Greek history, the Histories of Herodotus, and the legendary sacrifice at the Hot Gates of Thermopylae (480 BC).\n\n⚡ Bound by an ancient prophecy from the Oracle at Delphi, King Leonidas of Sparta faces an impossible choice: either Sparta falls to the invading Persian Empire, or a king of the line of Heracles must die. Bidding farewell to Queen Gorgo under the Spartan moonlight, Leonidas marches north with only 300 hand-picked warriors—fathers with living sons—to hold the narrow coastal pass of Thermopylae against Xerxes and an army of hundreds of thousands.\n\n🛡️ For three days, locked shield-to-shield in the narrow gorge, the Spartan phalanx shatters wave after wave of Persian shock troops and the dreaded silver-masked Immortals. When the traitor Ephialtes sells the secret of the Anopaea mountain path to Xerxes, Leonidas dismisses the Greek allies and leads his 300 in one final, immortal stand on Kolonos Hill beneath a sky darkened by Persian arrows.\n\n\n\n🎥 Created with Google Flow AI\n🎵 Original Background Music generated with Google Flow Music\n\n\n\n#TheLastOathOfSparta #300Spartans #FullMovie",
+      "channelId": "UCeg5k7sbwsseZCejinGMiUg",
+      "channelTitle": "Mythovaria",
+      "thumbnail": "https://i.ytimg.com/vi/Cdgz5q1mGjU/hqdefault.jpg",
+      "publishedAt": "2026-11-19T00:00:31Z",
+      "durationSeconds": 3060,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:00.485Z",
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "I4bwdz91FAw",
+      "url": "https://www.youtube.com/watch?v=I4bwdz91FAw",
+      "title": "KHAUF AUR MOHABBAT, ISHQ, JUNOON AUR MAFIA DON ZAVIYAR | Complete Ai Drama||Pakistani Drama|Ai Drama",
+      "description": "KHAUF AUR MOHABBAT, ISHQ, JUNOON AUR MAFIA DON ZAVIYAR 🖤\n\n❤️ Ek kahani mohabbat, junoon, dhokay, khauf aur naye aghaaz ki.\n\nPresented: by Drama Planet Ai\n\nKya hota hai jab ek masoom larki ghalti se ek khatarnaak mafia don ke raaz jaan leti hai? Aur kya woh shakhs jis se woh darti hai, ek din uske dil ki sab se bari kamzori ban sakta hai?\n\nZaviyar Mirza ek taqatwar, beraham aur khudgharz mafia don hai, jo kisi par bharosa nahi karta. Uski duniya mein sirf taqat, qabza aur badla hai. Lekin uski zindagi us waqt badal jaati hai jab Inaya Ahmed, ek masoom magar bahadur larki, ghalti se uski ek khufiya meeting dekh leti hai aur uski khatarnaak duniya ka hissa ban jaati hai.\n\nEk hi chhat ke neeche rehne par unke darmiyan shuru hoti hai nafrat, takraar aur khauf ki ek anokhi kahani. Lekin waqt ke saath parwah, jalan, hifazat aur mohabbat ke jazbaat janam lene lagte hain.\n\nMagar jab khandani raaz, dhoka aur ek khatarnaak dushman unki zindagi mein toofan le aate hain, toh unki mohabbat ka sab se bara imtihan shuru hota hai.\n\nKya Inaya, Zaviyar ki sab se bari kamzori ban jayegi? Kya mohabbat ek aise shakhs ko badal sakti hai jisne kabhi kisi se mohabbat karna nahi seekha? Aur kya unka rishta dhokay aur khatron ke bawajood zinda reh payega?\n\n\nAgar aapko Pakistani romantic dramas, intense love stories, mafia romance, emotional twists aur suspense pasand hain, toh:\n\n👍 Video ko Like karein  \n💬 Comments mein apni rai zaroor dein  \n🔔 Mazeed original AI-generated Pakistani dramas ke liye **Drama Planet Ai** ko Subscribe karein.\n\nDISCLAIMER: Yeh ek fictional AI-generated drama hai jo sirf entertainment ke liye banaya gaya hai. Iske tamam kirdar, naam, waqiat aur kahaniyan farzi hain. Kisi bhi haqeeqi shakhs ya waqia se mushabihat sirf ittefaq hogi.\n\n#IshqJunoonAurMafiaDon #PakistaniDrama #MafiaDon #RomanticDrama #AIDrama #DramaPlanetAi #PakistaniRomance #LoveStory #MafiaLoveStory #UrduDrama #NafratSeIshq  #PakistaniAIDrama   #AIStory",
+      "channelId": "UC4OVjMGb92RfkXn1e3mZ3Iw",
+      "channelTitle": "Drama Planet AI",
+      "thumbnail": "https://i.ytimg.com/vi/I4bwdz91FAw/hqdefault.jpg",
+      "publishedAt": "2026-11-18T15:00:29Z",
+      "durationSeconds": 1934,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:00.485Z",
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1PVIM7XYCU4",
+      "url": "https://www.youtube.com/watch?v=1PVIM7XYCU4",
+      "title": "AI 影片《永夜门》槐阴村篇",
+      "description": "",
+      "channelId": "UC9s3mh2IX6mSbP_FWLe3-BA",
+      "channelTitle": "光影音社",
+      "thumbnail": "https://i.ytimg.com/vi/1PVIM7XYCU4/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:00:09Z",
+      "durationSeconds": 4028,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-26T06:42:00.485Z",
+      "lastSeenAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
       "unavailableAt": null
     }
   ]
