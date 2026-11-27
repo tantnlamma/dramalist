@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:42:07.588Z",
+  "generatedAt": "2026-11-27T06:33:17.780Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -650,7 +650,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -669,7 +669,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -764,7 +764,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -784,7 +784,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -841,7 +841,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -1069,7 +1069,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -1107,7 +1107,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:06.794Z",
       "lastSeenAt": "2026-11-21T05:29:06.794Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -1145,7 +1145,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:39.786Z",
       "lastSeenAt": "2026-11-22T04:54:39.786Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -1164,7 +1164,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:39.786Z",
       "lastSeenAt": "2026-11-22T04:54:39.786Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     },
     {
@@ -1183,7 +1183,83 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:32.596Z",
       "lastSeenAt": "2026-11-23T05:35:32.596Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "1OXpGTQ9nAs",
+      "url": "https://www.youtube.com/watch?v=1OXpGTQ9nAs",
+      "title": "SOBREVIVI 100 DIAS APÓS IA DOMINAR O BRASIL (FILME COMPLETO)",
+      "description": "E se a inteligência artificial dominasse o Brasil? Imagine perder seu emprego, ter sua conta bancária bloqueada e precisar sobreviver em um mundo controlado por máquinas.\n\nNesta história de sobrevivência animada, acompanhe Lucas Almeida durante 100 dias em um Brasil distópico, onde conseguir comida, dinheiro e liberdade se tornou um desafio diário.\n\nUma aventura de suspense, ficção científica, sobrevivência e inteligência artificial, contada através de uma animação de bonecos palito.\n\nVocê conseguiria sobreviver nesse mundo?\n\nInscreva-se no Instinto Final para acompanhar novas histórias de sobrevivência, cenários apocalípticos e desafios extremos.\n\n🎬 Filme completo | História fictícia original | Animação em português.\n\n#Sobrevivência #InteligênciaArtificial #Apocalipse #Animação #100Dias",
+      "channelId": "UC0_T0dtufppi7Lo84YIs_Cw",
+      "channelTitle": "Instinto Sobrevivente",
+      "thumbnail": "https://i.ytimg.com/vi/1OXpGTQ9nAs/hqdefault.jpg",
+      "publishedAt": "2026-11-27T04:27:12Z",
+      "durationSeconds": 2115,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:17.780Z",
+      "lastSeenAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "fD2gZejQYr0",
+      "url": "https://www.youtube.com/watch?v=fD2gZejQYr0",
+      "title": "Lampião Contra os Nazarenos: O Filme Completo (1 Hora de Cangaço)",
+      "description": "Sertão de Santa Luzia, 1933. O coronel Belarmino já tinha tentado de tudo contra Lampião. Então a capital mandou os homens mais duros que tinha: os nazarenos, uma volante a pé, que não bebe, não dorme debaixo de telha e não aceita dinheiro de ninguém. Na frente deles, o capitão Severo, o único homem que o coronel não conseguiu comprar.\n\nTrês causos de Sombra de Couro num filme só, com abertura e pontes novas.\n\n🐴 Causo 1: O jumento da viúva. Um cangaceiro do bando rouba o único jumento de uma viúva. Lampião volta para devolver, com doze nazarenos esperando no terreiro dela.\n🌙 Causo 2: A filha de Lampião. Maria Bonita dá à luz no meio da fuga, e antes do sol nascer o capitão bate na porta.\n👣 Causo 3: O rastro do rastejador. Um homem que comia na fogueira do bando agora entrega coito por coito, por uma moeda de ouro.\n\n⏱️ Capítulos\n0:00 Os nazarenos no rastro\n0:54 Causo 1: O jumento da viúva\n1:55 Os nazarenos\n3:56 O boizinho de pau\n6:00 Três léguas de água\n8:40 O julgamento\n11:25 Avisaram Lampião\n13:26 O menino de nove anos\n14:13 A patrulha\n15:37 O terreiro da viúva\n19:03 Água dada\n20:37 O capitão não se vende\n21:58 O filho de Lampião\n22:37 Causo 2: A filha de Lampião\n24:02 Mulher prenha não corre\n26:04 A casa do vaqueiro\n26:56 A parteira\n28:48 A noite mais comprida\n31:44 É menina\n33:28 Menino no cangaço morre\n35:40 O pano vermelho\n37:51 Esse menino é meu\n40:23 Um pano na laje\n41:42 O outro lado do rio\n43:11 O rastejador\n44:04 Causo 3: O rastro do rastejador\n45:23 Uma moeda por coito\n47:07 O velho da umburana\n48:06 Esse pé eu conheço\n49:28 Todo buraco que a gente conhece\n51:53 Rastro de ouro\n54:37 O recado\n56:06 Menino eles não caçam\n57:52 Cilada ou verdade\n1:00:37 Homem comprado\n1:02:49 A porta fechada\n1:03:36 O que o chão não ensina\n1:04:54 Eu vou ver a minha filha\n1:06:01 Antes dos nazarenos\n\n▶️ Antes dos nazarenos: \"Lampião Contra o Coronel: As Três Armadilhas\", o filme dos episódios 4 a 6: https://youtu.be/6g-bnOcNz6Y]\n▶️ Como tudo começou, o filme dos episódios 1 a 3: [https://youtu.be/oN3wQuOzqEQ?si=Inwo2c2nd80urFFk]\n\nOs episódios separados:\n▶️ Episódio 7: [https://youtu.be/6Fji66jDZtI?si=ImTEU-JlqKS4gGtN]\n▶️ Episódio 8: [https://youtu.be/9yiDaeIlW8o?si=lW9o4Tu4XbjcgJRy]\n▶️ Episódio 9: [https://youtu.be/wE4zXKZBMlc?si=ClN50G6LS9j7vGLG]\n\n🌵 Sombra de Couro: causos do sertão nos tempos do cangaço (1920–1938), com o mesmo elenco de sempre: Lampião, o bando e os coronéis que o sertão não esqueceu. Cada causo é um pedaço de uma história comprida: inscreva-se e ative o sininho para não perder o próximo.\n\nObra de ficção histórica inspirada no sertão nordestino. Personagens, falas e situações são dramatizações. Imagens e vozes produzidas com auxílio de inteligência artificial.\n\n#lampião #cangaço #filmecompleto",
+      "channelId": "UCCQbbg456Hwnh9XVNIEkG5w",
+      "channelTitle": "Sombra de Couro",
+      "thumbnail": "https://i.ytimg.com/vi/fD2gZejQYr0/hqdefault.jpg",
+      "publishedAt": "2026-11-26T21:41:31Z",
+      "durationSeconds": 4006,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:17.780Z",
+      "lastSeenAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "k0GxSc2E0tQ",
+      "url": "https://www.youtube.com/watch?v=k0GxSc2E0tQ",
+      "title": "A.R.I - Meu Amigo Robô | 🍿 FILME COMPLETO GRÁTIS | 🎞️ FILME DE AVENTURA | ⭐ MOVIE HARBOR",
+      "description": "⚓🎬 INSCREVA-SE NO MOVIE HARBOR E NUNCA PERCA UM ÓTIMO FILME! 🔔🍿\n👉 https://www.youtube.com/channel/UC1QFPDcwPfN-fbgS_UEfvmw\n\n🎥🌊 MOVIE HARBOR — SEU PORTO SEGURO PARA GRANDES HISTÓRIAS! 🍿✨\n\n📖 SINOPSE: Noah, um adolescente apaixonado por robótica, encontra A.R.I., um robô com inteligência artificial avançada que foi acidentalmente danificado. Após consertá-lo, Noah descobre que A.R.I. possui habilidades extraordinárias que atraem a atenção de Raddock, o CEO de uma corporação poderosa. Determinado a usar A.R.I. como uma arma, Raddock sequestra o robô, forçando Noah a embarcar em uma missão perigosa para resgatá-lo. Com a ajuda de sua amiga Bethany, Noah enfrenta obstáculos tecnológicos e humanos, desafiando a corporação e lutando pela liberdade de A.R.I. O filme explora temas de amizade, ética na inteligência artificial e a luta contra o abuso de poder.\n\n🎬 TÍTULO DO FILME: A.R.I - Meu Amigo Robô\n\n🎭 GÊNERO: Aventura | Família | Ficção Científica\n\n🎥 DIRETOR: Stephen Shimek\n\n⭐ ELENCO: Jude Manley | J.R. Brown | Cait Brasel | Kyle Jacob Henry | Caleb Hennigan | Christy Tate | Phil Redburn | Forrest Lynn | Cheyenne Rose Martin\n\nPegue sua pipoca e embarque em mais uma jornada cinematográfica inesquecível! 🎬🌊 Aqui no Movie Harbor, você encontrará filmes, histórias fascinantes, personagens memoráveis e produções de todos os cantos do mundo. De aventuras eletrizantes e ação intensa a dramas emocionantes, mistérios e clássicos inesquecíveis — sempre há uma nova história esperando por você! ⚓🎞️\n\n💬 O QUE VOCÊ ACHOU DA HISTÓRIA?\nDeixe um 👍, compartilhe este vídeo com outros amantes de cinema e conte para nós nos comentários: Qual filme deveria chegar ao Movie Harbor em seguida? 🎞️💭\n\n🔔 Inscreva-se no Movie Harbor e ative as notificações para descobrir novos filmes, histórias inesquecíveis e aventuras cinematográficas emocionantes! 🌊🎬\n\n⚓🎥 MOVIE HARBOR — ONDE TODA HISTÓRIA ENCONTRA SEU CAMINHO ATÉ A TELA. 🍿✨\n\n#filme #filmecompleto #filmesgratis #cinema #filmesonline #filmesdublados #filmesemportugues #acao #aventura #comedia #drama #terror #suspense #romance #ficcaocientifica #fantasia #misterio #filmesdeacao #filmesdeaventura #filmesdeterror #filmesdedrama #lancamentos #melhoresfilmes #cinemagratis #hollywood #filmecompletodublado #filmescompletos #filmes2026 #entretenimento #filmesimperdiveis\n\nScripted Content\n\nID: 544703",
+      "channelId": "UC1QFPDcwPfN-fbgS_UEfvmw",
+      "channelTitle": "Movie Harbor",
+      "thumbnail": "https://i.ytimg.com/vi/k0GxSc2E0tQ/hqdefault.jpg",
+      "publishedAt": "2026-11-26T20:00:09Z",
+      "durationSeconds": 5358,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:17.780Z",
+      "lastSeenAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "BdT7M8Rlz0c",
+      "url": "https://www.youtube.com/watch?v=BdT7M8Rlz0c",
+      "title": "Nenhuma Cuidadora Aguentava O Milionário Cego E Arrogante, Até Que Ela Chegou... - FILME COMPLETO",
+      "description": "Numa noite de gala em Copacabana, uma garçonete derruba uma bandeja de molho no smoking de Gustavo Saldanha, dono de tudo. Ele a humilha na frente de trezentas pessoas: \"Nem olhe pra mim. Some daqui.\" 🍽️ Uma hora depois, na estrada da serra, debaixo de chuva, a vida dele apaga.\n\nOnze meses depois, Gustavo está cego, trancado num casarão na Floresta da Tijuca, e já expulsou seis cuidadoras. Até que chega Nina, técnica de enfermagem de Niterói, que atravessa a baía de barca todo dia às 5h40 — e que ele nunca olhou direito. 💛\n\nEle não sabe quem ela é. Ela sabe exatamente quem ele é. E alguém dentro da empresa sabe o que aconteceu naquela noite de chuva… 😱\n\nUma história sobre orgulho, perdão e sobre enxergar as pessoas que ninguém vê. Assista até o final! 💙\n\n0:00 O que ninguém esperava\n0:33 A noite da gala e a chuva na serra\n10:15 A sétima cuidadora\n20:15 O caderno de nomes\n29:57 A verdade sobre aquela noite\n\n👉 Se inscreva no canal e ative o sininho para mais histórias de amor.\n\n⚠️ Esta é uma obra de ficção original. Personagens, empresas, imagens e vozes foram criados com inteligência artificial (geração de imagem e síntese de voz). Qualquer semelhança com pessoas reais é coincidência.\n\n#filmecompleto #historiadeamor #milionario #cuidadora #romance",
+      "channelId": "UCPDb5uOVwgMUwFI98WnLk_Q",
+      "channelTitle": "Júlia - Romances de Milionário",
+      "thumbnail": "https://i.ytimg.com/vi/BdT7M8Rlz0c/hqdefault.jpg",
+      "publishedAt": "2026-11-26T08:49:41Z",
+      "durationSeconds": 2418,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:17.780Z",
+      "lastSeenAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
       "unavailableAt": null
     }
   ]

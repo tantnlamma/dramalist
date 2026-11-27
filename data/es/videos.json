@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:42:03.558Z",
+  "generatedAt": "2026-11-27T06:33:13.902Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -530,7 +530,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -583,12 +583,13 @@
       "durationSeconds": 3473,
       "matchedKeywords": [
         "drama IA película completa",
-        "película completa inteligencia artificial"
+        "película completa inteligencia artificial",
+        "película de ciencia ficción IA completa"
       ],
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:49.640Z",
       "lastSeenAt": "2026-10-20T03:14:49.640Z",
-      "lastVerifiedAt": "2026-11-21T05:29:02.470Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -627,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -646,7 +647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -703,7 +704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -779,7 +780,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:58.202Z",
       "lastSeenAt": "2026-10-27T03:33:58.202Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -818,7 +819,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -837,7 +838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -856,7 +857,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -971,7 +972,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -991,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1086,7 +1087,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1105,7 +1106,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1124,7 +1125,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1143,7 +1144,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1220,7 +1221,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1449,7 +1450,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:38.723Z",
       "lastSeenAt": "2026-11-18T05:47:38.723Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1470,7 +1471,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:36.852Z",
       "lastSeenAt": "2026-11-19T05:46:36.852Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1490,7 +1491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:31.749Z",
       "lastSeenAt": "2026-11-20T05:35:31.749Z",
-      "lastVerifiedAt": "2026-11-24T08:13:20.280Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1509,7 +1510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:02.470Z",
       "lastSeenAt": "2026-11-21T05:29:02.470Z",
-      "lastVerifiedAt": "2026-11-23T05:35:28.553Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1528,7 +1529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:35.204Z",
       "lastSeenAt": "2026-11-22T04:54:35.204Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1547,7 +1548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:20.280Z",
       "lastSeenAt": "2026-11-24T08:13:20.280Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1566,7 +1567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:20.280Z",
       "lastSeenAt": "2026-11-24T08:13:20.280Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1585,7 +1586,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:03.558Z",
       "lastSeenAt": "2026-11-26T06:42:03.558Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1604,7 +1605,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:03.558Z",
       "lastSeenAt": "2026-11-26T06:42:03.558Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     },
     {
@@ -1623,7 +1624,26 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:03.558Z",
       "lastSeenAt": "2026-11-26T06:42:03.558Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "cmrnzoE1lgk",
+      "url": "https://www.youtube.com/watch?v=cmrnzoE1lgk",
+      "title": "SODOMA Y GOMORRA | Película completa | El pacto de Abraham y el fuego que cayó del cielo",
+      "description": "SODOMA Y GOMORRA | Película completa | La ciudad que ardió por no mirar atrás 4K\n\nLot se separa de Abraham y elige el valle fértil del Jordán, estableciéndose en Sodoma. Allí vive entre hombres que se burlan de su Dios y desprecian la justicia. Cuando el clamor de Sodoma y Gomorra llega al cielo, Abraham intercede por las ciudades mientras Lot debe huir sin mirar atrás.\n\nEn este video:\n0:00 Una turba rodea la casa de Lot\n4:33 Discusión de pastores entre Abram y Lot\n10:31 Sodoma, ciudad de mercados y banquetes\n13:30 El labrador y el juicio en el portón\n15:02 Las apuestas y el forastero hebreo\n18:01 Bajo las encinas de Mamre, Abraham\n21:02 Sara ríe cuando oye el anuncio\n25:34 Abraham mira hacia las luces de Sodoma\n30:02 La viuda cuenta de dónde huyó\n34:32 Los forasteros llegan a Sodoma al anochecer\n37:31 La multitud exige a los huéspedes de Lot\n42:01 El cielo palidece y los ángeles esperan\n43:34 Escapa por tu vida, no mires atrás\n46:31 El cielo se abre y Gomorra arde\n48:02 La mujer de Lot mira atrás\n51:02 Lot no deja de mirar sobre su hombro\n54:01 Las mañanas en la caverna\n55:32 El nacimiento de Isaac, el que ríe\n\nCon Lot, Sodoma, Abraham, Sarah, Zoar, Hebrón, Harán y Jordán.\n\nInspirada en la Biblia, textos apócrifos y tradiciones antiguas, con licencia poética.\n\nAviso importante:\nEste video tiene fines de entretenimiento y reflexión. Las historias y narraciones basadas en la Biblia, textos antiguos y tradiciones apócrifas son representaciones libres y no deben tomarse como interpretaciones literales, históricas o doctrinales.\n\nCreación: guion, imágenes y voz elaborados con herramientas de inteligencia artificial.\n\n👉 Suscríbete para no perderte la próxima película completa basada en la Biblia y los textos apócrifos.\n💬 Cuéntame en los comentarios qué momento te impactó más.\n\n#SodomaYGomorra #Lot #PeliculaCompleta",
+      "channelId": "UCqjwWPEC-EcXhm-TiEfPEgQ",
+      "channelTitle": "ApócrifaStudios",
+      "thumbnail": "https://i.ytimg.com/vi/cmrnzoE1lgk/hqdefault.jpg",
+      "publishedAt": "2026-11-26T16:08:30Z",
+      "durationSeconds": 3496,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:13.902Z",
+      "lastSeenAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
       "unavailableAt": null
     }
   ]

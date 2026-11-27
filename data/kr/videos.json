@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:41:52.784Z",
+  "generatedAt": "2026-11-27T06:33:03.648Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -54,7 +54,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-10-30T04:12:37.077Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -74,7 +74,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -171,7 +171,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -212,7 +212,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -270,7 +270,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -289,7 +289,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -309,7 +309,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -329,7 +329,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -349,7 +349,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -369,7 +369,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -388,7 +388,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:02.264Z",
       "lastSeenAt": "2026-10-15T10:29:02.264Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -716,12 +716,13 @@
       "publishedAt": "2026-10-16T12:15:37Z",
       "durationSeconds": 5765,
       "matchedKeywords": [
-        "AI 드라마 영화"
+        "AI 드라마 영화",
+        "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-01T04:08:43.941Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -741,7 +742,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-05T04:56:58.345Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -785,8 +786,8 @@
     {
       "videoId": "WfQzdpetr04",
       "url": "https://www.youtube.com/watch?v=WfQzdpetr04",
-      "title": "나의 오크(My Dear, Orc)🔥챕터1: 전편 | 오크마을편 몰아보기! 통합본(1~7화)",
-      "description": "00:00 1화 | 아니… 갑자기 여긴 어디야?!\n07:26 2화 | 이제, 본격 참교육이다 이거야!!\n14:42 3화 | 여기선... 무엇을 먹을까? 방심하면 안돼!\n18:40 4화 | 위험한 상황!! 그리고 엘프를 만나다.\n24:41 5화 | 아레나 결투! 압도적인 힘을 보여주다!\n33:36 6화 | 숨겨진 힘?! 최강자들의 숨막히는 대결!\n42:05 7화 | 오크 마을, 최후의 결전!\n\n나의 오크 (My Dear, Orc)는 코믹/액션/판타지 퓨전 드라마 입니다. \n\" 좋아요 \"와 \" 하이프 \" 버튼을 눌러 주시면 감사하겠습니다! \n \n1화 ~ 7화 챕터1: 오크 마을 편이 마무리되어 몰아보기용 통합본을 업로드 합니다. \n감사합니다! \n\n* 기타사항 \n[화면 조정] \n\n------------------------------------- \nOdd Lab Official · Original Content \n \n본 콘텐츠는 AI 기술이 활용 되었습니다.",
+      "title": "《나의 오크》챕터1: 오크마을편🔥몰아보기 통합본 [1~7화]",
+      "description": "00:00 1화 | 이세계 판타지\n07:26 2화 | 오크 만나다\n14:42 3화 | 이세계 야생\n18:40 4화 | 엘프 만나다\n24:41 5화 | 오크마을 아레나\n33:36 6화 | 재앙의 힘\n42:05 7화 | 각성\n\n나의 오크 (My Dear, Orc)는 코믹/액션/판타지 퓨전 드라마 입니다. \n\" 좋아요 \"와 \" 하이프 \" 버튼을 눌러 주시면 감사하겠습니다! \n \n1화 ~ 7화 챕터1: 오크 마을 편이 마무리되어 몰아보기용 통합본을 업로드 합니다. \n감사합니다! \n\n* 기타사항 \n[화면 조정] \n\n------------------------------------- \nOdd Lab Official · Original Content \n \n본 콘텐츠는 AI 기술이 활용 되었습니다.",
       "channelId": "UCceCkDkpXp71-xLr4ReZ9Pg",
       "channelTitle": "Odd Lab 오드랩",
       "thumbnail": "https://i.ytimg.com/vi/WfQzdpetr04/hqdefault.jpg",
@@ -875,11 +876,11 @@
       "matchedKeywords": [
         "AI 드라마 영화"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-10-18T02:52:42.142Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": "2026-11-27T06:33:03.648Z"
     },
     {
       "videoId": "K2srsfBWIQ4",
@@ -917,7 +918,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:12.918Z",
       "lastSeenAt": "2026-10-17T02:51:12.918Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -950,13 +951,14 @@
       "publishedAt": "2026-09-05T06:43:19Z",
       "durationSeconds": 2271,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -995,7 +997,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:42.142Z",
       "lastSeenAt": "2026-10-18T02:52:42.142Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1016,7 +1018,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:38.001Z",
       "lastSeenAt": "2026-10-19T03:05:38.001Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1075,7 +1077,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:38.965Z",
       "lastSeenAt": "2026-10-20T03:14:38.965Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1096,7 +1098,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1174,7 +1176,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:37.755Z",
       "lastSeenAt": "2026-10-21T03:09:37.755Z",
-      "lastVerifiedAt": "2026-11-23T05:35:16.974Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1193,7 +1195,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:03.963Z",
       "lastSeenAt": "2026-10-22T03:08:03.963Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1232,7 +1234,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1271,7 +1273,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:38.334Z",
       "lastSeenAt": "2026-10-23T03:13:38.334Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1368,7 +1370,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:07:49.651Z",
       "lastSeenAt": "2026-10-24T03:07:49.651Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1480,12 +1482,13 @@
       "publishedAt": "2026-09-17T10:00:05Z",
       "durationSeconds": 3127,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1504,7 +1507,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:42.351Z",
       "lastSeenAt": "2026-10-26T03:01:42.351Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1751,7 +1754,7 @@
       "status": "available",
       "discoveredAt": "2026-10-29T04:12:53.850Z",
       "lastSeenAt": "2026-10-29T04:12:53.850Z",
-      "lastVerifiedAt": "2026-11-12T05:37:43.565Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1842,13 +1845,14 @@
       "publishedAt": "2026-09-16T21:00:10Z",
       "durationSeconds": 1909,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -1868,7 +1872,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:36.442Z",
       "lastSeenAt": "2026-10-31T03:54:36.442Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2174,7 +2178,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2286,11 +2290,11 @@
       "matchedKeywords": [
         "AI 드라마 영화"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-02T04:12:41.401Z",
       "lastSeenAt": "2026-11-02T04:12:41.401Z",
-      "lastVerifiedAt": "2026-11-12T05:37:43.565Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": "2026-11-27T06:33:03.648Z"
     },
     {
       "videoId": "bvwQHtgyV1U",
@@ -2328,7 +2332,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2342,12 +2346,13 @@
       "publishedAt": "2026-09-07T09:57:37Z",
       "durationSeconds": 3127,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:32.997Z",
       "lastSeenAt": "2026-11-03T05:11:32.997Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2541,7 +2546,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:58.544Z",
       "lastSeenAt": "2026-11-07T04:28:58.544Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2560,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:35.612Z",
       "lastSeenAt": "2026-11-08T04:14:35.612Z",
-      "lastVerifiedAt": "2026-11-25T06:50:40.743Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2631,13 +2636,14 @@
       "publishedAt": "2026-09-12T09:29:43Z",
       "durationSeconds": 2140,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2710,11 +2716,11 @@
       "matchedKeywords": [
         "AI 드라마 영화"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-09T04:28:57.045Z",
       "lastSeenAt": "2026-11-09T04:28:57.045Z",
-      "lastVerifiedAt": "2026-11-12T05:37:43.565Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": "2026-11-27T06:33:03.648Z"
     },
     {
       "videoId": "IR14x2-b7GI",
@@ -2847,7 +2853,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:31.096Z",
       "lastSeenAt": "2026-11-11T04:32:31.096Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2937,13 +2943,14 @@
       "publishedAt": "2026-11-11T05:51:05Z",
       "durationSeconds": 7232,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전",
         "인공지능 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:43.565Z",
       "lastSeenAt": "2026-11-12T05:37:43.565Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -2963,7 +2970,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:43.565Z",
       "lastSeenAt": "2026-11-12T05:37:43.565Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3232,7 +3239,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:25.965Z",
       "lastSeenAt": "2026-11-16T04:36:25.965Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3664,12 +3671,13 @@
       "publishedAt": "2026-11-18T05:12:23Z",
       "durationSeconds": 3519,
       "matchedKeywords": [
-        "AI 드라마 영화"
+        "AI 드라마 영화",
+        "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:19.544Z",
       "lastSeenAt": "2026-11-20T05:35:19.544Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3688,7 +3696,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:19.544Z",
       "lastSeenAt": "2026-11-20T05:35:19.544Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3816,12 +3824,13 @@
       "publishedAt": "2026-08-31T09:48:29Z",
       "durationSeconds": 2719,
       "matchedKeywords": [
+        "AI 드라마 영화",
         "AI 영화 풀버전"
       ],
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:22.066Z",
       "lastSeenAt": "2026-11-22T04:54:22.066Z",
-      "lastVerifiedAt": "2026-11-23T05:35:16.974Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3879,7 +3888,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:16.974Z",
       "lastSeenAt": "2026-11-23T05:35:16.974Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3936,7 +3945,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:16.974Z",
       "lastSeenAt": "2026-11-23T05:35:16.974Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -3994,7 +4003,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:07.471Z",
       "lastSeenAt": "2026-11-24T08:13:07.471Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4013,7 +4022,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:07.471Z",
       "lastSeenAt": "2026-11-24T08:13:07.471Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4032,7 +4041,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:07.471Z",
       "lastSeenAt": "2026-11-24T08:13:07.471Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4127,7 +4136,7 @@
       "status": "available",
       "discoveredAt": "2026-11-25T06:50:40.743Z",
       "lastSeenAt": "2026-11-25T06:50:40.743Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4146,7 +4155,7 @@
       "status": "available",
       "discoveredAt": "2026-11-25T06:50:40.743Z",
       "lastSeenAt": "2026-11-25T06:50:40.743Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4165,7 +4174,7 @@
       "status": "available",
       "discoveredAt": "2026-11-25T06:50:40.743Z",
       "lastSeenAt": "2026-11-25T06:50:40.743Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4203,7 +4212,7 @@
       "status": "available",
       "discoveredAt": "2026-11-25T06:50:40.743Z",
       "lastSeenAt": "2026-11-25T06:50:40.743Z",
-      "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     },
     {
@@ -4223,6 +4232,120 @@
       "discoveredAt": "2026-11-26T06:41:52.784Z",
       "lastSeenAt": "2026-11-26T06:41:52.784Z",
       "lastVerifiedAt": "2026-11-26T06:41:52.784Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "mg7JVx-X5NA",
+      "url": "https://www.youtube.com/watch?v=mg7JVx-X5NA",
+      "title": "레슨비 0원으로 백돌이 탈출한 김과장 이야기 | AI 골프 드라마 1~4화 정주행",
+      "description": "\"이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로,판매 발생 시 수수료를 제공받습니다.\"\n\n#아이언스윙 #드라이버스윙 #골프드라마 #골프스윙연습기 #직장인골프\n레슨비도, 연습장 갈 시간도 없던 45세 백돌이 김과장.\n\n회사에서 무시받던 그가 사내 골프대회에서 모두를 놀라게 하기까지.\n「백돌이 김과장」 1~4화를 한 번에 몰아보세요.\n\n👇 김과장이 거실에서 쓴 그 연습기, 고정댓글에 있습니다\n이런 분께 추천합니다\n✔ 골프는 치는데 늘 100타 언저리인 직장인\n✔ 레슨비·연습장 시간이 부담되는 분\n✔ 미생 같은 직장 드라마 좋아하는 분\n\n김과장의 이야기는 8화까지 이어집니다.\n5화 알림을 받으려면 구독과 🔔 알림 설정을 눌러 주세요.\n여러분의 백돌이 시절 에피소드도 댓글로 들려주세요!\n\n━━━━━━━━━━━━━━━━━━\n※ 본 영상은 AI로 제작된 창작 드라마이며, 등장인물과 회사는 실제와 관련이 없습니다.\n※ 영상에 판매자가 직접 판매하는 제품이 등장합니다.",
+      "channelId": "UCgU4DYzckpvupKGfnkJxmxg",
+      "channelTitle": "골프싱글로 가는 길TV",
+      "thumbnail": "https://i.ytimg.com/vi/mg7JVx-X5NA/hqdefault.jpg",
+      "publishedAt": "2026-11-26T12:51:11Z",
+      "durationSeconds": 1990,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "JG5uiAB8t1Y",
+      "url": "https://www.youtube.com/watch?v=JG5uiAB8t1Y",
+      "title": "[AI드라마] 황태자가 나를 버린 밤, 17년을 기다린 남자가 청혼했다 | 나는 위험한 남부대공을 가졌다 1~10화 몰아보기",
+      "description": "“오래 기다렸소.”\n\n황태자가 모두 앞에서 약혼을 깬 그날 밤, 남부대공 카엘 발렌티스는 세레나 로웰 앞에 무릎을 꿇는다. 세레나는 그의 청혼을 받아들인다. 그가 얼마나 오래 자신을 기다렸는지도 모른 채.\n\n남부의 태양제에선 가면을 쓴 황태자가 다시 세레나에게 다가온다. 결혼식을 앞두고 세레나의 손에 들어온 건 일곱 살 카엘의 스케치북 한 권. 황태자 앞에서도 당당하던 대공이 그 책을 펼치려는 세레나에게 애원한다.\n\n“제발요. 이건 진짜 안 돼요.”\n\n🌹 《나는 위험한 남부대공을 가졌다》 1~10화 몰아보기\n🎤 10화가 끝나면 카엘의 스페셜 인터뷰가 이어집니다.\n\n⏱ 챕터\n00:00 1화 · 버림받은 밤의 청혼\n03:05 2화 · 하룻밤만 묵어 주세요\n06:30 3화 · 착한 아이 대공님\n10:55 4화 · 로웰 영지를 건 거래\n14:33 5화 · 남부로 가는 길\n17:13 6화 · 태양제의 밤\n19:18 7화 · 비 오는 밤\n22:52 8화 · 분수 앞의 아이\n26:23 9화 · 하객 명단 전쟁\n29:14 10화 · 카엘의 스케치북\n33:07 보너스 · 카엘 스페셜 인터뷰\n\n🌐 자막 · 한국어 · English · 简体中文 · 繁體中文 · 日本語 · Español · Русский · Română\n\n💬 여러분은 어느 장면에서 카엘의 첫사랑을 눈치채셨나요?\n\n이 영상은 AI로 제작한 창작 드라마입니다.\n\n#로맨스판타지 #드라마몰아보기 #AI드라마 #로판 #로판몰아보기 #로맨스드라마 #남부대공 #첫사랑 #짝사랑 #순정남 #파혼 #청혼 #나는위험한남부대공을가졌다 #FantasyRomance\n\n#DramaIA #ConseguíAlPeligrosoGranDuqueDelSur #RomanceFantasía #Romantasy #GranDuque #AIdrama\n#로맨스판타지 #로판 #AI드라마 #웹드라마 #남부대공 #시어머니 #며느리사랑 #첫사랑 #순애 #시대극 #숏드라마\n#AIドラマ #ロマンスファンタジー #初恋 #AI短剧 #浪漫奇幻 #初恋 #ИИдорама #романтическоефэнтези #dramăAI #fantasyromantic",
+      "channelId": "UCoAorJFWWCjy7rtsykLfVHg",
+      "channelTitle": "봄잼",
+      "thumbnail": "https://i.ytimg.com/vi/JG5uiAB8t1Y/hqdefault.jpg",
+      "publishedAt": "2026-11-26T12:45:35Z",
+      "durationSeconds": 2091,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "qSMLxjnnG-A",
+      "url": "https://www.youtube.com/watch?v=qSMLxjnnG-A",
+      "title": "[사위의 심판 1~4화 몰아보기] 무시당하던 둘째사위, 조폭들 앞에서 정체를 드러내다 | 참교육 | AI드라마",
+      "description": "서울 한복판의 고급 한정식집 '오복', 장모의 환갑잔치가 한창인 그곳.\n앞치마를 두른 채 묵묵히 구박을 견디는 둘째 사위, 도윤.\n말수도 적고 표정 변화도 없이, 그저 손님상을 나르던 평범한 데릴사위였다.\n\n새벽부터 만든 쑥떡은 버려지고\n축의금 도둑 누명까지 뒤집어쓴 도윤.\n멱살이 잡히고 뺨까지 맞지만, 그는 묵묵히 버틴다.\n\n하지만 사채 조직이 잔치판에 들이닥친 순간,\n조용하던 그의 눈빛이 달라진다.\n\n아무도 몰랐다.\n그가 한때, 전국체전 킥복싱 금메달리스트였다는 것을.\n\n\"그 손, 놓으시죠.\"\n한마디와 함께 시작되는 일방적인 제압.\n쓰러지는 조직원들, 그리고 모두가 묻는다 — \"너, 대체 뭐야?\"\n\n\"이 집 사위입니다.\"\n\n무시당하던 데릴사위는, 그렇게 전설로 돌아왔다.\n\n━━━━━━━━━━━━━━━\n▶ 다음 화도 기대해 주세요.\n▶ 구독과 좋아요는 다음 이야기를 만드는 큰 힘이 됩니다.\n\n※ 본 영상은 AI로 제작된 창작 드라마이며, 등장하는 인물·단체·사건은 모두 허구입니다.\n\n#참교육 #액션드라마 #액션 #단편드라마 #ai드라마 #사이다 #조폭 #조폭참교육 #웹드라마 #복수극 #정의구현 #단편영화 #aivideo #숨은재벌 #한국드라마 #시니어드라마",
+      "channelId": "UC75kuJmIE-UMbDtweSYIuRg",
+      "channelTitle": "악연의 끝",
+      "thumbnail": "https://i.ytimg.com/vi/qSMLxjnnG-A/hqdefault.jpg",
+      "publishedAt": "2026-11-23T02:00:29Z",
+      "durationSeconds": 2174,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ZrG-zk87P2M",
+      "url": "https://www.youtube.com/watch?v=ZrG-zk87P2M",
+      "title": "영화 드라마 쇼츠 제작을 위한 프리미어 편집 기초강의",
+      "description": "단톡방에 들어오시면 영상에 나온 모든 자료와 쇼츠랩 14일 사용권을 드립니다\n쇼츠랩 단톡방 https://open.kakao.com/o/gFkTzlpi\n쇼츠랩 https://shortslab.io\n\n00:00 프리미어 란?\n02:24 프로젝트 생성과 한영 병기모드\n03:59 최적화 세팅\n08:35 작업영역 설정\n13:30 시퀀스 생성\n15:34 트랙과 레이어\n18:04 단축키 세팅\n23:15 추가 기본키\n31:42 인디케이터와 화면조절\n34:27 자주 물어보는 질문\n36:36 텍스트 속성\n38:47 효과 컨트롤과 키프레임 애니메이션\n44:19 루미트리 컬러\n48:04 자주쓰는 편집 효과 - 가우시안 블러, 모자이크, 자르기\n55:00 카메라 효과\n58:47 화면전환(트랜지션)과 모션 프리셋\n01:03:34 효과음\n01:04:52 내보내기 인코딩\n01:06:50 기타 꿀팁들\n\n#프리미어 #프리미어편집 #영드짜 #영화쇼츠 #드라마쇼츠 #쇼츠랩 #ai숏드라마",
+      "channelId": "UC1XyaiXRyu7qTQyCJXT45fQ",
+      "channelTitle": "이슨 : 영화·드라마 쇼츠로 월급 버는 법",
+      "thumbnail": "https://i.ytimg.com/vi/ZrG-zk87P2M/hqdefault.jpg",
+      "publishedAt": "2026-11-18T12:52:47Z",
+      "durationSeconds": 4432,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "g4SyAMtn7A0",
+      "url": "https://www.youtube.com/watch?v=g4SyAMtn7A0",
+      "title": "비어있는링 #프로레슬링 #단편영화 #시네마틱 #AI영화 #드라마 #현실극",
+      "description": "\"아, 이제 몸이 닿지 않는구나.\"\n\n15년간 지방 인디 단체를 전전하던 프로레슬러 '헤비 베어', 강성태.\n관객 서른 명 남짓한 체육관에서 마지막 경기를 치르고 조용히 링을 내려왔다.\n\n화려한 은퇴식도, 뜨거운 환호도 없었다.\n그에게 남은 건 만성 무릎 관절염과 목 디스크,\n그리고 구석에 던져둔 땀 냄새 나는 레슬링 부츠뿐.\n\n이제 그는 1톤 탑차를 몰며 누군가 쓰다 버린 중고 가전과 가구를 나른다.\n링 위에서 턴버클을 오르던 거대한 체구는 \n이제 계단을 오르며 냉장고의 무게를 견딘다.\n\n거창한 깨달음도, 극적인 반전도 없는 \n어느 이름 없는 인디 레슬러의 무덤덤하고 쓸쓸한 삶의 기록.\n\n#단편영화 #오디오드라마 #시네마틱 #현실극 #인생드라마 #감성드라마 #잔잔한영화",
+      "channelId": "UClhhuncmr90VppyPbIac41A",
+      "channelTitle": "주렁주렁할머니",
+      "thumbnail": "https://i.ytimg.com/vi/g4SyAMtn7A0/hqdefault.jpg",
+      "publishedAt": "2026-09-01T21:23:58Z",
+      "durationSeconds": 2131,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "VKwK-vwmKL8",
+      "url": "https://www.youtube.com/watch?v=VKwK-vwmKL8",
+      "title": "여진 토멸 │ 고려의 여진 정벌, 전설이 된 척준경의 마지막 활약. AI 단편 사극 영화",
+      "description": "척준경! 고려사를 넘어 한국사 최고의 소드마스터를 논할때 빠지지 않는 그 이름. 그러나 척준경이 등장한 사극은 2026년 기준 아예 없다시피 합니다. 뿐만 아니라 1107년부터 1109년까지 이어진 고려의 여진 정벌 역시 영상으로 다뤄진 사례가 거의 없습니다.\n\n하여 많은 상상력과 각색을 가미하여, 1109년 공험진 전투와 갈라수 전투에서 고려군과 여진군이 벌인 대규모 전투, 그리고 갈라수 전투 패전 후 절체절명의 위기에 처한 고려를 구하기 위해 척준경과 결사대가 여진족과 벌인 처절한 사투를 58분에 걸친 긴 영상으로 제작했습니다.\n\n그동안 제가 만든 모든 영상을 통틀어 가장 많은 각색을 가했습니다. 척준경과 사묘아리는 실제로 대면한 적조차 없었을 것으로 추측됩니다. 또한 여진족을 묘사함에 있어서, 그들이 훗날 세운 대제국 금나라의 요소를 다수 차용했습니다. 이 영상은 근본적으로 상상에 기반한 것으로, 실제 역사적 사실과는 무관합니다. \n\n이 영상 속에는 실제로 촬영된 분량이 하나도 없으며, 처음부터 끝까지 모든 인물, 대사, 액션은 전부 AI를 이용해 제작된 가상의 허구입니다. 유튜브 커뮤니티 가이드라인을 엄격하게 준수하기 위해, 몇몇 전투씬에서 시각적 충격을 줄 수 있는 모든 찰나의 장면에는 의도적으로 강력한 블러(Blur) 처리 및 심도(아웃포커싱) 저하 효과를 적용하였습니다. 노골적이거나 잔혹한 신체 훼손을 묘사하지 않았습니다.\n\n이 영상은 어떠한 형태의 폭력도 조장하거나 미화하지 않습니다. 고려의 여진 정벌과 척준경의 활약을 보여줄 목적으로 제작된 가상의 역사 단편 극영화입니다.\n\nThere is no live-action footage in this video. From start to finish, all characters, dialogues, and action sequences are entirely fictional and generated through Artificial Intelligence (AI). To strictly comply with YouTube's Community Guidelines, intentional and heavy blur and shallow depth-of-field (out-of-focus) effects have been applied to any fleeting moments during battle scenes that might cause visual distress. The video does not depict any explicit gore or brutal bodily mutilation.",
+      "channelId": "UC93JCTpuG9K4E86qUkMY1XA",
+      "channelTitle": "쇠꼬비 검프 ",
+      "thumbnail": "https://i.ytimg.com/vi/VKwK-vwmKL8/hqdefault.jpg",
+      "publishedAt": "2026-08-29T08:00:27Z",
+      "durationSeconds": 3535,
+      "matchedKeywords": [
+        "AI 드라마 영화"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-27T06:33:03.648Z",
+      "lastSeenAt": "2026-11-27T06:33:03.648Z",
+      "lastVerifiedAt": "2026-11-27T06:33:03.648Z",
       "unavailableAt": null
     }
   ]
