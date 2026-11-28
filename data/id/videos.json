@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:31.880Z",
+  "generatedAt": "2026-11-28T06:08:25.276Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -359,7 +359,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -397,7 +397,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:21.548Z",
       "lastSeenAt": "2026-10-15T10:29:21.548Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1272,7 +1272,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:15.486Z",
       "lastSeenAt": "2026-10-27T03:34:15.486Z",
-      "lastVerifiedAt": "2026-11-26T06:42:21.580Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1291,7 +1291,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:42.137Z",
       "lastSeenAt": "2026-10-28T03:50:42.137Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1386,7 +1386,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:04.947Z",
       "lastSeenAt": "2026-10-30T04:13:04.947Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1424,7 +1424,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1500,7 +1500,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:55:06.655Z",
       "lastSeenAt": "2026-10-31T03:55:06.655Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1709,7 +1709,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-26T06:42:21.580Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1728,7 +1728,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-26T06:42:21.580Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1766,7 +1766,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:06.800Z",
       "lastSeenAt": "2026-11-03T05:12:06.800Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1842,7 +1842,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:28.303Z",
       "lastSeenAt": "2026-11-05T04:57:28.303Z",
-      "lastVerifiedAt": "2026-11-24T08:13:39.953Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1900,7 +1900,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:57:09.559Z",
       "lastSeenAt": "2026-11-06T04:57:09.559Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -1957,7 +1957,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:26.698Z",
       "lastSeenAt": "2026-11-07T04:29:26.698Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2052,7 +2052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2071,7 +2071,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2090,7 +2090,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:29:30.054Z",
       "lastSeenAt": "2026-11-09T04:29:30.054Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2242,7 +2242,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2280,7 +2280,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:14.482Z",
       "lastSeenAt": "2026-11-12T05:38:14.482Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2375,7 +2375,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:42.463Z",
       "lastSeenAt": "2026-11-14T04:48:42.463Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2432,7 +2432,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:11.055Z",
       "lastSeenAt": "2026-11-15T04:40:11.055Z",
-      "lastVerifiedAt": "2026-11-23T05:35:48.152Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2451,7 +2451,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2470,7 +2470,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2489,7 +2489,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:58.937Z",
       "lastSeenAt": "2026-11-16T04:36:58.937Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2565,7 +2565,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:23:02.444Z",
       "lastSeenAt": "2026-11-17T06:23:02.444Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2641,7 +2641,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:56.755Z",
       "lastSeenAt": "2026-11-18T05:47:56.755Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2717,7 +2717,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:54.343Z",
       "lastSeenAt": "2026-11-19T05:46:54.343Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2756,7 +2756,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:50.673Z",
       "lastSeenAt": "2026-11-20T05:35:50.673Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -2966,7 +2966,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:56.138Z",
       "lastSeenAt": "2026-11-22T04:54:56.138Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3023,7 +3023,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3048,7 +3048,7 @@
     {
       "videoId": "cy11MN9eM_U",
       "url": "https://www.youtube.com/watch?v=cy11MN9eM_U",
-      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 2 #romance #drama #ai",
+      "title": "I Married a Broken Soldier 2 | COMPLETE DRAMA | #romance #drama #ai",
       "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
       "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
       "channelTitle": "Ai Drama House",
@@ -3061,7 +3061,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3077,11 +3077,11 @@
       "matchedKeywords": [
         "film drama AI lengkap"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-23T05:35:48.152Z",
       "lastSeenAt": "2026-11-23T05:35:48.152Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
+      "unavailableAt": "2026-11-28T06:08:25.276Z"
     },
     {
       "videoId": "pDUYcYswOB0",
@@ -3137,7 +3137,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:39.953Z",
       "lastSeenAt": "2026-11-24T08:13:39.953Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3156,7 +3156,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:21.580Z",
       "lastSeenAt": "2026-11-26T06:42:21.580Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3175,7 +3175,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:21.580Z",
       "lastSeenAt": "2026-11-26T06:42:21.580Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3232,7 +3232,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:21.580Z",
       "lastSeenAt": "2026-11-26T06:42:21.580Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3270,7 +3270,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:21.580Z",
       "lastSeenAt": "2026-11-26T06:42:21.580Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3289,7 +3289,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:31.880Z",
       "lastSeenAt": "2026-11-27T06:33:31.880Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3308,7 +3308,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:31.880Z",
       "lastSeenAt": "2026-11-27T06:33:31.880Z",
-      "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     },
     {
@@ -3328,6 +3328,44 @@
       "discoveredAt": "2026-11-27T06:33:31.880Z",
       "lastSeenAt": "2026-11-27T06:33:31.880Z",
       "lastVerifiedAt": "2026-11-27T06:33:31.880Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ig3KDdNNp48",
+      "url": "https://www.youtube.com/watch?v=Ig3KDdNNp48",
+      "title": "MISTERI ABAH MIRANTA (FULL MOVIE) - Teror Nyekaw Yang Menghantui Satu Kampung | Film Horror Terbaru",
+      "description": "Film ini HANYA HIBURAN SEMATA dan dibuat sepenuhnya menggunakan teknologi kecerdasan buatan (AI). Seluruh tokoh, nama, tempat, dan alur cerita di dalamnya adalah fiktif. Apabila ada kesamaan nama atau kejadian, hal tersebut murni ketidaksengajaan dan tidak bermaksud menyinggung pihak mana pun.\n\nPRODUKSI : BANTUT CREATIVE\n\nDukung terus karya perdana kami dengan cara LIKE, KOMEN bagian paling menyeramkan menurut kalian, dan SUBSCRIBE agar tidak ketinggalan film horor terbaru berikutnya!\n\n#MisteriAbahMiranta #FilmHororIndonesia #FilmHororAI #AIHorror #FilmPendekHoror",
+      "channelId": "UC6OsFFGwGneyMDqtf27-bmQ",
+      "channelTitle": "Bantut Creative",
+      "thumbnail": "https://i.ytimg.com/vi/Ig3KDdNNp48/hqdefault.jpg",
+      "publishedAt": "2026-11-27T08:30:11Z",
+      "durationSeconds": 2249,
+      "matchedKeywords": [
+        "film kecerdasan buatan full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:25.276Z",
+      "lastSeenAt": "2026-11-28T06:08:25.276Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ax4MMxbob30",
+      "url": "https://www.youtube.com/watch?v=ax4MMxbob30",
+      "title": "CorHearts: Between Hate & Love - Episode 14 | AI Drama Korea",
+      "description": "💌✨ CORTIS × Hearts2Hearts ✨💌\n\nCorHearts: Between Hate & Love - Episode 14 | AI Drama Korea\n\nThis is purely a fictional drama/AU made for fun and storytelling. None of the events or portrayals are real or connected to the actual artists. Thank you for watching and keeping the comment section respectful!\n\nVideo ini merupakan fictional story yang dibuat untuk hiburan. Cerita, hubungan antar karakter, dialog, maupun kejadian di dalam video sepenuhnya fiksi dan tidak menggambarkan kehidupan pribadi, hubungan nyata, atau kejadian sebenarnya yang melibatkan member.\n\n⚠️ Disclaimer\nPenggunaan nama/wajah idol dalam video hanya sebagai referensi untuk membangun karakter dalam cerita fiksi. Mohon tidak menganggap alur atau pairing dalam video ini sebagai fakta.\n\nVideo ini dibuat dengan bantuan teknologi AI. Mohon maaf apabila masih terdapat hasil AI yang kurang sempurna, seperti ekspresi wajah, gerakan, lip-sync, detail visual, transisi, atau beberapa bagian yang mungkin terlihat sedikit aneh.\n\nTerima kasih sudah menonton dan harap bijak dalam berkomentar ✨\n\n#Cortis #Hearts2Hearts #하츠투하츠 #Kpop #KDrama #KDramaEdit #AIVideo #AIContent #FYP #ForYou #Trending #Viral #KpopFYP #KpopStan #GG #BoyGroup #GirlGroup #ShortDrama #DramaKorea",
+      "channelId": "UCwJ6cHiWEur3J5k8cv52i-w",
+      "channelTitle": "Aqilah Rush",
+      "thumbnail": "https://i.ytimg.com/vi/ax4MMxbob30/hqdefault.jpg",
+      "publishedAt": "2026-11-27T15:57:53Z",
+      "durationSeconds": 2144,
+      "matchedKeywords": [
+        "film drama AI lengkap"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:25.276Z",
+      "lastSeenAt": "2026-11-28T06:08:25.276Z",
+      "lastVerifiedAt": "2026-11-28T06:08:25.276Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:11.774Z",
+  "generatedAt": "2026-11-28T06:08:02.928Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -473,7 +473,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -531,7 +531,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -589,7 +589,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -608,7 +608,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:06.517Z",
       "lastSeenAt": "2026-10-15T10:29:06.517Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -821,7 +821,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-11-26T06:42:00.485Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -859,7 +859,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:20.401Z",
       "lastSeenAt": "2026-10-17T02:51:20.401Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -1221,7 +1221,7 @@
       "status": "available",
       "discoveredAt": "2026-10-18T02:52:50.171Z",
       "lastSeenAt": "2026-10-18T02:52:50.171Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -1393,7 +1393,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:46.510Z",
       "lastSeenAt": "2026-10-19T03:05:46.510Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -1528,7 +1528,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:11.222Z",
       "lastSeenAt": "2026-10-22T03:08:11.222Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -1739,7 +1739,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:20.938Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -1835,7 +1835,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:12:44.605Z",
       "lastSeenAt": "2026-10-30T04:12:44.605Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -2254,7 +2254,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:42.638Z",
       "lastSeenAt": "2026-11-03T05:11:42.638Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -2388,7 +2388,7 @@
       "status": "available",
       "discoveredAt": "2026-11-06T04:56:46.402Z",
       "lastSeenAt": "2026-11-06T04:56:46.402Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -2711,7 +2711,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:24.224Z",
       "lastSeenAt": "2026-11-13T04:54:24.224Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -2807,7 +2807,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:47.715Z",
       "lastSeenAt": "2026-11-15T04:39:47.715Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -2883,7 +2883,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:34.943Z",
       "lastSeenAt": "2026-11-16T04:36:34.943Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3377,7 +3377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3397,7 +3397,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3454,7 +3454,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:58.859Z",
       "lastSeenAt": "2026-11-21T05:28:58.859Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3511,7 +3511,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:31.346Z",
       "lastSeenAt": "2026-11-22T04:54:31.346Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3549,7 +3549,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:25.216Z",
       "lastSeenAt": "2026-11-23T05:35:25.216Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3568,7 +3568,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3663,7 +3663,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:16.516Z",
       "lastSeenAt": "2026-11-24T08:13:16.516Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3682,7 +3682,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:00.485Z",
       "lastSeenAt": "2026-11-26T06:42:00.485Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3701,7 +3701,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:00.485Z",
       "lastSeenAt": "2026-11-26T06:42:00.485Z",
-      "lastVerifiedAt": "2026-11-26T06:42:00.485Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3720,7 +3720,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:00.485Z",
       "lastSeenAt": "2026-11-26T06:42:00.485Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3739,7 +3739,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:00.485Z",
       "lastSeenAt": "2026-11-26T06:42:00.485Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     },
     {
@@ -3777,7 +3777,45 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:11.774Z",
       "lastSeenAt": "2026-11-27T06:33:11.774Z",
-      "lastVerifiedAt": "2026-11-27T06:33:11.774Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "HT2ygV5_zzo",
+      "url": "https://www.youtube.com/watch?v=HT2ygV5_zzo",
+      "title": "[FULL MOVIE] CODENAME J | Season 2 - 통합본 #몰아보기  #AI드라마 #aidrama",
+      "description": "MOISTEN.FILM Original Series\nCODENAME J | Season 2 - Full Movie\n-\n본 영상은 AI를 활용하여 제작되었습니다.\n영상에 등장하는 모든 인물, 사건, 장소 및 단체는 허구이며 실제와 무관합니다.\n-\nThis video was created using AI.\nAll characters, events, settings, and groups depicted are entirely fictional.\n-\nInstagram\nSeol Hana : https://www.instagram.com/seol_one_\nMoisten.film : https://www.instagram.com/moisten_film\n-\n#CODENAMEJ #코드네임J #MOISTENFILM #AIdrama #KoreanNoir #통합본",
+      "channelId": "UCSudvLWMmjwcxCjkyEACTcA",
+      "channelTitle": "MoistenAI",
+      "thumbnail": "https://i.ytimg.com/vi/HT2ygV5_zzo/hqdefault.jpg",
+      "publishedAt": "2026-11-27T09:41:59Z",
+      "durationSeconds": 3895,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:02.928Z",
+      "lastSeenAt": "2026-11-28T06:08:02.928Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9XCzzbrXjQc",
+      "url": "https://www.youtube.com/watch?v=9XCzzbrXjQc",
+      "title": "《有谁共鸣》第二十二章  中年同性情感电影",
+      "description": "《有誰共鳴》是一部以中国中年男性情感关系为核心的剧情电影。\n\n本视频为全片第二十二章，并非完整版。\n\n本片为虚构作品，人物及故事情节均为虚构。\n影片视觉内容使用生成式 AI 技术参与制作。\n\nOriginal Audio： 中文 / Mandarin Chinese\n\nAvailable Subtitles：\n\n简体中文 / Simplified Chinese\n\n繁體中文 / Traditional Chinese\n\nEnglish\n\n日本語 / Japanese\n\n한국어 / Korean\n\nBahasa Melayu / Malay\n\nภาษาไทย / Thai\n\nBahasa Indonesia / Indonesian\n\nEspañol / Spanish\n\nPortuguês (Brasil) / Brazilian Portuguese\n\nČeština / Czech\n\nالعربية / Arabic\n\n【正版频道声明 / Official Channel Notice】\n\n本频道为《有誰共鳴》影视改编作品的正式发布频道。\n\n未经授权，请勿搬运、重新上传本频道制作的影片，或冒用本频道身份发布相关内容。\n\nThis is the official release channel for this screen adaptation of \"有誰共鳴\". Unauthorized reuploads, redistribution, or channel impersonation are not permitted.\n\n感谢每一位观众的观看与支持。\n\n如果你喜欢这个故事，欢迎点赞、评论、订阅频道，继续关注王建川与刘毅的故事。\n\n#有誰共鳴 #王建川 #劉毅 #AI電影 #ChineseDrama #BLDrama #BearRomance",
+      "channelId": "UCi7VLxGpKPL8oM7OUP6743g",
+      "channelTitle": "Bobby-bear-H",
+      "thumbnail": "https://i.ytimg.com/vi/9XCzzbrXjQc/hqdefault.jpg",
+      "publishedAt": "2026-11-25T17:30:59Z",
+      "durationSeconds": 2615,
+      "matchedKeywords": [
+        "人工智能 剧情电影"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:02.928Z",
+      "lastSeenAt": "2026-11-28T06:08:02.928Z",
+      "lastVerifiedAt": "2026-11-28T06:08:02.928Z",
       "unavailableAt": null
     }
   ]

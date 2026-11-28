@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:32:58.729Z",
+  "generatedAt": "2026-11-28T06:07:47.379Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -248,7 +248,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -347,7 +347,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -366,7 +366,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:59.257Z",
       "lastSeenAt": "2026-10-15T10:28:59.257Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -919,7 +919,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:32.912Z",
       "lastSeenAt": "2026-10-19T03:05:32.912Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -957,7 +957,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:34.393Z",
       "lastSeenAt": "2026-10-20T03:14:34.393Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -1034,7 +1034,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:32.634Z",
       "lastSeenAt": "2026-10-21T03:09:32.634Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -1628,7 +1628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -1647,7 +1647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:31.096Z",
       "lastSeenAt": "2026-10-31T03:54:31.096Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -1780,7 +1780,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:38.026Z",
       "lastSeenAt": "2026-11-01T04:08:38.026Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -1971,7 +1971,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:41:48.480Z",
       "lastSeenAt": "2026-11-04T04:41:48.480Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2067,7 +2067,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:56:53.073Z",
       "lastSeenAt": "2026-11-05T04:56:53.073Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2296,7 +2296,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:51.780Z",
       "lastSeenAt": "2026-11-09T04:28:51.780Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2467,7 +2467,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:25.125Z",
       "lastSeenAt": "2026-11-11T04:32:25.125Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2505,7 +2505,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-16T04:36:20.530Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2524,7 +2524,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:37:38.548Z",
       "lastSeenAt": "2026-11-12T05:37:38.548Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2563,7 +2563,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2582,7 +2582,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2601,7 +2601,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2677,7 +2677,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2696,7 +2696,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-13T04:54:08.050Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2734,7 +2734,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2772,7 +2772,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:08.050Z",
       "lastSeenAt": "2026-11-13T04:54:08.050Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2849,7 +2849,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:48:05.232Z",
       "lastSeenAt": "2026-11-14T04:48:05.232Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2926,7 +2926,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -2985,7 +2985,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3005,7 +3005,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:20.530Z",
       "lastSeenAt": "2026-11-16T04:36:20.530Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3082,7 +3082,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:26.029Z",
       "lastSeenAt": "2026-11-17T06:22:26.029Z",
-      "lastVerifiedAt": "2026-11-26T06:41:47.111Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3110,7 +3110,7 @@
       "title": "Ramayan Full Movie Hindi | Complete AI Movie | Shri Ram vs Ravan | Full Story (4K)",
       "description": "🎬 Ramayan Full Movie (Hindi)\n\n📺 Ramayan Part 1:\nhttps://youtu.be/Z8xn18AjJAo?si=OCcPqJ9q86dyIdM8\n\n📺 Ramayan Part 2:\nhttps://youtu.be/C3BxGH9JnOs?si=RWhEJE4gkEOXF_op\n\nयह पूरी Ramayan AI Movie है, जिसमें श्रीराम की यात्रा, लंका युद्ध और अंतिम विजय तक की पूरी कहानी सिनेमैटिक रूप में दिखाई गई है।\n\nअगर वीडियो पसंद आए तो Like, Share, Comment और Channel Subscribe ज़रूर करें।\n\n🙏 धन्यवाद!\n\n#Ramayan #ShriRam #Hanuman #Ravan #AIMovie #RamayanFullMovie",
       "channelId": "UCFAR3sKUQkHT6n7nZNTFnig",
-      "channelTitle": "Masti Bhari Duniya",
+      "channelTitle": "Masti Wali Duniya",
       "thumbnail": "https://i.ytimg.com/vi/RbSQcjeibMo/hqdefault.jpg",
       "publishedAt": "2026-11-17T09:00:30Z",
       "durationSeconds": 1951,
@@ -3158,7 +3158,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:19.658Z",
       "lastSeenAt": "2026-11-19T05:46:19.658Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3197,7 +3197,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:19.658Z",
       "lastSeenAt": "2026-11-19T05:46:19.658Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3236,7 +3236,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:14.496Z",
       "lastSeenAt": "2026-11-20T05:35:14.496Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3332,7 +3332,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:16.649Z",
       "lastSeenAt": "2026-11-22T04:54:16.649Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3389,7 +3389,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:16.649Z",
       "lastSeenAt": "2026-11-22T04:54:16.649Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3465,7 +3465,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:12.441Z",
       "lastSeenAt": "2026-11-23T05:35:12.441Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3484,7 +3484,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:12.441Z",
       "lastSeenAt": "2026-11-23T05:35:12.441Z",
-      "lastVerifiedAt": "2026-11-26T06:41:47.111Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3541,7 +3541,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:02.221Z",
       "lastSeenAt": "2026-11-24T08:13:02.221Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3561,7 +3561,7 @@
       "status": "available",
       "discoveredAt": "2026-11-25T06:50:35.961Z",
       "lastSeenAt": "2026-11-25T06:50:35.961Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3624,7 +3624,7 @@
     {
       "videoId": "cy11MN9eM_U",
       "url": "https://www.youtube.com/watch?v=cy11MN9eM_U",
-      "title": "I Married a Broken Soldier | COMPLETE DRAMA | Part 2 #romance #drama #ai",
+      "title": "I Married a Broken Soldier 2 | COMPLETE DRAMA | #romance #drama #ai",
       "description": "If you'd like to leave a tip: https://streamlabs.com/bedrotclips/tip\n\nCompletely optional, and watching, liking and sharing helps just as much. Thank you for being here ❤\n\nA woman chooses to marry a misunderstood, seemingly broken or penniless soldier/commoner to escape family pressure, social rejection, or forced arrangements. The soldier is actually a high-ranking noble or a Duke in disguise with hidden power, wealth, and secrets.\n\n #aimovie   #aistorytelling  #drama  #aidrama #dramaseries #ai #romantic",
       "channelId": "UC3aCQw9YsHW4KIgzhbqkdhA",
       "channelTitle": "Ai Drama House",
@@ -3637,7 +3637,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:58.729Z",
       "lastSeenAt": "2026-11-27T06:32:58.729Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     },
     {
@@ -3653,29 +3653,106 @@
       "matchedKeywords": [
         "AI drama movie hindi full"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-27T06:32:58.729Z",
       "lastSeenAt": "2026-11-27T06:32:58.729Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
+      "unavailableAt": "2026-11-28T06:07:47.379Z"
     },
     {
       "videoId": "LNlSWF7qvEE",
       "url": "https://www.youtube.com/watch?v=LNlSWF7qvEE",
-      "title": "Maa Ke Ilaaj Ke Liye Bana CEO Ka Pati, Kya Milega Saccha Pyaar? | Love Ki Century | Kuku TV",
+      "title": "Love Ki Century S1- Part 1 | Maa Ke Ilaaj Ke Liye Bana CEO Ka Pati, Kya Milega Saccha Pyar?| Kuku TV",
       "description": "Ek ruthless aur arrogant billionaire CEO ki zindagi mein tab bada twist aata hai jab uska fiancé use dhokha de deta hai. Gusse mein woh apni secretary ko turant ek naya groom dhoondhne ka order deti hai.\n\nSecretary ki nazar ek aise gareeb ladke par padti hai jise apni maa ke ilaaj ke liye paison ki sakht zaroorat hai. Secretary uske saamne ek deal rakhti hai — paison ke badle billionaire CEO se shaadi!\n\nEk taraf hai powerful aur arrogant CEO, toh doosri taraf hai ek simple aur kind-hearted ladka. Kya majboori mein hui yeh shaadi kabhi pyaar mein badal payegi?\n\nWatch this exciting love story filled with unexpected twists, drama, betrayal and romance!\n\n#billionaireceo  #contractmarriage  #poorboyrichgirl  #ceo  #lovestory  #unexpectedmarriage  #romanticdrama  #lovestorymovie  #microdrama  #hindidrama  #kukutv \n\nWatch this show only on Kuku TV: https://kukutv.onelink.me/wf2f/ifouu23r\n\n📲 Download the Kuku TV app:\n👉 Android: https://play.google.com/store/apps/details?id=com.kuku.tv\n👉 iOS: https://apps.apple.com/in/app/kuku-tv\n\nWatch unlimited short dramas, episodes, and exclusive content anytime!\n\n🌐 Follow Kuku TV:\n👉 Instagram: https://www.instagram.com/kukutv_india\n👉 Facebook: https://www.facebook.com/profile.php?id=61565957707276",
       "channelId": "UCBWz-Q6Lg6QjtUqnKZI01DQ",
       "channelTitle": "Kuku TV",
       "thumbnail": "https://i.ytimg.com/vi/LNlSWF7qvEE/hqdefault.jpg",
       "publishedAt": "2026-11-18T10:33:27Z",
-      "durationSeconds": 2506,
+      "durationSeconds": 2211,
       "matchedKeywords": [
-        "AI drama movie hindi full"
+        "AI drama movie hindi full",
+        "AI movie full hindi"
       ],
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:58.729Z",
       "lastSeenAt": "2026-11-27T06:32:58.729Z",
-      "lastVerifiedAt": "2026-11-27T06:32:58.729Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "X9MtbkQmNAo",
+      "url": "https://www.youtube.com/watch?v=X9MtbkQmNAo",
+      "title": "An AI Experiment Goes Too Far | AI BAD GIRL SCHOOL | Full Psychological Thriller Movie",
+      "description": "AI BAD GIRL SCHOOL | Full Psychological Thriller Movie\n\nTHEIR MINDS BECOME THE EXPERIMENT.\n\nA group of troubled young women. A mysterious teacher. An unconventional experiment involving artificial intelligence.\n\nJohn Mahler is a life development teacher who introduces artificial intelligence into his work with a group of troubled young women. But behind his attempts to transform their lives lies a man haunted by a failed relationship and profound loneliness.\n\nAs technology becomes increasingly intertwined with their personal struggles, unsettling questions emerge about trust, influence, emotional vulnerability, and the power of artificial intelligence over the human mind.\n\nAI BAD GIRL SCHOOL is a provocative psychological drama with contemporary thriller themes, exploring the uneasy intersection of human behavior, technology, and personal secrets.\n\nDirected by Jamie Grefe.\nStory by Gregory Hatanaka.\n\nStarring:\nDawna Lee Heising as Katherine\nLisa London\nJamie Grefe as John Mahler\nChris Spinelli as Bill Race\nFabrice Uzan as Tony\nKhrystyna Tsisaruk\nBruna Meijas as Nella\n\nProduced by Jamie Grefe, Gregory Hatanaka, Warren Hong, and Chris Spinelli.\nCinematography by Benny Tjandra.\n\nSubscribe to Cinema Epoch for more full-length thrillers, psychological dramas, and independent cinema!\n\nFOLLOW CINEMA EPOCH\n\nYouTube:\nhttps://www.youtube.com/c/cinemaepoch\n\nWebsite:\nhttps://www.cinemaepoch.com\n\nFacebook:\nhttps://www.facebook.com/cinemaepoch\n\nInstagram:\nhttps://www.instagram.com/cinemaepoch523\n\nTikTok:\nhttps://www.tiktok.com/@cinemaepoch523\n\nX:\nhttps://x.com/cinema_epoch\n\n#AIBadGirlSchool #PsychologicalThriller #ArtificialIntelligence #FullMovie #CinemaEpoch",
+      "channelId": "UCFE7ROruPkKyKtpk0u0-4NA",
+      "channelTitle": "Cinema Epoch",
+      "thumbnail": "https://i.ytimg.com/vi/X9MtbkQmNAo/hqdefault.jpg",
+      "publishedAt": "2026-11-18T02:47:21Z",
+      "durationSeconds": 4379,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:47.379Z",
+      "lastSeenAt": "2026-11-28T06:07:47.379Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "ofwzctJDWs4",
+      "url": "https://www.youtube.com/watch?v=ofwzctJDWs4",
+      "title": "EMPIRE OF LIVING CITIES | A World of Living Cities | Epic Fantasy | Full Movie | 4K",
+      "description": "🏰 One morning, the capital of the elves stood up on twelve stone legs and began to walk toward the edge of the world. Nobody knows why.\n\nIn the ancient kingdom of Avarenth, Ilyra, the youngest Lead Architect in history, reads a warning carved into the city's walls: \"The city must not return to where it was born.\" With only 9 days before the Alliance destroys Elarion's bridges, Ilyra and three scholars descend into the living foundations beneath the city. Down there they find hanging cities of bone, a hidden prototype garden, a crystal giant who calls one of them \"Father,\" and the forgotten truth of the Azhur, the builders who enslaved every city. As secrets about Ilyra's own bloodline surface and the team breaks apart, they must decide what should be freed and what must stay caged, before they learn what their world really is.\n\nThis feature-length AI fantasy film delivers colossal living architecture, walking cities, mythical creatures, survival with no weapons but wits, shocking twists and bright, breathtaking 4K visuals in an epic high-fantasy adventure.\n\nStory Timeline\n00:00 The Morning Elarion Stood Up\n15:00 Roots of the City\n25:00 The City of Bones\n35:00 The Prototype Garden\n45:00 The Designer's Hands\n55:00 The Signature\n1:05:00 The Heart Below the World\n1:15:00 The Mouth of the World\n\n⚠️ Disclaimer: This film is an experimental, AI-powered production. All visuals were generated shot-by-shot using advanced AI video tools, including Google’s new Veo 3.1 model and Google's new Nana Banana Pro model, combined with human story direction, editing, and sound design. The narrative, characters, and world are fictional, and any resemblance to real people, places, or events is purely coincidental. This movie is intended for entertainment and creative exploration of what AI-assisted filmmaking can do.\n\n🔔 Subscribe to Northlight Cinema for more long-form AI movies, epic fantasy worlds, and cinematic 4K full-length films every week. Turn on notifications so you never miss a new release.\n\nHashtags\n#EmpireOfLivingCities #AIFilm #AIMovie #FantasyMovie #EpicFantasy #FullMovie #FullMovie4K #4KMovie #AdventureMovie #AIFantasyMovie #EpicFantasyMovie #FantasyFullMovie #HighFantasy #ElfMovie #WalkingCity #CinematicFantasy #NorthlightCinema",
+      "channelId": "UCIuJwitWDu4RSsAF7_K2U1g",
+      "channelTitle": "Northlight Cinema",
+      "thumbnail": "https://i.ytimg.com/vi/ofwzctJDWs4/hqdefault.jpg",
+      "publishedAt": "2026-11-15T10:55:16Z",
+      "durationSeconds": 4470,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:47.379Z",
+      "lastSeenAt": "2026-11-28T06:07:47.379Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "4GBkd-KRILQ",
+      "url": "https://www.youtube.com/watch?v=4GBkd-KRILQ",
+      "title": "Create Professional AI Movies Step by Step – Full Workflow LIVE!",
+      "description": "DESCRIPTION\n\n Welcome to the ultimate AI Movie Making Masterclass LIVE!\n\nIn this livestream, I'm going to show you the complete process of creating amazing AI movies from scratch, even if you have no previous filmmaking experience.\n\nLearn how to turn your ideas into cinematic AI movies using artificial intelligence tools. From writing your movie story to generating realistic characters, creating cinematic scenes, animating images, adding AI voices, sound effects, background music, and editing everything into a professional movie.\n\n🔥 WHAT YOU WILL LEARN:\n\nHow to create movie stories and scripts using AI.\nHow to design consistent AI movie characters.\nHow to generate realistic cinematic AI images.\nHow to turn AI images into moving video scenes.\nHow to create AI voiceovers and dialogues.\nHow to add cinematic sound effects and music.\nHow to edit and combine scenes into a complete movie.\nHow to export and publish your finished AI movie.\n\nWhether you're a beginner, content creator, YouTuber, or aspiring filmmaker, this livestream will help you understand the complete AI filmmaking workflow.\n\nJoin the livestream, follow along, ask questions, and start creating your own AI movies!\n\nLIKE, SHARE & SUBSCRIBE for more AI filmmaking tutorials.\n\n#AIMovie #AIFilmmaking #AIVideoCreation #AITutorial #ArtificialIntelligence\n\nSEO KEYWORDS\n\nhow to create AI movies, AI movie making tutorial, how to make AI films, AI filmmaking for beginners, create movies with AI, AI video generation, cinematic AI videos, AI movie workflow, AI animation tutorial, AI character consistency, AI storytelling, AI voice generation, AI video editing, full AI movie creation process, make AI movies step by step.\n\nYOUTUBE TAGS\n\nAI movie, AI movies, AI filmmaking, AI movie making, AI film tutorial, how to create AI movies, AI video generator, AI video creation, AI filmmaking tutorial, AI animation, AI cinematic video, AI movie creator, AI storytelling, AI tools, AI voiceover, AI character consistency, filmmaking with AI, AI video editing, make movies with AI, AI movie masterclass, beginner AI tutorial, artificial intelligence, cinematic video creation.\n\n\n#FreeAITools #AIGenerator #AITools2026 #AITutorial #AIVideoGenerator #AIImageGenerator #FacelessContent #ContentCreation #thecorporationstack",
+      "channelId": "UCI2R2l5ZmbqqJLMONfF01Lg",
+      "channelTitle": "TheCorporationStack",
+      "thumbnail": "https://i.ytimg.com/vi/4GBkd-KRILQ/hqdefault.jpg",
+      "publishedAt": "2026-11-14T18:11:27Z",
+      "durationSeconds": 2446,
+      "matchedKeywords": [
+        "कृत्रिम बुद्धिमत्ता फिल्म पूरी"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:47.379Z",
+      "lastSeenAt": "2026-11-28T06:07:47.379Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "P4aw8Ef621Y",
+      "url": "https://www.youtube.com/watch?v=P4aw8Ef621Y",
+      "title": "Cheated in Russia, He Fell for a DRAGON Girl 🐉 | Hindi AI Movie | Action Romance",
+      "description": "Cheated in Russia, He Fell for a DRAGON Girl 🐉 | Hindi AI Movie | Action Romance | Barf Ki Dragon\n\nAn Indian boy is cheated in Russia by a broker and left alone in the snow. Two years later, he gets a job at a mountain lodge, where he falls in love with the boss's daughter Elena. But Elena is hiding a 1000-year-old secret - She is a DRAGON. This is Barf Ki Dragon, a Hindi AI Movie with Action, Romance, Comedy and Fantasy.\n\nIf you are searching for dragon girl movie hindi, indian boy in russia full movie, hindi AI film, dragon love story, barf ki dragon full movie, cheated in russia movie, then this full Hindi movie is for you.\n\n❄️ WHAT YOU WILL SEE IN THIS MOVIE:\n- Indian boy cheated in Russia, 2 saal ki struggle\n- Boss ki beti Elena se pyaar, chai wala moment\n- Dragon ka raaz, family secret, breakup\n- Dimitri ka hamla, mastikhor action, ladai shuru\n- Real fierce dragon vs villain, epic fight\n- India mein wapsi, Russian bahu, happy ending\n\n⏱️ CHAPTERS - BARF KI DRAGON:\n0:00 Hook - Wo Dragon Thi?\n0:10 Gaon Se Vidaai\n0:50 Moscow Aur Vikram Ka Dhokha\n2:00 Do Saal Ki Bhaag-Daud\n4:00 Boss Ke Lodge Tak\n5:00 Nayi Naukri Mili\n6:30 Pehli Mulaqaat\n8:00 Mastikhor Arjun\n9:00 Chai Wala Moment\n11:00 Barf Mein Masti\n13:00 Dance Aur Pehla Izhaar\n15:30 Pyaar Ka Iqraar\n17:00 Dragon Ka Raaz\n18:30 Arjun Ka Darr\n19:30 Rishta Tootna\n20:00 Dimitri Ka Hamla\n21:30 Arjun Ki Wapsi\n22:30 Mastikhor Action - Ladai Shuru\n23:30 Elena Ka Faisla\n24:00 Gaon Mein Wapsi - Russian Bahu\n\n🎬 CAST (AI Characters):\nArjun - Hero, Elena - Dragon Girl, Viktor Volkov - Boss, Dimitri - Villain, Vikram - Broker, Maa\n\n🗣️ HINGLISH MEIN:\nEk Hindustani ladka Russia mein dhokhe ka shikaar hota hai. Lodge mein usse boss ki beti Elena se pyaar ho jata hai, jo asal mein dragon bloodline se hai. Pyaar, darr, ladai aur wapsi se bhari ye Hindi AI Movie aakhir tak bandhe rakhegi!\n\n🤖 DISCLOSURE: This film was created using AI tools for visuals and voices. Story and script by the channel.\n\n👍 LIKE, SHARE aur SUBSCRIBE karo Cine Vibez ko, Part 2 ke liye.\n🔔 Bell ON karo taaki agla episode miss na ho.\n💬 Comment karo: Tumhara favourite scene kaunsa tha? Dragon reveal, chai wala moment ya ladai wala action?\n\n📱 Ye poori film mobile se banayi gayi hai. Agar achhi lagi to hum isse aur bhi behtar banane ki koshish karenge!\n\nSEARCH KEYWORDS: barf ki dragon, cheated in russia, dragon girl hindi movie, hindi AI movie, indian boy in russia, dragon love story, hindi full movie 2026, action romance fantasy, AI film hindi, dragon vs villain, russian dragon movie\n\n#BarfKiDragon #DragonGirl #HindiAIMovie #IndianBoyInRussia #CheatedInRussia #DragonMovie #HindiFullMovie #ActionRomance #AIFilm #CineVibez",
+      "channelId": "UCDX5LI024VVu0KX9v4BqHow",
+      "channelTitle": "CineVibez Status",
+      "thumbnail": "https://i.ytimg.com/vi/P4aw8Ef621Y/hqdefault.jpg",
+      "publishedAt": "2026-11-27T12:57:24Z",
+      "durationSeconds": 1857,
+      "matchedKeywords": [
+        "AI drama movie hindi full"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:47.379Z",
+      "lastSeenAt": "2026-11-28T06:07:47.379Z",
+      "lastVerifiedAt": "2026-11-28T06:07:47.379Z",
       "unavailableAt": null
     }
   ]

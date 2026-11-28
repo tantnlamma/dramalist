@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:17.780Z",
+  "generatedAt": "2026-11-28T06:08:10.471Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -93,7 +93,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -112,7 +112,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -151,7 +151,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:12.167Z",
       "lastSeenAt": "2026-10-15T10:29:12.167Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -420,7 +420,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:19.313Z",
       "lastSeenAt": "2026-10-22T03:08:19.313Z",
-      "lastVerifiedAt": "2026-11-26T06:42:07.588Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -496,7 +496,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:05.377Z",
       "lastSeenAt": "2026-10-24T03:08:05.377Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -516,7 +516,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:28.665Z",
       "lastSeenAt": "2026-10-28T03:50:28.665Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -630,7 +630,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:52.587Z",
       "lastSeenAt": "2026-10-31T03:54:52.587Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -650,7 +650,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -669,7 +669,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:01.631Z",
       "lastSeenAt": "2026-11-01T04:09:01.631Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -764,7 +764,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -784,7 +784,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:13.077Z",
       "lastSeenAt": "2026-11-07T04:29:13.077Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -841,7 +841,7 @@
       "status": "available",
       "discoveredAt": "2026-11-08T04:14:54.012Z",
       "lastSeenAt": "2026-11-08T04:14:54.012Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1069,7 +1069,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:40.479Z",
       "lastSeenAt": "2026-11-19T05:46:40.479Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1107,7 +1107,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:06.794Z",
       "lastSeenAt": "2026-11-21T05:29:06.794Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1145,7 +1145,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:39.786Z",
       "lastSeenAt": "2026-11-22T04:54:39.786Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1164,7 +1164,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:39.786Z",
       "lastSeenAt": "2026-11-22T04:54:39.786Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1183,13 +1183,13 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:32.596Z",
       "lastSeenAt": "2026-11-23T05:35:32.596Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
       "videoId": "1OXpGTQ9nAs",
       "url": "https://www.youtube.com/watch?v=1OXpGTQ9nAs",
-      "title": "SOBREVIVI 100 DIAS APÓS IA DOMINAR O BRASIL (FILME COMPLETO)",
+      "title": "APOCALIPSE DA IA: SOBREVIVENDO NO BRASIL DO DIA 1 AO DIA 100 (FILME COMPLETO!)",
       "description": "E se a inteligência artificial dominasse o Brasil? Imagine perder seu emprego, ter sua conta bancária bloqueada e precisar sobreviver em um mundo controlado por máquinas.\n\nNesta história de sobrevivência animada, acompanhe Lucas Almeida durante 100 dias em um Brasil distópico, onde conseguir comida, dinheiro e liberdade se tornou um desafio diário.\n\nUma aventura de suspense, ficção científica, sobrevivência e inteligência artificial, contada através de uma animação de bonecos palito.\n\nVocê conseguiria sobreviver nesse mundo?\n\nInscreva-se no Instinto Final para acompanhar novas histórias de sobrevivência, cenários apocalípticos e desafios extremos.\n\n🎬 Filme completo | História fictícia original | Animação em português.\n\n#Sobrevivência #InteligênciaArtificial #Apocalipse #Animação #100Dias",
       "channelId": "UC0_T0dtufppi7Lo84YIs_Cw",
       "channelTitle": "Instinto Sobrevivente",
@@ -1221,7 +1221,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:17.780Z",
       "lastSeenAt": "2026-11-27T06:33:17.780Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1240,7 +1240,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:17.780Z",
       "lastSeenAt": "2026-11-27T06:33:17.780Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     },
     {
@@ -1259,7 +1259,26 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:17.780Z",
       "lastSeenAt": "2026-11-27T06:33:17.780Z",
-      "lastVerifiedAt": "2026-11-27T06:33:17.780Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "39Qr5ZrW2ww",
+      "url": "https://www.youtube.com/watch?v=39Qr5ZrW2ww",
+      "title": "Doze Babás Desistiram Da Filha Do Milionário Viúvo, Até Que A Empregada Chegou... - FILME COMPLETO",
+      "description": "Doze babás em um ano. Nenhuma aguentou a pequena Sofia. 💜 Desde que perdeu a mãe, a menina de sete anos não obedece, não responde e não sorri — e o pai, o milionário viúvo Eduardo Vasconcelos, já não sabe mais o que fazer.\n\nAté que chega Rosa, a nova empregada da limpeza, vinda da Bahia, que canta enquanto passa pano e sabe uma coisa que ninguém naquela casa sabe: falar com as mãos. 🌻🤟\n\nNuma tarde, Eduardo passa pela porta do jardim de inverno e ouve um som que não escutava há três anos: a risada da filha. 😭💛\n\nMas a elegante tia Vera tem planos para Sofia, e um segredo escondido no bolso do casaco. Quando Rosa é proibida de chegar perto da menina, só uma voz pode contar a verdade. Assista até o final! 💛\n\n👉 Se inscreva no canal e ative o sininho para mais histórias de amor.\n\n⚠️ Esta é uma obra de ficção original. Personagens, imagens e vozes foram criados com inteligência artificial (geração de imagem e síntese de voz). Qualquer semelhança com pessoas reais é coincidência.\n\n#filmecompleto #historiadeamor #milionario #baba #empregada",
+      "channelId": "UCPDb5uOVwgMUwFI98WnLk_Q",
+      "channelTitle": "Júlia - Romances de Milionário",
+      "thumbnail": "https://i.ytimg.com/vi/39Qr5ZrW2ww/hqdefault.jpg",
+      "publishedAt": "2026-11-22T09:15:51Z",
+      "durationSeconds": 2505,
+      "matchedKeywords": [
+        "filme completo inteligência artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:10.471Z",
+      "lastSeenAt": "2026-11-28T06:08:10.471Z",
+      "lastVerifiedAt": "2026-11-28T06:08:10.471Z",
       "unavailableAt": null
     }
   ]

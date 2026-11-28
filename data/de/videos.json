@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:27.012Z",
+  "generatedAt": "2026-11-28T06:08:20.502Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -34,7 +34,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -53,7 +53,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -72,7 +72,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:17.706Z",
       "lastSeenAt": "2026-10-15T10:29:17.706Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -243,7 +243,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:36.832Z",
       "lastSeenAt": "2026-10-17T02:51:36.832Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -262,7 +262,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:28.750Z",
       "lastSeenAt": "2026-10-22T03:08:28.750Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -282,7 +282,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -301,7 +301,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:09.958Z",
       "lastSeenAt": "2026-10-26T03:02:09.958Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -320,7 +320,7 @@
       "status": "available",
       "discoveredAt": "2026-10-30T04:13:01.160Z",
       "lastSeenAt": "2026-10-30T04:13:01.160Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -339,7 +339,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:09:11.514Z",
       "lastSeenAt": "2026-11-01T04:09:11.514Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -377,7 +377,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -396,7 +396,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -415,7 +415,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:12:02.310Z",
       "lastSeenAt": "2026-11-03T05:12:02.310Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -472,7 +472,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:22.962Z",
       "lastSeenAt": "2026-11-04T04:42:22.962Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -491,7 +491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:46.471Z",
       "lastSeenAt": "2026-11-10T05:50:46.471Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -510,7 +510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -529,7 +529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:53.542Z",
       "lastSeenAt": "2026-11-16T04:36:53.542Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -548,7 +548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -567,7 +567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:58.355Z",
       "lastSeenAt": "2026-11-17T06:22:58.355Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -624,7 +624,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:45.838Z",
       "lastSeenAt": "2026-11-20T05:35:45.838Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     },
     {
@@ -662,7 +662,26 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:16.595Z",
       "lastSeenAt": "2026-11-21T05:29:16.595Z",
-      "lastVerifiedAt": "2026-11-27T06:33:27.012Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "xYRUHXTv4dk",
+      "url": "https://www.youtube.com/watch?v=xYRUHXTv4dk",
+      "title": "LIGHT SPEED – Ein Unfall macht ihn zum schnellsten Superhelden der Welt! (Sci-Fi | Action)",
+      "description": "🤠🔥 Klassische Western auf Deutsch in voller Länge – jetzt abonnieren: http://bit.ly/DracoAbo\n🔫🌵Ein verheerender Unfall verleiht einem Regierungsagenten unglaubliche Superkräfte: Er kann sich mit übermenschlicher Geschwindigkeit bewegen! Doch als ein mutierter Terrorist mit einem tödlichen Chemieanschlag droht, beginnt für den neuen Superhelden ein verzweifelter Wettlauf gegen die Zeit.\n\nLIGHT SPEED (Science-Fiction | Action | Superheldenfilm | Thriller)\nOriginaltitel: Lightspeed (auch bekannt als Stan Lee's Lightspeed)\nProduktionsland: USA\nErscheinungsjahr: 2006\nMitwirkende: Jason Connery, Nicole Eggert, Daniel Goddard, Lee Majors, Michael Flynn, K.C. Clyde\nRegie: Don E. FauntLeRoy\nFSK: Freigegeben ab 12 Jahren\n\nINHALTSANGABE:\nDer Regierungsagent Daniel Leight (Jason Connery) wird bei einem Einsatz gegen den gefährlichen Terroristen Python (Daniel Goddard) schwer verletzt. Durch eine außergewöhnliche Behandlung entwickelt er unglaubliche Kräfte und kann sich fortan mit übermenschlicher Geschwindigkeit bewegen. Als Superheld Lightspeed nimmt er den Kampf gegen Python auf, einen ehemaligen Wissenschaftler, der durch ein missglücktes Experiment zu einem gefährlichen Schlangenmenschen mutiert ist. Nun plant Python einen verheerenden Chemieanschlag auf Washington, D.C., der unzählige Menschenleben bedroht. Während die Zeit unerbittlich abläuft, muss Lightspeed seine neuen Fähigkeiten einsetzen, um seinen einstigen Freund aufzuhalten und eine Katastrophe zu verhindern.\n\n\n#Spielfilm #ganzerFilm #Western\n\nCOPYRIGHT: \nDie Lizenz zur Veröffentlichung dieses Films auf YouTube wurde ordnungsgemäß erworben. \n\nBei Fragen wenden Sie sich bitte an:  copyright.berlin@plaion.com \n\nPLAION PICTURES is a serious and legal video on demand company located in Berlin, Germany. We are holding proper license for all of our published movies. For any questions contact: copyright.berlin@plaion.com .\n\nHinweis nach Art. 50 Abs. 4 KI-VO: Vorschaubild mit Hilfe von KI generiert.",
+      "channelId": "UCHAE4BV0_nvubIyNuCrtg3A",
+      "channelTitle": "Draco - Actionfilme",
+      "thumbnail": "https://i.ytimg.com/vi/xYRUHXTv4dk/hqdefault.jpg",
+      "publishedAt": "2026-10-15T15:00:38Z",
+      "durationSeconds": 5046,
+      "matchedKeywords": [
+        "KI Science Fiction Film komplett"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:20.502Z",
+      "lastSeenAt": "2026-11-28T06:08:20.502Z",
+      "lastVerifiedAt": "2026-11-28T06:08:20.502Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:13.902Z",
+  "generatedAt": "2026-11-28T06:08:06.169Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -92,7 +92,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -149,7 +149,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:08.952Z",
       "lastSeenAt": "2026-10-15T10:29:08.952Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -283,7 +283,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:23.032Z",
       "lastSeenAt": "2026-10-17T02:51:23.032Z",
-      "lastVerifiedAt": "2026-11-26T06:42:03.558Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -492,7 +492,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:49.625Z",
       "lastSeenAt": "2026-10-19T03:05:49.625Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -589,7 +589,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:49.640Z",
       "lastSeenAt": "2026-10-20T03:14:49.640Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -628,7 +628,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -647,7 +647,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:49.257Z",
       "lastSeenAt": "2026-10-21T03:09:49.257Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -704,7 +704,7 @@
       "status": "available",
       "discoveredAt": "2026-10-25T03:02:52.185Z",
       "lastSeenAt": "2026-10-25T03:02:52.185Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -819,7 +819,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -838,7 +838,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -857,7 +857,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:24.573Z",
       "lastSeenAt": "2026-10-28T03:50:24.573Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -972,7 +972,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:49.133Z",
       "lastSeenAt": "2026-10-31T03:54:49.133Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -992,7 +992,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:57.284Z",
       "lastSeenAt": "2026-11-01T04:08:57.284Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1087,7 +1087,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1106,7 +1106,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1125,7 +1125,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:46.423Z",
       "lastSeenAt": "2026-11-03T05:11:46.423Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1144,7 +1144,7 @@
       "status": "available",
       "discoveredAt": "2026-11-04T04:42:06.494Z",
       "lastSeenAt": "2026-11-04T04:42:06.494Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1221,7 +1221,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:09.514Z",
       "lastSeenAt": "2026-11-07T04:29:09.514Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1450,7 +1450,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:38.723Z",
       "lastSeenAt": "2026-11-18T05:47:38.723Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1471,7 +1471,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:36.852Z",
       "lastSeenAt": "2026-11-19T05:46:36.852Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1491,7 +1491,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:31.749Z",
       "lastSeenAt": "2026-11-20T05:35:31.749Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1510,7 +1510,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:02.470Z",
       "lastSeenAt": "2026-11-21T05:29:02.470Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1529,7 +1529,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:35.204Z",
       "lastSeenAt": "2026-11-22T04:54:35.204Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1548,7 +1548,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:20.280Z",
       "lastSeenAt": "2026-11-24T08:13:20.280Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1567,7 +1567,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:20.280Z",
       "lastSeenAt": "2026-11-24T08:13:20.280Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1586,7 +1586,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:03.558Z",
       "lastSeenAt": "2026-11-26T06:42:03.558Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1624,7 +1624,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:03.558Z",
       "lastSeenAt": "2026-11-26T06:42:03.558Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     },
     {
@@ -1643,7 +1643,64 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:13.902Z",
       "lastSeenAt": "2026-11-27T06:33:13.902Z",
-      "lastVerifiedAt": "2026-11-27T06:33:13.902Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "9G8CnLqN8Uc",
+      "url": "https://www.youtube.com/watch?v=9G8CnLqN8Uc",
+      "title": "¿Qué pasó en el laboratorio? | El experimento mortal (Película completa)",
+      "description": "En 2027, un proyecto científico secreto se convierte en una amenaza mundial. Una inteligencia artificial llamada VÉRTICE toma el control de un sistema capaz de alterar el destino de millones de personas. Adrian y Elena deberán descubrir la verdad, llegar hasta una instalación secreta en México y detener una amenaza que podría cambiar el futuro de la humanidad.\n\nUna película original de ciencia ficción, acción, suspenso y drama. ¿Podrán detener a VÉRTICE antes de que sea demasiado tarde?\n\n🎬 CAPÍTULOS Y ESCENAS\n\n00:00 — Capítulo 1: El primer síntoma\n02:00 — Capítulo 2: No es una enfermedad normal\n04:00 — Capítulo 3: El hombre que sabía demasiado\n06:00 — Capítulo 4: El proyecto\n08:00 — Capítulo 5: VÉRTICE\n10:00 — Capítulo 6: El matrimonio\n12:00 — Capítulo 7: La traición\n14:00 — Capítulo 8: La fuga\n16:00 — Capítulo 9: El mensaje\n18:00 — Capítulo 10: El primer objetivo\n20:00 — Capítulo 11: Las primeras noticias\n22:00 — Capítulo 12: Daniel Cross\n24:00 — Capítulo 13: La ciudad en caos\n26:00 — Capítulo 14: La orden\n28:00 — Capítulo 15: El pasado de Elena\n30:00 — Capítulo 16: Sarah Mitchell\n32:00 — Capítulo 17: La revelación\n34:00 — Capítulo 18: El dron\n36:00 — Capítulo 19: La ciudad no puede responder\n38:00 — Capítulo 20: El desierto\n40:00 — Capítulo 21: El hombre que cambió de bando\n42:00 — Capítulo 22: La última llamada\n44:00 — Capítulo 23: El sacrificio\n46:00 — Capítulo 24: El plan\n48:00 — Capítulo 25: La instalación\n50:00 — Capítulo 26: El búnker\n52:00 — Capítulo 27: Malcolm\n54:00 — Capítulo 28: La última orden\n56:00 — Capítulo 29: El silencio\n58:00 — Capítulo 30: El mundo después\n\nHASHTAGS\n\n#2027Control #PelículaCompleta #CienciaFicción #Thriller #InteligenciaArtificial #PelículasEnEspañol",
+      "channelId": "UC6qjn3HdVeTb6FLB0At-lpw",
+      "channelTitle": " Películas Belidocs IA \n\n",
+      "thumbnail": "https://i.ytimg.com/vi/9G8CnLqN8Uc/hqdefault.jpg",
+      "publishedAt": "2026-11-28T01:11:18Z",
+      "durationSeconds": 3541,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:06.169Z",
+      "lastSeenAt": "2026-11-28T06:08:06.169Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Vho7a_1wV6Q",
+      "url": "https://www.youtube.com/watch?v=Vho7a_1wV6Q",
+      "title": "ROBOTK: LA RECONQUISTA | PARTE 1 | PELÍCULA COMPLETA DE CIENCIA FICCIÓN | 2026",
+      "description": "🚀 ROBOTK: LA RECONQUISTA — PARTE 1 | PELÍCULA COMPLETA DE CIENCIA FICCIÓN 2026\n\nDurante 50 años, la humanidad vivió lejos de su planeta natal. La Tierra cayó bajo el dominio de una poderosa civilización alienígena conocida como los Varyn.\n\nPero la humanidad nunca olvidó su hogar.\n\nAhora, una poderosa flota espacial regresa para recuperar la Tierra. Lo que comienza como una operación militar de reconquista se convierte en una batalla por la supervivencia de toda nuestra especie.\n\nCombates espaciales, tecnología alienígena, resistencia humana, secretos ancestrales y una amenaza capaz de cambiar el destino del Sistema Solar.\n\nLa guerra por nuestro planeta apenas comienza.\n\n🔥 Disfruta de aproximadamente 45 minutos de acción, aventura y ciencia ficción cinematográfica que reúnen los primeros cinco episodios de esta saga original.\n\n🎬 **ROBOTK: LA RECONQUISTA — PARTE 1**\n\n• Género: Ciencia ficción, acción y aventura.\n• Idioma: Español.\n• Calidad: Full HD 1080p.\n• Año: 2026.\n• Producción original: FRAME 27.\n\nUna producción cinematográfica creada mediante narrativa original, herramientas de inteligencia artificial, dirección creativa y edición audiovisual.\n\n🔔 Suscríbete y activa las notificaciones para no perderte la PARTE 2 y nuestras próximas películas originales.\n\n👍 Si disfrutaste esta película, deja tu like y compártela con otros amantes de la ciencia ficción.\n\n💬 ¿Crees que la humanidad conseguirá recuperar la Tierra? Déjanos tu teoría en los comentarios.\n\n**LA TIERRA ES NUESTRO HOGAR. ES HORA DE RECUPERARLA.**\n\n© 2026 FRAME 27 — ROBOTK: LA RECONQUISTA.\n\n#ROBOTK #PeliculaCompleta #CienciaFiccion #Peliculas2026 #PeliculasEnEspañol #GuerraEspacial #InvasionAlienigena #SciFi #Accion #Frame27 #InteligenciaArtificial #CineIA",
+      "channelId": "UC0HV74zj_aVw75MIekTx5ww",
+      "channelTitle": "FRAME 27 REELS",
+      "thumbnail": "https://i.ytimg.com/vi/Vho7a_1wV6Q/hqdefault.jpg",
+      "publishedAt": "2026-11-27T06:46:16Z",
+      "durationSeconds": 2694,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:06.169Z",
+      "lastSeenAt": "2026-11-28T06:08:06.169Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "zCYP3uMRCQE",
+      "url": "https://www.youtube.com/watch?v=zCYP3uMRCQE",
+      "title": "EL CHARRO NEGRO – La película (2026) | El Pacto | Película completa en español 4K",
+      "description": "⚠️ AVISO IMPORTANTE AL ESPECTADOR\nEsta producción es una obra de ficción inspirada en leyendas urbanas, relatos populares, mitos y tradiciones del folclore de diferentes países y culturas.\nLos personajes, escenarios, situaciones y acontecimientos presentados han sido recreados con fines de entretenimiento y no representan necesariamente hechos reales.\nEsta película contiene escenas dramatizadas de terror, misterio y suspenso. Algunas imágenes, personajes, voces y secuencias han sido creados o recreados mediante herramientas de inteligencia artificial (IA).\nEl propósito de esta producción es ofrecer una experiencia cinematográfica de ficción, preservar el interés por las leyendas populares y dar a conocer las historias tradicionales de diferentes culturas.\nCONTENIDO DE FICCIÓN. PRODUCCIÓN CINEMATOGRÁFICA CON FINES DE ENTRETENIMIENTO.\nSe recomienda discreción al espectador.\n\n\n«Buenas noches…»\nJacinto, un campesino pobre obsesionado con vestir elegante, invoca al Diablo en un cruce de caminos y vende su alma por riqueza. Cuando intenta huir del trato con cruces y capilla, el cobro llega antes de su muerte: su carne se seca hasta los huesos bajo el traje de charro negro bordado en plata, y queda condenado a vagar de noche cobrando deudores… con una sola salida: que otro viajero acepte su bolsa de monedas de oro por avaricia y tome su lugar.\nEL CHARRO NEGRO es una de las leyendas más contadas de México, llevada al cine en su versión más conocida: el pacto, el cobro, y los viajeros que se salvan por no aceptar nada — y el que acepta.\n⚠️ Si oyes espuelas en un camino vacío… camina, reza, y no aceptes ni la hora.\n🎬 FICHA\n• Título: El Charro Negro\n• Género: Terror / Leyenda mexicana\n• Duración: 1 h 08 min\n• Idioma: Español (México)\n• Ambientación: México rural de época\n👇 Cuéntanos en los comentarios: ¿tú aceptarías la bolsa?\n🔔 Suscríbete: vienen más leyendas de México convertidas en película. Ya puedes ver también LA LLORONA, completa en el canal.\n#ElCharroNegro #Terror #LeyendasMexicanas #PeliculaCompleta #CineDeTerror #Mexico #Leyenda #PeliculasEnEspañol #Horror",
+      "channelId": "UCSVUhc5JWt1odFgYOH-H_xA",
+      "channelTitle": "Educan2-T",
+      "thumbnail": "https://i.ytimg.com/vi/zCYP3uMRCQE/hqdefault.jpg",
+      "publishedAt": "2026-11-21T14:00:47Z",
+      "durationSeconds": 4121,
+      "matchedKeywords": [
+        "película completa inteligencia artificial"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:06.169Z",
+      "lastSeenAt": "2026-11-28T06:08:06.169Z",
+      "lastVerifiedAt": "2026-11-28T06:08:06.169Z",
       "unavailableAt": null
     }
   ]

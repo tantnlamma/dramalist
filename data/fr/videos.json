@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:33:22.263Z",
+  "generatedAt": "2026-11-28T06:08:15.315Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -358,7 +358,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -416,7 +416,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -437,7 +437,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -457,7 +457,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:29:15.145Z",
       "lastSeenAt": "2026-10-15T10:29:15.145Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -762,7 +762,7 @@
       "status": "available",
       "discoveredAt": "2026-10-20T03:14:58.897Z",
       "lastSeenAt": "2026-10-20T03:14:58.897Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -898,7 +898,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:58.245Z",
       "lastSeenAt": "2026-10-21T03:09:58.245Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1052,7 +1052,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:08:24.073Z",
       "lastSeenAt": "2026-10-22T03:08:24.073Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1147,7 +1147,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1187,7 +1187,7 @@
       "status": "available",
       "discoveredAt": "2026-10-24T03:08:10.144Z",
       "lastSeenAt": "2026-10-24T03:08:10.144Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1362,7 +1362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1381,7 +1381,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1419,7 +1419,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:02:04.450Z",
       "lastSeenAt": "2026-10-26T03:02:04.450Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1478,7 +1478,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:34:06.549Z",
       "lastSeenAt": "2026-10-27T03:34:06.549Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1520,7 +1520,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1539,7 +1539,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1578,7 +1578,7 @@
       "status": "available",
       "discoveredAt": "2026-10-28T03:50:33.137Z",
       "lastSeenAt": "2026-10-28T03:50:33.137Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1752,7 +1752,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1809,7 +1809,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:57.448Z",
       "lastSeenAt": "2026-10-31T03:54:57.448Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1962,7 +1962,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -1981,7 +1981,7 @@
       "status": "available",
       "discoveredAt": "2026-11-05T04:57:18.887Z",
       "lastSeenAt": "2026-11-05T04:57:18.887Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2078,7 +2078,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:29:17.655Z",
       "lastSeenAt": "2026-11-07T04:29:17.655Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2385,7 +2385,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:41.636Z",
       "lastSeenAt": "2026-11-10T05:50:41.636Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2443,7 +2443,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:54.890Z",
       "lastSeenAt": "2026-11-11T04:32:54.890Z",
-      "lastVerifiedAt": "2026-11-21T05:29:11.521Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2463,7 +2463,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:54.890Z",
       "lastSeenAt": "2026-11-11T04:32:54.890Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2502,7 +2502,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2521,7 +2521,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2540,7 +2540,7 @@
       "status": "available",
       "discoveredAt": "2026-11-12T05:38:05.235Z",
       "lastSeenAt": "2026-11-12T05:38:05.235Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2579,7 +2579,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:37.453Z",
       "lastSeenAt": "2026-11-13T04:54:37.453Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2598,7 +2598,7 @@
       "status": "available",
       "discoveredAt": "2026-11-13T04:54:37.453Z",
       "lastSeenAt": "2026-11-13T04:54:37.453Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2675,7 +2675,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2733,7 +2733,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:40:00.709Z",
       "lastSeenAt": "2026-11-15T04:40:00.709Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2790,7 +2790,7 @@
       "status": "available",
       "discoveredAt": "2026-11-17T06:22:53.622Z",
       "lastSeenAt": "2026-11-17T06:22:53.622Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2848,7 +2848,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:47.135Z",
       "lastSeenAt": "2026-11-18T05:47:47.135Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2867,7 +2867,7 @@
       "status": "available",
       "discoveredAt": "2026-11-18T05:47:47.135Z",
       "lastSeenAt": "2026-11-18T05:47:47.135Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2945,7 +2945,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:45.362Z",
       "lastSeenAt": "2026-11-19T05:46:45.362Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2965,7 +2965,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -2984,7 +2984,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3003,7 +3003,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3022,7 +3022,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:40.980Z",
       "lastSeenAt": "2026-11-20T05:35:40.980Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3061,7 +3061,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:29:11.521Z",
       "lastSeenAt": "2026-11-21T05:29:11.521Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3138,7 +3138,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:46.198Z",
       "lastSeenAt": "2026-11-22T04:54:46.198Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3157,7 +3157,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:46.198Z",
       "lastSeenAt": "2026-11-22T04:54:46.198Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3176,7 +3176,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:37.742Z",
       "lastSeenAt": "2026-11-23T05:35:37.742Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3195,7 +3195,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:37.742Z",
       "lastSeenAt": "2026-11-23T05:35:37.742Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3214,7 +3214,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:37.742Z",
       "lastSeenAt": "2026-11-23T05:35:37.742Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3234,7 +3234,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3253,7 +3253,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3272,7 +3272,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3291,7 +3291,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3310,7 +3310,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3329,7 +3329,7 @@
       "status": "available",
       "discoveredAt": "2026-11-24T08:13:30.291Z",
       "lastSeenAt": "2026-11-24T08:13:30.291Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3367,7 +3367,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3386,7 +3386,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3405,7 +3405,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3426,7 +3426,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3464,7 +3464,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3483,7 +3483,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:42:12.435Z",
       "lastSeenAt": "2026-11-26T06:42:12.435Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3522,7 +3522,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3542,7 +3542,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3561,7 +3561,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3581,7 +3581,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3600,7 +3600,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3619,7 +3619,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3638,7 +3638,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3657,7 +3657,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     },
     {
@@ -3676,7 +3676,84 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:33:22.263Z",
       "lastSeenAt": "2026-11-27T06:33:22.263Z",
-      "lastVerifiedAt": "2026-11-27T06:33:22.263Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "SInegtS0KwU",
+      "url": "https://www.youtube.com/watch?v=SInegtS0KwU",
+      "title": "Déclic amoureux | Film Complet | Romance | Emily Tennant & Tyler Johnston | M6+ Films & Séries",
+      "description": "Photographe professionnelle, Lindsey peine à trouver du travail lorsqu’elle est embauchée par Josh, qui vient d’une famille très riche, pour le mariage de sa sœur. En travaillant ensemble, Josh va rapidement tomber sous le charme de Lindsey…\n\n✋ Les meilleurs téléfilms et séries TV, c’est sur M6+ Films & Séries - Abonnez-vous! 👉 https://www.youtube.com/channel/UCKJeH6nKtpmu-zHxbjacvHg/?sub_confirmation=1\n\nRetrouvez l'ensemble de nos programmes sur M6+ : https://www.m6.fr/\n\nDÉCLIC AMOUREUX (DESTINATION WEDDING)\nRéalisation : Jason James\nDistribution : Kylee Bush, Ben Bordeau, Emily Tennant, Laura Mitchell, Tyler Johnston, Scott Bellis, Adil Zaidi et Loretta Walsh\n© REEL ONE ENTERTAINMENT - 2020 - Tous droits réservés\n\n#Films #Séries #M6+ #Romance #Replay\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCKJeH6nKtpmu-zHxbjacvHg",
+      "channelTitle": "M6+ Films & Séries",
+      "thumbnail": "https://i.ytimg.com/vi/SInegtS0KwU/hqdefault.jpg",
+      "publishedAt": "2026-11-27T18:00:36Z",
+      "durationSeconds": 5003,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:15.315Z",
+      "lastSeenAt": "2026-11-28T06:08:15.315Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "bkaCSQTJaf8",
+      "url": "https://www.youtube.com/watch?v=bkaCSQTJaf8",
+      "title": "Kings of South Beach | Film Complet | Donnie Wahlberg | Action | SPF",
+      "description": "À Miami, Chris Troiano règne sur les nuits de South Beach grâce à ses clubs fréquentés par les célébrités. Lorsqu’il s’associe au mystérieux Andy Burnett pour ouvrir un nouvel établissement, leur réussite attire autant les convoitises que les ennuis. Dans ce monde de luxe et de fêtes, leurs secrets menacent bientôt de tout faire basculer.\n\n👉 Les films complet ? Ils sont ICI 👉 https://shorturl.at/QEZxz 👈 Abonnez vous 🙏\n\nUn film de Tim Hunter\nAvec Jason Gedrick, Donnie Wahlberg, Nadine Velazquez\n© Sony Pictures France - Tous droits réservés\n\n#filmcomplet #thriller #crime #Miami #SouthBeach #filmcompletenfrançais #cinema\n\nCertains éléments associés à cette vidéo, notamment sa miniature, son doublage vocal ou ses sous-titres, peuvent avoir été générés ou adaptés à l’aide d’outils d’intelligence artificielle.",
+      "channelId": "UCSBhm8415diORi1meGxF_Qw",
+      "channelTitle": "CINE PULSE",
+      "thumbnail": "https://i.ytimg.com/vi/bkaCSQTJaf8/hqdefault.jpg",
+      "publishedAt": "2026-11-27T17:00:25Z",
+      "durationSeconds": 5224,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:15.315Z",
+      "lastSeenAt": "2026-11-28T06:08:15.315Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "7skiW1U-hzM",
+      "url": "https://www.youtube.com/watch?v=7skiW1U-hzM",
+      "title": "10 ANS DE MENSONGES ET DE TRAHISON FILM AFRICAIN PARTIE 1",
+      "description": "🎬 10 ANS DE MENSONGES — PARTIE 1\nUne production originale de WIBELIEVE | Partie 1 sur 2 | Drame familial en français\n\nUNE CRÉATION ORIGINALE\n\n10 ANS DE MENSONGES est une œuvre de fiction développée pour WIBELIEVE. L’histoire, les personnages, les dialogues, la mise en scène et le montage ont été conçus pour raconter un drame intime où l’amour d’une famille se heurte à un secret gardé trop longtemps.\n\nLes événements et les personnages de ce film sont fictifs. L’histoire ne relate pas des faits réels.\n\nTRANSPARENCE SUR LA PRODUCTION\n\nCette production utilise des outils numériques et des technologies d’intelligence artificielle pour créer ou assister certaines images, voix, ambiances et séquences photoréalistes. WIBELIEVE supervise la conception de l’histoire, la direction artistique, le choix des dialogues, la continuité des personnages, l’assemblage des scènes et le montage final.\n\nLes images et les voix présentées appartiennent à l’univers fictif du film. Elles ne sont pas des enregistrements d’événements réels et ne sont pas destinées à faire parler des personnalités publiques.\n\nSYNOPSIS — PARTIE 1\n\nCe soir, la maison est pleine d’invités. Nathan regarde Esther avec la même tendresse qu’au premier jour et lui dit combien il se sent chanceux de l’avoir épousée. Elle lui répond avec douceur. Ils descendent retrouver leurs proches, heureux de fêter dix années de vie commune.\n\nLina voit en son père un héros. Elle aime aussi son oncle Gabriel, toujours généreux avec elle. Devant le gâteau, les sourires paraissent sincères et les liens solides. Gabriel félicite son petit frère pour son mariage. Un regard furtif échangé avec Esther passe presque inaperçu.\n\nLe lendemain, Esther prend soin de Nathan et de Lina avant leur départ. Elle prie avec eux et leur souhaite une bonne journée. Dès que la maison retrouve le silence, son téléphone devient le centre d’une joie qu’elle ne peut montrer à personne. Quelques heures plus tard, Gabriel vient la voir. Leurs paroles et leurs regards révèlent une proximité qu’ils cachent à Nathan depuis des années.\n\nLe soir, Nathan retrouve une épouse attentive et affectueuse. Il lui parle de son travail, de leur fille, de leur avenir. Esther l’écoute, le rassure et partage avec lui de vrais moments de tendresse. C’est aussi ce qui rend son mensonge si douloureux : elle tient à cette famille tout en entretenant une autre relation.\n\nÀ mesure que les jours passent, de petits retards et des silences troublent Nathan. Il se confie à Gabriel, convaincu de pouvoir compter sur son grand frère. Esther, de son côté, cherche à préserver l’équilibre de sa maison sans renoncer à ce qu’elle ressent. Plus chacun essaie de protéger ses liens, plus le secret pèse sur eux.\n\nUne nouvelle inattendue bouleverse finalement leur quotidien. Ce qui devrait unir la famille fait naître des questions qu’Esther et Gabriel ne peuvent plus repousser. Combien de temps une vie construite sur la confiance peut-elle tenir quand ceux qu’on aime nous cachent l’essentiel ?\n\nCette première partie raconte la chaleur d’un foyer, l’attachement entre deux frères et le prix d’une double vie. La suite de l’histoire sera racontée dans la partie 2.\n\nAU CŒUR DU FILM\n\nL’amour, la loyauté, la famille, la culpabilité et la vérité traversent chaque scène. Le film invite à réfléchir aux choix que l’on fait en secret et aux conséquences qu’ils peuvent avoir sur les personnes qui nous font confiance. La foi et la prière ont aussi leur place dans cette famille, sans effacer les décisions que chacun devra assumer.\n\nPRODUCTION ET DROITS\n\n10 ANS DE MENSONGES est une production originale de WIBELIEVE. Sous réserve des droits applicables et sauf mention contraire dans les crédits, les éléments originaux créés pour ce film sont revendiqués par WIBELIEVE. Les éventuels éléments tiers utilisés avec autorisation restent la propriété de leurs ayants droit.\n\nToute reproduction, republication, redistribution ou exploitation non autorisée est interdite, sous réserve des exceptions prévues par la loi.\n\nSOUTENEZ WIBELIEVE\n\nQuel personnage vous inspire le plus confiance au début de cette histoire ? Dites-nous en commentaire à quel moment vous avez senti que quelque chose n’allait pas.\n\nSi cette première partie vous a touché, aimez la vidéo, partagez-la et abonnez-vous à WIBELIEVE pour découvrir la suite et nos prochains films africains francophones. Votre soutien nous aide à continuer de créer des histoires fortes, humaines et proches de nos réalités.\n\nMerci de regarder et de soutenir WIBELIEVE.\n\n#10AnsDeMensonges #WIBELIEVE #ProductionWIBELIEVE #FilmOriginal #FilmAfricain #FilmCamerounais #CinemaAfricain #DrameFamilial #SecretDeFamille #AmourEtTrahison #Mensonges #Verite #Couple #Famille #FilmEnFrancais #Partie1 #FilmComplet #HistoireAfricaine",
+      "channelId": "UCmLOxsCeWIoS6AAWcJ_WRCw",
+      "channelTitle": "WiBelieve",
+      "thumbnail": "https://i.ytimg.com/vi/7skiW1U-hzM/hqdefault.jpg",
+      "publishedAt": "2026-11-25T18:40:50Z",
+      "durationSeconds": 2287,
+      "matchedKeywords": [
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:15.315Z",
+      "lastSeenAt": "2026-11-28T06:08:15.315Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "lNbd2uxsCW8",
+      "url": "https://www.youtube.com/watch?v=lNbd2uxsCW8",
+      "title": "HISTOIRE 2 FRÈRES – FILM COMPLET (Saison 1, Épisodes 1 à 10) | Deux jumeaux, un secret de famille ❤️",
+      "description": "🎬 HISTOIRE 2 FRÈRES – LE FILM COMPLET (Saison 1, Épisodes 1 à 10)\n\nKenley a grandi dans le luxe. Bledou a grandi dans la misère. Tout les oppose… sauf leur visage.\n\nSéparés à la naissance, ils se croisent un jour au milieu d'une rue. Même visage, même voix, même bracelet de bébé. Pourquoi ont-ils été séparés ? Quel secret leur famille cache-t-elle depuis 25 ans ? Et jusqu'où ira Augustin, le patriarche, pour que la vérité ne sorte jamais ?\n\nUne histoire de famille, de secrets, de trahisons, de pardon et de retrouvailles. Regardez les 10 épisodes d'une seule traite !\n\n\n👥 LES PERSONNAGES\nKenley et Bledou • Mireille • Gérard • Augustin • Fernand • Rolan • Nadège • Dadou • Widline • Roselaine • Odette\n\n👇 Dites-moi en commentaire :\n• Que pensez-vous de ce film ?\n• Quel personnage vous a le plus marqué ?\n• Quelle scène vous a le plus ému ?\n• Voulez-vous une saison 2 ? Que souhaitez-vous y voir ?\n\n✅ Likez la vidéo, abonnez-vous à la chaîne et activez la cloche 🔔 pour ne manquer aucune de nos prochaines histoires.\n📅 Prochaine histoire : « bientôt »\n\n🎬 Une production K&B Studio\n⚠️ Ceci est une œuvre de fiction. Les personnages et les images ont été créés avec l'aide de l'intelligence artificielle.\n\n#HistoireDe2Frères #FilmComplet #Feuilleton #SérieFrançaise #Jumeaux #SecretDeFamille #Drame #KBStudio",
+      "channelId": "UCleclY8qltwh8e34YAU2JHg",
+      "channelTitle": "studio fruité (Bledoo)",
+      "thumbnail": "https://i.ytimg.com/vi/lNbd2uxsCW8/hqdefault.jpg",
+      "publishedAt": "2026-11-22T17:30:07Z",
+      "durationSeconds": 7203,
+      "matchedKeywords": [
+        "drame IA film complet",
+        "film complet intelligence artificielle"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:08:15.315Z",
+      "lastSeenAt": "2026-11-28T06:08:15.315Z",
+      "lastVerifiedAt": "2026-11-28T06:08:15.315Z",
       "unavailableAt": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:32:52.626Z",
+  "generatedAt": "2026-11-28T06:07:40.500Z",
   "criteria": {
     "minDurationSeconds": 1800,
     "lookbackHours": 2160,
@@ -168,7 +168,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -246,7 +246,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -362,7 +362,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -383,7 +383,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -557,7 +557,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -712,7 +712,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -773,7 +773,7 @@
       "status": "available",
       "discoveredAt": "2026-10-15T10:28:56.017Z",
       "lastSeenAt": "2026-10-15T10:28:56.017Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1047,7 +1047,7 @@
       "status": "available",
       "discoveredAt": "2026-10-16T02:58:56.152Z",
       "lastSeenAt": "2026-10-16T02:58:56.152Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1200,7 +1200,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1318,7 +1318,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1338,7 +1338,7 @@
       "status": "available",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1354,11 +1354,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-17T02:51:02.451Z",
       "lastSeenAt": "2026-10-17T02:51:02.451Z",
-      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
+      "unavailableAt": "2026-11-28T06:07:40.500Z"
     },
     {
       "videoId": "xdRZVbyBEQo",
@@ -1625,7 +1625,7 @@
       "status": "available",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -1641,11 +1641,11 @@
       "matchedKeywords": [
         "AI science fiction drama full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-10-19T03:05:27.685Z",
       "lastSeenAt": "2026-10-19T03:05:27.685Z",
-      "lastVerifiedAt": "2026-11-14T04:47:58.739Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
+      "unavailableAt": "2026-11-28T06:07:40.500Z"
     },
     {
       "videoId": "wYamtfg1hwo",
@@ -1912,7 +1912,7 @@
       "status": "available",
       "discoveredAt": "2026-10-21T03:09:26.474Z",
       "lastSeenAt": "2026-10-21T03:09:26.474Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -2084,7 +2084,7 @@
       "status": "available",
       "discoveredAt": "2026-10-22T03:07:53.300Z",
       "lastSeenAt": "2026-10-22T03:07:53.300Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -2186,7 +2186,7 @@
       "videoId": "cs5vCujpUfA",
       "url": "https://www.youtube.com/watch?v=cs5vCujpUfA",
       "title": "The Last Dance In Kippur (Full Movie) | فيلم حرب أكتوبر 1973 \" آخر رقصة في كيبور \" كامل",
-      "description": "آخر رقصة في كيبور | THE LAST DANCE IN KIPPUR\n\n\"قالوا إن عبور قناة السويس يحتاج إلى 48 ساعة... لكن المصريين كان لهم رأي آخر.\"\n\nفي السادس من أكتوبر عام 1973، لم تكن مصر تستعد لخوض حرب فحسب، بل كانت تستعد لتغيير التاريخ.\n\nفي الوقت الذي وثقت فيه القيادة الإسرائيلية بحساباتها العسكرية وتقديرات أجهزتها الاستخباراتية، كان الجيش المصري يستعد لتنفيذ واحدة من أعظم المفاجآت الاستراتيجية والعسكرية في التاريخ الحديث.\n\n\"آخر رقصة في كيبور\" فيلم سينمائي يعيد إحياء الساعات الحاسمة التي سبقت اندلاع حرب أكتوبر المجيدة، كاشفًا عن الصراع بين التخطيط العسكري المصري والتقديرات الإسرائيلية، وصولًا إلى اللحظة التي انهارت فيها حسابات العدو أمام عبقرية التخطيط المصري وشجاعة المقاتل المصري.\n\nمن قصر الرئاسة المصرية إلى منزل جولدا مائير، ومن غرف العمليات ومراكز الاستخبارات إلى ضفاف قناة السويس وحصون خط بارليف، يأخذنا الفيلم في رحلة سينمائية مستوحاة من أحداث تاريخية موثقة.\n\nتجربة سينمائية صُنعت باستخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد شخصيات تاريخية وأحداث عسكرية برؤية بصرية ودرامية مستوحاة من السينما العالمية.**\n\nهذا العمل إهداء إلى أبطال القوات المسلحة المصرية، وإلى كل من خطط وقاتل وضحّى من أجل استعادة الأرض والكرامة.\n\nلم تكن المعجزة في عبور القناة وحدها... بل في عبور حدود ما اعتقد العدو أنه مستحيل.\n\nتحيا مصر\n\n\"THE LAST DANCE IN KIPPUR | OCTOBER 1973\"\n\nBASED ON TRUE EVENTS.\n\nTHEY BELIEVED CROSSING THE SUEZ CANAL WOULD TAKE AT LEAST 48 HOURS.\n\nON OCTOBER 6, 1973, THE EGYPTIAN ARMED FORCES CHALLENGED THOSE EXPECTATIONS AND CHANGED THE COURSE OF HISTORY.\n\nTHE LAST DANCE IN KIPPUR IS A CINEMATIC RECREATION OF THE CRITICAL HOURS LEADING UP TO THE OCTOBER WAR, EXPLORING MILITARY STRATEGY, INTELLIGENCE, DECEPTION, AND THE EXTRAORDINARY COURAGE OF THE EGYPTIAN SOLDIER.\n\nA HISTORICAL WAR FILM BROUGHT TO LIFE THROUGH ARTIFICIAL INTELLIGENCE.\n\nإخلاء مسؤولية | DISCLAIMER\n\nالفيلم مستوحى من أحداث تاريخية حقيقية وموثقة. تم استخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد الشخصيات التاريخية والمواقع والأحداث. بعض الحوارات والمواقف والتفاصيل الدرامية أُعيد بناؤها لخدمة الرؤية السينمائية، ولا تُعد تسجيلات أرشيفية أصلية.\n\nهذا العمل لا يمثل أي مؤسسة أو جهة رسمية أو غير رسمية، ولا يعبر إلا عن الرؤية الفنية والإبداعية لصُنّاع العمل والقائمين عليه.\n\nTHIS FILM IS BASED ON DOCUMENTED HISTORICAL EVENTS. HISTORICAL FIGURES, LOCATIONS, AND SCENES HAVE BEEN DIGITALLY RECREATED USING ARTIFICIAL INTELLIGENCE. CERTAIN DIALOGUE, INTERACTIONS, AND DRAMATIC DETAILS HAVE BEEN RECONSTRUCTED OR FICTIONALIZED FOR CINEMATIC PURPOSES AND DO NOT REPRESENT ORIGINAL ARCHIVAL RECORDINGS.\n\nTHIS FILM IS AN INDEPENDENT CREATIVE PRODUCTION AND DOES NOT REPRESENT, SPEAK ON BEHALF OF, OR REFLECT THE OFFICIAL POSITION OF ANY GOVERNMENT, INSTITUTION, OR ORGANIZATION. ALL CREATIVE AND ARTISTIC INTERPRETATIONS ARE SOLELY THOSE OF THE FILMMAKERS AND ITS PRODUCTION TEAM.\n---\n\n#آخر_رقصة_في_كيبور #TheLastDanceInKippur #حرب_أكتوبر #نصر_أكتوبر #حرب_1973 #الجيش_المصري #OctoberWar #October1973 #YomKippurWar #KareemAbdelwahab",
+      "description": "آخر رقصة في كيبور | THE LAST DANCE IN KIPPUR\n\n\"قالوا إن عبور قناة السويس يحتاج إلى 48 ساعة... لكن المصريين كان لهم رأي آخر.\"\n\nفي السادس من أكتوبر عام 1973، لم تكن مصر تستعد لخوض حرب فحسب، بل كانت تستعد لتغيير التاريخ.\n\nفي الوقت الذي وثقت فيه القيادة الإسرائيلية بحساباتها العسكرية وتقديرات أجهزتها الاستخباراتية، كان الجيش المصري يستعد لتنفيذ واحدة من أعظم المفاجآت الاستراتيجية والعسكرية في التاريخ الحديث.\n\n\"آخر رقصة في كيبور\" فيلم سينمائي يعيد إحياء الساعات الحاسمة التي سبقت اندلاع حرب أكتوبر المجيدة، كاشفًا عن الصراع بين التخطيط العسكري المصري والتقديرات الإسرائيلية، وصولًا إلى اللحظة التي انهارت فيها حسابات العدو أمام عبقرية التخطيط المصري وشجاعة المقاتل المصري.\n\nمن قصر الرئاسة المصرية إلى منزل جولدا مائير، ومن غرف العمليات ومراكز الاستخبارات إلى ضفاف قناة السويس وحصون خط بارليف، يأخذنا الفيلم في رحلة سينمائية مستوحاة من أحداث تاريخية موثقة.\n\nتجربة سينمائية صُنعت لإعادة تجسيد شخصيات تاريخية وأحداث عسكرية برؤية بصرية ودرامية مستوحاة من السينما العالمية.**\n\nهذا العمل إهداء إلى أبطال القوات المسلحة المصرية، وإلى كل من خطط وقاتل وضحّى من أجل استعادة الأرض والكرامة.\n\nلم تكن المعجزة في عبور القناة وحدها... بل في عبور حدود ما اعتقد العدو أنه مستحيل.\n\nتحيا مصر\n\n\"THE LAST DANCE IN KIPPUR | OCTOBER 1973\"\n\nBASED ON TRUE EVENTS.\n\nTHEY BELIEVED CROSSING THE SUEZ CANAL WOULD TAKE AT LEAST 48 HOURS.\n\nON OCTOBER 6, 1973, THE EGYPTIAN ARMED FORCES CHALLENGED THOSE EXPECTATIONS AND CHANGED THE COURSE OF HISTORY.\n\nTHE LAST DANCE IN KIPPUR IS A CINEMATIC RECREATION OF THE CRITICAL HOURS LEADING UP TO THE OCTOBER WAR, EXPLORING MILITARY STRATEGY, INTELLIGENCE, DECEPTION, AND THE EXTRAORDINARY COURAGE OF THE EGYPTIAN SOLDIER.\n\nA HISTORICAL WAR FILM BROUGHT TO LIFE THROUGH ARTIFICIAL INTELLIGENCE.\n\nإخلاء مسؤولية | DISCLAIMER\n\nالفيلم مستوحى من أحداث تاريخية حقيقية وموثقة. تم استخدام تقنيات الذكاء الاصطناعي لإعادة تجسيد الشخصيات التاريخية والمواقع والأحداث. بعض الحوارات والمواقف والتفاصيل الدرامية أُعيد بناؤها لخدمة الرؤية السينمائية، ولا تُعد تسجيلات أرشيفية أصلية.\n\nهذا العمل لا يمثل أي مؤسسة أو جهة رسمية أو غير رسمية، ولا يعبر إلا عن الرؤية الفنية والإبداعية لصُنّاع العمل والقائمين عليه.\n\nTHIS FILM IS BASED ON DOCUMENTED HISTORICAL EVENTS. CERTAIN DIALOGUE, INTERACTIONS, AND DRAMATIC DETAILS HAVE BEEN RECONSTRUCTED OR FICTIONALIZED FOR CINEMATIC PURPOSES AND DO NOT REPRESENT ORIGINAL ARCHIVAL RECORDINGS.\n\nTHIS FILM IS AN INDEPENDENT CREATIVE PRODUCTION AND DOES NOT REPRESENT, SPEAK ON BEHALF OF, OR REFLECT THE OFFICIAL POSITION OF ANY GOVERNMENT, INSTITUTION, OR ORGANIZATION. ALL CREATIVE AND ARTISTIC INTERPRETATIONS ARE SOLELY THOSE OF THE FILMMAKERS AND ITS PRODUCTION TEAM.\n---\n\n#آخر_رقصة_في_كيبور #TheLastDanceInKippur #حرب_أكتوبر #نصر_أكتوبر #حرب_1973 #الجيش_المصري #OctoberWar #October1973 #YomKippurWar #KareemAbdelwahab",
       "channelId": "UC5OS6rntNeaJsf_S8bWFnBw",
       "channelTitle": "O2music",
       "thumbnail": "https://i.ytimg.com/vi/cs5vCujpUfA/hqdefault.jpg",
@@ -2198,7 +2198,7 @@
       "status": "available",
       "discoveredAt": "2026-10-23T03:13:26.840Z",
       "lastSeenAt": "2026-10-23T03:13:26.840Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -2695,7 +2695,7 @@
       "status": "available",
       "discoveredAt": "2026-10-26T03:01:31.139Z",
       "lastSeenAt": "2026-10-26T03:01:31.139Z",
-      "lastVerifiedAt": "2026-11-25T06:50:29.009Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -2792,7 +2792,7 @@
       "status": "available",
       "discoveredAt": "2026-10-27T03:33:36.755Z",
       "lastSeenAt": "2026-10-27T03:33:36.755Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3231,7 +3231,7 @@
       "status": "available",
       "discoveredAt": "2026-10-31T03:54:24.298Z",
       "lastSeenAt": "2026-10-31T03:54:24.298Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3386,7 +3386,7 @@
       "status": "available",
       "discoveredAt": "2026-11-01T04:08:30.891Z",
       "lastSeenAt": "2026-11-01T04:08:30.891Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3615,7 +3615,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3713,7 +3713,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3732,7 +3732,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3751,7 +3751,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3770,7 +3770,7 @@
       "status": "available",
       "discoveredAt": "2026-11-02T04:12:28.245Z",
       "lastSeenAt": "2026-11-02T04:12:28.245Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -3809,7 +3809,7 @@
       "status": "available",
       "discoveredAt": "2026-11-03T05:11:19.683Z",
       "lastSeenAt": "2026-11-03T05:11:19.683Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4094,7 +4094,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4170,7 +4170,7 @@
       "status": "available",
       "discoveredAt": "2026-11-07T04:28:47.821Z",
       "lastSeenAt": "2026-11-07T04:28:47.821Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4227,7 +4227,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4246,7 +4246,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4265,7 +4265,7 @@
       "status": "available",
       "discoveredAt": "2026-11-09T04:28:44.971Z",
       "lastSeenAt": "2026-11-09T04:28:44.971Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4324,7 +4324,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4343,7 +4343,7 @@
       "status": "available",
       "discoveredAt": "2026-11-10T05:50:06.754Z",
       "lastSeenAt": "2026-11-10T05:50:06.754Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4400,7 +4400,7 @@
       "status": "available",
       "discoveredAt": "2026-11-11T04:32:18.550Z",
       "lastSeenAt": "2026-11-11T04:32:18.550Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4534,7 +4534,7 @@
       "status": "available",
       "discoveredAt": "2026-11-14T04:47:58.739Z",
       "lastSeenAt": "2026-11-14T04:47:58.739Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4574,7 +4574,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4650,7 +4650,7 @@
       "status": "available",
       "discoveredAt": "2026-11-15T04:39:26.233Z",
       "lastSeenAt": "2026-11-15T04:39:26.233Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4690,7 +4690,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4748,7 +4748,7 @@
       "status": "available",
       "discoveredAt": "2026-11-16T04:36:14.086Z",
       "lastSeenAt": "2026-11-16T04:36:14.086Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -4821,11 +4821,11 @@
       "matchedKeywords": [
         "artificial intelligence full movie"
       ],
-      "status": "available",
+      "status": "unavailable",
       "discoveredAt": "2026-11-17T06:22:20.064Z",
       "lastSeenAt": "2026-11-17T06:22:20.064Z",
-      "lastVerifiedAt": "2026-11-17T06:22:20.064Z",
-      "unavailableAt": null
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
+      "unavailableAt": "2026-11-28T06:07:40.500Z"
     },
     {
       "videoId": "5st0YHxRFCE",
@@ -5052,7 +5052,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5091,7 +5091,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5110,7 +5110,7 @@
       "status": "available",
       "discoveredAt": "2026-11-19T05:46:12.740Z",
       "lastSeenAt": "2026-11-19T05:46:12.740Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5130,7 +5130,7 @@
       "status": "available",
       "discoveredAt": "2026-11-20T05:35:07.358Z",
       "lastSeenAt": "2026-11-20T05:35:07.358Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5225,7 +5225,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5263,7 +5263,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-26T06:41:40.950Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5283,7 +5283,7 @@
       "status": "available",
       "discoveredAt": "2026-11-21T05:28:39.111Z",
       "lastSeenAt": "2026-11-21T05:28:39.111Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5322,7 +5322,7 @@
       "status": "available",
       "discoveredAt": "2026-11-22T04:54:09.624Z",
       "lastSeenAt": "2026-11-22T04:54:09.624Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5455,7 +5455,7 @@
       "status": "available",
       "discoveredAt": "2026-11-23T05:35:06.031Z",
       "lastSeenAt": "2026-11-23T05:35:06.031Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5645,7 +5645,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:41:40.950Z",
       "lastSeenAt": "2026-11-26T06:41:40.950Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5664,7 +5664,7 @@
       "status": "available",
       "discoveredAt": "2026-11-26T06:41:40.950Z",
       "lastSeenAt": "2026-11-26T06:41:40.950Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5683,7 +5683,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:52.626Z",
       "lastSeenAt": "2026-11-27T06:32:52.626Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5702,7 +5702,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:52.626Z",
       "lastSeenAt": "2026-11-27T06:32:52.626Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5721,7 +5721,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:52.626Z",
       "lastSeenAt": "2026-11-27T06:32:52.626Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5740,7 +5740,7 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:52.626Z",
       "lastSeenAt": "2026-11-27T06:32:52.626Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     },
     {
@@ -5797,7 +5797,45 @@
       "status": "available",
       "discoveredAt": "2026-11-27T06:32:52.626Z",
       "lastSeenAt": "2026-11-27T06:32:52.626Z",
-      "lastVerifiedAt": "2026-11-27T06:32:52.626Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "Ig3KDdNNp48",
+      "url": "https://www.youtube.com/watch?v=Ig3KDdNNp48",
+      "title": "MISTERI ABAH MIRANTA (FULL MOVIE) - Teror Nyekaw Yang Menghantui Satu Kampung | Film Horror Terbaru",
+      "description": "Film ini HANYA HIBURAN SEMATA dan dibuat sepenuhnya menggunakan teknologi kecerdasan buatan (AI). Seluruh tokoh, nama, tempat, dan alur cerita di dalamnya adalah fiktif. Apabila ada kesamaan nama atau kejadian, hal tersebut murni ketidaksengajaan dan tidak bermaksud menyinggung pihak mana pun.\n\nPRODUKSI : BANTUT CREATIVE\n\nDukung terus karya perdana kami dengan cara LIKE, KOMEN bagian paling menyeramkan menurut kalian, dan SUBSCRIBE agar tidak ketinggalan film horor terbaru berikutnya!\n\n#MisteriAbahMiranta #FilmHororIndonesia #FilmHororAI #AIHorror #FilmPendekHoror",
+      "channelId": "UC6OsFFGwGneyMDqtf27-bmQ",
+      "channelTitle": "Bantut Creative",
+      "thumbnail": "https://i.ytimg.com/vi/Ig3KDdNNp48/hqdefault.jpg",
+      "publishedAt": "2026-11-27T08:30:11Z",
+      "durationSeconds": 2249,
+      "matchedKeywords": [
+        "artificial intelligence full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:40.500Z",
+      "lastSeenAt": "2026-11-28T06:07:40.500Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
+      "unavailableAt": null
+    },
+    {
+      "videoId": "l8o6joFOVMw",
+      "url": "https://www.youtube.com/watch?v=l8o6joFOVMw",
+      "title": "The Prince Pretended to Be Blind to Find True Love | Full Movie",
+      "description": "A royal prince pretends to be blind to find true love—but what he discovers inside his palace puts his life in danger.\n\nWhen Prince Nathaniel regains his sight, he keeps it a secret. Behind his dark glasses, he watches his fiancée, Victoria, reveal a side of herself he never expected.\n\nBut Clara, a palace maid with nothing to gain, treats him with kindness. As jealousy grows and a cup of tea becomes a deadly threat, Nathaniel must decide whom he can trust before his wedding day.\n\nEnjoy this Nigerian palace romance filled with betrayal, royal family drama, suspense and an emotional search for genuine love.\n\nWould you forgive someone who pretended to be blind to test your love? Share your answer in the comments.\n\nSubscribe for more African stories and dramatic love stories.\n\n#AfricanStories #RoyalRomance #nigeriandrama \n\nthe prince pretended to be blind, prince pretends to be blind to find true love, blind prince movie, royal prince love story, African stories, African love stories, Nigerian palace drama, royal romance, prince and maid love story, palace maid, true love story, betrayal and love, emotional African movie, Nigerian romantic drama, royal family drama, palace drama, African storytelling, AI movie, full movie",
+      "channelId": "UCSGNZSYdPpwszXR00gtlcgA",
+      "channelTitle": "African tales by favourite:  2500M views ",
+      "thumbnail": "https://i.ytimg.com/vi/l8o6joFOVMw/hqdefault.jpg",
+      "publishedAt": "2026-10-11T18:00:46Z",
+      "durationSeconds": 2842,
+      "matchedKeywords": [
+        "artificial intelligence short drama full movie"
+      ],
+      "status": "available",
+      "discoveredAt": "2026-11-28T06:07:40.500Z",
+      "lastSeenAt": "2026-11-28T06:07:40.500Z",
+      "lastVerifiedAt": "2026-11-28T06:07:40.500Z",
       "unavailableAt": null
     }
   ]
